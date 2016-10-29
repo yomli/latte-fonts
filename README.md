@@ -19,7 +19,7 @@ There are few modifications from Lato:
 * Less weights: Regular & Bold, when Lato has also Heavy, Black, Medium, Semibold, Light, Thin and Hairline.
 * Less glyphs: 2000+ glyphs vs 3000+ glyphs per style for Lato. Carlito covers Latin-BasicGreek-BasicCyrillic (same as Calibri), Lato covers 100+ Latin-based languages, 50+ Cyrillic-based languages, Greek and IPA phonetics.
 
-Download at (Google APIs Common Data Storage)[http://commondatastorage.googleapis.com/chromeos-localmirror/distfiles/crosextrafonts-carlito-20130920.tar.gz].
+Download at [Google APIs Common Data Storage](http://commondatastorage.googleapis.com/chromeos-localmirror/distfiles/crosextrafonts-carlito-20130920.tar.gz).
 
 ### Why this name ?
 

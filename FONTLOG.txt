@@ -1,0 +1,56 @@
+# FONTLOG for the Latte font
+
+This file provides detailed information on the Latte font Software.
+
+This information should be distributed along with the Latte fonts and any derivative works.
+
+## Basic Font Information
+
+Latte is a modification of Google's Carlito fonts. The stylistic alternate "g" is now the default one on bold and regular weights. 
+
+Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.
+
+## Source files
+- Latte-Regular.sfd (Regular weight)
+- Latte-Italic.sfd (Italic weight)
+- Latte-Bold.sfd (Bold weight)
+- Latte-BoldItalic.sfd (Bold-Italic weight)
+
+## ChangeLog
+
+29 October 2016 (Guillaume Litaudon) Latte v. 0.1
+- Inverted g.salt and g (Regular)
+- Inverted uni0123.salt and uni0123 (Regular)
+- Inverted gcircumflex.salt and gcircumflex (Regular)
+- Inverted gdotaccent.salt and gdotaccent (Regular)
+- Inverted gbreve.salt and gbreve (Regular)
+- Inverted gcaron.salt and gcaron (Regular)
+- Inverted uni01F5.salt and uni01F5 (Regular)
+- Inverted uni1E21.salt and uni1E21 (Regular)
+- Inverted uni01E5.salt and uni01E5 (Regular)
+- Modified uni0261 (Regular)
+- Modified g.superior and added g.superior.salt (Regular)
+- Inverted g.salt and g (Bold)
+- Inverted uni0123.salt and uni0123 (Bold)
+- Inverted gcircumflex.salt and gcircumflex (Bold)
+- Inverted gdotaccent.salt and gdotaccent (Bold)
+- Inverted gbreve.salt and gbreve (Bold)
+- Inverted gcaron.salt and gcaron (Bold)
+- Inverted uni01F5.salt and uni01F5 (Bold)
+- Inverted uni1E21.salt and uni01E21 (Bold)
+- Inverted uni01E5.salt and uni01E5 (Bold)
+- Modified uni0261 (Bold)
+- Modified g.superior and added g.superior.salt (Bold)
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and description (D). 
+This list is in alphabetical order.
+
+N: Guillaume Litaudon
+E: guillaume.litaudon@gmail.com
+W: www.guillaumelitaudon.fr
+D: Fonts Original Author
+
+N: Łukasz Dziedzic
+W: www.lukaszdziedzic.eu
+D: Typeface Original Author
