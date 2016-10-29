@@ -1,10 +1,16 @@
 # Latte
 
-Latte is a modification of Google's Carlito fonts.
+Latte is a modification of Google's Carlito fonts. I just wanted a modern version with some straight *g*, so I fired up FontForge and here we are.
 
 ## List of modifications
 
-* The stylistic alternate "g" is now the default one on bold and regular weights.
+* The stylistic alternate *g* is now the default one on bold and regular weights.
+
+See the [FONTLOG](FONTLOG.txt) for a much complete changelog.
+
+## A word about hinting
+
+There is no hinting on the OpenType fonts. The TrueType fonts, however, are autohinted using [ttfautohint](https://freetype.org/ttfautohint/).
 
 ## About
 

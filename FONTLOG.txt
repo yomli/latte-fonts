@@ -44,7 +44,7 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 
 29 October 2016 (Guillaume Litaudon) Latte v. 0.2
 - Fixed **many** intersecting paths (Regular)
-- Corrected several non-integral coordinates, missing extrema, cleaning the mess (Regular)
+- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer (Regular)
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and description (D). 
