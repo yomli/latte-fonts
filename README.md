@@ -5,6 +5,7 @@ Latte is a modification of Google's Carlito fonts. I just wanted a modern versio
 ## List of modifications
 
 * The stylistic alternate *g* is now the default one on bold and regular weights.
+* A new stylistic alternate *y* with a curved descender.
 * Addition of the [irony point](https://en.wikipedia.org/wiki/Irony_punctuation) and the [interrobang](https://en.wikipedia.org/wiki/Interrobang) because every great typeface deserves such misunderstood punctuations. The irony point is located at U+2E2E (REVERSED QUESTION MARK) as introduced by the Unicode standard 5.1 (2007), the interrobang is at U+203D (its inverted counterpart at U+2E18). Single-character versions of this glyph are also available at code points U+2048 (QUESTION EXCLAMATION MARK) and U+2049 (EXCLAMATION QUESTION MARK).
 * Addition of the [basis point](https://en.wikipedia.org/wiki/Basis_point), at U+2031, in order to be hated by the BIPM.
 * Addition of the [Copyleft symbol](https://en.wikipedia.org/wiki/Copyleft#Symbol) at code point U+1F12F as [accepted by the Unicode Technical Committe](https://twitter.com/ken_lunde/status/730168010321760258).
@@ -27,7 +28,7 @@ There are few modifications from Lato:
 * Some ligatures: fi, ffi, fj, ffj, fì, ffì.
 * Additionnal and slighty different alternates: €, $, £, etc.
 * Less weights: Regular & Bold, when Lato has also Heavy, Black, Medium, Semibold, Light, Thin and Hairline.
-* Less glyphs: 2000+ glyphs vs 3000+ glyphs per style for Lato. Carlito covers Latin-BasicGreek-BasicCyrillic (same as Calibri), Lato covers 100+ Latin-based languages, 50+ Cyrillic-based languages, Greek and IPA phonetics.
+* Less glyphs: 2000+ glyphs vs 3000+ glyphs for Lato. Carlito covers Latin-BasicGreek-BasicCyrillic (same as Calibri), Lato covers 100+ Latin-based languages, 50+ Cyrillic-based languages, Greek and IPA phonetics.
 
 Download at [Google APIs Common Data Storage](http://commondatastorage.googleapis.com/chromeos-localmirror/distfiles/crosextrafonts-carlito-20130920.tar.gz).
 

@@ -63,6 +63,11 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 - Added the interrobang (all)
 - Added the basis point (all)
 - Added the copyleft symbol (all)
+- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77 (Regular & Bold)
+- Added missing stylistic alternates for g.salt in case of superior and ordinal (Regular & Bold)
+- Added stylistic alternate for y (all)
+
+31 October 2016 (Guillaume Litaudon) Latte v. 0.3
 
 
 If you make modifications be sure to add your name (N), 
