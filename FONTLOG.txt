@@ -52,6 +52,12 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 
 30 October 2016 (Guillaume Litaudon) Latte v. 0.2
 - Fixed "Circled Numbers" & "Negative Circled Numbers" (Bold)
+- Corrected several non-integral coordinates, missing extrema, cleaning the mess (Bold)
+- Cleaning intersecting paths (BoldItalic)
+- Fixed "Circled Numbers" & "Negative Circled Numbers" (BoldItalic)
+- Corrected several non-integral coordinates, missing extrema, cleaning the mess (BoldItalic)
+
+
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and description (D). 
