@@ -4,8 +4,8 @@ FullName: Latte Bold Italic
 FamilyName: Latte
 Weight: Bold
 Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.com) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte BoldItalic font+AAoACgAA-This file provides detailed information on the Latte BoldItalic font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-BoldItalic.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Added stylistic alternate for y+AAoACgAA-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
-Version: 0.2
+FontLog: "# FONTLOG for the Latte BoldItalic font+AAoACgAA-This file provides detailed information on the Latte BoldItalic font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-BoldItalic.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+Version: 0.3
 ItalicAngle: -7
 UnderlinePosition: -200
 UnderlineWidth: 194
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835835226
-ModificationTime: 1477909286
+ModificationTime: 1477914486
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -690,7 +690,7 @@ ChainSub2: coverage "sous-table 'ccmp' Composition et d+AOkA-composition de glyp
  1
   SeqLookup: 0 "Substitution simple lookups0"
 EndFPST
-LangName: 1033 "" "" "Bold Italic" "" "" "Version 0.2" "" "Latte is a trademark of Guillaume Litaudon." "" "Guillaume Litaudon; Lukasz Dziedzic" "Latte is a sans-serif typeface family based on Carlito. " "" "http://www.guillaumelitaudon.fr/ +AAoA-http://www.typoland.com/designers/Lukasz_Dziedzic/" "Copyright (c) 2016, Guillaume Litaudon (www.guillaumelitaudon.fr),+AAoA-with Reserved Font Name +ACIA-Latte+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "Bold Italic" "" "" "Version 0.3" "" "Latte is a trademark of Guillaume Litaudon." "" "Guillaume Litaudon; Lukasz Dziedzic" "Latte is a sans-serif typeface family based on Carlito. " "" "http://www.guillaumelitaudon.fr/ +AAoA-http://www.typoland.com/designers/Lukasz_Dziedzic/" "Copyright (c) 2016, Guillaume Litaudon (www.guillaumelitaudon.fr),+AAoA-with Reserved Font Name +ACIA-Latte+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: Custom
 UnicodeInterp: none
@@ -698,7 +698,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 26 10
+WinInfo: 2016 21 10
 BeginPrivate: 0
 EndPrivate
 BeginChars: 2788 2788
@@ -49590,57 +49590,121 @@ EndChar
 
 StartChar: uniF8FF
 Encoding: 2110 63743 1302
-Width: 1522
+Width: 2132
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-614 1435 m 1,0,1
- 331 1242 331 1242 232 640 c 0,2,3
- 197 427 197 427 197 231 c 256,4,5
- 196 22 196 22 280 -86 c 0,6,7
- 306 -119 306 -119 336 -151 c 1,8,-1
- 324 -163 l 1,9,10
- 195 -39 195 -39 154 49 c 0,11,12
- 77 211 77 211 77 384.5 c 128,-1,13
- 77 558 77 558 110 708 c 0,14,15
- 144 858 144 858 210 994 c 0,16,17
- 352 1286 352 1286 610 1447 c 1,18,-1
- 614 1435 l 1,0,1
-1050 144 m 1,19,20
- 946 103 946 103 842.5 103 c 128,-1,21
- 739 103 739 103 677 125 c 0,22,23
- 616 146 616 146 578 190 c 0,24,25
- 510 269 510 269 509 445 c 2,26,-1
- 509 735 l 1,27,-1
- 413 779 l 1,28,-1
- 413 989 l 1,29,-1
- 529 1001 l 1,30,-1
- 625 1236 l 1,31,-1
- 874 1236 l 1,32,-1
- 874 993 l 1,33,-1
- 1042 993 l 1,34,-1
- 1042 756 l 1,35,-1
- 874 756 l 1,36,-1
- 874 426 l 2,37,38
- 874 347 874 347 974 347 c 0,39,40
- 1006 347 1006 347 1030 350 c 1,41,-1
- 1050 144 l 1,19,20
-909 -151 m 1,42,43
- 1223 62 1223 62 1307 754 c 0,44,45
- 1326 911 1326 911 1326 1021.5 c 128,-1,46
- 1326 1132 1326 1132 1316 1190 c 0,47,48
- 1305 1248 1305 1248 1286 1292 c 0,49,50
- 1258 1357 1258 1357 1187 1435 c 1,51,-1
- 1198 1447 l 1,52,53
- 1325 1326 1325 1326 1379 1212 c 0,54,55
- 1445 1073 1445 1073 1445 899 c 128,-1,56
- 1445 725 1445 725 1412 576 c 0,57,58
- 1378 426 1378 426 1312 290 c 0,59,60
- 1170 -2 1170 -2 913 -163 c 1,61,-1
- 909 -151 l 1,42,43
+966 1661 m 0,0,1
+ 1187 1661 1187 1661 1381 1565 c 128,-1,2
+ 1575 1469 1575 1469 1706.5 1302 c 128,-1,3
+ 1838 1135 1838 1135 1885 926 c 1,4,-1
+ 1893 926 l 2,5,6
+ 1973 926 1973 926 2035 865 c 128,-1,7
+ 2097 804 2097 804 2097 722.5 c 128,-1,8
+ 2097 641 2097 641 2036.5 581.5 c 128,-1,9
+ 1976 522 1976 522 1893 519 c 2,10,-1
+ 1886 519 l 1,11,12
+ 1840 309 1840 309 1708.5 140 c 128,-1,13
+ 1577 -29 1577 -29 1382.5 -125.5 c 128,-1,14
+ 1188 -222 1188 -222 966 -222 c 0,15,16
+ 775 -222 775 -222 600.5 -147.5 c 128,-1,17
+ 426 -73 426 -73 300 53 c 128,-1,18
+ 174 179 174 179 99 353.5 c 128,-1,19
+ 24 528 24 528 24 719.5 c 128,-1,20
+ 24 911 24 911 99 1085.5 c 128,-1,21
+ 174 1260 174 1260 300 1386 c 128,-1,22
+ 426 1512 426 1512 600.5 1586.5 c 128,-1,23
+ 775 1661 775 1661 966 1661 c 0,0,1
+966 1588 m 0,24,25
+ 789 1588 789 1588 628.5 1519.5 c 128,-1,26
+ 468 1451 468 1451 351.5 1334.5 c 128,-1,27
+ 235 1218 235 1218 166 1057 c 128,-1,28
+ 97 896 97 896 97 719.5 c 128,-1,29
+ 97 543 97 543 166 382 c 128,-1,30
+ 235 221 235 221 351.5 104.5 c 128,-1,31
+ 468 -12 468 -12 628.5 -80.5 c 128,-1,32
+ 789 -149 789 -149 966 -149 c 0,33,34
+ 1168 -149 1168 -149 1346 -62 c 128,-1,35
+ 1524 25 1524 25 1645 177 c 128,-1,36
+ 1766 329 1766 329 1811 519 c 1,37,-1
+ 1607 519 l 1,38,39
+ 1541 310 1541 310 1362.5 177.5 c 128,-1,40
+ 1184 45 1184 45 959 45 c 0,41,42
+ 821 45 821 45 695.5 98.5 c 128,-1,43
+ 570 152 570 152 479 243 c 128,-1,44
+ 388 334 388 334 334 460 c 128,-1,45
+ 280 586 280 586 280 724 c 0,46,47
+ 280 735 280 735 281 753 c 1,48,-1
+ 394 753 l 1,49,50
+ 393 738 393 738 393 724 c 0,51,52
+ 393 570 393 570 469 439.5 c 128,-1,53
+ 545 309 545 309 675.5 233.5 c 128,-1,54
+ 806 158 806 158 959 158 c 0,55,56
+ 1168 158 1168 158 1326 292.5 c 128,-1,57
+ 1484 427 1484 427 1518 630 c 1,58,-1
+ 1519 630 l 1,59,-1
+ 1886 630 l 2,60,61
+ 1924 630 1924 630 1954 657.5 c 128,-1,62
+ 1984 685 1984 685 1984 722 c 128,-1,63
+ 1984 759 1984 759 1954.5 787 c 128,-1,64
+ 1925 815 1925 815 1888 815 c 2,65,-1
+ 383 815 l 1,66,-1
+ 287 815 l 1,67,68
+ 319 1055 319 1055 497 1221 c 128,-1,69
+ 675 1387 675 1387 918 1402 c 1,70,-1
+ 930 1427 l 1,71,-1
+ 996 1427 l 1,72,-1
+ 1008 1401 l 1,73,74
+ 1218 1386 1218 1386 1382 1255 c 128,-1,75
+ 1546 1124 1546 1124 1608 926 c 1,76,-1
+ 1810 926 l 1,77,78
+ 1764 1115 1764 1115 1642.5 1265.5 c 128,-1,79
+ 1521 1416 1521 1416 1344 1502 c 128,-1,80
+ 1167 1588 1167 1588 966 1588 c 0,24,25
+959.5 1290 m 128,-1,82
+ 781 1290 781 1290 637 1189 c 128,-1,83
+ 493 1088 493 1088 431 926 c 1,84,-1
+ 1488 926 l 1,85,86
+ 1426 1088 1426 1088 1282 1189 c 128,-1,81
+ 1138 1290 1138 1290 959.5 1290 c 128,-1,82
+1211.5 783 m 128,-1,88
+ 1261 783 1261 783 1296.5 748 c 128,-1,89
+ 1332 713 1332 713 1332 663 c 2,90,-1
+ 1332 661 l 1,91,-1
+ 1332 660 l 1,92,93
+ 1315 690 1315 690 1282.5 708 c 128,-1,94
+ 1250 726 1250 726 1211 726 c 0,95,96
+ 1173 726 1173 726 1140.5 708.5 c 128,-1,97
+ 1108 691 1108 691 1091 662 c 1,98,-1
+ 1091 663 l 2,99,100
+ 1091 713 1091 713 1126.5 748 c 128,-1,87
+ 1162 783 1162 783 1211.5 783 c 128,-1,88
+712 780 m 128,-1,102
+ 762 780 762 780 797.5 744.5 c 128,-1,103
+ 833 709 833 709 833 660 c 2,104,-1
+ 833 658 l 1,105,-1
+ 833 657 l 1,106,107
+ 815 687 815 687 783 705 c 128,-1,108
+ 751 723 751 723 712 723 c 128,-1,109
+ 673 723 673 723 641 705.5 c 128,-1,110
+ 609 688 609 688 592 659 c 1,111,-1
+ 592 660 l 2,112,113
+ 592 709 592 709 627 744.5 c 128,-1,101
+ 662 780 662 780 712 780 c 128,-1,102
+484 630 m 1,114,-1
+ 1431 630 l 1,115,116
+ 1404 464 1404 464 1270 353 c 128,-1,117
+ 1136 242 1136 242 957.5 242 c 128,-1,118
+ 779 242 779 242 645 353 c 128,-1,119
+ 511 464 511 464 484 630 c 1,114,-1
+637 523 m 1,120,121
+ 684 443 684 443 769.5 395 c 128,-1,122
+ 855 347 855 347 957.5 347 c 128,-1,123
+ 1060 347 1060 347 1145.5 395 c 128,-1,124
+ 1231 443 1231 443 1278 523 c 1,125,-1
+ 637 523 l 1,120,121
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: sun

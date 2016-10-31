@@ -68,6 +68,7 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 - Added stylistic alternate for y (all)
 
 31 October 2016 (Guillaume Litaudon) Latte v. 0.3
+- Replaced the tyPoland logo for copyright reasons (all)
 
 
 If you make modifications be sure to add your name (N), 
