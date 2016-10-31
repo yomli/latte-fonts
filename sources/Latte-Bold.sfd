@@ -4,7 +4,7 @@ FullName: Latte Bold
 FamilyName: Latte
 Weight: Bold
 Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.com) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte Bold font+AAoACgAA-This file provides detailed information on the Latte Bold font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Bold.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni01E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261 and added uni0261.salt+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+FontLog: "# FONTLOG for the Latte Bold font+AAoACgAA-This file provides detailed information on the Latte Bold font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Bold.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni01E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261 and added uni0261.salt+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoACgAA-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
 Version: 0.2
 ItalicAngle: 0
 UnderlinePosition: -200
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835862517
-ModificationTime: 1477868726
+ModificationTime: 1477887645
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -926,7 +926,7 @@ FitToEm: 0
 WinInfo: 2548 26 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 2785 2783
+BeginChars: 2791 2790
 
 StartChar: .notdef
 Encoding: 2116 -1 0
@@ -30166,60 +30166,16 @@ EndChar
 
 StartChar: uni1D77
 Encoding: 1294 7543 854
-Width: 971
+Width: 1099
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-734 241 m 1,0,1
- 891 152 891 152 891 -26 c 0,2,3
- 891 -172 891 -172 782 -260 c 0,4,5
- 676 -346 676 -346 510 -347 c 0,6,7
- 389 -347 389 -347 297 -296 c 1,8,-1
- 22 -296 l 1,9,-1
- 22 -202 l 2,10,11
- 22 -158 22 -158 76 -147 c 2,12,-1
- 154 -130 l 1,13,14
- 137 -81 137 -81 137 -16.5 c 128,-1,15
- 137 48 137 48 165.5 107.5 c 128,-1,16
- 194 167 194 167 244 209 c 0,17,18
- 349 296 349 296 510 296 c 0,19,20
- 558 296 558 296 604 288 c 1,21,22
- 641 312 641 312 641 342 c 128,-1,23
- 641 372 641 372 615 385.5 c 128,-1,24
- 589 399 589 399 547 404.5 c 128,-1,25
- 505 410 505 410 450.5 411.5 c 128,-1,26
- 396 413 396 413 340 418 c 128,-1,27
- 284 423 284 423 229.5 435 c 128,-1,28
- 175 447 175 447 133 474 c 0,29,30
- 39 534 39 534 39 662 c 0,31,32
- 39 802 39 802 160 902 c 0,33,34
- 291 1010 291 1010 501 1010 c 0,35,36
- 708 1010 708 1010 821 930 c 0,37,38
- 924 858 924 858 924 749 c 0,39,40
- 924 620 924 620 780 560 c 1,41,42
- 859 516 859 516 859 414 c 0,43,44
- 859 339 859 339 790 278 c 0,45,46
- 767 257 767 257 734 241 c 1,0,1
-704 716 m 0,47,48
- 704 831 704 831 489 831 c 128,-1,49
- 274 831 274 831 274 705 c 0,50,51
- 274 664 274 664 306.5 645.5 c 128,-1,52
- 339 627 339 627 390 619.5 c 128,-1,53
- 441 612 441 612 504 610.5 c 128,-1,54
- 567 609 567 609 629 602 c 1,55,56
- 704 650 704 650 704 716 c 0,47,48
-362 -19 m 0,57,58
- 362 -171 362 -171 510 -171 c 256,59,60
- 586 -171 586 -171 623 -130 c 128,-1,61
- 660 -89 660 -89 660 -20.5 c 128,-1,62
- 660 48 660 48 623 91 c 128,-1,63
- 586 134 586 134 509.5 134 c 128,-1,64
- 433 134 433 134 397.5 92 c 128,-1,65
- 362 50 362 50 362 -19 c 0,57,58
-EndSplineSet
+Refer: 93 103 S -1 0 -0 -1 1069 664 2
 Validated: 1
+Substitution2: "sous-table 'ss04' Style 4 lookups34" uni1D77.salt
+Substitution2: "sous-table 'salt' Alternatives stylistiques dans Cyrillique lookup 9" uni1D77.salt
+Substitution2: "sous-table 'salt' Alternatives stylistiques dans Latin lookup 8" uni1D77.salt
 EndChar
 
 StartChar: uni1D78
@@ -67081,6 +67037,7 @@ Refer: 2781 -1 N 1 0 0 1 34 0 0
 Refer: 299 1101 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -353 1476 0
 Refer: 485 -1 N 1 0 0 1 42 1476 0
+Validated: 1
 EndChar
 
 StartChar: uni01C3
@@ -67117,6 +67074,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 139 892 0
 Refer: 316 8216 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: napostrophe
@@ -67129,6 +67087,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 9 0 0
 Refer: 109 110 N 1 0 0 1 175 0 0
 Refer: 317 8217 N 1 0 0 1 -120 0 0
+Validated: 1
 EndChar
 
 StartChar: uni02BC
@@ -67140,6 +67099,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 129 870 0
 Refer: 317 8217 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni02EE
@@ -67152,6 +67112,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 129 870 0
 Refer: 317 8217 N 1 0 0 1 0 0 0
 Refer: 317 8217 N 1 0 0 1 328 0 0
+Validated: 1
 EndChar
 
 StartChar: uni01C0
@@ -67411,6 +67372,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
 Refer: 486 416 N 1 0 0 1 -75 0 0
 Refer: 173 -1 N 1 0 0 1 298 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -67424,6 +67386,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
 Refer: 486 416 N 1 0 0 1 -75 0 0
 Refer: 171 -1 N 1 0 0 1 221 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -67437,6 +67400,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
 Refer: 486 416 N 1 0 0 1 -75 0 0
 Refer: 468 -1 N 1 0 0 1 429 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -67450,6 +67414,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
 Refer: 486 416 N 1 0 0 1 -75 0 0
 Refer: 180 -1 N 1 0 0 1 204 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -67463,6 +67428,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
 Refer: 486 416 N 1 0 0 1 -75 0 0
 Refer: 485 -1 N 1 0 0 1 104 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -67476,6 +67442,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 105 0 0
 Refer: 487 431 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 292 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -67489,6 +67456,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 105 0 0
 Refer: 487 431 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 199 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -67502,6 +67470,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 105 0 0
 Refer: 487 431 N 1 0 0 1 0 0 0
 Refer: 468 -1 N 1 0 0 1 415 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -67515,6 +67484,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 105 0 0
 Refer: 487 431 N 1 0 0 1 0 0 0
 Refer: 180 -1 N 1 0 0 1 191 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -67528,6 +67498,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 105 0 0
 Refer: 487 431 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 90 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -67541,6 +67512,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 69 0 0
 Refer: 488 417 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 394 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EDD
@@ -67553,6 +67525,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 69 0 0
 Refer: 488 417 N 1 0 0 1 0 0 0
 Refer: 170 96 N 1 0 0 1 177 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EDF
@@ -67565,6 +67538,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 69 0 0
 Refer: 488 417 N 1 0 0 1 0 0 0
 Refer: 467 -1 N 1 0 0 1 350 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EE1
@@ -67577,6 +67551,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 69 0 0
 Refer: 488 417 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 132 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EE3
@@ -67589,6 +67564,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 69 0 0
 Refer: 488 417 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 24 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EE9
@@ -67640,6 +67616,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 110 0 0
 Refer: 489 432 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 71 40 0
+Validated: 1
 EndChar
 
 StartChar: uni1EF1
@@ -67652,6 +67629,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 110 0 0
 Refer: 489 432 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -62 0 0
+Validated: 1
 EndChar
 
 StartChar: glyph2556
@@ -67791,6 +67769,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 48 0 0
 Refer: 45 97 N 1 0 0 1 16 0 0
 Refer: 511 -1 N 1 0 0 1 42 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0205
@@ -67803,6 +67782,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 55 0 0
 Refer: 59 101 N 1 0 0 1 -1 0 0
 Refer: 511 -1 N 1 0 0 1 49 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0209
@@ -67828,6 +67808,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 62 0 0
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 511 -1 N 1 0 0 1 66 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0211
@@ -67931,6 +67912,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 1120 0
 Refer: 513 -1 N 1 0 0 1 -390 0 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2578
 EndChar
 
@@ -67943,6 +67925,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 1487 0
 Refer: 514 -1 N 1 0 0 1 -390 0 0
+Validated: 1
 EndChar
 
 StartChar: glyph2579
@@ -67967,6 +67950,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 73 0 0
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 515 -1 N 1 0 0 1 120 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0207
@@ -67979,6 +67963,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 63 0 0
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 515 -1 N 1 0 0 1 150 0 0
+Validated: 1
 EndChar
 
 StartChar: uni020B
@@ -68004,6 +67989,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 62 0 0
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 515 -1 N 1 0 0 1 160 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0213
@@ -68167,6 +68153,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 108 1081 0
 Refer: 517 -1 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0314
@@ -68178,6 +68165,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 1081 0
 Refer: 517 -1 N 1 0 0 1 -255 0 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2598
 EndChar
 
@@ -68190,6 +68178,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 1081 0
 Refer: 517 -1 N 1 0 0 1 -255 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0318
@@ -68361,6 +68350,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 73 0 0
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 187 730 N 1 0 0 1 169 -1560 0
+Validated: 1
 EndChar
 
 StartChar: uni0325
@@ -68445,6 +68435,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 -63 0
 Refer: 530 -1 N 1 0 0 1 -340 0 0
+Validated: 1
 EndChar
 
 StartChar: uni033A
@@ -68569,6 +68560,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 1464 0
 Refer: 536 -1 N 1 0 0 1 -461 0 0
+Validated: 1
 EndChar
 
 StartChar: glyph2629
@@ -68802,6 +68794,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 73 0 0
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 902 702 N 1 0 0 1 322 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0357
@@ -68850,6 +68843,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 -35 0
 Refer: 549 -1 N 1 0 0 1 -472 0 0
+Validated: 1
 EndChar
 
 StartChar: glyph2652
@@ -69111,6 +69105,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 30 1073 0
 Refer: 558 -1 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0363
@@ -69122,6 +69117,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 1073 0
 Refer: 558 -1 N 1 0 0 1 -239 0 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2670
 EndChar
 
@@ -69134,6 +69130,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 1073 0
 Refer: 558 -1 N 1 0 0 1 -239 0 0
+Validated: 1
 EndChar
 
 StartChar: glyph2671
@@ -69145,6 +69142,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 27 1074 0
 Refer: 559 -1 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0364
@@ -69156,6 +69154,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 1074 0
 Refer: 559 -1 N 1 0 0 1 -243 0 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2673
 EndChar
 
@@ -69168,6 +69167,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 1074 0
 Refer: 559 -1 N 1 0 0 1 -243 0 0
+Validated: 1
 EndChar
 
 StartChar: glyph2674
@@ -69327,6 +69327,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 26 1074 0
 Refer: 564 -1 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0369
@@ -69338,6 +69339,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 1074 0
 Refer: 564 -1 N 1 0 0 1 -259 0 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2688
 EndChar
 
@@ -69350,6 +69352,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 1074 0
 Refer: 564 -1 N 1 0 0 1 -259 0 0
+Validated: 1
 EndChar
 
 StartChar: glyph2689
@@ -69595,6 +69598,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 11 970 0
 Refer: 571 -1 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1DC0
@@ -69842,6 +69846,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 22 0 0
 Refer: 688 596 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni037B
@@ -69853,6 +69858,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 22 0 0
 Refer: 688 596 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0284
@@ -69921,6 +69927,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
 Refer: 743 660 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -69933,6 +69940,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
 Refer: 743 660 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni02A2
@@ -69944,6 +69952,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 35 0 0
 Refer: 744 661 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1D29
@@ -69955,6 +69964,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 124 0 0
 Refer: 788 7448 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: A.superior
@@ -70014,6 +70024,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 110 878 0
 Refer: 814 7475 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: H.superior
@@ -70169,6 +70180,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 63 919 0
 Refer: 898 -1 N 1 0 0 1 -7 0 0
+Validated: 1
 EndChar
 
 StartChar: second
@@ -70181,6 +70193,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 67 919 0
 Refer: 898 -1 N 1 0 0 1 -3 0 0
 Refer: 898 -1 N 1 0 0 1 387 0 0
+Validated: 1
 EndChar
 
 StartChar: uni031C
@@ -70216,6 +70229,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 108 888 0
 Refer: 904 705 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni03D3
@@ -70281,6 +70295,7 @@ Refer: 2781 -1 N 1 0 0 1 0 0 0
 Refer: 925 978 N 1 0 0 1 357 0 0
 Refer: 1343 8190 N 1 0 0 1 -544 -57 0
 Refer: 1344 8189 N 1 0 0 1 -373 -57 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -70295,6 +70310,7 @@ Refer: 2781 -1 N 1 0 0 1 0 0 0
 Refer: 925 978 N 1 0 0 1 357 0 0
 Refer: 1343 8190 N 1 0 0 1 -576 -57 0
 Refer: 1345 8175 N 1 0 0 1 -279 -57 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -70309,6 +70325,7 @@ Refer: 2781 -1 N 1 0 0 1 0 0 0
 Refer: 925 978 N 1 0 0 1 357 0 0
 Refer: 1346 8128 N 1 0 0 1 -465 263 0
 Refer: 1373 -1 N 1 0 0 1 -330 -61 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -70378,6 +70395,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
 Refer: 925 978 N 1 0 0 1 0 0 0
 Refer: 1343 8190 N 1 0 0 1 -400 -57 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -70418,6 +70436,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 48 0 0
 Refer: 251 1138 N 1 0 0 1 0 0 0
 Refer: 182 -1 N 1 0 0 1 246 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -70477,6 +70496,7 @@ Refer: 2781 -1 N 1 0 0 1 62 0 0
 Refer: 645 477 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -218 1476 0
 Refer: 485 -1 N 1 0 0 1 177 1476 0
+Validated: 1
 EndChar
 
 StartChar: uni04EB
@@ -70490,6 +70510,7 @@ Refer: 2781 -1 N 1 0 0 1 64 0 0
 Refer: 714 629 N 1 0 0 1 2 0 0
 Refer: 485 -1 N 1 0 0 1 -211 1476 0
 Refer: 485 -1 N 1 0 0 1 184 1476 0
+Validated: 1
 EndChar
 
 StartChar: uni0483
@@ -70501,6 +70522,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 1041 0
 Refer: 1371 -1 N 1 0 0 1 -404 0 0
+Validated: 1
 EndChar
 
 StartChar: glyph2770
@@ -70549,6 +70571,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 174 1065 0
 Refer: 1373 -1 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0485
@@ -70560,6 +70583,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 1065 0
 Refer: 1343 8190 N 1 0 0 1 -236 0 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2775
 EndChar
 
@@ -70572,6 +70596,7 @@ LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 1065 0
 Refer: 1343 8190 N 1 0 0 1 -236 0 0
+Validated: 1
 EndChar
 
 StartChar: glyph2776
@@ -70621,6 +70646,7 @@ Fore
 Refer: 2781 -1 N 1 0 0 1 67 0 0
 Refer: 1088 1120 N 1 0 0 1 0 0 0
 Refer: 1431 -1 N 1 0 0 1 628 329 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -70694,6 +70720,281 @@ SplineSet
  261 1285 261 1285 261 1235 c 128,-1,52
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: uni1D77.salt
+Encoding: 2783 -1 2783
+Width: 971
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+734 241 m 1,0,1
+ 891 152 891 152 891 -26 c 0,2,3
+ 891 -172 891 -172 782 -260 c 0,4,5
+ 676 -346 676 -346 510 -347 c 0,6,7
+ 389 -347 389 -347 297 -296 c 1,8,-1
+ 22 -296 l 1,9,-1
+ 22 -202 l 2,10,11
+ 22 -158 22 -158 76 -147 c 2,12,-1
+ 154 -130 l 1,13,14
+ 137 -81 137 -81 137 -16.5 c 128,-1,15
+ 137 48 137 48 165.5 107.5 c 128,-1,16
+ 194 167 194 167 244 209 c 0,17,18
+ 349 296 349 296 510 296 c 0,19,20
+ 558 296 558 296 604 288 c 1,21,22
+ 641 312 641 312 641 342 c 128,-1,23
+ 641 372 641 372 615 385.5 c 128,-1,24
+ 589 399 589 399 547 404.5 c 128,-1,25
+ 505 410 505 410 450.5 411.5 c 128,-1,26
+ 396 413 396 413 340 418 c 128,-1,27
+ 284 423 284 423 229.5 435 c 128,-1,28
+ 175 447 175 447 133 474 c 0,29,30
+ 39 534 39 534 39 662 c 0,31,32
+ 39 802 39 802 160 902 c 0,33,34
+ 291 1010 291 1010 501 1010 c 0,35,36
+ 708 1010 708 1010 821 930 c 0,37,38
+ 924 858 924 858 924 749 c 0,39,40
+ 924 620 924 620 780 560 c 1,41,42
+ 859 516 859 516 859 414 c 0,43,44
+ 859 339 859 339 790 278 c 0,45,46
+ 767 257 767 257 734 241 c 1,0,1
+704 716 m 0,47,48
+ 704 831 704 831 489 831 c 128,-1,49
+ 274 831 274 831 274 705 c 0,50,51
+ 274 664 274 664 306.5 645.5 c 128,-1,52
+ 339 627 339 627 390 619.5 c 128,-1,53
+ 441 612 441 612 504 610.5 c 128,-1,54
+ 567 609 567 609 629 602 c 1,55,56
+ 704 650 704 650 704 716 c 0,47,48
+362 -19 m 0,57,58
+ 362 -171 362 -171 510 -171 c 256,59,60
+ 586 -171 586 -171 623 -130 c 128,-1,61
+ 660 -89 660 -89 660 -20.5 c 128,-1,62
+ 660 48 660 48 623 91 c 128,-1,63
+ 586 134 586 134 509.5 134 c 128,-1,64
+ 433 134 433 134 397.5 92 c 128,-1,65
+ 362 50 362 50 362 -19 c 0,57,58
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni2E2E
+Encoding: 2785 11822 2784
+Width: 949
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+855 1272 m 1,0,1
+ 788 1165 l 2,2,3
+ 769 1134 769 1134 744 1134 c 128,-1,4
+ 719 1134 719 1134 701 1146 c 128,-1,5
+ 683 1158 683 1158 656.5 1172 c 128,-1,6
+ 630 1186 630 1186 593 1198 c 128,-1,7
+ 556 1210 556 1210 491.5 1210 c 128,-1,8
+ 427 1210 427 1210 381 1171.5 c 128,-1,9
+ 335 1133 335 1133 335 1073.5 c 128,-1,10
+ 335 1014 335 1014 364 962 c 0,11,12
+ 393 912 393 912 486 848 c 0,13,14
+ 622 754 622 754 621 685 c 0,15,16
+ 621 680 621 680 619 651 c 1,17,-1
+ 600 494 l 1,18,-1
+ 427 494 l 1,19,-1
+ 403 633 l 2,20,21
+ 398 664 398 664 373 688.5 c 128,-1,22
+ 348 713 348 713 314.5 738 c 128,-1,23
+ 281 763 281 763 243 792 c 0,24,25
+ 99 904 99 904 99 1081 c 0,26,27
+ 99 1232 99 1232 204 1324 c 0,28,29
+ 308 1414 308 1414 480 1414 c 0,30,31
+ 689 1414 689 1414 855 1272 c 1,0,1
+678 136 m 0,32,33
+ 678 71 678 71 634 29 c 0,34,35
+ 590 -14 590 -14 526 -14 c 256,36,37
+ 462 -14 462 -14 418 29 c 0,38,39
+ 397 49 397 49 385 77 c 128,-1,40
+ 373 105 373 105 373 153 c 128,-1,41
+ 373 201 373 201 418 244 c 0,42,43
+ 463 288 463 288 526 288 c 256,44,45
+ 589 288 589 288 634 244 c 0,46,47
+ 655 224 655 224 666.5 196 c 128,-1,48
+ 678 168 678 168 678 136 c 0,32,33
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: uni2E18
+Encoding: 2786 11800 2785
+Width: 1034
+Flags: W
+LayerCount: 2
+Fore
+Refer: 310 8253 S -1 0 -0 -1 1040 1414 2
+Validated: 1
+EndChar
+
+StartChar: NameMe.2787
+Encoding: 2787 8264 2786
+Width: 1326
+Flags: W
+LayerCount: 2
+Fore
+Refer: 309 63 N 1 0 0 1 -28 0 2
+Refer: 2781 -1 N 1 0 0 1 246 0 0
+Refer: 308 33 S 1 0 0 1 674 0 0
+Validated: 1
+EndChar
+
+StartChar: uni2049
+Encoding: 2788 8265 2787
+Width: 1500
+Flags: W
+LayerCount: 2
+Fore
+Refer: 309 63 N 1 0 0 1 495 0 2
+Refer: 2781 -1 N 1 0 0 1 246 0 0
+Refer: 308 33 N 1 0 0 1 65 0 0
+Validated: 1
+EndChar
+
+StartChar: uni2031
+Encoding: 2789 8241 2788
+Width: 2860
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+2807 330 m 0,0,1
+ 2807 250 2807 250 2781 186 c 0,2,3
+ 2756 124 2756 124 2712 78 c 0,4,5
+ 2622 -16 2622 -16 2492 -17 c 0,6,7
+ 2354 -16 2354 -16 2268 78 c 0,8,9
+ 2180 175 2180 175 2180 329 c 0,10,11
+ 2180 488 2180 488 2268 586 c 0,12,13
+ 2354 681 2354 681 2492 681 c 256,14,15
+ 2631 681 2631 681 2718 586 c 0,16,17
+ 2807 488 2807 488 2807 330 c 0,0,1
+2492 147 m 256,18,19
+ 2611 147 2611 147 2611 332 c 128,-1,20
+ 2611 517 2611 517 2492 517 c 256,21,22
+ 2377 517 2377 517 2377 332 c 128,-1,23
+ 2377 147 2377 147 2492 147 c 256,18,19
+678 1062 m 0,24,25
+ 678 982 678 982 652 918 c 0,26,27
+ 628 854 628 854 584 809 c 0,28,29
+ 492 715 492 715 364 715 c 0,30,31
+ 228 715 228 715 140 809 c 0,32,33
+ 51 904 51 904 51 1060 c 0,34,35
+ 51 1220 51 1220 140 1317 c 0,36,37
+ 227 1412 227 1412 364 1412 c 256,38,39
+ 502 1412 502 1412 589 1317 c 0,40,41
+ 678 1220 678 1220 678 1062 c 0,24,25
+365.5 878 m 128,-1,43
+ 483 878 483 878 483 1063.5 c 128,-1,44
+ 483 1249 483 1249 365.5 1249 c 128,-1,45
+ 248 1249 248 1249 248 1063.5 c 128,-1,42
+ 248 878 248 878 365.5 878 c 128,-1,43
+1438 330 m 0,46,47
+ 1438 250 1438 250 1412 186 c 0,48,49
+ 1388 124 1388 124 1344 78 c 0,50,51
+ 1254 -16 1254 -16 1124 -17 c 0,52,53
+ 986 -16 986 -16 900 78 c 0,54,55
+ 812 175 812 175 811 329 c 0,56,57
+ 812 488 812 488 900 586 c 0,58,59
+ 986 681 986 681 1124 681 c 256,60,61
+ 1262 681 1262 681 1349 586 c 0,62,63
+ 1438 488 1438 488 1438 330 c 0,46,47
+1124 147 m 256,64,65
+ 1242 147 1242 147 1242 332 c 128,-1,66
+ 1242 517 1242 517 1124 517 c 256,67,68
+ 1008 517 1008 517 1008 332 c 128,-1,69
+ 1008 147 1008 147 1124 147 c 256,64,65
+2123 330 m 0,70,71
+ 2123 250 2123 250 2097 186 c 0,72,73
+ 2072 124 2072 124 2028 78 c 0,74,75
+ 1938 -16 1938 -16 1808 -17 c 0,76,77
+ 1670 -16 1670 -16 1584 78 c 0,78,79
+ 1496 175 1496 175 1496 329 c 0,80,81
+ 1496 488 1496 488 1584 586 c 0,82,83
+ 1670 681 1670 681 1808 681 c 256,84,85
+ 1947 681 1947 681 2034 586 c 0,86,87
+ 2123 488 2123 488 2123 330 c 0,70,71
+1808 147 m 256,88,89
+ 1927 147 1927 147 1927 332 c 128,-1,90
+ 1927 517 1927 517 1808 517 c 256,91,92
+ 1693 517 1693 517 1693 332 c 128,-1,93
+ 1693 147 1693 147 1808 147 c 256,88,89
+415 72 m 1,94,95
+ 370 0 370 0 288 0 c 2,96,-1
+ 180 0 l 1,97,-1
+ 1031 1315 l 1,98,99
+ 1083 1398 1083 1398 1164 1398 c 2,100,-1
+ 1273 1398 l 1,101,-1
+ 415 72 l 1,94,95
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni1F12F
+Encoding: 2790 127279 2789
+Width: 1709
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+523 396 m 1,0,-1
+ 607 485 l 2,1,2
+ 626 505 626 505 647 501 c 0,3,4
+ 663 498 663 498 679 488 c 128,-1,5
+ 695 478 695 478 730 459.5 c 128,-1,6
+ 765 441 765 441 840 441 c 256,7,8
+ 936 441 936 441 993 508 c 0,9,10
+ 1053 579 1053 579 1053 703 c 0,11,12
+ 1053 826 1053 826 993 894 c 0,13,14
+ 963 928 963 928 919 946 c 0,15,16
+ 876 964 876 964 811 964 c 0,17,18
+ 748 964 748 964 693 934 c 0,19,20
+ 673 923 673 923 659 914 c 0,21,22
+ 645 904 645 904 624 904 c 128,-1,23
+ 603 904 603 904 585 928 c 2,24,-1
+ 518 1020 l 1,25,26
+ 634 1150 634 1150 833 1150 c 0,27,28
+ 1022 1150 1022 1150 1150 1024 c 128,-1,29
+ 1278 898 1278 898 1279 701 c 0,30,31
+ 1279 509 1279 509 1163 382 c 0,32,33
+ 1044 252 1044 252 856 253 c 0,34,-1
+ 853 253 l 0,35,36
+ 633 253 633 253 523 396 c 1,0,-1
+1569 700 m 256,37,38
+ 1569 510 1569 510 1471 340 c 0,39,40
+ 1425 260 1425 260 1360 196 c 0,41,42
+ 1295 130 1295 130 1215.5 83.5 c 128,-1,43
+ 1136 37 1136 37 1044.5 11.5 c 128,-1,44
+ 953 -14 953 -14 854.5 -14 c 128,-1,45
+ 756 -14 756 -14 665 12 c 0,46,47
+ 383 90 383 90 237 340 c 0,48,49
+ 140 504 140 504 140 700 c 256,50,51
+ 140 704 140 704 140 707 c 0,52,53
+ 140 801 140 801 165 889 c 0,54,55
+ 245 1170 245 1170 495 1316 c 0,56,57
+ 663 1414 663 1414 855 1414 c 256,58,59
+ 954 1414 954 1414 1045 1388 c 0,60,61
+ 1324 1310 1324 1310 1471 1060 c 0,62,63
+ 1569 894 1569 894 1569 700 c 256,37,38
+1431 700 m 256,64,65
+ 1431 952 1431 952 1265 1124 c 0,66,67
+ 1097 1298 1097 1298 858 1297 c 0,68,69
+ 856 1297 856 1297 855 1297 c 256,70,71
+ 853 1297 853 1297 852 1297 c 0,72,73
+ 611 1297 611 1297 443 1124 c 128,-1,74
+ 275 951 275 951 274 700 c 256,75,76
+ 273 452 273 452 443 278 c 0,77,78
+ 611 106 611 106 855 106 c 256,79,80
+ 1098 106 1098 106 1264.5 278 c 128,-1,81
+ 1431 450 1431 450 1431 700 c 256,64,65
+EndSplineSet
+Validated: 33
 EndChar
 EndChars
 EndSplineFont

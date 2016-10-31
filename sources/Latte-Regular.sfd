@@ -4,7 +4,7 @@ FullName: Latte
 FamilyName: Latte
 Weight: Book
 Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.com) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte Regular font+AAoACgAA-This file provides detailed information on the Latte Regular font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Regular.sfd (Regular weight)+AAoACgAA## ChangeLog+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni1E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261+AAoA-- Modified g.superior and added g.superior.salt+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed **many** intersecting paths+AAoA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+FontLog: "# FONTLOG for the Latte Regular font+AAoACgAA-This file provides detailed information on the Latte Regular font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Regular.sfd (Regular weight)+AAoACgAA## ChangeLog+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni1E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261+AAoA-- Modified g.superior and added g.superior.salt+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed **many** intersecting paths+AAoA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoACgAKAAoA-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
 Version: 0.2
 ItalicAngle: 0
 UnderlinePosition: -200
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835834854
-ModificationTime: 1477750032
+ModificationTime: 1477887017
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -743,7 +743,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 26 10
+WinInfo: 2548 26 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -753,7 +753,7 @@ Grid
  470.037908381 -1536 l 1024
 EndSplineSet
 TeXData: 1 0 0 237056 118528 79018 500736 -1048576 79018 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 2786 2784
+BeginChars: 2791 2790
 
 StartChar: .notdef
 Encoding: 2116 -1 0
@@ -1600,7 +1600,7 @@ StartChar: Lcaron
 Encoding: 252 317 23
 Width: 866
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 174 0 0
@@ -5613,7 +5613,7 @@ StartChar: lcaron
 Encoding: 253 318 107
 Width: 540
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 120 0 0
@@ -6641,7 +6641,7 @@ StartChar: tcaron
 Encoding: 292 357 125
 Width: 708
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 34 0 0
@@ -12010,7 +12010,7 @@ StartChar: uni042B
 Encoding: 945 1067 262
 Width: 1560
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 162 0 0
@@ -36687,85 +36687,16 @@ EndChar
 
 StartChar: uni1D77
 Encoding: 1294 7543 854
-Width: 964
+Width: 1076
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-501 -352 m 0,0,1
- 380 -352 380 -352 291 -298 c 1,2,-1
- 36 -298 l 1,3,-1
- 36 -233 l 2,4,5
- 36 -198 36 -198 76 -192 c 2,6,-1
- 180 -177 l 1,7,8
- 149 -113 149 -113 149 -37 c 0,9,10
- 149 35 149 35 175.5 93 c 128,-1,11
- 202 151 202 151 248.5 192 c 128,-1,12
- 295 233 295 233 359.5 255.5 c 128,-1,13
- 424 278 424 278 501 278 c 0,14,15
- 564 278 564 278 620 263 c 1,16,17
- 678 300 678 300 678 346 c 0,18,19
- 678 381 678 381 651 398 c 128,-1,20
- 624 415 624 415 580 423 c 128,-1,21
- 536 431 536 431 480 433 c 128,-1,22
- 424 435 424 435 365 439.5 c 128,-1,23
- 306 444 306 444 250 454 c 128,-1,24
- 194 464 194 464 150 488.5 c 128,-1,25
- 106 513 106 513 79 555.5 c 128,-1,26
- 52 598 52 598 52 666 c 0,27,28
- 52 729 52 729 82 788 c 128,-1,29
- 112 847 112 847 168 893 c 128,-1,30
- 224 939 224 939 305.5 966.5 c 128,-1,31
- 387 994 387 994 491 994 c 0,32,33
- 594 994 594 994 671 973 c 128,-1,34
- 748 952 748 952 799 916 c 128,-1,35
- 850 880 850 880 875 833 c 128,-1,36
- 900 786 900 786 900 735 c 0,37,38
- 900 663 900 663 857 612.5 c 128,-1,39
- 814 562 814 562 740 533 c 1,40,41
- 780 514 780 514 804.5 481 c 128,-1,42
- 829 448 829 448 829 394 c 0,43,44
- 829 373 829 373 821.5 350 c 128,-1,45
- 814 327 814 327 798.5 304.5 c 128,-1,46
- 783 282 783 282 760.5 261.5 c 128,-1,47
- 738 241 738 241 708 226 c 1,48,49
- 777 186 777 186 817 119 c 128,-1,50
- 857 52 857 52 857 -37 c 0,51,52
- 857 -109 857 -109 830.5 -167 c 128,-1,53
- 804 -225 804 -225 757 -266.5 c 128,-1,54
- 710 -308 710 -308 644.5 -330 c 128,-1,55
- 579 -352 579 -352 501 -352 c 0,0,1
-214 695 m 0,56,57
- 214 659 214 659 232.5 637 c 128,-1,58
- 251 615 251 615 283 602.5 c 128,-1,59
- 315 590 315 590 356.5 585 c 128,-1,60
- 398 580 398 580 445 577 c 128,-1,61
- 492 574 492 574 540.5 571.5 c 128,-1,62
- 589 569 589 569 634 562 c 1,63,64
- 684 588 684 588 715 625 c 128,-1,65
- 746 662 746 662 746 713 c 0,66,67
- 746 746 746 746 731 774 c 128,-1,68
- 716 802 716 802 684.5 822.5 c 128,-1,69
- 653 843 653 843 604 855 c 128,-1,70
- 555 867 555 867 488 867 c 0,71,72
- 422 867 422 867 371 854 c 128,-1,73
- 320 841 320 841 285 818.5 c 128,-1,74
- 250 796 250 796 232 764 c 128,-1,75
- 214 732 214 732 214 695 c 0,56,57
-501 162 m 0,76,77
- 404 162 404 162 355 108 c 128,-1,78
- 306 54 306 54 306 -33 c 0,79,80
- 306 -122 306 -122 355.5 -174.5 c 128,-1,81
- 405 -227 405 -227 501 -227 c 256,82,83
- 597 -227 597 -227 647 -174.5 c 128,-1,84
- 697 -122 697 -122 697 -33 c 0,85,86
- 697 10 697 10 684 46 c 128,-1,87
- 671 82 671 82 646.5 107.5 c 128,-1,88
- 622 133 622 133 585.5 147.5 c 128,-1,89
- 549 162 549 162 501 162 c 0,76,77
-EndSplineSet
+Refer: 93 103 S -1 -0 0 -1 1042.5 644 2
 Validated: 1
+Substitution2: "sous-table 'salt' Alternatives stylistiques dans Latin lookup 8" uni1D77.salt
+Substitution2: "sous-table 'salt' Alternatives stylistiques dans Cyrillique lookup 9" uni1D77.salt
+Substitution2: "sous-table 'ss04' Style 4 lookups34" uni1D77.salt
 EndChar
 
 StartChar: uni1D78
@@ -52208,7 +52139,7 @@ StartChar: ldot
 Encoding: 255 320 1301
 Width: 765
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 165 0 0
@@ -58847,7 +58778,7 @@ StartChar: iotadieresis
 Encoding: 849 970 1508
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -59222,7 +59153,7 @@ StartChar: Ldot
 Encoding: 254 319 1521
 Width: 1118
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 324 0 0
@@ -63010,7 +62941,7 @@ StartChar: Hcircumflex
 Encoding: 227 292 1716
 Width: 1276
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 140 0 0
@@ -63036,7 +62967,7 @@ StartChar: Etatonos
 Encoding: 787 905 1718
 Width: 1276
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63064,7 +62995,7 @@ StartChar: uni021E
 Encoding: 477 542 1720
 Width: 1276
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 140 0 0
@@ -63078,7 +63009,7 @@ StartChar: uni1E22
 Encoding: 1414 7714 1721
 Width: 1276
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 140 0 0
@@ -63092,7 +63023,7 @@ StartChar: uni1E24
 Encoding: 1416 7716 1722
 Width: 1276
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 140 0 0
@@ -63106,7 +63037,7 @@ StartChar: uni1E26
 Encoding: 1418 7718 1723
 Width: 1276
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 140 0 0
@@ -63121,7 +63052,7 @@ StartChar: uni1E2A
 Encoding: 1422 7722 1724
 Width: 1276
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 140 0 0
@@ -63135,7 +63066,7 @@ StartChar: uni1F28
 Encoding: 1663 7976 1725
 Width: 1276
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63150,7 +63081,7 @@ StartChar: uni1F2C
 Encoding: 1667 7980 1726
 Width: 1489
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63166,7 +63097,7 @@ StartChar: uni1F2A
 Encoding: 1665 7978 1727
 Width: 1489
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63182,7 +63113,7 @@ StartChar: uni1F2E
 Encoding: 1669 7982 1728
 Width: 1369
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63198,7 +63129,7 @@ StartChar: uni1F29
 Encoding: 1664 7977 1729
 Width: 1276
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63213,7 +63144,7 @@ StartChar: uni1F2D
 Encoding: 1668 7981 1730
 Width: 1489
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63229,7 +63160,7 @@ StartChar: uni1F2B
 Encoding: 1666 7979 1731
 Width: 1489
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63245,7 +63176,7 @@ StartChar: uni1F2F
 Encoding: 1670 7983 1732
 Width: 1369
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63261,7 +63192,7 @@ StartChar: uni1FCB
 Encoding: 1813 8139 1733
 Width: 1276
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63276,7 +63207,7 @@ StartChar: uni1FCA
 Encoding: 1812 8138 1734
 Width: 1276
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63291,7 +63222,7 @@ StartChar: uni1FCC
 Encoding: 1814 8140 1735
 Width: 1276
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 140 0 0
@@ -63305,7 +63236,7 @@ StartChar: uni1F98
 Encoding: 1765 8088 1736
 Width: 1276
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63321,7 +63252,7 @@ StartChar: uni1F9C
 Encoding: 1769 8092 1737
 Width: 1489
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63338,7 +63269,7 @@ StartChar: uni1F9A
 Encoding: 1767 8090 1738
 Width: 1489
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63355,7 +63286,7 @@ StartChar: uni1F9E
 Encoding: 1771 8094 1739
 Width: 1369
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63372,7 +63303,7 @@ StartChar: uni1F99
 Encoding: 1766 8089 1740
 Width: 1276
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63388,7 +63319,7 @@ StartChar: uni1F9D
 Encoding: 1770 8093 1741
 Width: 1489
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63405,7 +63336,7 @@ StartChar: uni1F9B
 Encoding: 1768 8091 1742
 Width: 1489
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63422,7 +63353,7 @@ StartChar: uni1F9F
 Encoding: 1772 8095 1743
 Width: 1369
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63439,7 +63370,7 @@ StartChar: Igrave
 Encoding: 139 204 1744
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63453,7 +63384,7 @@ StartChar: Iacute
 Encoding: 140 205 1745
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 101 0 0
@@ -63467,7 +63398,7 @@ StartChar: Icircumflex
 Encoding: 141 206 1746
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63481,7 +63412,7 @@ StartChar: Itilde
 Encoding: 231 296 1747
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63495,7 +63426,7 @@ StartChar: Idieresis
 Encoding: 142 207 1748
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63510,7 +63441,7 @@ StartChar: Imacron
 Encoding: 233 298 1749
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63524,7 +63455,7 @@ StartChar: Ibreve
 Encoding: 235 300 1750
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63587,7 +63518,7 @@ StartChar: Iotatonos
 Encoding: 788 906 1753
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63602,7 +63533,7 @@ StartChar: Iotadieresis
 Encoding: 817 938 1754
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63630,7 +63561,7 @@ StartChar: uni0407
 Encoding: 909 1031 1756
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63645,7 +63576,7 @@ StartChar: uni1EC8
 Encoding: 1577 7880 1757
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 75 0 0
@@ -63659,7 +63590,7 @@ StartChar: uni1ECA
 Encoding: 1579 7882 1758
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 147 0 0
@@ -63673,7 +63604,7 @@ StartChar: uni01CF
 Encoding: 398 463 1759
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63687,7 +63618,7 @@ StartChar: uni0208
 Encoding: 455 520 1760
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63701,7 +63632,7 @@ StartChar: uni020A
 Encoding: 457 522 1761
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63715,7 +63646,7 @@ StartChar: uni1E2C
 Encoding: 1424 7724 1762
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63729,7 +63660,7 @@ StartChar: uni1E2E
 Encoding: 1426 7726 1763
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63745,7 +63676,7 @@ StartChar: uni1F38
 Encoding: 1679 7992 1764
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63760,7 +63691,7 @@ StartChar: uni1F3C
 Encoding: 1683 7996 1765
 Width: 729
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63776,7 +63707,7 @@ StartChar: uni1F3A
 Encoding: 1681 7994 1766
 Width: 729
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63792,7 +63723,7 @@ StartChar: uni1F3E
 Encoding: 1685 7998 1767
 Width: 609
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63808,7 +63739,7 @@ StartChar: uni1F39
 Encoding: 1680 7993 1768
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63823,7 +63754,7 @@ StartChar: uni1F3D
 Encoding: 1684 7997 1769
 Width: 729
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63839,7 +63770,7 @@ StartChar: uni1F3B
 Encoding: 1682 7995 1770
 Width: 729
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63855,7 +63786,7 @@ StartChar: uni1F3F
 Encoding: 1686 7999 1771
 Width: 609
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63871,7 +63802,7 @@ StartChar: uni1FDB
 Encoding: 1827 8155 1772
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63886,7 +63817,7 @@ StartChar: uni1FDA
 Encoding: 1826 8154 1773
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63901,7 +63832,7 @@ StartChar: uni1FD9
 Encoding: 1825 8153 1774
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63916,7 +63847,7 @@ StartChar: uni1FD8
 Encoding: 1824 8152 1775
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -63931,7 +63862,7 @@ StartChar: uni04C0
 Encoding: 1092 1216 1776
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 167 0 0
@@ -63944,7 +63875,7 @@ StartChar: uni04CF
 Encoding: 1107 1231 1777
 Width: 516
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 167 0 0
@@ -63956,7 +63887,7 @@ StartChar: IJ
 Encoding: 241 306 1778
 Width: 1170
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 136 0 0
@@ -64147,7 +64078,7 @@ StartChar: Lacute
 Encoding: 248 313 1788
 Width: 861
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 50 0 0
@@ -64161,7 +64092,7 @@ StartChar: uni013B
 Encoding: 250 315 1789
 Width: 861
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 138 0 0
@@ -64203,7 +64134,7 @@ StartChar: uni1E36
 Encoding: 1434 7734 1791
 Width: 861
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 138 0 0
@@ -64217,7 +64148,7 @@ StartChar: uni1E38
 Encoding: 1436 7736 1792
 Width: 861
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -64257,7 +64188,7 @@ StartChar: uni1E3C
 Encoding: 1440 7740 1794
 Width: 861
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 138 0 0
@@ -64271,7 +64202,7 @@ StartChar: uni01C7
 Encoding: 390 455 1795
 Width: 1539
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 138 0 0
@@ -64285,7 +64216,7 @@ StartChar: uni01C8
 Encoding: 391 456 1796
 Width: 1351
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 222 0 0
@@ -65738,7 +65669,7 @@ StartChar: Tcaron
 Encoding: 291 356 1881
 Width: 998
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 24 0 0
@@ -65752,7 +65683,7 @@ StartChar: uni021A
 Encoding: 473 538 1882
 Width: 998
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 24 0 0
@@ -65766,7 +65697,7 @@ StartChar: Tau
 Encoding: 811 932 1883
 Width: 998
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 24 0 0
@@ -65873,7 +65804,7 @@ StartChar: uni1E6A
 Encoding: 1486 7786 1887
 Width: 998
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 24 0 0
@@ -65887,7 +65818,7 @@ StartChar: uni1E6C
 Encoding: 1488 7788 1888
 Width: 998
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 24 0 0
@@ -65928,7 +65859,7 @@ StartChar: uni1E70
 Encoding: 1492 7792 1890
 Width: 998
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 24 0 0
@@ -69090,7 +69021,7 @@ StartChar: uni1E1F
 Encoding: 1411 7711 2033
 Width: 625
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 24 0 0
@@ -70826,7 +70757,7 @@ StartChar: lacute
 Encoding: 249 314 2111
 Width: 470
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 88 0 0
@@ -70839,7 +70770,7 @@ StartChar: uni013C
 Encoding: 251 316 2112
 Width: 470
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 117 0 0
@@ -70877,7 +70808,7 @@ StartChar: uni1E37
 Encoding: 1435 7735 2114
 Width: 470
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 125 0 0
@@ -70890,7 +70821,7 @@ StartChar: uni1E39
 Encoding: 1437 7737 2115
 Width: 470
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -70926,7 +70857,7 @@ StartChar: uni1E3D
 Encoding: 1441 7741 2117
 Width: 470
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -71011,7 +70942,7 @@ StartChar: uni01C9
 Encoding: 392 457 2120
 Width: 960
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 160 0 0
@@ -71025,7 +70956,7 @@ StartChar: glyph2121
 Encoding: 2637 -1 2121
 Width: 1636
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 147 0 0
@@ -71037,7 +70968,7 @@ StartChar: uni1E3F
 Encoding: 1443 7743 2122
 Width: 1636
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 147 0 0
@@ -71050,7 +70981,7 @@ StartChar: uni1E41
 Encoding: 1445 7745 2123
 Width: 1636
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 147 0 0
@@ -71063,7 +70994,7 @@ StartChar: uni1E43
 Encoding: 1447 7747 2124
 Width: 1636
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 147 0 0
@@ -73019,7 +72950,7 @@ StartChar: uni021B
 Encoding: 474 539 2202
 Width: 686
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 34 0 0
@@ -73094,7 +73025,7 @@ StartChar: uni1E6B
 Encoding: 1487 7787 2204
 Width: 686
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 34 0 0
@@ -73107,7 +73038,7 @@ StartChar: uni1E6D
 Encoding: 1489 7789 2205
 Width: 686
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 34 0 0
@@ -73166,7 +73097,7 @@ StartChar: uni1E71
 Encoding: 1493 7793 2207
 Width: 686
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 34 0 0
@@ -73179,7 +73110,7 @@ StartChar: uni1E97
 Encoding: 1531 7831 2208
 Width: 686
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -76913,7 +76844,7 @@ StartChar: iotatonos
 Encoding: 822 943 2412
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 147 0 0
@@ -76926,7 +76857,7 @@ StartChar: iotadieresistonos
 Encoding: 792 912 2413
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -76939,7 +76870,7 @@ StartChar: uni0269
 Encoding: 552 617 2414
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 147 0 0
@@ -76987,7 +76918,7 @@ StartChar: uni1F30
 Encoding: 1671 7984 2416
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 124 0 0
@@ -77000,7 +76931,7 @@ StartChar: uni1F34
 Encoding: 1675 7988 2417
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 3 0 0
@@ -77014,7 +76945,7 @@ StartChar: uni1F32
 Encoding: 1673 7986 2418
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -77028,7 +76959,7 @@ StartChar: uni1F36
 Encoding: 1677 7990 2419
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -77042,7 +76973,7 @@ StartChar: uni1F31
 Encoding: 1672 7985 2420
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 124 0 0
@@ -77055,7 +76986,7 @@ StartChar: uni1F35
 Encoding: 1676 7989 2421
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -77069,7 +77000,7 @@ StartChar: uni1F33
 Encoding: 1674 7987 2422
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -77083,7 +77014,7 @@ StartChar: uni1F37
 Encoding: 1678 7991 2423
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -77097,7 +77028,7 @@ StartChar: uni1FD3
 Encoding: 1821 8147 2424
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -77110,7 +77041,7 @@ StartChar: uni1FD2
 Encoding: 1820 8146 2425
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -77125,7 +77056,7 @@ StartChar: uni1FD7
 Encoding: 1823 8151 2426
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -77140,7 +77071,7 @@ StartChar: uni1F77
 Encoding: 1734 8055 2427
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 140 0 0
@@ -77153,7 +77084,7 @@ StartChar: uni1F76
 Encoding: 1733 8054 2428
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 76 0 0
@@ -77166,7 +77097,7 @@ StartChar: uni1FD6
 Encoding: 1822 8150 2429
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -77212,7 +77143,7 @@ StartChar: uni1FD0
 Encoding: 1818 8144 2431
 Width: 562
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 0 0 0
@@ -79021,7 +78952,7 @@ StartChar: uni0419
 Encoding: 927 1049 2485
 Width: 1314
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 147 0 0
@@ -79035,7 +78966,7 @@ StartChar: uni040D
 Encoding: 915 1037 2486
 Width: 1314
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 147 0 0
@@ -79049,7 +78980,7 @@ StartChar: uni04E2
 Encoding: 1126 1250 2487
 Width: 1314
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 147 0 0
@@ -79063,7 +78994,7 @@ StartChar: uni04E4
 Encoding: 1128 1252 2488
 Width: 1314
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 147 0 0
@@ -79177,7 +79108,7 @@ StartChar: uni04F8
 Encoding: 1148 1272 2496
 Width: 1560
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 162 0 0
@@ -79362,7 +79293,7 @@ StartChar: uni0439
 Encoding: 959 1081 2505
 Width: 1107
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 139 0 0
@@ -79375,7 +79306,7 @@ StartChar: uni045D
 Encoding: 995 1117 2506
 Width: 1107
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 139 0 0
@@ -79388,7 +79319,7 @@ StartChar: uni1D0E
 Encoding: 1190 7438 2507
 Width: 1107
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 139 0 0
@@ -79448,7 +79379,7 @@ StartChar: uni04E5
 Encoding: 1129 1253 2509
 Width: 1107
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 139 0 0
@@ -79487,7 +79418,7 @@ StartChar: uni029C
 Encoding: 603 668 2512
 Width: 1095
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2781 -1 N 1 0 0 1 141 0 0
@@ -83394,13 +83325,432 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: NameMe.2785
-Encoding: 2785 -1 2783
-Width: 2048
-VWidth: 0
+StartChar: uni2E2E
+Encoding: 2785 11822 2783
+Width: 949
 Flags: MW
 LayerCount: 2
 Fore
+SplineSet
+826 1260 m 1,0,-1
+ 780 1186 l 2,1,2
+ 766 1164 766 1164 742 1164 c 0,3,4
+ 728 1164 728 1164 712 1178 c 0,5,6
+ 697 1191 697 1191 666 1210 c 0,7,8
+ 635 1228 635 1228 595 1241 c 0,9,10
+ 552 1255 552 1255 494 1255 c 0,11,12
+ 455 1255 455 1255 414 1242 c 0,13,14
+ 378 1231 378 1231 347 1206 c 0,15,16
+ 318 1183 318 1183 302 1150 c 0,17,18
+ 285 1116 285 1116 286 1075 c 0,19,20
+ 287 1017 287 1017 310 974 c 0,21,22
+ 332 933 332 933 367 898 c 128,-1,23
+ 402 863 402 863 441 836 c 0,24,25
+ 484 806 484 806 514 780 c 0,26,27
+ 548 750 548 750 568 719 c 0,28,29
+ 586 691 586 691 586 657 c 0,30,31
+ 586 652 586 652 584 643 c 2,32,-1
+ 572 483 l 1,33,-1
+ 452 483 l 1,34,-1
+ 434 631 l 2,35,36
+ 430 662 430 662 405 688 c 128,-1,37
+ 380 714 380 714 346 740 c 0,38,39
+ 287 785 287 785 272 796 c 0,40,41
+ 232 825 232 825 199 865 c 128,-1,42
+ 166 905 166 905 144 958 c 0,43,44
+ 121 1013 121 1013 122 1085 c 0,45,46
+ 123 1158 123 1158 150 1215 c 0,47,48
+ 176 1273 176 1273 224 1314 c 128,-1,49
+ 272 1355 272 1355 337 1377 c 128,-1,50
+ 402 1399 402 1399 480 1399 c 0,51,52
+ 542 1399 542 1399 588 1388 c 0,53,54
+ 638 1376 638 1376 680 1357 c 0,55,56
+ 731 1336 731 1336 760 1313 c 0,57,58
+ 809 1275 809 1275 826 1260 c 1,0,-1
+654 107 m 0,59,60
+ 654 81 654 81 645 59 c 0,61,62
+ 635 35 635 35 619 20 c 0,63,64
+ 602 4 602 4 580 -5 c 128,-1,65
+ 558 -14 558 -14 532 -14 c 0,66,67
+ 507 -14 507 -14 484 -5 c 128,-1,68
+ 461 4 461 4 445 20 c 0,69,70
+ 428 37 428 37 419 59 c 128,-1,71
+ 410 81 410 81 410 107 c 0,72,73
+ 410 132 410 132 419 154.5 c 128,-1,74
+ 428 177 428 177 445 194 c 128,-1,75
+ 462 211 462 211 484 220.5 c 128,-1,76
+ 506 230 506 230 532 230 c 128,-1,77
+ 558 230 558 230 580 220.5 c 128,-1,78
+ 602 211 602 211 619 194 c 128,-1,79
+ 636 177 636 177 645 154.5 c 128,-1,80
+ 654 132 654 132 654 107 c 0,59,60
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: uni1D77.salt
+Encoding: 2783 -1 2784
+Width: 964
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+501 -352 m 0,0,1
+ 380 -352 380 -352 291 -298 c 1,2,-1
+ 36 -298 l 1,3,-1
+ 36 -233 l 2,4,5
+ 36 -198 36 -198 76 -192 c 2,6,-1
+ 180 -177 l 1,7,8
+ 149 -113 149 -113 149 -37 c 0,9,10
+ 149 35 149 35 175.5 93 c 128,-1,11
+ 202 151 202 151 248.5 192 c 128,-1,12
+ 295 233 295 233 359.5 255.5 c 128,-1,13
+ 424 278 424 278 501 278 c 0,14,15
+ 564 278 564 278 620 263 c 1,16,17
+ 678 300 678 300 678 346 c 0,18,19
+ 678 381 678 381 651 398 c 128,-1,20
+ 624 415 624 415 580 423 c 128,-1,21
+ 536 431 536 431 480 433 c 128,-1,22
+ 424 435 424 435 365 439.5 c 128,-1,23
+ 306 444 306 444 250 454 c 128,-1,24
+ 194 464 194 464 150 488.5 c 128,-1,25
+ 106 513 106 513 79 555.5 c 128,-1,26
+ 52 598 52 598 52 666 c 0,27,28
+ 52 729 52 729 82 788 c 128,-1,29
+ 112 847 112 847 168 893 c 128,-1,30
+ 224 939 224 939 305.5 966.5 c 128,-1,31
+ 387 994 387 994 491 994 c 0,32,33
+ 594 994 594 994 671 973 c 128,-1,34
+ 748 952 748 952 799 916 c 128,-1,35
+ 850 880 850 880 875 833 c 128,-1,36
+ 900 786 900 786 900 735 c 0,37,38
+ 900 663 900 663 857 612.5 c 128,-1,39
+ 814 562 814 562 740 533 c 1,40,41
+ 780 514 780 514 804.5 481 c 128,-1,42
+ 829 448 829 448 829 394 c 0,43,44
+ 829 373 829 373 821.5 350 c 128,-1,45
+ 814 327 814 327 798.5 304.5 c 128,-1,46
+ 783 282 783 282 760.5 261.5 c 128,-1,47
+ 738 241 738 241 708 226 c 1,48,49
+ 777 186 777 186 817 119 c 128,-1,50
+ 857 52 857 52 857 -37 c 0,51,52
+ 857 -109 857 -109 830.5 -167 c 128,-1,53
+ 804 -225 804 -225 757 -266.5 c 128,-1,54
+ 710 -308 710 -308 644.5 -330 c 128,-1,55
+ 579 -352 579 -352 501 -352 c 0,0,1
+214 695 m 0,56,57
+ 214 659 214 659 232.5 637 c 128,-1,58
+ 251 615 251 615 283 602.5 c 128,-1,59
+ 315 590 315 590 356.5 585 c 128,-1,60
+ 398 580 398 580 445 577 c 128,-1,61
+ 492 574 492 574 540.5 571.5 c 128,-1,62
+ 589 569 589 569 634 562 c 1,63,64
+ 684 588 684 588 715 625 c 128,-1,65
+ 746 662 746 662 746 713 c 0,66,67
+ 746 746 746 746 731 774 c 128,-1,68
+ 716 802 716 802 684.5 822.5 c 128,-1,69
+ 653 843 653 843 604 855 c 128,-1,70
+ 555 867 555 867 488 867 c 0,71,72
+ 422 867 422 867 371 854 c 128,-1,73
+ 320 841 320 841 285 818.5 c 128,-1,74
+ 250 796 250 796 232 764 c 128,-1,75
+ 214 732 214 732 214 695 c 0,56,57
+501 162 m 0,76,77
+ 404 162 404 162 355 108 c 128,-1,78
+ 306 54 306 54 306 -33 c 0,79,80
+ 306 -122 306 -122 355.5 -174.5 c 128,-1,81
+ 405 -227 405 -227 501 -227 c 256,82,83
+ 597 -227 597 -227 647 -174.5 c 128,-1,84
+ 697 -122 697 -122 697 -33 c 0,85,86
+ 697 10 697 10 684 46 c 128,-1,87
+ 671 82 671 82 646.5 107.5 c 128,-1,88
+ 622 133 622 133 585.5 147.5 c 128,-1,89
+ 549 162 549 162 501 162 c 0,76,77
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni2E18
+Encoding: 2786 11800 2785
+Width: 990
+Flags: W
+LayerCount: 2
+Fore
+Refer: 310 8253 S -1 0 -0 -1 1017.5 1390 2
+Validated: 1
+EndChar
+
+StartChar: uni2048
+Encoding: 2787 8264 2786
+Width: 1196
+Flags: W
+LayerCount: 2
+Fore
+Refer: 309 63 S 1 0 0 1 -3 0 2
+Refer: 2781 -1 N 1 0 0 1 322 0 0
+Refer: 308 33 S 1 0 0 1 620 0 0
+Validated: 1
+EndChar
+
+StartChar: NameMe.2788
+Encoding: 2788 8265 2787
+Width: 1326
+Flags: W
+LayerCount: 2
+Fore
+Refer: 309 63 S 1 0 0 1 369 0 2
+Refer: 2781 -1 N 1 0 0 1 239 0 0
+Refer: 308 33 S 1 0 0 1 28 0 0
+Validated: 1
+EndChar
+
+StartChar: uni2031
+Encoding: 2789 8241 2788
+Width: 2801
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+2735 327 m 0,0,1
+ 2735 246 2735 246 2711 182 c 128,-1,2
+ 2687 118 2687 118 2646.5 73.5 c 128,-1,3
+ 2606 29 2606 29 2552.5 6 c 128,-1,4
+ 2499 -17 2499 -17 2440 -17 c 0,5,6
+ 2377 -17 2377 -17 2323.5 6 c 128,-1,7
+ 2270 29 2270 29 2230.5 73.5 c 128,-1,8
+ 2191 118 2191 118 2168.5 182 c 128,-1,9
+ 2146 246 2146 246 2146 327 c 0,10,11
+ 2146 410 2146 410 2168.5 474.5 c 128,-1,12
+ 2191 539 2191 539 2230.5 583.5 c 128,-1,13
+ 2270 628 2270 628 2323.5 651.5 c 128,-1,14
+ 2377 675 2377 675 2440 675 c 256,15,16
+ 2503 675 2503 675 2557 651.5 c 128,-1,17
+ 2611 628 2611 628 2650.5 583.5 c 128,-1,18
+ 2690 539 2690 539 2712.5 474.5 c 128,-1,19
+ 2735 410 2735 410 2735 327 c 0,0,1
+2598 327 m 256,20,21
+ 2598 390 2598 390 2585.5 434.5 c 128,-1,22
+ 2573 479 2573 479 2552 506.5 c 128,-1,23
+ 2531 534 2531 534 2502 546.5 c 128,-1,24
+ 2473 559 2473 559 2440 559 c 256,25,26
+ 2407 559 2407 559 2378.5 546.5 c 128,-1,27
+ 2350 534 2350 534 2328.5 506.5 c 128,-1,28
+ 2307 479 2307 479 2295 434.5 c 128,-1,29
+ 2283 390 2283 390 2283 327 c 256,30,31
+ 2283 264 2283 264 2295 220.5 c 128,-1,32
+ 2307 177 2307 177 2328.5 150 c 128,-1,33
+ 2350 123 2350 123 2378.5 111 c 128,-1,34
+ 2407 99 2407 99 2440 99 c 256,35,36
+ 2473 99 2473 99 2502 111 c 128,-1,37
+ 2531 123 2531 123 2552 150 c 128,-1,38
+ 2573 177 2573 177 2585.5 220.5 c 128,-1,39
+ 2598 264 2598 264 2598 327 c 256,20,21
+654 1049 m 0,40,41
+ 654 968 654 968 630 904.5 c 128,-1,42
+ 606 841 606 841 565 796.5 c 128,-1,43
+ 524 752 524 752 470.5 729 c 128,-1,44
+ 417 706 417 706 359 706 c 0,45,46
+ 296 706 296 706 242 729 c 128,-1,47
+ 188 752 188 752 149 796.5 c 128,-1,48
+ 110 841 110 841 87.5 904.5 c 128,-1,49
+ 65 968 65 968 65 1049 c 0,50,51
+ 65 1132 65 1132 87.5 1197 c 128,-1,52
+ 110 1262 110 1262 149 1306.5 c 128,-1,53
+ 188 1351 188 1351 242 1374 c 128,-1,54
+ 296 1397 296 1397 359 1397 c 256,55,56
+ 422 1397 422 1397 475.5 1374 c 128,-1,57
+ 529 1351 529 1351 569 1306.5 c 128,-1,58
+ 609 1262 609 1262 631.5 1197 c 128,-1,59
+ 654 1132 654 1132 654 1049 c 0,40,41
+517 1049 m 0,60,61
+ 517 1113 517 1113 504.5 1157 c 128,-1,62
+ 492 1201 492 1201 470.5 1229 c 128,-1,63
+ 449 1257 449 1257 420.5 1269.5 c 128,-1,64
+ 392 1282 392 1282 359 1282 c 256,65,66
+ 326 1282 326 1282 297.5 1269.5 c 128,-1,67
+ 269 1257 269 1257 248 1229 c 128,-1,68
+ 227 1201 227 1201 215 1157 c 128,-1,69
+ 203 1113 203 1113 203 1049 c 0,70,71
+ 203 987 203 987 215 943.5 c 128,-1,72
+ 227 900 227 900 248 873 c 128,-1,73
+ 269 846 269 846 297.5 834 c 128,-1,74
+ 326 822 326 822 359 822 c 256,75,76
+ 392 822 392 822 420.5 834 c 128,-1,77
+ 449 846 449 846 470.5 873 c 128,-1,78
+ 492 900 492 900 504.5 943.5 c 128,-1,79
+ 517 987 517 987 517 1049 c 0,60,61
+1386 327 m 0,80,81
+ 1386 246 1386 246 1362 182 c 128,-1,82
+ 1338 118 1338 118 1297.5 73.5 c 128,-1,83
+ 1257 29 1257 29 1203.5 6 c 128,-1,84
+ 1150 -17 1150 -17 1091 -17 c 0,85,86
+ 1028 -17 1028 -17 974.5 6 c 128,-1,87
+ 921 29 921 29 881.5 73.5 c 128,-1,88
+ 842 118 842 118 819.5 182 c 128,-1,89
+ 797 246 797 246 797 327 c 0,90,91
+ 797 410 797 410 819.5 474.5 c 128,-1,92
+ 842 539 842 539 881.5 583.5 c 128,-1,93
+ 921 628 921 628 974.5 651.5 c 128,-1,94
+ 1028 675 1028 675 1091 675 c 256,95,96
+ 1154 675 1154 675 1207.5 651.5 c 128,-1,97
+ 1261 628 1261 628 1301 583.5 c 128,-1,98
+ 1341 539 1341 539 1363.5 474.5 c 128,-1,99
+ 1386 410 1386 410 1386 327 c 0,80,81
+1249 327 m 256,100,101
+ 1249 390 1249 390 1236.5 434.5 c 128,-1,102
+ 1224 479 1224 479 1202.5 506.5 c 128,-1,103
+ 1181 534 1181 534 1152.5 546.5 c 128,-1,104
+ 1124 559 1124 559 1091 559 c 256,105,106
+ 1058 559 1058 559 1029.5 546.5 c 128,-1,107
+ 1001 534 1001 534 980 506.5 c 128,-1,108
+ 959 479 959 479 947 434.5 c 128,-1,109
+ 935 390 935 390 935 327 c 256,110,111
+ 935 264 935 264 947 220.5 c 128,-1,112
+ 959 177 959 177 980 150 c 128,-1,113
+ 1001 123 1001 123 1029.5 111 c 128,-1,114
+ 1058 99 1058 99 1091 99 c 256,115,116
+ 1124 99 1124 99 1152.5 111 c 128,-1,117
+ 1181 123 1181 123 1202.5 150 c 128,-1,118
+ 1224 177 1224 177 1236.5 220.5 c 128,-1,119
+ 1249 264 1249 264 1249 327 c 256,100,101
+2061 327 m 0,120,121
+ 2061 246 2061 246 2037 182 c 128,-1,122
+ 2013 118 2013 118 1972.5 73.5 c 128,-1,123
+ 1932 29 1932 29 1878.5 6 c 128,-1,124
+ 1825 -17 1825 -17 1766 -17 c 0,125,126
+ 1703 -17 1703 -17 1649.5 6 c 128,-1,127
+ 1596 29 1596 29 1556.5 73.5 c 128,-1,128
+ 1517 118 1517 118 1494.5 182 c 128,-1,129
+ 1472 246 1472 246 1472 327 c 0,130,131
+ 1472 410 1472 410 1494.5 474.5 c 128,-1,132
+ 1517 539 1517 539 1556.5 583.5 c 128,-1,133
+ 1596 628 1596 628 1649.5 651.5 c 128,-1,134
+ 1703 675 1703 675 1766 675 c 256,135,136
+ 1829 675 1829 675 1883 651.5 c 128,-1,137
+ 1937 628 1937 628 1976.5 583.5 c 128,-1,138
+ 2016 539 2016 539 2038.5 474.5 c 128,-1,139
+ 2061 410 2061 410 2061 327 c 0,120,121
+1924 327 m 256,140,141
+ 1924 390 1924 390 1911.5 434.5 c 128,-1,142
+ 1899 479 1899 479 1878 506.5 c 128,-1,143
+ 1857 534 1857 534 1828 546.5 c 128,-1,144
+ 1799 559 1799 559 1766 559 c 256,145,146
+ 1733 559 1733 559 1704.5 546.5 c 128,-1,147
+ 1676 534 1676 534 1654.5 506.5 c 128,-1,148
+ 1633 479 1633 479 1621 434.5 c 128,-1,149
+ 1609 390 1609 390 1609 327 c 256,150,151
+ 1609 264 1609 264 1621 220.5 c 128,-1,152
+ 1633 177 1633 177 1654.5 150 c 128,-1,153
+ 1676 123 1676 123 1704.5 111 c 128,-1,154
+ 1733 99 1733 99 1766 99 c 256,155,156
+ 1799 99 1799 99 1828 111 c 128,-1,157
+ 1857 123 1857 123 1878 150 c 128,-1,158
+ 1899 177 1899 177 1911.5 220.5 c 128,-1,159
+ 1924 264 1924 264 1924 327 c 256,140,141
+310 52 m 1,160,161
+ 292 21 292 21 269 10.5 c 128,-1,162
+ 246 0 246 0 217 0 c 2,163,-1
+ 142 0 l 1,164,-1
+ 1129 1323 l 2,165,166
+ 1146 1352 1146 1352 1168.5 1367.5 c 128,-1,167
+ 1191 1383 1191 1383 1225 1383 c 2,168,-1
+ 1302 1383 l 1,169,-1
+ 310 52 l 1,160,161
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni1F12F
+Encoding: 2790 127279 2789
+Width: 1709
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+609 458 m 0,0,1
+ 633 448 633 448 653.5 435 c 128,-1,2
+ 674 422 674 422 699.5 411 c 128,-1,3
+ 725 400 725 400 758.5 392 c 128,-1,4
+ 792 384 792 384 842 384 c 0,5,6
+ 901 384 901 384 951.5 404.5 c 128,-1,7
+ 1002 425 1002 425 1038.5 464.5 c 128,-1,8
+ 1075 504 1075 504 1095.5 562 c 128,-1,9
+ 1116 620 1116 620 1116 694 c 0,10,11
+ 1116 766 1116 766 1095.5 823 c 128,-1,12
+ 1075 880 1075 880 1037.5 920.5 c 128,-1,13
+ 1000 961 1000 961 946 982.5 c 128,-1,14
+ 892 1004 892 1004 824 1004 c 0,15,16
+ 768 1004 768 1004 731.5 993 c 128,-1,17
+ 695 982 695 982 671 969.5 c 128,-1,18
+ 647 957 647 957 632.5 946 c 128,-1,19
+ 618 935 618 935 604 935 c 0,20,21
+ 592 935 592 935 584.5 940.5 c 128,-1,22
+ 577 946 577 946 572 953 c 2,23,-1
+ 526 1016 l 1,24,25
+ 554 1043 554 1043 585.5 1065 c 128,-1,26
+ 617 1087 617 1087 654.5 1103 c 128,-1,27
+ 692 1119 692 1119 736.5 1127.5 c 128,-1,28
+ 781 1136 781 1136 833 1136 c 0,29,30
+ 928 1136 928 1136 1008.5 1103.5 c 128,-1,31
+ 1089 1071 1089 1071 1147.5 1012.5 c 128,-1,32
+ 1206 954 1206 954 1239.5 872.5 c 128,-1,33
+ 1273 791 1273 791 1273 694 c 0,34,35
+ 1273 598 1273 598 1242.5 516.5 c 128,-1,36
+ 1212 435 1212 435 1156.5 376 c 128,-1,37
+ 1101 317 1101 317 1023.5 284 c 128,-1,38
+ 946 251 946 251 851 251 c 0,39,40
+ 739 251 739 251 659 286.5 c 128,-1,41
+ 579 322 579 322 524 385 c 1,42,-1
+ 584 448 l 2,43,44
+ 589 453 589 453 595.5 457 c 128,-1,45
+ 602 461 602 461 609 458 c 0,0,1
+1560 692 m 256,46,47
+ 1560 595 1560 595 1535 505 c 128,-1,48
+ 1510 415 1510 415 1464 336.5 c 128,-1,49
+ 1418 258 1418 258 1353.5 193.5 c 128,-1,50
+ 1289 129 1289 129 1210.5 83 c 128,-1,51
+ 1132 37 1132 37 1042 11.5 c 128,-1,52
+ 952 -14 952 -14 855 -14 c 256,53,54
+ 758 -14 758 -14 667.5 11.5 c 128,-1,55
+ 577 37 577 37 498.5 83 c 128,-1,56
+ 420 129 420 129 355.5 193.5 c 128,-1,57
+ 291 258 291 258 245 336.5 c 128,-1,58
+ 199 415 199 415 174 505 c 128,-1,59
+ 149 595 149 595 149 692 c 256,60,61
+ 149 789 149 789 174 879 c 128,-1,62
+ 199 969 199 969 245 1047.5 c 128,-1,63
+ 291 1126 291 1126 355.5 1190.5 c 128,-1,64
+ 420 1255 420 1255 498.5 1301 c 128,-1,65
+ 577 1347 577 1347 667.5 1372.5 c 128,-1,66
+ 758 1398 758 1398 855 1398 c 256,67,68
+ 952 1398 952 1398 1042 1372.5 c 128,-1,69
+ 1132 1347 1132 1347 1210.5 1301 c 128,-1,70
+ 1289 1255 1289 1255 1353.5 1190.5 c 128,-1,71
+ 1418 1126 1418 1126 1464 1047.5 c 128,-1,72
+ 1510 969 1510 969 1535 879 c 128,-1,73
+ 1560 789 1560 789 1560 692 c 256,46,47
+1461 692 m 0,74,75
+ 1461 778 1461 778 1439.5 857.5 c 128,-1,76
+ 1418 937 1418 937 1379 1006 c 128,-1,77
+ 1340 1075 1340 1075 1285 1131.5 c 128,-1,78
+ 1230 1188 1230 1188 1162.5 1228 c 128,-1,79
+ 1095 1268 1095 1268 1017.5 1290 c 128,-1,80
+ 940 1312 940 1312 855 1312 c 256,81,82
+ 770 1312 770 1312 692 1290 c 128,-1,83
+ 614 1268 614 1268 546 1228 c 128,-1,84
+ 478 1188 478 1188 422.5 1131.5 c 128,-1,85
+ 367 1075 367 1075 327.5 1006 c 128,-1,86
+ 288 937 288 937 266.5 857.5 c 128,-1,87
+ 245 778 245 778 245 692 c 0,88,89
+ 245 563 245 563 292.5 450 c 128,-1,90
+ 340 337 340 337 422.5 254 c 128,-1,91
+ 505 171 505 171 616.5 123 c 128,-1,92
+ 728 75 728 75 855 75 c 256,93,94
+ 982 75 982 75 1092.5 123 c 128,-1,95
+ 1203 171 1203 171 1285 254 c 128,-1,96
+ 1367 337 1367 337 1414 450 c 128,-1,97
+ 1461 563 1461 563 1461 692 c 0,74,75
+EndSplineSet
 Validated: 1
 EndChar
 EndChars

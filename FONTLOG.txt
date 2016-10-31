@@ -57,6 +57,12 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 - Fixed "Circled Numbers" & "Negative Circled Numbers" (BoldItalic)
 - Corrected several non-integral coordinates, missing extrema, cleaning the mess (BoldItalic)
 
+31 October 2016 (Guillaume Litaudon) Latte v. 0.2
+- Fixed uni1D77 and added uni1D77.salt (Regular & Bold)
+- Added the irony point (all)
+- Added the interrobang (all)
+- Added the basis point (all)
+- Added the copyleft symbol (all)
 
 
 If you make modifications be sure to add your name (N), 
