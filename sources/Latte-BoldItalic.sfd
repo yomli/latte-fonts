@@ -4,7 +4,7 @@ FullName: Latte Bold Italic
 FamilyName: Latte
 Weight: Bold
 Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.com) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte BoldItalic font+AAoACgAA-This file provides detailed information on the Latte BoldItalic font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-BoldItalic.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+FontLog: "# FONTLOG for the Latte BoldItalic font+AAoACgAA-This file provides detailed information on the Latte BoldItalic font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-BoldItalic.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0 +AAoACgAA-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
 Version: 0.3
 ItalicAngle: -7
 UnderlinePosition: -200
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835835226
-ModificationTime: 1477914486
+ModificationTime: 1478036999
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -698,10 +698,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 2016 21 10
+WinInfo: 2522 26 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 2788 2788
+BeginChars: 2789 2789
 
 StartChar: .notdef
 Encoding: 2122 -1 0
@@ -112357,6 +112357,13 @@ SplineSet
  218 -135 218 -135 248 -106 c 0,27,28
  266 -92 266 -92 354 78 c 1,0,-1
 EndSplineSet
+EndChar
+
+StartChar: nonbreakingspace
+Encoding: 2788 160 2788
+Width: 463
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
