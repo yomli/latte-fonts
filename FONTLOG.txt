@@ -70,6 +70,9 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 31 October 2016 (Guillaume Litaudon) Latte v. 0.3
 - Replaced the tyPoland logo for copyright reasons (all)
 
+01 October 2016 (Guillaume Litaudon) Latte v. 0.3
+- Added non-breaking space at U+00A0 (all)
+- Added soft hyphen at U+00AD (all)
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and description (D). 
