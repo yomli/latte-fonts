@@ -4,7 +4,7 @@ FullName: Latte Bold Italic
 FamilyName: Latte
 Weight: Bold
 Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.com) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte BoldItalic font+AAoACgAA-This file provides detailed information on the Latte BoldItalic font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-BoldItalic.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoACgAA-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+FontLog: "# FONTLOG for the Latte BoldItalic font+AAoACgAA-This file provides detailed information on the Latte BoldItalic font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-BoldItalic.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
 Version: 0.3
 ItalicAngle: -7
 UnderlinePosition: -200
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835835226
-ModificationTime: 1478037660
+ModificationTime: 1478039039
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -698,10 +698,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 26 10
+WinInfo: 650 26 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114779 2790
+BeginChars: 1114779 2791
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -112373,6 +112373,32 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 329 45 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni02BA
+Encoding: 698 698 2790
+Width: 809
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+514 1555 m 2,0,1
+ 561 1555 561 1555 579 1522 c 0,2,3
+ 596 1490 596 1490 574 1445 c 2,4,-1
+ 334 968 l 2,5,6
+ 312 923 312 923 269 923 c 2,7,-1
+ 161 923 l 1,8,-1
+ 347 1555 l 1,9,-1
+ 514 1555 l 2,0,1
+874 1555 m 2,10,11
+ 922 1555 922 1555 940 1522 c 0,12,13
+ 958 1490 958 1490 935 1445 c 2,14,-1
+ 694 968 l 2,15,16
+ 672 923 672 923 629 923 c 2,17,-1
+ 521 923 l 1,18,-1
+ 707 1555 l 1,19,-1
+ 874 1555 l 2,10,11
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

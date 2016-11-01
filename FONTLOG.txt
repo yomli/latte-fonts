@@ -73,6 +73,7 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 01 October 2016 (Guillaume Litaudon) Latte v. 0.3
 - Added non-breaking space at U+00A0 (all)
 - Added soft hyphen at U+00AD (all)
+- Added modifier letter double prime at U+02BA (all)
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and description (D). 
