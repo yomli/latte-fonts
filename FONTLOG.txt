@@ -78,6 +78,7 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 02 October 2016 (Guillaume Litaudon) Latte v. 0.3
 - Added modifier letter macron at U+02C9 (all)
 - Added modifier letter acute accent at U+02CA (all)
+- Added modifier letter middle grave accent at U+02F4 (all)
 
 
 If you make modifications be sure to add your name (N), 

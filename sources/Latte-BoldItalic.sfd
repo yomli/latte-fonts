@@ -4,7 +4,7 @@ FullName: Latte Bold Italic
 FamilyName: Latte
 Weight: Bold
 Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.fr) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte BoldItalic font+AAoACgAA-This file provides detailed information on the Latte BoldItalic font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-BoldItalic.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-02 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA +AAoACgAA-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+FontLog: "# FONTLOG for the Latte BoldItalic font+AAoACgAA-This file provides detailed information on the Latte BoldItalic font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-BoldItalic.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-02 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
 Version: 0.3
 ItalicAngle: -7
 UnderlinePosition: -200
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835835226
-ModificationTime: 1478075086
+ModificationTime: 1478076909
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -698,10 +698,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 546 26 10
+WinInfo: 650 26 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114779 2793
+BeginChars: 1114779 2794
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -112400,6 +112400,15 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 172 180 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni02F4
+Encoding: 756 756 2793
+Width: 615
+Flags: W
+LayerCount: 2
+Fore
+Refer: 170 96 S 1 0 0 1 0 -495 2
 EndChar
 EndChars
 EndSplineFont
