@@ -4,7 +4,7 @@ FullName: Latte
 FamilyName: Latte
 Weight: Book
 Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.fr) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte Regular font+AAoACgAA-This file provides detailed information on the Latte Regular font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Regular.sfd (Regular weight)+AAoACgAA## ChangeLog+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni1E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261+AAoA-- Modified g.superior and added g.superior.salt+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed **many** intersecting paths+AAoA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77+AAoA-- Added missing stylistic alternates for g.salt in case of superior and ordinal+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-02 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+FontLog: "# FONTLOG for the Latte Regular font+AAoACgAA-This file provides detailed information on the Latte Regular font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Regular.sfd (Regular weight)+AAoACgAA## ChangeLog+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni1E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261+AAoA-- Modified g.superior and added g.superior.salt+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed **many** intersecting paths+AAoA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77+AAoA-- Added missing stylistic alternates for g.salt in case of superior and ordinal+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-02 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoA-- Fixed uni02CD+AAoA-- Added uni02F6+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
 Version: 0.3
 ItalicAngle: 0
 UnderlinePosition: -200
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835834854
-ModificationTime: 1478079251
+ModificationTime: 1478092377
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -67,7 +67,7 @@ Lookup: 1 0 0 "Substitution simple lookups5" { "sous-table Substitution simple l
 Lookup: 1 0 0 "Substitution simple lookups6" { "sous-table Substitution simple lookups6"  } []
 Lookup: 1 0 0 "Substitution simple lookups7" { "sous-table Substitution simple lookups7"  } []
 Lookup: 1 0 0 "'salt' Alternatives stylistiques dans Latin lookup 8" { "sous-table 'salt' Alternatives stylistiques dans Latin lookup 8"  } ['locl' ('latn' <'ROM ' > ) 'salt' ('latn' <'ROM ' > ) ]
-Lookup: 1 0 0 "'salt' Alternatives stylistiques dans Cyrillique lookup 9" { "sous-table 'salt' Alternatives stylistiques dans Cyrillique lookup 9"  } ['locl' ('cyrl' <'SRB ' > ) 'salt' ('cyrl' <'SRB ' > ) ]
+Lookup: 1 0 0 "'salt' Alternatives stylistiques dans Cyrillique lookup 9" { "sous-table 'salt' Alternatives stylistiques dans Cyrillique lookup 9"  } ['locl' ('latn' <'dflt' > 'cyrl' <'SRB ' > ) 'salt' ('cyrl' <'SRB ' > ) ]
 Lookup: 4 0 0 "'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" { "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10"  } ['ccmp' ('cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'IPPH' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 6 0 0 "'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups11" { "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups11"  } ['ccmp' ('cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'IPPH' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 6 256 0 "'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups12" { "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups12"  } ['ccmp' ('cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'IPPH' 'ROM ' 'dflt' > ) ]
@@ -738,13 +738,12 @@ EndFPST
 LangName: 1033 "" "" "Regular" "" "" "Version 0.3" "" "Latte is a trademark of Guillaume Litaudon." "" "Guillaume Litaudon+AAoA-Lukasz Dziedzic" "Latte is a sans-serif typeface family based on Carlito." "" "http://www.guillaumelitaudon.fr/+AAoA-http://www.typoland.com/designers/Lukasz_Dziedzic/" "Copyright (c) 2016, Guillaume Litaudon (www.guillaumelitaudon.fr),+AAoA-with Reserved Font Name +ACIA-Latte+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1742 26 10
+WinInfo: 676 26 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -754,7 +753,7 @@ Grid
  470.037908381 -1536 l 1024
 EndSplineSet
 TeXData: 1 0 0 237056 118528 79018 500736 -1048576 79018 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114782 2796
+BeginChars: 1114780 2797
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -5470,7 +5469,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 2779 -1 N 1 0 0 1 0 0 0
-Refer: 103 567 S 1 0 0 1 0 0 0
+Refer: 103 567 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 21 -7 0
 Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" j.superior
@@ -5486,23 +5485,23 @@ Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-340 978 m 5,0,-1
- 340 -71 l 6,1,2
- 340 -130 340 -130 324 -181 c 132,-1,3
- 308 -232 308 -232 273.5 -269.5 c 132,-1,4
- 239 -307 239 -307 185.5 -329 c 132,-1,5
- 132 -351 132 -351 57 -351 c 4,6,7
- 25 -351 25 -351 -1.5 -346.5 c 132,-1,8
- -28 -342 -28 -342 -55 -332 c 5,9,-1
- -45 -238 l 6,10,11
- -44 -229 -44 -229 -40.5 -224.5 c 132,-1,12
- -37 -220 -37 -220 -29.5 -219 c 132,-1,13
- -22 -218 -22 -218 -9.5 -218.5 c 132,-1,14
- 3 -219 3 -219 22 -219 c 4,15,16
- 98 -219 98 -219 131 -184 c 132,-1,17
- 164 -149 164 -149 164 -71 c 6,18,-1
- 164 978 l 5,19,-1
- 340 978 l 5,0,-1
+340 978 m 1,0,-1
+ 340 -71 l 2,1,2
+ 340 -130 340 -130 324 -181 c 128,-1,3
+ 308 -232 308 -232 273.5 -269.5 c 128,-1,4
+ 239 -307 239 -307 185.5 -329 c 128,-1,5
+ 132 -351 132 -351 57 -351 c 0,6,7
+ 25 -351 25 -351 -1.5 -346.5 c 128,-1,8
+ -28 -342 -28 -342 -55 -332 c 1,9,-1
+ -45 -238 l 2,10,11
+ -44 -229 -44 -229 -40.5 -224.5 c 128,-1,12
+ -37 -220 -37 -220 -29.5 -219 c 128,-1,13
+ -22 -218 -22 -218 -9.5 -218.5 c 128,-1,14
+ 3 -219 3 -219 22 -219 c 0,15,16
+ 98 -219 98 -219 131 -184 c 128,-1,17
+ 164 -149 164 -149 164 -71 c 2,18,-1
+ 164 978 l 1,19,-1
+ 340 978 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar
@@ -36697,11 +36696,59 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 93 103 S -1 -0 0 -1 1042.5 644 2
+SplineSet
+108 -334 m 1,0,-1
+ 108 589 l 2,1,2
+ 108 677 108 677 138 751 c 128,-1,3
+ 168 825 168 825 226 879 c 128,-1,4
+ 284 933 284 933 369 963 c 128,-1,5
+ 454 993 454 993 562 993 c 0,6,7
+ 682 993 682 993 768 958 c 128,-1,8
+ 854 923 854 923 912 871 c 1,9,-1
+ 870 804 l 2,10,11
+ 856 778 856 778 824 778 c 0,12,13
+ 806 778 806 778 786 791.5 c 128,-1,14
+ 766 805 766 805 738 821.5 c 128,-1,15
+ 710 838 710 838 668 851.5 c 128,-1,16
+ 626 865 626 865 566 865 c 0,17,18
+ 496 865 496 865 443 844.5 c 128,-1,19
+ 390 824 390 824 355 788 c 128,-1,20
+ 320 752 320 752 302 703 c 128,-1,21
+ 284 654 284 654 284 597 c 2,22,-1
+ 284 487 l 1,23,24
+ 316 523 316 523 348 550.5 c 128,-1,25
+ 380 578 380 578 417 596.5 c 128,-1,26
+ 454 615 454 615 496 624 c 128,-1,27
+ 538 633 538 633 588 633 c 0,28,29
+ 677 633 677 633 747.5 600.5 c 128,-1,30
+ 818 568 818 568 867 505.5 c 128,-1,31
+ 916 443 916 443 942 352 c 128,-1,32
+ 968 261 968 261 968 143 c 0,33,34
+ 968 39 968 39 939 -51.5 c 128,-1,35
+ 910 -142 910 -142 856 -208.5 c 128,-1,36
+ 802 -275 802 -275 724 -313 c 128,-1,37
+ 646 -351 646 -351 548 -351 c 0,38,39
+ 453 -351 453 -351 387.5 -317.5 c 128,-1,40
+ 322 -284 322 -284 272 -223 c 1,41,-1
+ 258 -298 l 2,42,43
+ 250 -334 250 -334 212 -334 c 2,44,-1
+ 108 -334 l 1,0,-1
+542 492 m 0,45,46
+ 461 492 461 492 398.5 454 c 128,-1,47
+ 336 416 336 416 284 346 c 1,48,-1
+ 284 -102 l 1,49,50
+ 329 -163 329 -163 385.5 -189.5 c 128,-1,51
+ 442 -216 442 -216 508 -216 c 0,52,53
+ 642 -216 642 -216 715 -122.5 c 128,-1,54
+ 788 -29 788 -29 788 143 c 0,55,56
+ 788 234 788 234 771 300 c 128,-1,57
+ 754 366 754 366 723 408.5 c 128,-1,58
+ 692 451 692 451 646 471.5 c 128,-1,59
+ 600 492 600 492 542 492 c 0,45,46
+EndSplineSet
 Validated: 1
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni1D77.salt
 Substitution2: "sous-table 'ss04' Style 4 lookups34" uni1D77.salt
-Substitution2: "sous-table 'salt' Alternatives stylistiques dans Cyrillique lookup 9" uni1D77.salt
 EndChar
 
 StartChar: uni1D78
@@ -39108,7 +39155,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph924
-Encoding: 1114365 -1 922
+Encoding: 1114363 -1 922
 Width: 1126
 GlyphClass: 2
 Flags: MW
@@ -40191,7 +40238,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph949
-Encoding: 1114366 -1 947
+Encoding: 1114364 -1 947
 Width: 452
 GlyphClass: 2
 Flags: MW
@@ -47874,7 +47921,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1110
-Encoding: 1114367 -1 1108
+Encoding: 1114365 -1 1108
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -47891,7 +47938,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1111
-Encoding: 1114368 -1 1109
+Encoding: 1114366 -1 1109
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -47942,7 +47989,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1112
-Encoding: 1114369 -1 1110
+Encoding: 1114367 -1 1110
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -47956,7 +48003,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1113
-Encoding: 1114370 -1 1111
+Encoding: 1114368 -1 1111
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -47970,7 +48017,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1114
-Encoding: 1114371 -1 1112
+Encoding: 1114369 -1 1112
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -48001,7 +48048,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1115
-Encoding: 1114372 -1 1113
+Encoding: 1114370 -1 1113
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -48032,7 +48079,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1116
-Encoding: 1114373 -1 1114
+Encoding: 1114371 -1 1114
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -48061,7 +48108,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1117
-Encoding: 1114374 -1 1115
+Encoding: 1114372 -1 1115
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -48090,7 +48137,7 @@ Validated: 1
 EndChar
 
 StartChar: uni01E5.salt
-Encoding: 1114375 -1 1116
+Encoding: 1114373 -1 1116
 Width: 1100
 GlyphClass: 2
 Flags: MW
@@ -48618,7 +48665,7 @@ Substitution2: "sous-table 'numr' Num+AOkA-rateurs lookups15" eight.numr
 EndChar
 
 StartChar: glyph1143
-Encoding: 1114376 -1 1141
+Encoding: 1114374 -1 1141
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -49126,7 +49173,7 @@ Validated: 1
 EndChar
 
 StartChar: hyphen.case
-Encoding: 1114377 -1 1154
+Encoding: 1114375 -1 1154
 Width: 627
 GlyphClass: 2
 Flags: MW
@@ -49138,7 +49185,7 @@ Validated: 1
 EndChar
 
 StartChar: endash.case
-Encoding: 1114378 -1 1155
+Encoding: 1114376 -1 1155
 Width: 1020
 GlyphClass: 2
 Flags: MW
@@ -49150,7 +49197,7 @@ Validated: 1
 EndChar
 
 StartChar: emdash.case
-Encoding: 1114379 -1 1156
+Encoding: 1114377 -1 1156
 Width: 1854
 GlyphClass: 2
 Flags: MW
@@ -49162,7 +49209,7 @@ Validated: 1
 EndChar
 
 StartChar: guilsinglleft.case
-Encoding: 1114380 -1 1157
+Encoding: 1114378 -1 1157
 Width: 694
 GlyphClass: 2
 Flags: MW
@@ -49174,7 +49221,7 @@ Validated: 1
 EndChar
 
 StartChar: guilsinglright.case
-Encoding: 1114381 -1 1158
+Encoding: 1114379 -1 1158
 Width: 694
 GlyphClass: 2
 Flags: MW
@@ -49186,7 +49233,7 @@ Validated: 1
 EndChar
 
 StartChar: guillemotleft.case
-Encoding: 1114382 -1 1159
+Encoding: 1114380 -1 1159
 Width: 1049
 GlyphClass: 2
 Flags: MW
@@ -49199,7 +49246,7 @@ Validated: 1
 EndChar
 
 StartChar: guillemotright.case
-Encoding: 1114383 -1 1160
+Encoding: 1114381 -1 1160
 Width: 1049
 GlyphClass: 2
 Flags: MW
@@ -49212,7 +49259,7 @@ Validated: 1
 EndChar
 
 StartChar: periodcentered.case
-Encoding: 1114384 -1 1161
+Encoding: 1114382 -1 1161
 Width: 517
 GlyphClass: 2
 Flags: MW
@@ -49241,7 +49288,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1164
-Encoding: 1114385 -1 1162
+Encoding: 1114383 -1 1162
 Width: 1119
 Flags: MW
 LayerCount: 2
@@ -49252,7 +49299,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1165
-Encoding: 1114386 -1 1163
+Encoding: 1114384 -1 1163
 Width: 1119
 Flags: MW
 LayerCount: 2
@@ -49263,7 +49310,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1166
-Encoding: 1114387 -1 1164
+Encoding: 1114385 -1 1164
 Width: 1120
 Flags: MW
 LayerCount: 2
@@ -49274,7 +49321,7 @@ Validated: 1
 EndChar
 
 StartChar: exclamdown.case
-Encoding: 1114388 -1 1165
+Encoding: 1114386 -1 1165
 Width: 667
 GlyphClass: 2
 Flags: MW
@@ -49310,7 +49357,7 @@ Validated: 1
 EndChar
 
 StartChar: questiondown.case
-Encoding: 1114389 -1 1166
+Encoding: 1114387 -1 1166
 Width: 949
 GlyphClass: 2
 Flags: MW
@@ -49368,7 +49415,7 @@ Validated: 1
 EndChar
 
 StartChar: parenleft.case
-Encoding: 1114390 -1 1167
+Encoding: 1114388 -1 1167
 Width: 621
 GlyphClass: 2
 Flags: MW
@@ -49380,7 +49427,7 @@ Validated: 1
 EndChar
 
 StartChar: parenright.case
-Encoding: 1114391 -1 1168
+Encoding: 1114389 -1 1168
 Width: 621
 GlyphClass: 2
 Flags: MW
@@ -49392,7 +49439,7 @@ Validated: 1
 EndChar
 
 StartChar: bracketleft.case
-Encoding: 1114392 -1 1169
+Encoding: 1114390 -1 1169
 Width: 628
 GlyphClass: 2
 Flags: MW
@@ -49404,7 +49451,7 @@ Validated: 1
 EndChar
 
 StartChar: bracketright.case
-Encoding: 1114393 -1 1170
+Encoding: 1114391 -1 1170
 Width: 628
 GlyphClass: 2
 Flags: MW
@@ -49416,7 +49463,7 @@ Validated: 1
 EndChar
 
 StartChar: braceleft.case
-Encoding: 1114394 -1 1171
+Encoding: 1114392 -1 1171
 Width: 644
 GlyphClass: 2
 Flags: MW
@@ -49428,7 +49475,7 @@ Validated: 1
 EndChar
 
 StartChar: braceright.case
-Encoding: 1114395 -1 1172
+Encoding: 1114393 -1 1172
 Width: 644
 GlyphClass: 2
 Flags: MW
@@ -49452,7 +49499,7 @@ Validated: 1
 EndChar
 
 StartChar: at.case
-Encoding: 1114396 -1 1174
+Encoding: 1114394 -1 1174
 Width: 1831
 GlyphClass: 2
 Flags: MW
@@ -49465,7 +49512,7 @@ Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx
 EndChar
 
 StartChar: glyph1177
-Encoding: 1114397 -1 1175
+Encoding: 1114395 -1 1175
 Width: 1441
 Flags: MW
 LayerCount: 2
@@ -49523,7 +49570,7 @@ Validated: 1
 EndChar
 
 StartChar: six.pnum
-Encoding: 1114398 -1 1176
+Encoding: 1114396 -1 1176
 Width: 1078
 GlyphClass: 2
 Flags: MW
@@ -49538,7 +49585,7 @@ Substitution2: "sous-table 'tnum' Chiffres monochasse lookups20" six
 EndChar
 
 StartChar: eight.pnum
-Encoding: 1114399 -1 1177
+Encoding: 1114397 -1 1177
 Width: 1078
 GlyphClass: 2
 Flags: MW
@@ -49553,7 +49600,7 @@ Substitution2: "sous-table 'tnum' Chiffres monochasse lookups20" eight
 EndChar
 
 StartChar: glyph1180
-Encoding: 1114400 -1 1178
+Encoding: 1114398 -1 1178
 Width: 1163
 Flags: MW
 LayerCount: 2
@@ -49614,7 +49661,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1181
-Encoding: 1114401 -1 1179
+Encoding: 1114399 -1 1179
 Width: 1048
 Flags: MW
 LayerCount: 2
@@ -49625,7 +49672,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1182
-Encoding: 1114402 -1 1180
+Encoding: 1114400 -1 1180
 Width: 967
 Flags: MW
 LayerCount: 2
@@ -49636,7 +49683,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1183
-Encoding: 1114403 -1 1181
+Encoding: 1114401 -1 1181
 Width: 1063
 Flags: MW
 LayerCount: 2
@@ -49647,7 +49694,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1184
-Encoding: 1114404 -1 1182
+Encoding: 1114402 -1 1182
 Width: 1191
 Flags: MW
 LayerCount: 2
@@ -49690,7 +49737,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1185
-Encoding: 1114405 -1 1183
+Encoding: 1114403 -1 1183
 Width: 1129
 Flags: MW
 LayerCount: 2
@@ -49720,7 +49767,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1186
-Encoding: 1114406 -1 1184
+Encoding: 1114404 -1 1184
 Width: 1063
 Flags: MW
 LayerCount: 2
@@ -49731,7 +49778,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1187
-Encoding: 1114407 -1 1185
+Encoding: 1114405 -1 1185
 Width: 1225
 Flags: MW
 LayerCount: 2
@@ -49773,7 +49820,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1188
-Encoding: 1114408 -1 1186
+Encoding: 1114406 -1 1186
 Width: 1292
 Flags: MW
 LayerCount: 2
@@ -49840,7 +49887,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1189
-Encoding: 1114409 -1 1187
+Encoding: 1114407 -1 1187
 Width: 1042
 Flags: MW
 LayerCount: 2
@@ -49977,7 +50024,7 @@ Substitution2: "sous-table 'pnum' Chiffres proportionnels lookups21" dollar.pnum
 EndChar
 
 StartChar: glyph1191
-Encoding: 1114410 -1 1189
+Encoding: 1114408 -1 1189
 Width: 1043
 Flags: MW
 LayerCount: 2
@@ -50083,7 +50130,7 @@ Substitution2: "sous-table 'pnum' Chiffres proportionnels lookups21" sterling.pn
 EndChar
 
 StartChar: glyph1193
-Encoding: 1114411 -1 1191
+Encoding: 1114409 -1 1191
 Width: 1042
 Flags: MW
 LayerCount: 2
@@ -50113,7 +50160,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1194
-Encoding: 1114412 -1 1192
+Encoding: 1114410 -1 1192
 Width: 1043
 Flags: MW
 LayerCount: 2
@@ -50173,7 +50220,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1195
-Encoding: 1114413 -1 1193
+Encoding: 1114411 -1 1193
 Width: 1042
 Flags: MW
 LayerCount: 2
@@ -50219,7 +50266,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1196
-Encoding: 1114414 -1 1194
+Encoding: 1114412 -1 1194
 Width: 1062
 Flags: MW
 LayerCount: 2
@@ -50280,7 +50327,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1197
-Encoding: 1114415 -1 1195
+Encoding: 1114413 -1 1195
 Width: 975
 Flags: MW
 LayerCount: 2
@@ -50291,7 +50338,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1198
-Encoding: 1114416 -1 1196
+Encoding: 1114414 -1 1196
 Width: 918
 Flags: MW
 LayerCount: 2
@@ -50302,7 +50349,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1199
-Encoding: 1114417 -1 1197
+Encoding: 1114415 -1 1197
 Width: 1003
 Flags: MW
 LayerCount: 2
@@ -50313,7 +50360,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1200
-Encoding: 1114418 -1 1198
+Encoding: 1114416 -1 1198
 Width: 999
 Flags: MW
 LayerCount: 2
@@ -50324,7 +50371,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1201
-Encoding: 1114419 -1 1199
+Encoding: 1114417 -1 1199
 Width: 981
 Flags: MW
 LayerCount: 2
@@ -50335,7 +50382,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1202
-Encoding: 1114420 -1 1200
+Encoding: 1114418 -1 1200
 Width: 1024
 Flags: MW
 LayerCount: 2
@@ -50346,7 +50393,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1203
-Encoding: 1114421 -1 1201
+Encoding: 1114419 -1 1201
 Width: 999
 Flags: MW
 LayerCount: 2
@@ -50357,7 +50404,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1204
-Encoding: 1114422 -1 1202
+Encoding: 1114420 -1 1202
 Width: 1051
 Flags: MW
 LayerCount: 2
@@ -50368,7 +50415,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1205
-Encoding: 1114423 -1 1203
+Encoding: 1114421 -1 1203
 Width: 1042
 Flags: MW
 LayerCount: 2
@@ -50392,7 +50439,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1206
-Encoding: 1114424 -1 1204
+Encoding: 1114422 -1 1204
 Width: 1041
 Flags: MW
 LayerCount: 2
@@ -50404,7 +50451,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1207
-Encoding: 1114425 -1 1205
+Encoding: 1114423 -1 1205
 Width: 1041
 Flags: MW
 LayerCount: 2
@@ -50461,7 +50508,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1208
-Encoding: 1114426 -1 1206
+Encoding: 1114424 -1 1206
 Width: 1041
 Flags: MW
 LayerCount: 2
@@ -50493,7 +50540,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1209
-Encoding: 1114427 -1 1207
+Encoding: 1114425 -1 1207
 Width: 1042
 Flags: MW
 LayerCount: 2
@@ -50516,7 +50563,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1210
-Encoding: 1114428 -1 1208
+Encoding: 1114426 -1 1208
 Width: 1042
 Flags: MW
 LayerCount: 2
@@ -50542,7 +50589,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1211
-Encoding: 1114429 -1 1209
+Encoding: 1114427 -1 1209
 Width: 1042
 Flags: MW
 LayerCount: 2
@@ -50568,7 +50615,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1212
-Encoding: 1114430 -1 1210
+Encoding: 1114428 -1 1210
 Width: 1042
 Flags: MW
 LayerCount: 2
@@ -50590,7 +50637,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1213
-Encoding: 1114431 -1 1211
+Encoding: 1114429 -1 1211
 Width: 1042
 Flags: MW
 LayerCount: 2
@@ -50619,7 +50666,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1214
-Encoding: 1114432 -1 1212
+Encoding: 1114430 -1 1212
 Width: 1042
 Flags: MW
 LayerCount: 2
@@ -50635,7 +50682,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1215
-Encoding: 1114433 -1 1213
+Encoding: 1114431 -1 1213
 Width: 1042
 Flags: MW
 LayerCount: 2
@@ -50653,7 +50700,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1216
-Encoding: 1114434 -1 1214
+Encoding: 1114432 -1 1214
 Width: 1043
 Flags: MW
 LayerCount: 2
@@ -50677,7 +50724,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1217
-Encoding: 1114435 -1 1215
+Encoding: 1114433 -1 1215
 Width: 1042
 Flags: MW
 LayerCount: 2
@@ -50725,7 +50772,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1218
-Encoding: 1114436 -1 1216
+Encoding: 1114434 -1 1216
 Width: 607
 Flags: MW
 LayerCount: 2
@@ -50786,7 +50833,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1219
-Encoding: 1114437 -1 1217
+Encoding: 1114435 -1 1217
 Width: 607
 Flags: MW
 LayerCount: 2
@@ -50797,7 +50844,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1220
-Encoding: 1114438 -1 1218
+Encoding: 1114436 -1 1218
 Width: 607
 Flags: MW
 LayerCount: 2
@@ -50808,7 +50855,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1221
-Encoding: 1114439 -1 1219
+Encoding: 1114437 -1 1219
 Width: 608
 Flags: MW
 LayerCount: 2
@@ -50820,7 +50867,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1222
-Encoding: 1114440 -1 1220
+Encoding: 1114438 -1 1220
 Width: 263
 Flags: MW
 LayerCount: 2
@@ -50846,7 +50893,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1223
-Encoding: 1114441 -1 1221
+Encoding: 1114439 -1 1221
 Width: 263
 Flags: MW
 LayerCount: 2
@@ -50866,7 +50913,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1224
-Encoding: 1114442 -1 1222
+Encoding: 1114440 -1 1222
 Width: 597
 Flags: MW
 LayerCount: 2
@@ -50877,7 +50924,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1225
-Encoding: 1114443 -1 1223
+Encoding: 1114441 -1 1223
 Width: 607
 Flags: MW
 LayerCount: 2
@@ -50932,7 +50979,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1226
-Encoding: 1114444 -1 1224
+Encoding: 1114442 -1 1224
 Width: 606
 Flags: MW
 LayerCount: 2
@@ -51003,7 +51050,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1227
-Encoding: 1114445 -1 1225
+Encoding: 1114443 -1 1225
 Width: 606
 Flags: MW
 LayerCount: 2
@@ -51055,7 +51102,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1228
-Encoding: 1114446 -1 1226
+Encoding: 1114444 -1 1226
 Width: 606
 Flags: MW
 LayerCount: 2
@@ -51105,7 +51152,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1229
-Encoding: 1114447 -1 1227
+Encoding: 1114445 -1 1227
 Width: 607
 Flags: MW
 LayerCount: 2
@@ -51148,7 +51195,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1230
-Encoding: 1114448 -1 1228
+Encoding: 1114446 -1 1228
 Width: 607
 Flags: MW
 LayerCount: 2
@@ -51178,7 +51225,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1231
-Encoding: 1114449 -1 1229
+Encoding: 1114447 -1 1229
 Width: 606
 Flags: MW
 LayerCount: 2
@@ -51235,7 +51282,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1232
-Encoding: 1114450 -1 1230
+Encoding: 1114448 -1 1230
 Width: 607
 Flags: MW
 LayerCount: 2
@@ -51275,7 +51322,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1233
-Encoding: 1114451 -1 1231
+Encoding: 1114449 -1 1231
 Width: 607
 Flags: MW
 LayerCount: 2
@@ -51336,7 +51383,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1234
-Encoding: 1114452 -1 1232
+Encoding: 1114450 -1 1232
 Width: 335
 Flags: MW
 LayerCount: 2
@@ -51347,7 +51394,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1235
-Encoding: 1114453 -1 1233
+Encoding: 1114451 -1 1233
 Width: 335
 Flags: MW
 LayerCount: 2
@@ -51358,7 +51405,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1236
-Encoding: 1114454 -1 1234
+Encoding: 1114452 -1 1234
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51406,7 +51453,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1240
-Encoding: 1114455 -1 1238
+Encoding: 1114453 -1 1238
 Width: 297
 Flags: MW
 LayerCount: 2
@@ -51417,7 +51464,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1241
-Encoding: 1114456 -1 1239
+Encoding: 1114454 -1 1239
 Width: 297
 Flags: MW
 LayerCount: 2
@@ -51512,7 +51559,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1249
-Encoding: 1114457 -1 1247
+Encoding: 1114455 -1 1247
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51523,7 +51570,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1250
-Encoding: 1114458 -1 1248
+Encoding: 1114456 -1 1248
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51534,7 +51581,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1251
-Encoding: 1114459 -1 1249
+Encoding: 1114457 -1 1249
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51545,7 +51592,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1252
-Encoding: 1114460 -1 1250
+Encoding: 1114458 -1 1250
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51556,7 +51603,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1253
-Encoding: 1114461 -1 1251
+Encoding: 1114459 -1 1251
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51567,7 +51614,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1254
-Encoding: 1114462 -1 1252
+Encoding: 1114460 -1 1252
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51578,7 +51625,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1255
-Encoding: 1114463 -1 1253
+Encoding: 1114461 -1 1253
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51589,7 +51636,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1256
-Encoding: 1114464 -1 1254
+Encoding: 1114462 -1 1254
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51600,7 +51647,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1257
-Encoding: 1114465 -1 1255
+Encoding: 1114463 -1 1255
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51635,7 +51682,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1260
-Encoding: 1114466 -1 1258
+Encoding: 1114464 -1 1258
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51646,7 +51693,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1261
-Encoding: 1114467 -1 1259
+Encoding: 1114465 -1 1259
 Width: 297
 Flags: MW
 LayerCount: 2
@@ -51657,7 +51704,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1262
-Encoding: 1114468 -1 1260
+Encoding: 1114466 -1 1260
 Width: 297
 Flags: MW
 LayerCount: 2
@@ -51679,7 +51726,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1264
-Encoding: 1114469 -1 1262
+Encoding: 1114467 -1 1262
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51690,7 +51737,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1265
-Encoding: 1114470 -1 1263
+Encoding: 1114468 -1 1263
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51701,7 +51748,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1266
-Encoding: 1114471 -1 1264
+Encoding: 1114469 -1 1264
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51712,7 +51759,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1267
-Encoding: 1114472 -1 1265
+Encoding: 1114470 -1 1265
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51723,7 +51770,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1268
-Encoding: 1114473 -1 1266
+Encoding: 1114471 -1 1266
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51734,7 +51781,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1269
-Encoding: 1114474 -1 1267
+Encoding: 1114472 -1 1267
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51745,7 +51792,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1270
-Encoding: 1114475 -1 1268
+Encoding: 1114473 -1 1268
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51756,7 +51803,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1271
-Encoding: 1114476 -1 1269
+Encoding: 1114474 -1 1269
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51767,7 +51814,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1272
-Encoding: 1114477 -1 1270
+Encoding: 1114475 -1 1270
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51778,7 +51825,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1273
-Encoding: 1114478 -1 1271
+Encoding: 1114476 -1 1271
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51789,7 +51836,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1274
-Encoding: 1114479 -1 1272
+Encoding: 1114477 -1 1272
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51800,7 +51847,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1275
-Encoding: 1114480 -1 1273
+Encoding: 1114478 -1 1273
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51811,7 +51858,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1276
-Encoding: 1114481 -1 1274
+Encoding: 1114479 -1 1274
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51823,7 +51870,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1277
-Encoding: 1114482 -1 1275
+Encoding: 1114480 -1 1275
 Width: 297
 Flags: MW
 LayerCount: 2
@@ -51834,7 +51881,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1278
-Encoding: 1114483 -1 1276
+Encoding: 1114481 -1 1276
 Width: 297
 Flags: MW
 LayerCount: 2
@@ -51845,7 +51892,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1279
-Encoding: 1114484 -1 1277
+Encoding: 1114482 -1 1277
 Width: 631
 Flags: MW
 LayerCount: 2
@@ -51856,7 +51903,7 @@ Validated: 1
 EndChar
 
 StartChar: zero.numr
-Encoding: 1114485 -1 1278
+Encoding: 1114483 -1 1278
 Width: 669
 GlyphClass: 2
 Flags: MW
@@ -51869,7 +51916,7 @@ Substitution2: "sous-table Substitution simple lookups4" zero.dnom
 EndChar
 
 StartChar: one.numr
-Encoding: 1114486 -1 1279
+Encoding: 1114484 -1 1279
 Width: 501
 GlyphClass: 2
 Flags: MW
@@ -51882,7 +51929,7 @@ Substitution2: "sous-table Substitution simple lookups4" one.dnom
 EndChar
 
 StartChar: two.numr
-Encoding: 1114487 -1 1280
+Encoding: 1114485 -1 1280
 Width: 594
 GlyphClass: 2
 Flags: MW
@@ -51895,7 +51942,7 @@ Substitution2: "sous-table Substitution simple lookups4" two.dnom
 EndChar
 
 StartChar: three.numr
-Encoding: 1114488 -1 1281
+Encoding: 1114486 -1 1281
 Width: 585
 GlyphClass: 2
 Flags: MW
@@ -51908,7 +51955,7 @@ Substitution2: "sous-table Substitution simple lookups4" three.dnom
 EndChar
 
 StartChar: four.numr
-Encoding: 1114489 -1 1282
+Encoding: 1114487 -1 1282
 Width: 586
 GlyphClass: 2
 Flags: MW
@@ -51921,7 +51968,7 @@ Substitution2: "sous-table Substitution simple lookups4" four.dnom
 EndChar
 
 StartChar: five.numr
-Encoding: 1114490 -1 1283
+Encoding: 1114488 -1 1283
 Width: 582
 GlyphClass: 2
 Flags: MW
@@ -51934,7 +51981,7 @@ Substitution2: "sous-table Substitution simple lookups4" five.dnom
 EndChar
 
 StartChar: six.numr
-Encoding: 1114491 -1 1284
+Encoding: 1114489 -1 1284
 Width: 593
 GlyphClass: 2
 Flags: MW
@@ -51947,7 +51994,7 @@ Substitution2: "sous-table Substitution simple lookups4" six.dnom
 EndChar
 
 StartChar: seven.numr
-Encoding: 1114492 -1 1285
+Encoding: 1114490 -1 1285
 Width: 568
 GlyphClass: 2
 Flags: MW
@@ -51960,7 +52007,7 @@ Substitution2: "sous-table Substitution simple lookups4" seven.dnom
 EndChar
 
 StartChar: eight.numr
-Encoding: 1114493 -1 1286
+Encoding: 1114491 -1 1286
 Width: 599
 GlyphClass: 2
 Flags: MW
@@ -51973,7 +52020,7 @@ Substitution2: "sous-table Substitution simple lookups4" eight.dnom
 EndChar
 
 StartChar: nine.numr
-Encoding: 1114494 -1 1287
+Encoding: 1114492 -1 1287
 Width: 589
 GlyphClass: 2
 Flags: MW
@@ -51986,7 +52033,7 @@ Substitution2: "sous-table Substitution simple lookups4" nine.dnom
 EndChar
 
 StartChar: glyph1290
-Encoding: 1114495 -1 1288
+Encoding: 1114493 -1 1288
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -51997,7 +52044,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1291
-Encoding: 1114496 -1 1289
+Encoding: 1114494 -1 1289
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -52008,7 +52055,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1292
-Encoding: 1114497 -1 1290
+Encoding: 1114495 -1 1290
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -52019,7 +52066,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1293
-Encoding: 1114498 -1 1291
+Encoding: 1114496 -1 1291
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -52030,7 +52077,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1294
-Encoding: 1114499 -1 1292
+Encoding: 1114497 -1 1292
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -52041,7 +52088,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1295
-Encoding: 1114500 -1 1293
+Encoding: 1114498 -1 1293
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -52052,7 +52099,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1296
-Encoding: 1114501 -1 1294
+Encoding: 1114499 -1 1294
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -52063,7 +52110,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1297
-Encoding: 1114502 -1 1295
+Encoding: 1114500 -1 1295
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -52074,7 +52121,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1298
-Encoding: 1114503 -1 1296
+Encoding: 1114501 -1 1296
 Width: 641
 Flags: MW
 LayerCount: 2
@@ -52085,7 +52132,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1299
-Encoding: 1114504 -1 1297
+Encoding: 1114502 -1 1297
 Width: 369
 Flags: MW
 LayerCount: 2
@@ -52096,7 +52143,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1300
-Encoding: 1114505 -1 1298
+Encoding: 1114503 -1 1298
 Width: 369
 Flags: MW
 LayerCount: 2
@@ -52120,7 +52167,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1302
-Encoding: 1114506 -1 1300
+Encoding: 1114504 -1 1300
 Width: 97
 Flags: MW
 LayerCount: 2
@@ -52157,7 +52204,7 @@ SplineSet
  199 562 199 562 300.5 389 c 128,-1,25
  402 216 402 216 575 115 c 128,-1,26
  748 14 748 14 952 14 c 0,27,28
- 1183 14 1183 14 1369 140.5 c 0,29,30
+ 1183 14 1183 14 1369 140 c 128,-1,30
  1555 266 1555 266 1642 472 c 1,31,-1
  1534 472 l 1,32,33
  1446 294 1446 294 1261 190 c 1,34,-1
@@ -52194,15 +52241,15 @@ SplineSet
  1606 800 1606 800 1606 772 c 0,71,72
  1606 684 1606 684 1576 580 c 1,73,-1
  1786 580 l 1,74,75
- 1824 584 1824 584 1854.5 626.5 c 0,76,77
- 1885 670 1885 670 1885 728 c 0,78,79
+ 1824 584 1824 584 1854 626 c 0,76,77
+ 1884 670 1884 670 1885 728 c 0,78,79
  1885 792 1885 792 1845.5 826 c 128,-1,80
  1806 860 1806 860 1762 860 c 2,81,-1
  1600 860 l 1,69,70
 820 826 m 1,82,83
  820 776 820 776 786 741 c 128,-1,84
  752 706 752 706 703 706 c 128,-1,85
- 654 706 654 706 620 741.5 c 0,86,87
+ 654 706 654 706 620 742 c 0,86,87
  586 776 586 776 586 826 c 1,88,89
  602 799 602 799 634 781.5 c 128,-1,90
  666 764 666 764 703 764 c 0,91,92
@@ -52228,6 +52275,7 @@ SplineSet
  1208 496 1208 496 1255 574 c 1,114,-1
  631 574 l 1,109,110
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: sun
@@ -52424,7 +52472,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1306
-Encoding: 1114507 -1 1304
+Encoding: 1114505 -1 1304
 Width: 1028
 Flags: MW
 LayerCount: 2
@@ -52446,7 +52494,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1307
-Encoding: 1114508 -1 1305
+Encoding: 1114506 -1 1305
 Width: 1028
 Flags: MW
 LayerCount: 2
@@ -52468,7 +52516,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1308
-Encoding: 1114509 -1 1306
+Encoding: 1114507 -1 1306
 Width: 1028
 Flags: MW
 LayerCount: 2
@@ -52490,7 +52538,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1309
-Encoding: 1114510 -1 1307
+Encoding: 1114508 -1 1307
 Width: 1028
 Flags: MW
 LayerCount: 2
@@ -52511,7 +52559,7 @@ Validated: 1
 EndChar
 
 StartChar: O.superior
-Encoding: 1114511 -1 1308
+Encoding: 1114509 -1 1308
 Width: 885
 GlyphClass: 2
 Flags: MW
@@ -52536,7 +52584,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph1312
 EndChar
 
 StartChar: glyph1312
-Encoding: 1114512 -1 1310
+Encoding: 1114510 -1 1310
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -52881,7 +52929,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1321
-Encoding: 1114513 -1 1319
+Encoding: 1114511 -1 1319
 Width: 1167
 Flags: MW
 LayerCount: 2
@@ -52941,7 +52989,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1322
-Encoding: 1114514 -1 1320
+Encoding: 1114512 -1 1320
 Width: 973
 Flags: MW
 LayerCount: 2
@@ -52981,7 +53029,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1323
-Encoding: 1114515 -1 1321
+Encoding: 1114513 -1 1321
 Width: 915
 Flags: MW
 LayerCount: 2
@@ -53027,7 +53075,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1324
-Encoding: 1114516 -1 1322
+Encoding: 1114514 -1 1322
 Width: 866
 Flags: MW
 LayerCount: 2
@@ -53072,7 +53120,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1325
-Encoding: 1114517 -1 1323
+Encoding: 1114515 -1 1323
 Width: 618
 Flags: MW
 LayerCount: 2
@@ -53096,7 +53144,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1326
-Encoding: 1114518 -1 1324
+Encoding: 1114516 -1 1324
 Width: 772
 Flags: MW
 LayerCount: 2
@@ -53141,7 +53189,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1327
-Encoding: 1114519 -1 1325
+Encoding: 1114517 -1 1325
 Width: 772
 Flags: MW
 LayerCount: 2
@@ -53203,7 +53251,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1328
-Encoding: 1114520 -1 1326
+Encoding: 1114518 -1 1326
 Width: 771
 Flags: MW
 LayerCount: 2
@@ -53250,7 +53298,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1329
-Encoding: 1114521 -1 1327
+Encoding: 1114519 -1 1327
 Width: 772
 Flags: MW
 LayerCount: 2
@@ -53300,7 +53348,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1330
-Encoding: 1114522 -1 1328
+Encoding: 1114520 -1 1328
 Width: 772
 Flags: MW
 LayerCount: 2
@@ -53357,7 +53405,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1331
-Encoding: 1114523 -1 1329
+Encoding: 1114521 -1 1329
 Width: 772
 Flags: MW
 LayerCount: 2
@@ -53403,7 +53451,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1332
-Encoding: 1114524 -1 1330
+Encoding: 1114522 -1 1330
 Width: 773
 Flags: MW
 LayerCount: 2
@@ -53435,7 +53483,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1333
-Encoding: 1114525 -1 1331
+Encoding: 1114523 -1 1331
 Width: 773
 Flags: MW
 LayerCount: 2
@@ -53866,7 +53914,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1357
-Encoding: 1114526 -1 1355
+Encoding: 1114524 -1 1355
 Width: 807
 GlyphClass: 2
 Flags: MW
@@ -53883,7 +53931,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1358
-Encoding: 1114527 -1 1356
+Encoding: 1114525 -1 1356
 Width: 780
 GlyphClass: 2
 Flags: MW
@@ -54029,7 +54077,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1371
-Encoding: 1114528 -1 1369
+Encoding: 1114526 -1 1369
 Width: 807
 GlyphClass: 2
 Flags: MW
@@ -54064,7 +54112,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1372
-Encoding: 1114529 -1 1370
+Encoding: 1114527 -1 1370
 Width: 807
 GlyphClass: 2
 Flags: MW
@@ -54097,7 +54145,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1373
-Encoding: 1114530 -1 1371
+Encoding: 1114528 -1 1371
 Width: 596
 GlyphClass: 2
 Flags: MW
@@ -54109,7 +54157,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1374
-Encoding: 1114531 -1 1372
+Encoding: 1114529 -1 1372
 Width: 596
 GlyphClass: 2
 Flags: MW
@@ -54731,7 +54779,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1386
-Encoding: 1114532 -1 1384
+Encoding: 1114530 -1 1384
 Width: 2132
 Flags: MW
 LayerCount: 2
@@ -54792,7 +54840,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1387
-Encoding: 1114533 -1 1385
+Encoding: 1114531 -1 1385
 Width: 2132
 Flags: MW
 LayerCount: 2
@@ -56699,7 +56747,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1419
-Encoding: 1114534 -1 1417
+Encoding: 1114532 -1 1417
 Width: 922
 GlyphClass: 2
 Flags: MW
@@ -56712,7 +56760,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1420
-Encoding: 1114535 -1 1418
+Encoding: 1114533 -1 1418
 Width: 922
 GlyphClass: 2
 Flags: MW
@@ -56725,7 +56773,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1421
-Encoding: 1114536 -1 1419
+Encoding: 1114534 -1 1419
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -56751,7 +56799,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1422
-Encoding: 1114537 -1 1420
+Encoding: 1114535 -1 1420
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -56777,7 +56825,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1423
-Encoding: 1114538 -1 1421
+Encoding: 1114536 -1 1421
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -56790,7 +56838,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1424
-Encoding: 1114539 -1 1422
+Encoding: 1114537 -1 1422
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -56803,7 +56851,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1425
-Encoding: 1114540 -1 1423
+Encoding: 1114538 -1 1423
 Width: 922
 GlyphClass: 2
 Flags: MW
@@ -56817,7 +56865,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1426
-Encoding: 1114541 -1 1424
+Encoding: 1114539 -1 1424
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -56868,7 +56916,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1427
-Encoding: 1114542 -1 1425
+Encoding: 1114540 -1 1425
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -56882,7 +56930,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1428
-Encoding: 1114543 -1 1426
+Encoding: 1114541 -1 1426
 Width: 598
 GlyphClass: 2
 Flags: MW
@@ -56895,7 +56943,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1429
-Encoding: 1114544 -1 1427
+Encoding: 1114542 -1 1427
 Width: 809
 GlyphClass: 2
 Flags: MW
@@ -56908,7 +56956,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1430
-Encoding: 1114545 -1 1428
+Encoding: 1114543 -1 1428
 Width: 809
 GlyphClass: 2
 Flags: MW
@@ -56952,7 +57000,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1431
-Encoding: 1114546 -1 1429
+Encoding: 1114544 -1 1429
 Width: 682
 GlyphClass: 2
 Flags: MW
@@ -56990,7 +57038,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1432
-Encoding: 1114547 -1 1430
+Encoding: 1114545 -1 1430
 Width: 1360
 GlyphClass: 2
 Flags: MW
@@ -57007,7 +57055,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1433
-Encoding: 1114548 -1 1431
+Encoding: 1114546 -1 1431
 Width: 639
 GlyphClass: 2
 Flags: MW
@@ -57043,7 +57091,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1434
-Encoding: 1114549 -1 1432
+Encoding: 1114547 -1 1432
 Width: 922
 GlyphClass: 2
 Flags: MW
@@ -57057,7 +57105,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1435
-Encoding: 1114550 -1 1433
+Encoding: 1114548 -1 1433
 Width: 598
 GlyphClass: 2
 Flags: MW
@@ -57070,7 +57118,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1436
-Encoding: 1114551 -1 1434
+Encoding: 1114549 -1 1434
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -57091,7 +57139,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1437
-Encoding: 1114552 -1 1435
+Encoding: 1114550 -1 1435
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -57112,7 +57160,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1438
-Encoding: 1114553 -1 1436
+Encoding: 1114551 -1 1436
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -57129,7 +57177,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1439
-Encoding: 1114554 -1 1437
+Encoding: 1114552 -1 1437
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -57143,7 +57191,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1440
-Encoding: 1114555 -1 1438
+Encoding: 1114553 -1 1438
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -57157,7 +57205,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1441
-Encoding: 1114556 -1 1439
+Encoding: 1114554 -1 1439
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -57171,7 +57219,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1442
-Encoding: 1114557 -1 1440
+Encoding: 1114555 -1 1440
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -57185,7 +57233,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1443
-Encoding: 1114558 -1 1441
+Encoding: 1114556 -1 1441
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -57199,7 +57247,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1444
-Encoding: 1114559 -1 1442
+Encoding: 1114557 -1 1442
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -57212,7 +57260,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1445
-Encoding: 1114560 -1 1443
+Encoding: 1114558 -1 1443
 Width: 804
 GlyphClass: 2
 Flags: MW
@@ -57246,7 +57294,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1446
-Encoding: 1114561 -1 1444
+Encoding: 1114559 -1 1444
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -57258,7 +57306,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1447
-Encoding: 1114562 -1 1445
+Encoding: 1114560 -1 1445
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -57283,7 +57331,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1448
-Encoding: 1114563 -1 1446
+Encoding: 1114561 -1 1446
 Width: 922
 GlyphClass: 2
 Flags: MW
@@ -57323,7 +57371,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1449
-Encoding: 1114564 -1 1447
+Encoding: 1114562 -1 1447
 Width: 922
 GlyphClass: 2
 Flags: MW
@@ -57711,7 +57759,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1469
-Encoding: 1114565 -1 1467
+Encoding: 1114563 -1 1467
 Width: 807
 GlyphClass: 2
 Flags: MW
@@ -57751,7 +57799,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1470
-Encoding: 1114566 -1 1468
+Encoding: 1114564 -1 1468
 Width: 809
 GlyphClass: 2
 Flags: MW
@@ -57791,7 +57839,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1471
-Encoding: 1114567 -1 1469
+Encoding: 1114565 -1 1469
 Width: 809
 GlyphClass: 2
 Flags: MW
@@ -57833,7 +57881,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1472
-Encoding: 1114568 -1 1470
+Encoding: 1114566 -1 1470
 Width: 809
 GlyphClass: 2
 Flags: MW
@@ -57875,7 +57923,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1473
-Encoding: 1114569 -1 1471
+Encoding: 1114567 -1 1471
 Width: 1126
 GlyphClass: 2
 Flags: MW
@@ -57889,7 +57937,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1474
-Encoding: 1114570 -1 1472
+Encoding: 1114568 -1 1472
 Width: 1126
 GlyphClass: 2
 Flags: MW
@@ -57903,7 +57951,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1475
-Encoding: 1114571 -1 1473
+Encoding: 1114569 -1 1473
 Width: 1126
 GlyphClass: 2
 Flags: MW
@@ -57930,7 +57978,7 @@ Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx
 EndChar
 
 StartChar: f_uni0237.liga
-Encoding: 1114572 -1 1475
+Encoding: 1114570 -1 1475
 Width: 1084
 GlyphClass: 3
 Flags: MW
@@ -57980,7 +58028,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f uni0237
 EndChar
 
 StartChar: f_f_uni0237.liga
-Encoding: 1114573 -1 1476
+Encoding: 1114571 -1 1476
 Width: 1654
 GlyphClass: 3
 Flags: MW
@@ -58050,7 +58098,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f f uni02
 EndChar
 
 StartChar: glyph1479
-Encoding: 1114574 -1 1477
+Encoding: 1114572 -1 1477
 Width: 757
 GlyphClass: 2
 Flags: MW
@@ -58063,7 +58111,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1480
-Encoding: 1114575 -1 1478
+Encoding: 1114573 -1 1478
 Width: 470
 GlyphClass: 2
 Flags: MW
@@ -58220,7 +58268,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1486
-Encoding: 1114576 -1 1484
+Encoding: 1114574 -1 1484
 Width: 1038
 GlyphClass: 2
 Flags: MW
@@ -58271,7 +58319,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1487
-Encoding: 1114577 -1 1485
+Encoding: 1114575 -1 1485
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -58302,7 +58350,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1488
-Encoding: 1114578 -1 1486
+Encoding: 1114576 -1 1486
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -58333,7 +58381,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1489
-Encoding: 1114579 -1 1487
+Encoding: 1114577 -1 1487
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -58364,7 +58412,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1490
-Encoding: 1114580 -1 1488
+Encoding: 1114578 -1 1488
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -58395,7 +58443,7 @@ Validated: 1
 EndChar
 
 StartChar: f_jcircumflex.liga
-Encoding: 1114581 -1 1489
+Encoding: 1114579 -1 1489
 Width: 1084
 GlyphClass: 3
 Flags: MW
@@ -58459,7 +58507,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f jcircum
 EndChar
 
 StartChar: f_lcaron.liga
-Encoding: 1114582 -1 1490
+Encoding: 1114580 -1 1490
 Width: 1155
 GlyphClass: 3
 Flags: MW
@@ -58473,7 +58521,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f lcaron
 EndChar
 
 StartChar: f_uni013C.liga
-Encoding: 1114583 -1 1491
+Encoding: 1114581 -1 1491
 Width: 1084
 GlyphClass: 3
 Flags: MW
@@ -58526,7 +58574,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f uni013C
 EndChar
 
 StartChar: f_uni021B.liga
-Encoding: 1114584 -1 1492
+Encoding: 1114582 -1 1492
 Width: 1261
 GlyphClass: 3
 Flags: MW
@@ -58540,7 +58588,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f uni021B
 EndChar
 
 StartChar: f_tcaron.liga
-Encoding: 1114585 -1 1493
+Encoding: 1114583 -1 1493
 Width: 1299
 GlyphClass: 3
 Flags: MW
@@ -58932,13 +58980,7 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-126 -139 m 1,0,-1
- 681 -139 l 1,1,-1
- 681 -254 l 1,2,-1
- 126 -254 l 1,3,-1
- 126 -139 l 1,0,-1
-EndSplineSet
+Refer: 2792 713 N 1 0 0 1 0 -1441 2
 Validated: 1
 EndChar
 
@@ -59335,7 +59377,7 @@ Validated: 1
 EndChar
 
 StartChar: figuredash.case
-Encoding: 1114586 -1 1524
+Encoding: 1114584 -1 1524
 Width: 1038
 GlyphClass: 2
 Flags: MW
@@ -59370,6 +59412,7 @@ Refer: 2795 8242 N 1 0 0 1 644 0 2
 Refer: 2795 8242 N 1 0 0 1 335 0 2
 Refer: 2795 8242 N 1 0 0 1 28 0 2
 Refer: 2779 -1 N 1 0 0 1 129 943 0
+Validated: 1
 EndChar
 
 StartChar: uni203E
@@ -60284,7 +60327,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1557
-Encoding: 1114587 -1 1555
+Encoding: 1114585 -1 1555
 Width: 462
 GlyphClass: 2
 Flags: MW
@@ -60296,7 +60339,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1558
-Encoding: 1114588 -1 1556
+Encoding: 1114586 -1 1556
 Width: 462
 GlyphClass: 2
 Flags: MW
@@ -60321,7 +60364,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph1560
 EndChar
 
 StartChar: glyph1560
-Encoding: 1114589 -1 1558
+Encoding: 1114587 -1 1558
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -60367,7 +60410,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1564
-Encoding: 1114590 -1 1562
+Encoding: 1114588 -1 1562
 Width: 772
 Flags: MW
 LayerCount: 2
@@ -60378,7 +60421,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1565
-Encoding: 1114591 -1 1563
+Encoding: 1114589 -1 1563
 Width: 771
 Flags: MW
 LayerCount: 2
@@ -60389,7 +60432,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1566
-Encoding: 1114592 -1 1564
+Encoding: 1114590 -1 1564
 Width: 772
 Flags: MW
 LayerCount: 2
@@ -60400,7 +60443,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1567
-Encoding: 1114593 -1 1565
+Encoding: 1114591 -1 1565
 Width: 771
 Flags: MW
 LayerCount: 2
@@ -60496,7 +60539,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1576
-Encoding: 1114594 -1 1574
+Encoding: 1114592 -1 1574
 Width: 922
 GlyphClass: 2
 Flags: MW
@@ -60531,7 +60574,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1577
-Encoding: 1114595 -1 1575
+Encoding: 1114593 -1 1575
 Width: 772
 Flags: MW
 LayerCount: 2
@@ -60557,7 +60600,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1578
-Encoding: 1114596 -1 1576
+Encoding: 1114594 -1 1576
 Width: 809
 GlyphClass: 2
 Flags: MW
@@ -60583,7 +60626,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph1580
 EndChar
 
 StartChar: glyph1580
-Encoding: 1114597 -1 1578
+Encoding: 1114595 -1 1578
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -60596,7 +60639,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1581
-Encoding: 1114598 -1 1579
+Encoding: 1114596 -1 1579
 Width: 682
 GlyphClass: 2
 Flags: MW
@@ -60608,7 +60651,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1582
-Encoding: 1114599 -1 1580
+Encoding: 1114597 -1 1580
 Width: 1020
 GlyphClass: 2
 Flags: MW
@@ -60630,7 +60673,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1583
-Encoding: 1114600 -1 1581
+Encoding: 1114598 -1 1581
 Width: 1126
 GlyphClass: 2
 Flags: MW
@@ -60643,7 +60686,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1584
-Encoding: 1114601 -1 1582
+Encoding: 1114599 -1 1582
 Width: 682
 GlyphClass: 2
 Flags: MW
@@ -60655,7 +60698,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1585
-Encoding: 1114602 -1 1583
+Encoding: 1114600 -1 1583
 Width: 682
 GlyphClass: 2
 Flags: MW
@@ -60667,7 +60710,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph1586
-Encoding: 1114603 -1 1584
+Encoding: 1114601 -1 1584
 Width: 351
 GlyphClass: 2
 Flags: MW
@@ -69082,7 +69125,7 @@ Validated: 1
 EndChar
 
 StartChar: f_uni1ECB.liga
-Encoding: 1114604 -1 2033
+Encoding: 1114602 -1 2033
 Width: 1084
 GlyphClass: 3
 Flags: MW
@@ -69097,7 +69140,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f uni1ECB
 EndChar
 
 StartChar: f_uni1E2D.liga
-Encoding: 1114605 -1 2034
+Encoding: 1114603 -1 2034
 Width: 1084
 GlyphClass: 3
 Flags: MW
@@ -69112,7 +69155,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f uni1E2D
 EndChar
 
 StartChar: f_uni0268.liga
-Encoding: 1114606 -1 2035
+Encoding: 1114604 -1 2035
 Width: 1084
 GlyphClass: 3
 Flags: MW
@@ -69126,7 +69169,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f uni0268
 EndChar
 
 StartChar: f_iacute.liga
-Encoding: 1114607 -1 2036
+Encoding: 1114605 -1 2036
 Width: 1084
 GlyphClass: 3
 Flags: MW
@@ -69140,7 +69183,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f iacute
 EndChar
 
 StartChar: f_uni1EC9.liga
-Encoding: 1114608 -1 2037
+Encoding: 1114606 -1 2037
 Width: 1084
 GlyphClass: 3
 Flags: MW
@@ -69154,7 +69197,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f uni1EC9
 EndChar
 
 StartChar: glyph2040
-Encoding: 1114609 -1 2038
+Encoding: 1114607 -1 2038
 Width: 1084
 GlyphClass: 3
 Flags: MW
@@ -69168,7 +69211,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f glyph20
 EndChar
 
 StartChar: glyph2041
-Encoding: 1114610 -1 2039
+Encoding: 1114608 -1 2039
 Width: 1084
 GlyphClass: 3
 Flags: MW
@@ -69182,7 +69225,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f glyph20
 EndChar
 
 StartChar: glyph2042
-Encoding: 1114611 -1 2040
+Encoding: 1114609 -1 2040
 Width: 1084
 GlyphClass: 3
 Flags: MW
@@ -69228,7 +69271,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f glyph20
 EndChar
 
 StartChar: f_f_uni1ECB.liga
-Encoding: 1114612 -1 2041
+Encoding: 1114610 -1 2041
 Width: 1654
 GlyphClass: 3
 Flags: MW
@@ -69243,7 +69286,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f f uni1E
 EndChar
 
 StartChar: f_f_uni1E2D.liga
-Encoding: 1114613 -1 2042
+Encoding: 1114611 -1 2042
 Width: 1654
 GlyphClass: 3
 Flags: MW
@@ -69258,7 +69301,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f f uni1E
 EndChar
 
 StartChar: f_f_uni0268.liga
-Encoding: 1114614 -1 2043
+Encoding: 1114612 -1 2043
 Width: 1654
 GlyphClass: 3
 Flags: MW
@@ -69272,7 +69315,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f f uni02
 EndChar
 
 StartChar: f_f_iacute.liga
-Encoding: 1114615 -1 2044
+Encoding: 1114613 -1 2044
 Width: 1654
 GlyphClass: 3
 Flags: MW
@@ -69286,7 +69329,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f f iacut
 EndChar
 
 StartChar: f_f_uni1EC9.liga
-Encoding: 1114616 -1 2045
+Encoding: 1114614 -1 2045
 Width: 1654
 GlyphClass: 3
 Flags: MW
@@ -69300,7 +69343,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f f uni1E
 EndChar
 
 StartChar: glyph2048
-Encoding: 1114617 -1 2046
+Encoding: 1114615 -1 2046
 Width: 1654
 GlyphClass: 3
 Flags: MW
@@ -69314,7 +69357,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f f glyph
 EndChar
 
 StartChar: glyph2049
-Encoding: 1114618 -1 2047
+Encoding: 1114616 -1 2047
 Width: 1654
 GlyphClass: 3
 Flags: MW
@@ -69328,7 +69371,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f f glyph
 EndChar
 
 StartChar: glyph2050
-Encoding: 1114619 -1 2048
+Encoding: 1114617 -1 2048
 Width: 1654
 GlyphClass: 3
 Flags: MW
@@ -69394,7 +69437,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f f glyph
 EndChar
 
 StartChar: f_lacute.liga
-Encoding: 1114620 -1 2049
+Encoding: 1114618 -1 2049
 Width: 1084
 GlyphClass: 3
 Flags: MW
@@ -69602,7 +69645,7 @@ Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni1E21.s
 EndChar
 
 StartChar: uni0123.salt
-Encoding: 1114621 -1 2057
+Encoding: 1114619 -1 2057
 Width: 1076
 GlyphClass: 2
 Flags: MW
@@ -69615,7 +69658,7 @@ Validated: 1
 EndChar
 
 StartChar: gcircumflex.salt
-Encoding: 1114622 -1 2058
+Encoding: 1114620 -1 2058
 Width: 964
 GlyphClass: 2
 Flags: MW
@@ -69627,7 +69670,7 @@ Validated: 1
 EndChar
 
 StartChar: gdotaccent.salt
-Encoding: 1114623 -1 2059
+Encoding: 1114621 -1 2059
 Width: 1076
 GlyphClass: 2
 Flags: MW
@@ -69640,7 +69683,7 @@ Validated: 1
 EndChar
 
 StartChar: gbreve.salt
-Encoding: 1114624 -1 2060
+Encoding: 1114622 -1 2060
 Width: 1076
 GlyphClass: 2
 Flags: MW
@@ -69653,7 +69696,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2063
-Encoding: 1114625 -1 2061
+Encoding: 1114623 -1 2061
 Width: 1076
 GlyphClass: 2
 Flags: MW
@@ -69753,7 +69796,7 @@ Validated: 1
 EndChar
 
 StartChar: gcaron.salt
-Encoding: 1114626 -1 2064
+Encoding: 1114624 -1 2064
 Width: 1076
 GlyphClass: 2
 Flags: MW
@@ -69766,7 +69809,7 @@ Validated: 1
 EndChar
 
 StartChar: uni01F5.salt
-Encoding: 1114627 -1 2065
+Encoding: 1114625 -1 2065
 Width: 1076
 GlyphClass: 2
 Flags: MW
@@ -69779,7 +69822,7 @@ Validated: 1
 EndChar
 
 StartChar: uni1E21.salt
-Encoding: 1114628 -1 2066
+Encoding: 1114626 -1 2066
 Width: 964
 GlyphClass: 2
 Flags: MW
@@ -70329,7 +70372,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2090
-Encoding: 1114629 -1 2088
+Encoding: 1114627 -1 2088
 Width: 470
 GlyphClass: 2
 Flags: MW
@@ -70391,7 +70434,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2094
-Encoding: 1114630 -1 2092
+Encoding: 1114628 -1 2092
 Width: 470
 GlyphClass: 2
 Flags: MW
@@ -70419,7 +70462,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2096
-Encoding: 1114631 -1 2094
+Encoding: 1114629 -1 2094
 Width: 470
 GlyphClass: 2
 Flags: MW
@@ -70456,7 +70499,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2098
-Encoding: 1114632 -1 2096
+Encoding: 1114630 -1 2096
 Width: 470
 GlyphClass: 2
 Flags: MW
@@ -70552,7 +70595,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2103
-Encoding: 1114633 -1 2101
+Encoding: 1114631 -1 2101
 Width: 576
 GlyphClass: 2
 Flags: MW
@@ -70949,7 +70992,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2121
-Encoding: 1114634 -1 2119
+Encoding: 1114632 -1 2119
 Width: 1636
 GlyphClass: 2
 Flags: MW
@@ -73173,7 +73216,7 @@ Validated: 1
 EndChar
 
 StartChar: t_i.liga
-Encoding: 1114635 -1 2208
+Encoding: 1114633 -1 2208
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -73187,7 +73230,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t i
 EndChar
 
 StartChar: t_igrave.liga
-Encoding: 1114636 -1 2209
+Encoding: 1114634 -1 2209
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -73201,7 +73244,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t igrave
 EndChar
 
 StartChar: t_iacute.liga
-Encoding: 1114637 -1 2210
+Encoding: 1114635 -1 2210
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -73215,7 +73258,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t iacute
 EndChar
 
 StartChar: t_icircumflex.liga
-Encoding: 1114638 -1 2211
+Encoding: 1114636 -1 2211
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -73273,7 +73316,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t icircum
 EndChar
 
 StartChar: t_idieresis.liga
-Encoding: 1114639 -1 2212
+Encoding: 1114637 -1 2212
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -73288,7 +73331,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t idieres
 EndChar
 
 StartChar: t_imacron.liga
-Encoding: 1114640 -1 2213
+Encoding: 1114638 -1 2213
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -73337,7 +73380,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t imacron
 EndChar
 
 StartChar: t_itilde.liga
-Encoding: 1114641 -1 2214
+Encoding: 1114639 -1 2214
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -73351,7 +73394,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t itilde
 EndChar
 
 StartChar: t_ibreve.liga
-Encoding: 1114642 -1 2215
+Encoding: 1114640 -1 2215
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -73365,7 +73408,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t ibreve
 EndChar
 
 StartChar: t_uni01D0.liga
-Encoding: 1114643 -1 2216
+Encoding: 1114641 -1 2216
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -73379,7 +73422,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t uni01D0
 EndChar
 
 StartChar: t_uni1E2D.liga
-Encoding: 1114644 -1 2217
+Encoding: 1114642 -1 2217
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -73394,7 +73437,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t uni1E2D
 EndChar
 
 StartChar: glyph2220
-Encoding: 1114645 -1 2218
+Encoding: 1114643 -1 2218
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -73408,7 +73451,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t glyph20
 EndChar
 
 StartChar: t_uni1E2F.liga
-Encoding: 1114646 -1 2219
+Encoding: 1114644 -1 2219
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -73424,7 +73467,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t uni1E2F
 EndChar
 
 StartChar: t_uni0268.liga
-Encoding: 1114647 -1 2220
+Encoding: 1114645 -1 2220
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -73438,7 +73481,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t uni0268
 EndChar
 
 StartChar: glyph2223
-Encoding: 1114648 -1 2221
+Encoding: 1114646 -1 2221
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -73490,7 +73533,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t glyph20
 EndChar
 
 StartChar: t_t_i.liga
-Encoding: 1114649 -1 2222
+Encoding: 1114647 -1 2222
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -73504,7 +73547,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t t i
 EndChar
 
 StartChar: t_t_igrave.liga
-Encoding: 1114650 -1 2223
+Encoding: 1114648 -1 2223
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -73518,7 +73561,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t t igrav
 EndChar
 
 StartChar: t_t_iacute.liga
-Encoding: 1114651 -1 2224
+Encoding: 1114649 -1 2224
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -73532,7 +73575,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t t iacut
 EndChar
 
 StartChar: t_t_icircumflex.liga
-Encoding: 1114652 -1 2225
+Encoding: 1114650 -1 2225
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -73612,7 +73655,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t t icirc
 EndChar
 
 StartChar: t_t_idieresis.liga
-Encoding: 1114653 -1 2226
+Encoding: 1114651 -1 2226
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -73627,7 +73670,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t t idier
 EndChar
 
 StartChar: t_t_imacron.liga
-Encoding: 1114654 -1 2227
+Encoding: 1114652 -1 2227
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -73698,7 +73741,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t t imacr
 EndChar
 
 StartChar: t_t_itilde.liga
-Encoding: 1114655 -1 2228
+Encoding: 1114653 -1 2228
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -73712,7 +73755,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t t itild
 EndChar
 
 StartChar: t_t_ibreve.liga
-Encoding: 1114656 -1 2229
+Encoding: 1114654 -1 2229
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -73726,7 +73769,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t t ibrev
 EndChar
 
 StartChar: t_t_uni01D0.liga
-Encoding: 1114657 -1 2230
+Encoding: 1114655 -1 2230
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -73740,7 +73783,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t t uni01
 EndChar
 
 StartChar: t_t_uni1E2D.liga
-Encoding: 1114658 -1 2231
+Encoding: 1114656 -1 2231
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -73755,7 +73798,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t t uni1E
 EndChar
 
 StartChar: glyph2234
-Encoding: 1114659 -1 2232
+Encoding: 1114657 -1 2232
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -73769,7 +73812,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t t glyph
 EndChar
 
 StartChar: t_t_uni1E2F.liga
-Encoding: 1114660 -1 2233
+Encoding: 1114658 -1 2233
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -73785,7 +73828,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t t uni1E
 EndChar
 
 StartChar: t_t_uni0268.liga
-Encoding: 1114661 -1 2234
+Encoding: 1114659 -1 2234
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -73799,7 +73842,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t t uni02
 EndChar
 
 StartChar: glyph2237
-Encoding: 1114662 -1 2235
+Encoding: 1114660 -1 2235
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -74037,7 +74080,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2246
-Encoding: 1114663 -1 2244
+Encoding: 1114661 -1 2244
 Width: 1076
 GlyphClass: 2
 Flags: MW
@@ -79587,7 +79630,7 @@ Substitution2: "sous-table 'case' Formes sensibles +AOAA la casse lookups14" uni
 EndChar
 
 StartChar: uni2015.case
-Encoding: 1114664 -1 2523
+Encoding: 1114662 -1 2523
 Width: 1854
 GlyphClass: 2
 Flags: MW
@@ -79599,7 +79642,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2526
-Encoding: 1114665 -1 2524
+Encoding: 1114663 -1 2524
 Width: 1020
 GlyphClass: 2
 Flags: MW
@@ -79616,7 +79659,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2527
-Encoding: 1114666 -1 2525
+Encoding: 1114664 -1 2525
 Width: 1020
 GlyphClass: 2
 Flags: MW
@@ -79694,7 +79737,7 @@ Substitution2: "sous-table 'case' Formes sensibles +AOAA la casse lookups14" ano
 EndChar
 
 StartChar: anoteleia.case
-Encoding: 1114667 -1 2530
+Encoding: 1114665 -1 2530
 Width: 517
 GlyphClass: 2
 Flags: MW
@@ -79723,7 +79766,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2533
-Encoding: 1114668 -1 2531
+Encoding: 1114666 -1 2531
 Width: 1569
 GlyphClass: 2
 Flags: MW
@@ -80099,7 +80142,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2556
-Encoding: 1114669 -1 2554
+Encoding: 1114667 -1 2554
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -80124,7 +80167,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2558
 EndChar
 
 StartChar: glyph2558
-Encoding: 1114670 -1 2556
+Encoding: 1114668 -1 2556
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -80136,7 +80179,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2559
-Encoding: 1114671 -1 2557
+Encoding: 1114669 -1 2557
 Width: 1126
 GlyphClass: 2
 Flags: MW
@@ -80161,7 +80204,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2561
 EndChar
 
 StartChar: glyph2561
-Encoding: 1114672 -1 2559
+Encoding: 1114670 -1 2559
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -80173,7 +80216,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2562
-Encoding: 1114673 -1 2560
+Encoding: 1114671 -1 2560
 Width: 1126
 GlyphClass: 2
 Flags: MW
@@ -80200,7 +80243,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2564
 EndChar
 
 StartChar: glyph2564
-Encoding: 1114674 -1 2562
+Encoding: 1114672 -1 2562
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -80304,7 +80347,7 @@ Validated: 1
 EndChar
 
 StartChar: t_uni0209.liga
-Encoding: 1114675 -1 2570
+Encoding: 1114673 -1 2570
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -80318,7 +80361,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t uni0209
 EndChar
 
 StartChar: t_t_uni0209.liga
-Encoding: 1114676 -1 2571
+Encoding: 1114674 -1 2571
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -80358,7 +80401,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2576
 EndChar
 
 StartChar: glyph2576
-Encoding: 1114677 -1 2574
+Encoding: 1114675 -1 2574
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -80383,7 +80426,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2578
 EndChar
 
 StartChar: glyph2578
-Encoding: 1114678 -1 2576
+Encoding: 1114676 -1 2576
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -80395,7 +80438,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2579
-Encoding: 1114679 -1 2577
+Encoding: 1114677 -1 2577
 Width: 780
 GlyphClass: 2
 Flags: MW
@@ -80485,7 +80528,7 @@ Validated: 1
 EndChar
 
 StartChar: t_uni020B.liga
-Encoding: 1114680 -1 2584
+Encoding: 1114678 -1 2584
 Width: 1141
 GlyphClass: 3
 Flags: MW
@@ -80499,7 +80542,7 @@ Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" t uni020B
 EndChar
 
 StartChar: t_t_uni020B.liga
-Encoding: 1114681 -1 2585
+Encoding: 1114679 -1 2585
 Width: 1753
 GlyphClass: 3
 Flags: MW
@@ -80526,7 +80569,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2589
 EndChar
 
 StartChar: glyph2589
-Encoding: 1114682 -1 2587
+Encoding: 1114680 -1 2587
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -80550,7 +80593,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2591
-Encoding: 1114683 -1 2589
+Encoding: 1114681 -1 2589
 Width: 511
 GlyphClass: 2
 Flags: MW
@@ -80562,7 +80605,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2592
-Encoding: 1114684 -1 2590
+Encoding: 1114682 -1 2590
 Width: 511
 GlyphClass: 2
 Flags: MW
@@ -80587,7 +80630,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2594
 EndChar
 
 StartChar: glyph2594
-Encoding: 1114685 -1 2592
+Encoding: 1114683 -1 2592
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -80611,7 +80654,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2596
-Encoding: 1114686 -1 2594
+Encoding: 1114684 -1 2594
 Width: 511
 GlyphClass: 2
 Flags: MW
@@ -80636,7 +80679,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2598
 EndChar
 
 StartChar: glyph2598
-Encoding: 1114687 -1 2596
+Encoding: 1114685 -1 2596
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -80672,7 +80715,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2601
-Encoding: 1114688 -1 2599
+Encoding: 1114686 -1 2599
 Width: 682
 GlyphClass: 2
 Flags: MW
@@ -80697,7 +80740,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2603
 EndChar
 
 StartChar: glyph2603
-Encoding: 1114689 -1 2601
+Encoding: 1114687 -1 2601
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -80844,7 +80887,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2615
-Encoding: 1114690 -1 2613
+Encoding: 1114688 -1 2613
 Width: 682
 GlyphClass: 2
 Flags: MW
@@ -80881,7 +80924,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2618
 EndChar
 
 StartChar: glyph2618
-Encoding: 1114691 -1 2616
+Encoding: 1114689 -1 2616
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -80963,7 +81006,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2623
-Encoding: 1114692 -1 2621
+Encoding: 1114690 -1 2621
 Width: 682
 GlyphClass: 2
 Flags: MW
@@ -80988,7 +81031,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2625
 EndChar
 
 StartChar: glyph2625
-Encoding: 1114693 -1 2623
+Encoding: 1114691 -1 2623
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81025,7 +81068,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2628
 EndChar
 
 StartChar: glyph2628
-Encoding: 1114694 -1 2626
+Encoding: 1114692 -1 2626
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81037,7 +81080,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2629
-Encoding: 1114695 -1 2627
+Encoding: 1114693 -1 2627
 Width: 922
 GlyphClass: 2
 Flags: MW
@@ -81062,7 +81105,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2631
 EndChar
 
 StartChar: glyph2631
-Encoding: 1114696 -1 2629
+Encoding: 1114694 -1 2629
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81098,7 +81141,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2634
-Encoding: 1114697 -1 2632
+Encoding: 1114695 -1 2632
 Width: 682
 GlyphClass: 2
 Flags: MW
@@ -81123,7 +81166,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2636
 EndChar
 
 StartChar: glyph2636
-Encoding: 1114698 -1 2634
+Encoding: 1114696 -1 2634
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81135,7 +81178,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2637
-Encoding: 1114699 -1 2635
+Encoding: 1114697 -1 2635
 Width: 462
 GlyphClass: 2
 Flags: MW
@@ -81160,7 +81203,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2639
 EndChar
 
 StartChar: glyph2639
-Encoding: 1114700 -1 2637
+Encoding: 1114698 -1 2637
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81172,7 +81215,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2640
-Encoding: 1114701 -1 2638
+Encoding: 1114699 -1 2638
 Width: 780
 GlyphClass: 2
 Flags: MW
@@ -81197,7 +81240,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2642
 EndChar
 
 StartChar: glyph2642
-Encoding: 1114702 -1 2640
+Encoding: 1114700 -1 2640
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81246,7 +81289,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2646
-Encoding: 1114703 -1 2644
+Encoding: 1114701 -1 2644
 Width: 462
 GlyphClass: 2
 Flags: MW
@@ -81284,7 +81327,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2649
 EndChar
 
 StartChar: glyph2649
-Encoding: 1114704 -1 2647
+Encoding: 1114702 -1 2647
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81320,7 +81363,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2652
-Encoding: 1114705 -1 2650
+Encoding: 1114703 -1 2650
 Width: 682
 GlyphClass: 2
 Flags: MW
@@ -81345,7 +81388,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2654
 EndChar
 
 StartChar: glyph2654
-Encoding: 1114706 -1 2652
+Encoding: 1114704 -1 2652
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81386,7 +81429,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2656
-Encoding: 1114707 -1 2654
+Encoding: 1114705 -1 2654
 Width: 1884
 GlyphClass: 2
 Flags: MW
@@ -81411,7 +81454,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2658
 EndChar
 
 StartChar: glyph2658
-Encoding: 1114708 -1 2656
+Encoding: 1114706 -1 2656
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81423,7 +81466,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2659
-Encoding: 1114709 -1 2657
+Encoding: 1114707 -1 2657
 Width: 1884
 GlyphClass: 2
 Flags: MW
@@ -81448,7 +81491,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2661
 EndChar
 
 StartChar: glyph2661
-Encoding: 1114710 -1 2659
+Encoding: 1114708 -1 2659
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81477,7 +81520,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2663
-Encoding: 1114711 -1 2661
+Encoding: 1114709 -1 2661
 Width: 1744
 GlyphClass: 2
 Flags: MW
@@ -81552,7 +81595,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2665
 EndChar
 
 StartChar: glyph2665
-Encoding: 1114712 -1 2663
+Encoding: 1114710 -1 2663
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81564,7 +81607,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2666
-Encoding: 1114713 -1 2664
+Encoding: 1114711 -1 2664
 Width: 1884
 GlyphClass: 2
 Flags: MW
@@ -81600,7 +81643,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2668
-Encoding: 1114714 -1 2666
+Encoding: 1114712 -1 2666
 Width: 479
 GlyphClass: 2
 Flags: MW
@@ -81625,7 +81668,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2670
 EndChar
 
 StartChar: glyph2670
-Encoding: 1114715 -1 2668
+Encoding: 1114713 -1 2668
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81637,7 +81680,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2671
-Encoding: 1114716 -1 2669
+Encoding: 1114714 -1 2669
 Width: 487
 GlyphClass: 2
 Flags: MW
@@ -81662,7 +81705,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2673
 EndChar
 
 StartChar: glyph2673
-Encoding: 1114717 -1 2671
+Encoding: 1114715 -1 2671
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81674,7 +81717,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2674
-Encoding: 1114718 -1 2672
+Encoding: 1114716 -1 2672
 Width: 248
 GlyphClass: 2
 Flags: MW
@@ -81699,7 +81742,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2676
 EndChar
 
 StartChar: glyph2676
-Encoding: 1114719 -1 2674
+Encoding: 1114717 -1 2674
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81711,7 +81754,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2677
-Encoding: 1114720 -1 2675
+Encoding: 1114718 -1 2675
 Width: 519
 GlyphClass: 2
 Flags: MW
@@ -81736,7 +81779,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2679
 EndChar
 
 StartChar: glyph2679
-Encoding: 1114721 -1 2677
+Encoding: 1114719 -1 2677
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81748,7 +81791,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2680
-Encoding: 1114722 -1 2678
+Encoding: 1114720 -1 2678
 Width: 521
 GlyphClass: 2
 Flags: MW
@@ -81773,7 +81816,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2682
 EndChar
 
 StartChar: glyph2682
-Encoding: 1114723 -1 2680
+Encoding: 1114721 -1 2680
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81785,7 +81828,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2683
-Encoding: 1114724 -1 2681
+Encoding: 1114722 -1 2681
 Width: 413
 GlyphClass: 2
 Flags: MW
@@ -81810,7 +81853,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2685
 EndChar
 
 StartChar: glyph2685
-Encoding: 1114725 -1 2683
+Encoding: 1114723 -1 2683
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81822,7 +81865,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2686
-Encoding: 1114726 -1 2684
+Encoding: 1114724 -1 2684
 Width: 519
 GlyphClass: 2
 Flags: MW
@@ -81847,7 +81890,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2688
 EndChar
 
 StartChar: glyph2688
-Encoding: 1114727 -1 2686
+Encoding: 1114725 -1 2686
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81859,7 +81902,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2689
-Encoding: 1114728 -1 2687
+Encoding: 1114726 -1 2687
 Width: 521
 GlyphClass: 2
 Flags: MW
@@ -81884,7 +81927,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2691
 EndChar
 
 StartChar: glyph2691
-Encoding: 1114729 -1 2689
+Encoding: 1114727 -1 2689
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81896,7 +81939,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2692
-Encoding: 1114730 -1 2690
+Encoding: 1114728 -1 2690
 Width: 777
 GlyphClass: 2
 Flags: MW
@@ -81921,7 +81964,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2694
 EndChar
 
 StartChar: glyph2694
-Encoding: 1114731 -1 2692
+Encoding: 1114729 -1 2692
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81933,7 +81976,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2695
-Encoding: 1114732 -1 2693
+Encoding: 1114730 -1 2693
 Width: 351
 GlyphClass: 2
 Flags: MW
@@ -81958,7 +82001,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2697
 EndChar
 
 StartChar: glyph2697
-Encoding: 1114733 -1 2695
+Encoding: 1114731 -1 2695
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -81982,7 +82025,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2699
-Encoding: 1114734 -1 2697
+Encoding: 1114732 -1 2697
 Width: 338
 GlyphClass: 2
 Flags: MW
@@ -82007,7 +82050,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2701
 EndChar
 
 StartChar: glyph2701
-Encoding: 1114735 -1 2699
+Encoding: 1114733 -1 2699
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -82019,7 +82062,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2702
-Encoding: 1114736 -1 2700
+Encoding: 1114734 -1 2700
 Width: 451
 GlyphClass: 2
 Flags: MW
@@ -82044,7 +82087,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2704
 EndChar
 
 StartChar: glyph2704
-Encoding: 1114737 -1 2702
+Encoding: 1114735 -1 2702
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -82056,7 +82099,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2705
-Encoding: 1114738 -1 2703
+Encoding: 1114736 -1 2703
 Width: 447
 GlyphClass: 2
 Flags: MW
@@ -82081,7 +82124,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2707
 EndChar
 
 StartChar: glyph2707
-Encoding: 1114739 -1 2705
+Encoding: 1114737 -1 2705
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -82093,7 +82136,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2708
-Encoding: 1114740 -1 2706
+Encoding: 1114738 -1 2706
 Width: 807
 GlyphClass: 2
 Flags: MW
@@ -82157,7 +82200,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2710
 EndChar
 
 StartChar: glyph2710
-Encoding: 1114741 -1 2708
+Encoding: 1114739 -1 2708
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -82169,7 +82212,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2711
-Encoding: 1114742 -1 2709
+Encoding: 1114740 -1 2709
 Width: 807
 GlyphClass: 2
 Flags: MW
@@ -82233,7 +82276,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2713
 EndChar
 
 StartChar: glyph2713
-Encoding: 1114743 -1 2711
+Encoding: 1114741 -1 2711
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -82245,7 +82288,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2714
-Encoding: 1114744 -1 2712
+Encoding: 1114742 -1 2712
 Width: 957
 GlyphClass: 2
 Flags: MW
@@ -82269,7 +82312,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2716
-Encoding: 1114745 -1 2714
+Encoding: 1114743 -1 2714
 Width: 462
 GlyphClass: 2
 Flags: MW
@@ -82294,7 +82337,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2718
 EndChar
 
 StartChar: glyph2718
-Encoding: 1114746 -1 2716
+Encoding: 1114744 -1 2716
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -82549,7 +82592,7 @@ Validated: 1
 EndChar
 
 StartChar: A.superior
-Encoding: 1114747 -1 2729
+Encoding: 1114745 -1 2729
 Width: 757
 GlyphClass: 2
 Flags: MW
@@ -82561,7 +82604,7 @@ Validated: 1
 EndChar
 
 StartChar: B.superior
-Encoding: 1114748 -1 2730
+Encoding: 1114746 -1 2730
 Width: 743
 GlyphClass: 2
 Flags: MW
@@ -82573,7 +82616,7 @@ Validated: 1
 EndChar
 
 StartChar: D.superior
-Encoding: 1114749 -1 2731
+Encoding: 1114747 -1 2731
 Width: 843
 GlyphClass: 2
 Flags: MW
@@ -82585,7 +82628,7 @@ Validated: 1
 EndChar
 
 StartChar: E.superior
-Encoding: 1114750 -1 2732
+Encoding: 1114748 -1 2732
 Width: 680
 GlyphClass: 2
 Flags: MW
@@ -82597,7 +82640,7 @@ Validated: 1
 EndChar
 
 StartChar: G.superior
-Encoding: 1114751 -1 2733
+Encoding: 1114749 -1 2733
 Width: 836
 GlyphClass: 2
 Flags: MW
@@ -82609,7 +82652,7 @@ Validated: 1
 EndChar
 
 StartChar: H.superior
-Encoding: 1114752 -1 2734
+Encoding: 1114750 -1 2734
 Width: 859
 GlyphClass: 2
 Flags: MW
@@ -82621,7 +82664,7 @@ Validated: 1
 EndChar
 
 StartChar: I.superior
-Encoding: 1114753 -1 2735
+Encoding: 1114751 -1 2735
 Width: 422
 GlyphClass: 2
 Flags: MW
@@ -82633,7 +82676,7 @@ Validated: 1
 EndChar
 
 StartChar: J.superior
-Encoding: 1114754 -1 2736
+Encoding: 1114752 -1 2736
 Width: 459
 GlyphClass: 2
 Flags: MW
@@ -82645,7 +82688,7 @@ Validated: 1
 EndChar
 
 StartChar: K.superior
-Encoding: 1114755 -1 2737
+Encoding: 1114753 -1 2737
 Width: 736
 GlyphClass: 2
 Flags: MW
@@ -82657,7 +82700,7 @@ Validated: 1
 EndChar
 
 StartChar: L.superior
-Encoding: 1114756 -1 2738
+Encoding: 1114754 -1 2738
 Width: 603
 GlyphClass: 2
 Flags: MW
@@ -82669,7 +82712,7 @@ Validated: 1
 EndChar
 
 StartChar: M.superior
-Encoding: 1114757 -1 2739
+Encoding: 1114755 -1 2739
 Width: 1133
 GlyphClass: 2
 Flags: MW
@@ -82681,7 +82724,7 @@ Validated: 1
 EndChar
 
 StartChar: N.superior
-Encoding: 1114758 -1 2740
+Encoding: 1114756 -1 2740
 Width: 885
 GlyphClass: 2
 Flags: MW
@@ -82693,7 +82736,7 @@ Validated: 1
 EndChar
 
 StartChar: P.superior
-Encoding: 1114759 -1 2741
+Encoding: 1114757 -1 2741
 Width: 728
 GlyphClass: 2
 Flags: MW
@@ -82705,7 +82748,7 @@ Validated: 1
 EndChar
 
 StartChar: R.superior
-Encoding: 1114760 -1 2742
+Encoding: 1114758 -1 2742
 Width: 667
 GlyphClass: 2
 Flags: MW
@@ -82717,7 +82760,7 @@ Validated: 1
 EndChar
 
 StartChar: T.superior
-Encoding: 1114761 -1 2743
+Encoding: 1114759 -1 2743
 Width: 599
 GlyphClass: 2
 Flags: MW
@@ -82729,7 +82772,7 @@ Validated: 1
 EndChar
 
 StartChar: U.superior
-Encoding: 1114762 -1 2744
+Encoding: 1114760 -1 2744
 Width: 788
 GlyphClass: 2
 Flags: MW
@@ -82741,7 +82784,7 @@ Validated: 1
 EndChar
 
 StartChar: W.superior
-Encoding: 1114763 -1 2745
+Encoding: 1114761 -1 2745
 Width: 1093
 GlyphClass: 2
 Flags: MW
@@ -82770,6 +82813,7 @@ SplineSet
  227 1554 l 1,9,-1
  344 1554 l 2,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: second
@@ -82781,6 +82825,7 @@ LayerCount: 2
 Fore
 Refer: 2795 8242 N 1 0 0 1 374 0 2
 Refer: 2795 8242 N 1 0 0 1 -5 0 2
+Validated: 1
 EndChar
 
 StartChar: uni031C
@@ -82850,7 +82895,7 @@ Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx
 EndChar
 
 StartChar: uni1F5D.salt
-Encoding: 1114764 -1 2753
+Encoding: 1114762 -1 2753
 Width: 1303
 GlyphClass: 2
 Flags: MW
@@ -82865,7 +82910,7 @@ Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx
 EndChar
 
 StartChar: uni1F5B.salt
-Encoding: 1114765 -1 2754
+Encoding: 1114763 -1 2754
 Width: 1299
 GlyphClass: 2
 Flags: MW
@@ -82880,7 +82925,7 @@ Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx
 EndChar
 
 StartChar: uni1F5F.salt
-Encoding: 1114766 -1 2755
+Encoding: 1114764 -1 2755
 Width: 1183
 GlyphClass: 2
 Flags: MW
@@ -82895,7 +82940,7 @@ Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx
 EndChar
 
 StartChar: uni1FEB.salt
-Encoding: 1114767 -1 2756
+Encoding: 1114765 -1 2756
 Width: 998
 GlyphClass: 2
 Flags: MW
@@ -82909,7 +82954,7 @@ Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx
 EndChar
 
 StartChar: uni1FEA.salt
-Encoding: 1114768 -1 2757
+Encoding: 1114766 -1 2757
 Width: 998
 GlyphClass: 2
 Flags: MW
@@ -82923,7 +82968,7 @@ Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx
 EndChar
 
 StartChar: uni1FE9.salt
-Encoding: 1114769 -1 2758
+Encoding: 1114767 -1 2758
 Width: 998
 GlyphClass: 2
 Flags: MW
@@ -82937,7 +82982,7 @@ Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx
 EndChar
 
 StartChar: uni1FE8.salt
-Encoding: 1114770 -1 2759
+Encoding: 1114768 -1 2759
 Width: 998
 GlyphClass: 2
 Flags: MW
@@ -82951,7 +82996,7 @@ Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx
 EndChar
 
 StartChar: uni1F59.salt
-Encoding: 1114771 -1 2760
+Encoding: 1114769 -1 2760
 Width: 998
 GlyphClass: 2
 Flags: MW
@@ -83114,7 +83159,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2770
-Encoding: 1114772 -1 2768
+Encoding: 1114770 -1 2768
 Width: 807
 GlyphClass: 2
 Flags: MW
@@ -83139,7 +83184,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2772
 EndChar
 
 StartChar: glyph2772
-Encoding: 1114773 -1 2770
+Encoding: 1114771 -1 2770
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -83151,7 +83196,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2773
-Encoding: 1114774 -1 2771
+Encoding: 1114772 -1 2771
 Width: 596
 GlyphClass: 2
 Flags: MW
@@ -83176,7 +83221,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2775
 EndChar
 
 StartChar: glyph2775
-Encoding: 1114775 -1 2773
+Encoding: 1114773 -1 2773
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -83188,7 +83233,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2776
-Encoding: 1114776 -1 2774
+Encoding: 1114774 -1 2774
 Width: 596
 GlyphClass: 2
 Flags: MW
@@ -83213,7 +83258,7 @@ Substitution2: "sous-table Substitution simple lookups0" glyph2778
 EndChar
 
 StartChar: glyph2778
-Encoding: 1114777 -1 2776
+Encoding: 1114775 -1 2776
 Width: 0
 GlyphClass: 4
 Flags: MW
@@ -83252,7 +83297,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2781
-Encoding: 1114778 -1 2779
+Encoding: 1114776 -1 2779
 Width: 1386
 Flags: MW
 LayerCount: 2
@@ -83261,7 +83306,7 @@ Validated: 1
 EndChar
 
 StartChar: g.superior.salt
-Encoding: 1114779 -1 2780
+Encoding: 1114777 -1 2780
 Width: 663
 GlyphClass: 2
 Flags: MW
@@ -83399,7 +83444,7 @@ Validated: 1
 EndChar
 
 StartChar: uni1D77.salt
-Encoding: 1114780 -1 2782
+Encoding: 1114778 -1 2782
 Width: 964
 Flags: W
 LayerCount: 2
@@ -83487,7 +83532,62 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 310 8253 S -1 0 -0 -1 1017.5 1390 2
+SplineSet
+612 33 m 1,0,1
+ 582 22 582 22 542 16 c 128,-1,2
+ 502 10 502 10 460 10 c 0,3,4
+ 386 10 386 10 324 29 c 128,-1,5
+ 262 48 262 48 217 85 c 128,-1,6
+ 172 122 172 122 147 176.5 c 128,-1,7
+ 122 231 122 231 122 301 c 0,8,9
+ 122 378 122 378 150 430.5 c 128,-1,10
+ 178 483 178 483 221 520 c 128,-1,11
+ 264 557 264 557 313 584 c 128,-1,12
+ 362 611 362 611 405 636.5 c 128,-1,13
+ 448 662 448 662 477 691 c 128,-1,14
+ 506 720 506 720 508 761 c 2,15,-1
+ 514 925 l 1,16,-1
+ 622 925 l 1,17,18
+ 648 854 648 854 673 777 c 128,-1,19
+ 698 700 698 700 722 624 c 2,20,-1
+ 896 29 l 1,21,-1
+ 732 -13 l 1,22,-1
+ 600 500 l 2,23,24
+ 595 518 595 518 587.5 551.5 c 128,-1,25
+ 580 585 580 585 572 625 c 1,26,27
+ 549 595 549 595 518.5 571.5 c 128,-1,28
+ 488 548 488 548 456 526.5 c 128,-1,29
+ 424 505 424 505 393 484.5 c 128,-1,30
+ 362 464 362 464 338 439.5 c 128,-1,31
+ 314 415 314 415 299 386 c 128,-1,32
+ 284 357 284 357 284 318 c 0,33,34
+ 284 284 284 284 297 254 c 128,-1,35
+ 310 224 310 224 334 202 c 128,-1,36
+ 358 180 358 180 393 167.5 c 128,-1,37
+ 428 155 428 155 470 155 c 0,38,39
+ 498 155 498 155 519 159 c 128,-1,40
+ 540 163 540 163 548 163 c 0,41,42
+ 568 163 568 163 577 155.5 c 128,-1,43
+ 586 148 586 148 590 133 c 2,44,-1
+ 612 33 l 1,0,1
+682 1283 m 0,45,46
+ 682 1258 682 1258 673 1235.5 c 128,-1,47
+ 664 1213 664 1213 647 1196 c 128,-1,48
+ 630 1179 630 1179 608 1169.5 c 128,-1,49
+ 586 1160 586 1160 560 1160 c 0,50,51
+ 535 1160 535 1160 512.5 1169.5 c 128,-1,52
+ 490 1179 490 1179 473 1196 c 128,-1,53
+ 456 1213 456 1213 447 1235.5 c 128,-1,54
+ 438 1258 438 1258 438 1283 c 0,55,56
+ 438 1309 438 1309 447 1331 c 128,-1,57
+ 456 1353 456 1353 473 1369.5 c 128,-1,58
+ 490 1386 490 1386 512 1395 c 128,-1,59
+ 534 1404 534 1404 560 1404 c 128,-1,61
+ 586 1404 586 1404 608 1395 c 128,-1,62
+ 630 1386 630 1386 647 1369.5 c 128,-1,63
+ 664 1353 664 1353 673 1331 c 128,-1,64
+ 682 1309 682 1309 682 1283 c 0,45,46
+EndSplineSet
 Validated: 1
 EndChar
 
@@ -83498,9 +83598,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 309 63 S 1 0 0 1 -3 0 2
+Refer: 309 63 N 1 0 0 1 -3 0 2
 Refer: 2779 -1 N 1 0 0 1 322 0 0
-Refer: 308 33 S 1 0 0 1 620 0 0
+Refer: 308 33 N 1 0 0 1 620 0 0
 Validated: 1
 EndChar
 
@@ -83511,9 +83611,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 309 63 S 1 0 0 1 369 0 2
+Refer: 309 63 N 1 0 0 1 369 0 2
 Refer: 2779 -1 N 1 0 0 1 239 0 0
-Refer: 308 33 S 1 0 0 1 28 0 0
+Refer: 308 33 N 1 0 0 1 28 0 0
 Validated: 1
 EndChar
 
@@ -83770,7 +83870,7 @@ Validated: 1
 EndChar
 
 StartChar: y.salt
-Encoding: 1114781 -1 2788
+Encoding: 1114779 -1 2788
 Width: 927
 GlyphClass: 2
 Flags: W
@@ -83800,6 +83900,7 @@ SplineSet
  756 978 756 978 773 978 c 2,28,-1
  913 978 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: nonbreakingspace
@@ -83807,6 +83908,8 @@ Encoding: 160 160 2789
 Width: 463
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uni00AD
@@ -83816,6 +83919,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 330 45 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni02BA
@@ -83826,6 +83930,7 @@ LayerCount: 2
 Fore
 Refer: 2746 697 N 1 0 0 1 374 0 2
 Refer: 2746 697 N 1 0 0 1 -6 0 2
+Validated: 1
 EndChar
 
 StartChar: uni02C9
@@ -83835,6 +83940,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 183 175 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni02CA
@@ -83844,6 +83950,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 172 180 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni02F4
@@ -83852,7 +83959,8 @@ Width: 596
 Flags: W
 LayerCount: 2
 Fore
-Refer: 170 96 S 1 0 0 1 0 -480 2
+Refer: 170 96 N 1 0 0 1 0 -480 2
+Validated: 1
 EndChar
 
 StartChar: minute
@@ -83862,6 +83970,16 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 2746 697 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: uni02F6
+Encoding: 758 758 2796
+Width: 961
+Flags: W
+LayerCount: 2
+Fore
+Refer: 191 733 S 1 0 0 1 0 -466 2
 EndChar
 EndChars
 EndSplineFont

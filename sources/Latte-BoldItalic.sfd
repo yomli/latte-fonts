@@ -4,7 +4,7 @@ FullName: Latte Bold Italic
 FamilyName: Latte
 Weight: Bold
 Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.fr) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte BoldItalic font+AAoACgAA-This file provides detailed information on the Latte BoldItalic font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-BoldItalic.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-02 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+FontLog: "# FONTLOG for the Latte BoldItalic font+AAoACgAA-This file provides detailed information on the Latte BoldItalic font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-BoldItalic.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-02 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoA-- Fixed uni02CD+AAoA-- Added uni02F6+AAoA-- Fixed uni030F and uni02F5+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
 Version: 0.3
 ItalicAngle: -7
 UnderlinePosition: -200
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835835226
-ModificationTime: 1478080830
+ModificationTime: 1478093229
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -699,10 +699,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 2132 26 10
+WinInfo: 2028 26 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114779 2793
+BeginChars: 1114779 2794
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -49570,7 +49570,7 @@ SplineSet
  199 562 199 562 300.5 389 c 128,-1,25
  402 216 402 216 575 115 c 128,-1,26
  748 14 748 14 952 14 c 0,27,28
- 1183 14 1183 14 1369 140.5 c 0,29,30
+ 1183 14 1183 14 1369 140 c 0,29,30
  1555 266 1555 266 1642 472 c 1,31,-1
  1534 472 l 1,32,33
  1446 294 1446 294 1261 190 c 1,34,-1
@@ -49607,15 +49607,15 @@ SplineSet
  1606 800 1606 800 1606 772 c 0,71,72
  1606 684 1606 684 1576 580 c 1,73,-1
  1786 580 l 1,74,75
- 1824 584 1824 584 1854.5 626.5 c 0,76,77
- 1885 670 1885 670 1885 728 c 0,78,79
+ 1824 584 1824 584 1854 626 c 0,76,77
+ 1884 670 1884 670 1885 728 c 0,78,79
  1885 792 1885 792 1845.5 826 c 128,-1,80
  1806 860 1806 860 1762 860 c 2,81,-1
  1600 860 l 1,69,70
 820 826 m 1,82,83
  820 776 820 776 786 741 c 128,-1,84
  752 706 752 706 703 706 c 128,-1,85
- 654 706 654 706 620 741.5 c 0,86,87
+ 654 706 654 706 620 742 c 0,86,87
  586 776 586 776 586 826 c 1,88,89
  602 799 602 799 634 781.5 c 128,-1,90
  666 764 666 764 703 764 c 0,91,92
@@ -57100,13 +57100,7 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-86 -119 m 1,0,-1
- 626 -119 l 1,1,-1
- 607 -274 l 1,2,-1
- 67 -274 l 1,3,-1
- 86 -119 l 1,0,-1
-EndSplineSet
+Refer: 2789 713 N 1 0 0 1 -150 -1444 2
 Validated: 1
 EndChar
 
@@ -57643,6 +57637,7 @@ Fore
 Refer: 2792 8242 N 1 0 0 1 445 0 2
 Refer: 2792 8242 N 1 0 0 1 767 0 2
 Refer: 2792 8242 N 1 0 0 1 117 0 2
+Validated: 1
 EndChar
 
 StartChar: uni203E
@@ -58005,22 +58000,7 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-927 927 m 2,0,1
- 999 927 999 927 1022 876 c 1,2,-1
- 1115 661 l 1,3,-1
- 1000 661 l 2,4,5
- 954 661 954 661 927 699 c 2,6,-1
- 768 927 l 1,7,-1
- 927 927 l 2,0,1
-589 927 m 2,8,9
- 656 927 656 927 691 876 c 1,10,-1
- 826 661 l 1,11,-1
- 695 661 l 2,12,13
- 646 661 646 661 612 697 c 1,14,-1
- 407 927 l 1,15,-1
- 589 927 l 2,8,9
-EndSplineSet
+Refer: 511 -1 N 1 0 0 1 229 -834 2
 Validated: 1
 EndChar
 
@@ -105742,23 +105722,7 @@ GlyphClass: 4
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-181 1413 m 2,0,1
- 247 1413 247 1413 265 1361 c 2,2,-1
- 344 1126 l 1,3,-1
- 244 1126 l 2,4,5
- 190 1126 190 1126 169 1161 c 2,6,-1
- 22 1413 l 1,7,-1
- 181 1413 l 2,0,1
--125 1413 m 2,8,9
- -74 1412 -74 1412 -54 1382 c 0,10,11
- -48 1372 -48 1372 -41 1361 c 2,12,-1
- 87 1126 l 1,13,-1
- -28 1126 l 2,14,15
- -76 1126 -76 1126 -104 1161 c 2,16,-1
- -300 1413 l 1,17,-1
- -125 1413 l 2,8,9
-EndSplineSet
+Refer: 510 -1 N 1 0 0 1 -480 0 2
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2575
 EndChar
@@ -110630,6 +110594,7 @@ LayerCount: 2
 Fore
 Refer: 2792 8242 N 1 0 0 1 365 0 2
 Refer: 2792 8242 N 1 0 0 1 5 0 2
+Validated: 1
 EndChar
 
 StartChar: uni031C
@@ -112252,6 +112217,7 @@ SplineSet
  218 -135 218 -135 248 -106 c 0,27,28
  266 -92 266 -92 354 78 c 1,0,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: nonbreakingspace
@@ -112259,6 +112225,8 @@ Encoding: 160 160 2786
 Width: 463
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uni00AD
@@ -112268,6 +112236,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 329 45 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni02BA
@@ -112278,6 +112247,7 @@ LayerCount: 2
 Fore
 Refer: 2745 697 N 1 0 0 1 365 0 2
 Refer: 2745 697 N 1 0 0 1 5 0 2
+Validated: 1
 EndChar
 
 StartChar: uni02C9
@@ -112287,6 +112257,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 183 175 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni02CA
@@ -112296,6 +112267,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 172 180 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni02F4
@@ -112305,6 +112277,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 170 96 S 1 0 0 1 0 -495 2
+Validated: 1
 EndChar
 
 StartChar: minute
@@ -112314,6 +112287,17 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 2745 697 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: uni02F6
+Encoding: 758 758 2793
+Width: 995
+Flags: W
+LayerCount: 2
+Fore
+Refer: 191 733 S 1 0 0 1 0 -472 2
+Validated: 1
 EndChar
 EndChars
 EndSplineFont

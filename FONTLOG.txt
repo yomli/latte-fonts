@@ -80,6 +80,9 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 - Added modifier letter acute accent at U+02CA (all)
 - Added modifier letter middle grave accent at U+02F4 (all)
 - Fixed the dependency hell of glyph897, glyph898 and glyph899, deleted them (all)
+- Fixed uni02CD (all)
+- Added uni02F6 (all)
+- Fixed uni030F and uni02F5 (BoldItalic)
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and description (D). 

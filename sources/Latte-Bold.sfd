@@ -4,7 +4,7 @@ FullName: Latte Bold
 FamilyName: Latte
 Weight: Bold
 Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.fr) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte Bold font+AAoACgAA-This file provides detailed information on the Latte Bold font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Bold.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni01E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261 and added uni0261.salt+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77+AAoA-- Added missing stylistic alternates for g.salt in case of superior and ordinal+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-02 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+FontLog: "# FONTLOG for the Latte Bold font+AAoACgAA-This file provides detailed information on the Latte Bold font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Bold.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni01E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261 and added uni0261.salt+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77+AAoA-- Added missing stylistic alternates for g.salt in case of superior and ordinal+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-02 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoA-- Fixed uni02CD+AAoA-- Added uni02F6+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
 Version: 0.3
 ItalicAngle: 0
 UnderlinePosition: -200
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835862517
-ModificationTime: 1478081358
+ModificationTime: 1478093463
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -67,7 +67,7 @@ Lookup: 1 0 0 "Substitution simple lookups5" { "sous-table Substitution simple l
 Lookup: 1 0 0 "Substitution simple lookups6" { "sous-table Substitution simple lookups6"  } []
 Lookup: 1 0 0 "Substitution simple lookups7" { "sous-table Substitution simple lookups7"  } []
 Lookup: 1 0 0 "'salt' Alternatives stylistiques dans Latin lookup 8" { "sous-table 'salt' Alternatives stylistiques dans Latin lookup 8"  } ['locl' ('latn' <'ROM ' > ) 'salt' ('latn' <'ROM ' > ) ]
-Lookup: 1 0 0 "'salt' Alternatives stylistiques dans Cyrillique lookup 9" { "sous-table 'salt' Alternatives stylistiques dans Cyrillique lookup 9"  } ['locl' ('cyrl' <'SRB ' > ) 'salt' ('cyrl' <'SRB ' > ) ]
+Lookup: 1 0 0 "'salt' Alternatives stylistiques dans Cyrillique lookup 9" { "sous-table 'salt' Alternatives stylistiques dans Cyrillique lookup 9"  } ['locl' ('latn' <'dflt' > 'cyrl' <'SRB ' > ) 'salt' ('cyrl' <'SRB ' > ) ]
 Lookup: 4 0 0 "'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" { "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10"  } ['ccmp' ('cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'IPPH' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 6 0 0 "'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups11" { "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups11"  } ['ccmp' ('cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'IPPH' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 6 256 0 "'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups12" { "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups12"  } ['ccmp' ('cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'IPPH' 'ROM ' 'dflt' > ) ]
@@ -918,17 +918,16 @@ EndFPST
 LangName: 1033 "" "" "" "" "" "Version 0.3" "" "Latte is a trademark of Guillaume Litaudon." "" "Guillaume Litaudon+AAoA-Lukasz Dziedzic" "Latte is a sans-serif typeface family based on Carlito." "" "http://www.guillaumelitaudon.fr/+AAoA-http://www.typoland.com/designers/Lukasz_Dziedzic/" "Copyright (c) 2016, Guillaume Litaudon (www.guillaumelitaudon.fr),+AAoA-with Reserved Font Name +ACIA-Latte+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 2548 26 10
+WinInfo: 7514 26 10
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 237056 118528 79018 508416 -1048576 79018 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114782 2796
+BeginChars: 1114782 2797
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -30179,9 +30178,8 @@ LayerCount: 2
 Fore
 Refer: 93 103 S -1 0 -0 -1 1069 664 2
 Validated: 1
-Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni1D77.salt
-Substitution2: "sous-table 'salt' Alternatives stylistiques dans Cyrillique lookup 9" uni1D77.salt
 Substitution2: "sous-table 'ss04' Style 4 lookups34" uni1D77.salt
+Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni1D77.salt
 EndChar
 
 StartChar: uni1D78
@@ -43117,7 +43115,7 @@ SplineSet
  199 562 199 562 300.5 389 c 128,-1,25
  402 216 402 216 575 115 c 128,-1,26
  748 14 748 14 952 14 c 0,27,28
- 1183 14 1183 14 1369 140.5 c 0,29,30
+ 1183 14 1183 14 1369 140 c 0,29,30
  1555 266 1555 266 1642 472 c 1,31,-1
  1534 472 l 1,32,33
  1446 294 1446 294 1261 190 c 1,34,-1
@@ -43154,15 +43152,15 @@ SplineSet
  1606 800 1606 800 1606 772 c 0,71,72
  1606 684 1606 684 1576 580 c 1,73,-1
  1786 580 l 1,74,75
- 1824 584 1824 584 1854.5 626.5 c 0,76,77
- 1885 670 1885 670 1885 728 c 0,78,79
+ 1824 584 1824 584 1854 626 c 0,76,77
+ 1884 670 1884 670 1885 728 c 0,78,79
  1885 792 1885 792 1845.5 826 c 128,-1,80
  1806 860 1806 860 1762 860 c 2,81,-1
  1600 860 l 1,69,70
 820 826 m 1,82,83
  820 776 820 776 786 741 c 128,-1,84
  752 706 752 706 703 706 c 128,-1,85
- 654 706 654 706 620 741.5 c 0,86,87
+ 654 706 654 706 620 742 c 0,86,87
  586 776 586 776 586 826 c 1,88,89
  602 799 602 799 634 781.5 c 128,-1,90
  666 764 666 764 703 764 c 0,91,92
@@ -48725,14 +48723,7 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-112 -116 m 1,0,-1
- 695 -116 l 1,1,-1
- 695 -277 l 1,2,-1
- 112 -277 l 1,3,-1
- 112 -116 l 1,0,-1
-EndSplineSet
-Validated: 1
+Refer: 2792 713 N 1 0 0 1 4 -1445 2
 EndChar
 
 StartChar: uni02CE
@@ -49294,7 +49285,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 2779 -1 N 1 0 0 1 93 661 0
-Refer: 512 -1 N 1 0 0 1 135 -834 0
+Refer: 512 -1 S 1 0 0 1 135 -834 0
 Validated: 1
 EndChar
 
@@ -71117,6 +71108,15 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 2746 697 S 1 0 0 1 -3 0 2
+EndChar
+
+StartChar: uni02F6
+Encoding: 758 758 2796
+Width: 995
+Flags: W
+LayerCount: 2
+Fore
+Refer: 191 733 N 1 0 0 1 0 -464 2
 EndChar
 EndChars
 EndSplineFont

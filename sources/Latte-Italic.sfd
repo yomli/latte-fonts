@@ -4,7 +4,7 @@ FullName: Latte Italic
 FamilyName: Latte
 Weight: Book
 Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.fr) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte Italic font+AAoACgAA-This file provides detailed information on the Latte Italic font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Italic.sfd (Italic weight)+AAoACgAA## ChangeLog+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-02 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Fixed the dependency hell of glyph897 and glyph898, deleted them+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+FontLog: "# FONTLOG for the Latte Italic font+AAoACgAA-This file provides detailed information on the Latte Italic font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Italic.sfd (Italic weight)+AAoACgAA## ChangeLog+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-02 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Fixed the dependency hell of glyph897 and glyph898, deleted them+AAoA-- Fixed uni02CD+AAoA-- Added uni02F6+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
 Version: 0.3
 ItalicAngle: -7
 UnderlinePosition: -200
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835835226
-ModificationTime: 1478080238
+ModificationTime: 1478092667
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -692,18 +692,17 @@ EndFPST
 LangName: 1033 "" "" "" "" "" "Version 0.3" "" "Latte is a trademark of Guillaume Litaudon." "" "Guillaume Litaudon+AAoA-Lukasz Dziedzic" "Latte is a sans-serif typeface family based on Carlito." "" "http://www.guillaumelitaudon.fr/+AAoA-http://www.typoland.com/designers/Lukasz_Dziedzic/" "Copyright (c) 2016, Guillaume Litaudon (www.guillaumelitaudon.fr),+AAoA-with Reserved Font Name +ACIA-Latte+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 ExtremaBound: 20
-WinInfo: 2054 26 10
+WinInfo: 676 26 10
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 688901 237056 118528 79018 500736 -1048576 79018 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114780 2794
+BeginChars: 1114780 2795
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -43939,103 +43938,104 @@ EndChar
 StartChar: uniF8FF
 Encoding: 63743 63743 1300
 Width: 2132
-Flags: MW
+Flags: MWO
 LayerCount: 2
 Fore
 SplineSet
-1741 968 m 1,0,1
- 1996 968 1996 968 1996 728 c 0,2,3
- 1996 478 1996 478 1786 472 c 1,4,-1
- 1774 472 l 1,5,-1
- 1711 472 l 1,6,7
- 1623 240 1623 240 1416.5 95 c 128,-1,8
- 1210 -50 1210 -50 952 -50 c 0,9,10
- 730 -50 730 -50 542.5 60 c 128,-1,11
- 355 170 355 170 245.5 357 c 128,-1,12
- 136 544 136 544 136 766 c 0,13,14
- 136 986 136 986 245.5 1174 c 128,-1,15
- 355 1362 355 1362 542.5 1471 c 128,-1,16
- 730 1580 730 1580 952 1580 c 0,17,18
- 1234 1580 1234 1580 1453 1407.5 c 128,-1,19
- 1672 1235 1672 1235 1741 968 c 1,0,1
-952 1516 m 0,20,21
- 748 1516 748 1516 575 1416 c 128,-1,22
- 402 1316 402 1316 300.5 1143 c 128,-1,23
- 199 970 199 970 199 766 c 128,-1,24
- 199 562 199 562 300.5 389 c 128,-1,25
- 402 216 402 216 575 115 c 128,-1,26
- 748 14 748 14 952 14 c 0,27,28
- 1183 14 1183 14 1369 140.5 c 0,29,30
- 1555 266 1555 266 1642 472 c 1,31,-1
- 1534 472 l 1,32,33
- 1446 294 1446 294 1261 190 c 1,34,-1
- 1261 146 l 1,35,36
- 1114 68 1114 68 946 68 c 0,37,38
- 772 68 772 68 628 148 c 1,39,-1
- 628 184 l 1,40,41
- 464 270 464 270 369 429 c 128,-1,42
- 274 588 274 588 274 772 c 0,43,44
- 274 878 274 878 304 968 c 1,45,-1
- 1675 968 l 1,46,47
- 1609 1210 1609 1210 1408.5 1363 c 128,-1,48
- 1208 1516 1208 1516 952 1516 c 0,20,21
-946 1358 m 1,49,-1
- 976 1276 l 1,50,-1
- 1066 1274 l 1,51,-1
- 997 1216 l 1,52,-1
- 1021 1132 l 1,53,-1
- 946 1180 l 1,54,-1
- 874 1132 l 1,55,-1
- 898 1216 l 1,56,-1
- 826 1270 l 1,57,-1
- 916 1276 l 1,58,-1
- 946 1358 l 1,49,-1
-394 860 m 1,59,60
- 385 820 385 820 385 776 c 0,61,62
- 385 546 385 546 547.5 383 c 128,-1,63
- 710 220 710 220 940 220 c 128,-1,64
- 1170 220 1170 220 1332.5 383 c 128,-1,65
- 1495 546 1495 546 1495 776 c 0,66,67
- 1495 780 1495 780 1486 860 c 1,68,-1
- 394 860 l 1,59,60
-1600 860 m 1,69,70
- 1606 800 1606 800 1606 772 c 0,71,72
- 1606 684 1606 684 1576 580 c 1,73,-1
- 1786 580 l 1,74,75
- 1824 584 1824 584 1854.5 626.5 c 0,76,77
- 1885 670 1885 670 1885 728 c 0,78,79
- 1885 792 1885 792 1845.5 826 c 128,-1,80
- 1806 860 1806 860 1762 860 c 2,81,-1
- 1600 860 l 1,69,70
-820 826 m 1,82,83
- 820 776 820 776 786 741 c 128,-1,84
- 752 706 752 706 703 706 c 128,-1,85
- 654 706 654 706 620 741.5 c 0,86,87
- 586 776 586 776 586 826 c 1,88,89
- 602 799 602 799 634 781.5 c 128,-1,90
- 666 764 666 764 703 764 c 0,91,92
- 786 764 786 764 820 826 c 1,82,83
-1309 824 m 1,93,94
- 1309 774 1309 774 1275.5 739 c 128,-1,95
- 1242 704 1242 704 1192 704 c 128,-1,96
- 1142 704 1142 704 1107 739 c 128,-1,97
- 1072 774 1072 774 1072 824 c 1,98,99
- 1088 797 1088 797 1120 778.5 c 128,-1,100
- 1152 760 1152 760 1189 760 c 0,101,102
- 1275 760 1275 760 1309 824 c 1,93,94
-481 676 m 1,103,-1
- 1405 676 l 1,104,105
- 1378 514 1378 514 1247.5 406 c 128,-1,106
- 1117 298 1117 298 943 298 c 128,-1,107
- 769 298 769 298 638.5 406 c 128,-1,108
- 508 514 508 514 481 676 c 1,103,-1
-631 574 m 1,109,110
- 677 496 677 496 760.5 450 c 128,-1,111
- 844 404 844 404 943 404 c 128,-1,112
- 1042 404 1042 404 1125 450 c 128,-1,113
- 1208 496 1208 496 1255 574 c 1,114,-1
- 631 574 l 1,109,110
+1741 968 m 5,0,1
+ 1996 968 1996 968 1996 728 c 4,2,3
+ 1996 478 1996 478 1786 472 c 5,4,-1
+ 1774 472 l 5,5,-1
+ 1711 472 l 5,6,7
+ 1623 240 1623 240 1416.5 95 c 132,-1,8
+ 1210 -50 1210 -50 952 -50 c 4,9,10
+ 730 -50 730 -50 542.5 60 c 132,-1,11
+ 355 170 355 170 245.5 357 c 132,-1,12
+ 136 544 136 544 136 766 c 4,13,14
+ 136 986 136 986 245.5 1174 c 132,-1,15
+ 355 1362 355 1362 542.5 1471 c 132,-1,16
+ 730 1580 730 1580 952 1580 c 4,17,18
+ 1234 1580 1234 1580 1453 1407.5 c 132,-1,19
+ 1672 1235 1672 1235 1741 968 c 5,0,1
+952 1516 m 4,20,21
+ 748 1516 748 1516 575 1416 c 132,-1,22
+ 402 1316 402 1316 300.5 1143 c 132,-1,23
+ 199 970 199 970 199 766 c 132,-1,24
+ 199 562 199 562 300.5 389 c 132,-1,25
+ 402 216 402 216 575 115 c 132,-1,26
+ 748 14 748 14 952 14 c 4,27,28
+ 1183 14 1183 14 1369 140 c 132,-1,30
+ 1555 266 1555 266 1642 472 c 5,31,-1
+ 1534 472 l 5,32,33
+ 1446 294 1446 294 1261 190 c 5,34,-1
+ 1261 146 l 5,35,36
+ 1114 68 1114 68 946 68 c 4,37,38
+ 772 68 772 68 628 148 c 5,39,-1
+ 628 184 l 5,40,41
+ 464 270 464 270 369 429 c 132,-1,42
+ 274 588 274 588 274 772 c 4,43,44
+ 274 878 274 878 304 968 c 5,45,-1
+ 1675 968 l 5,46,47
+ 1609 1210 1609 1210 1408.5 1363 c 132,-1,48
+ 1208 1516 1208 1516 952 1516 c 4,20,21
+946 1358 m 5,49,-1
+ 976 1276 l 5,50,-1
+ 1066 1274 l 5,51,-1
+ 997 1216 l 5,52,-1
+ 1021 1132 l 5,53,-1
+ 946 1180 l 5,54,-1
+ 874 1132 l 5,55,-1
+ 898 1216 l 5,56,-1
+ 826 1270 l 5,57,-1
+ 916 1276 l 5,58,-1
+ 946 1358 l 5,49,-1
+394 860 m 5,59,60
+ 385 820 385 820 385 776 c 4,61,62
+ 385 546 385 546 547.5 383 c 132,-1,63
+ 710 220 710 220 940 220 c 132,-1,64
+ 1170 220 1170 220 1332.5 383 c 132,-1,65
+ 1495 546 1495 546 1495 776 c 4,66,67
+ 1495 780 1495 780 1486 860 c 5,68,-1
+ 394 860 l 5,59,60
+1600 860 m 5,69,70
+ 1606 800 1606 800 1606 772 c 4,71,72
+ 1606 684 1606 684 1576 580 c 5,73,-1
+ 1786 580 l 5,74,75
+ 1824 584 1824 584 1854 626 c 4,76,77
+ 1884 670 1884 670 1885 728 c 4,78,79
+ 1885 792 1885 792 1845.5 826 c 132,-1,80
+ 1806 860 1806 860 1762 860 c 6,81,-1
+ 1600 860 l 5,69,70
+820 826 m 5,82,83
+ 820 776 820 776 786 741 c 132,-1,84
+ 752 706 752 706 703 706 c 132,-1,85
+ 654 706 654 706 620 742 c 4,86,87
+ 586 776 586 776 586 826 c 5,88,89
+ 602 799 602 799 634 781.5 c 132,-1,90
+ 666 764 666 764 703 764 c 4,91,92
+ 786 764 786 764 820 826 c 5,82,83
+1309 824 m 5,93,94
+ 1309 774 1309 774 1275.5 739 c 132,-1,95
+ 1242 704 1242 704 1192 704 c 132,-1,96
+ 1142 704 1142 704 1107 739 c 132,-1,97
+ 1072 774 1072 774 1072 824 c 5,98,99
+ 1088 797 1088 797 1120 778.5 c 132,-1,100
+ 1152 760 1152 760 1189 760 c 4,101,102
+ 1275 760 1275 760 1309 824 c 5,93,94
+481 676 m 5,103,-1
+ 1405 676 l 5,104,105
+ 1378 514 1378 514 1247.5 406 c 132,-1,106
+ 1117 298 1117 298 943 298 c 132,-1,107
+ 769 298 769 298 638.5 406 c 132,-1,108
+ 508 514 508 514 481 676 c 5,103,-1
+631 574 m 5,109,110
+ 677 496 677 496 760.5 450 c 132,-1,111
+ 844 404 844 404 943 404 c 132,-1,112
+ 1042 404 1042 404 1125 450 c 132,-1,113
+ 1208 496 1208 496 1255 574 c 5,114,-1
+ 631 574 l 5,109,110
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: sun
@@ -49773,13 +49773,7 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-100 -141 m 1,0,-1
- 614 -141 l 1,1,-1
- 601 -252 l 1,2,-1
- 86 -252 l 1,3,-1
- 100 -141 l 1,0,-1
-EndSplineSet
+Refer: 2790 713 N 1 0 0 1 -150 -1440 2
 Validated: 1
 EndChar
 
@@ -50139,6 +50133,7 @@ Fore
 Refer: 2793 8242 N 1 0 0 1 456 0 2
 Refer: 2793 8242 N 1 0 0 1 779 0 2
 Refer: 2793 8242 N 1 0 0 1 130 0 2
+Validated: 1
 EndChar
 
 StartChar: uni203E
@@ -71512,6 +71507,7 @@ SplineSet
  384 1555 l 1,8,-1
  497 1555 l 2,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: second
@@ -71523,6 +71519,7 @@ LayerCount: 2
 Fore
 Refer: 2793 8242 S 1 0 0 1 356 0 2
 Refer: 2793 8242 N 1 0 0 1 3 0 2
+Validated: 1
 EndChar
 
 StartChar: uni031C
@@ -72263,6 +72260,7 @@ SplineSet
  806 978 806 978 821 978 c 2,28,-1
  952 978 l 1,0,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: nonbreakingspace
@@ -72270,6 +72268,8 @@ Encoding: 160 160 2787
 Width: 463
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uni00AD
@@ -72279,6 +72279,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 329 45 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni02BA
@@ -72290,6 +72291,7 @@ Fore
 Refer: 2745 697 S 1 0 0 1 355 0 2
 Refer: 2745 697 N 1 0 0 1 9 0 2
 Refer: 2779 -1 N 1 0 0 1 205 946 0
+Validated: 1
 EndChar
 
 StartChar: uni02C9
@@ -72299,6 +72301,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 183 175 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni02CA
@@ -72308,6 +72311,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 172 180 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni02F4
@@ -72317,6 +72321,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 170 96 S 1 0 0 1 0 -479 2
+Validated: 1
 EndChar
 
 StartChar: minute
@@ -72326,6 +72331,17 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 2745 697 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: uni02F6
+Encoding: 758 758 2794
+Width: 961
+Flags: W
+LayerCount: 2
+Fore
+Refer: 191 733 N 1 0 0 1 0 -466 2
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
