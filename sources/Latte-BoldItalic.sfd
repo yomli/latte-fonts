@@ -3,8 +3,8 @@ FontName: Latte-BoldItalic
 FullName: Latte Bold Italic
 FamilyName: Latte
 Weight: Bold
-Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.com) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte BoldItalic font+AAoACgAA-This file provides detailed information on the Latte BoldItalic font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-BoldItalic.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.fr) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
+FontLog: "# FONTLOG for the Latte BoldItalic font+AAoACgAA-This file provides detailed information on the Latte BoldItalic font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-BoldItalic.sfd (Bold weight)+AAoACgAA## ChangeLog+AAoACgAA-30 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Cleaning intersecting paths+AAoA-- Fixed +ACIA-Circled Numbers+ACIA & +ACIA-Negative Circled Numbers+ACIACgAA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-02 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA +AAoACgAA-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
 Version: 0.3
 ItalicAngle: -7
 UnderlinePosition: -200
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835835226
-ModificationTime: 1478039039
+ModificationTime: 1478075086
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -698,10 +698,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 650 26 10
+WinInfo: 546 26 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114779 2791
+BeginChars: 1114779 2793
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -49595,115 +49595,98 @@ Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-966 1661 m 0,0,1
- 1187 1661 1187 1661 1381 1565 c 128,-1,2
- 1575 1469 1575 1469 1706.5 1302 c 128,-1,3
- 1838 1135 1838 1135 1885 926 c 1,4,-1
- 1893 926 l 2,5,6
- 1973 926 1973 926 2035 865 c 128,-1,7
- 2097 804 2097 804 2097 722.5 c 128,-1,8
- 2097 641 2097 641 2036.5 581.5 c 128,-1,9
- 1976 522 1976 522 1893 519 c 2,10,-1
- 1886 519 l 1,11,12
- 1840 309 1840 309 1708.5 140 c 128,-1,13
- 1577 -29 1577 -29 1382.5 -125.5 c 128,-1,14
- 1188 -222 1188 -222 966 -222 c 0,15,16
- 775 -222 775 -222 600.5 -147.5 c 128,-1,17
- 426 -73 426 -73 300 53 c 128,-1,18
- 174 179 174 179 99 353.5 c 128,-1,19
- 24 528 24 528 24 719.5 c 128,-1,20
- 24 911 24 911 99 1085.5 c 128,-1,21
- 174 1260 174 1260 300 1386 c 128,-1,22
- 426 1512 426 1512 600.5 1586.5 c 128,-1,23
- 775 1661 775 1661 966 1661 c 0,0,1
-966 1588 m 0,24,25
- 789 1588 789 1588 628.5 1519.5 c 128,-1,26
- 468 1451 468 1451 351.5 1334.5 c 128,-1,27
- 235 1218 235 1218 166 1057 c 128,-1,28
- 97 896 97 896 97 719.5 c 128,-1,29
- 97 543 97 543 166 382 c 128,-1,30
- 235 221 235 221 351.5 104.5 c 128,-1,31
- 468 -12 468 -12 628.5 -80.5 c 128,-1,32
- 789 -149 789 -149 966 -149 c 0,33,34
- 1168 -149 1168 -149 1346 -62 c 128,-1,35
- 1524 25 1524 25 1645 177 c 128,-1,36
- 1766 329 1766 329 1811 519 c 1,37,-1
- 1607 519 l 1,38,39
- 1541 310 1541 310 1362.5 177.5 c 128,-1,40
- 1184 45 1184 45 959 45 c 0,41,42
- 821 45 821 45 695.5 98.5 c 128,-1,43
- 570 152 570 152 479 243 c 128,-1,44
- 388 334 388 334 334 460 c 128,-1,45
- 280 586 280 586 280 724 c 0,46,47
- 280 735 280 735 281 753 c 1,48,-1
- 394 753 l 1,49,50
- 393 738 393 738 393 724 c 0,51,52
- 393 570 393 570 469 439.5 c 128,-1,53
- 545 309 545 309 675.5 233.5 c 128,-1,54
- 806 158 806 158 959 158 c 0,55,56
- 1168 158 1168 158 1326 292.5 c 128,-1,57
- 1484 427 1484 427 1518 630 c 1,58,-1
- 1519 630 l 1,59,-1
- 1886 630 l 2,60,61
- 1924 630 1924 630 1954 657.5 c 128,-1,62
- 1984 685 1984 685 1984 722 c 128,-1,63
- 1984 759 1984 759 1954.5 787 c 128,-1,64
- 1925 815 1925 815 1888 815 c 2,65,-1
- 383 815 l 1,66,-1
- 287 815 l 1,67,68
- 319 1055 319 1055 497 1221 c 128,-1,69
- 675 1387 675 1387 918 1402 c 1,70,-1
- 930 1427 l 1,71,-1
- 996 1427 l 1,72,-1
- 1008 1401 l 1,73,74
- 1218 1386 1218 1386 1382 1255 c 128,-1,75
- 1546 1124 1546 1124 1608 926 c 1,76,-1
- 1810 926 l 1,77,78
- 1764 1115 1764 1115 1642.5 1265.5 c 128,-1,79
- 1521 1416 1521 1416 1344 1502 c 128,-1,80
- 1167 1588 1167 1588 966 1588 c 0,24,25
-959.5 1290 m 128,-1,82
- 781 1290 781 1290 637 1189 c 128,-1,83
- 493 1088 493 1088 431 926 c 1,84,-1
- 1488 926 l 1,85,86
- 1426 1088 1426 1088 1282 1189 c 128,-1,81
- 1138 1290 1138 1290 959.5 1290 c 128,-1,82
-1211.5 783 m 128,-1,88
- 1261 783 1261 783 1296.5 748 c 128,-1,89
- 1332 713 1332 713 1332 663 c 2,90,-1
- 1332 661 l 1,91,-1
- 1332 660 l 1,92,93
- 1315 690 1315 690 1282.5 708 c 128,-1,94
- 1250 726 1250 726 1211 726 c 0,95,96
- 1173 726 1173 726 1140.5 708.5 c 128,-1,97
- 1108 691 1108 691 1091 662 c 1,98,-1
- 1091 663 l 2,99,100
- 1091 713 1091 713 1126.5 748 c 128,-1,87
- 1162 783 1162 783 1211.5 783 c 128,-1,88
-712 780 m 128,-1,102
- 762 780 762 780 797.5 744.5 c 128,-1,103
- 833 709 833 709 833 660 c 2,104,-1
- 833 658 l 1,105,-1
- 833 657 l 1,106,107
- 815 687 815 687 783 705 c 128,-1,108
- 751 723 751 723 712 723 c 128,-1,109
- 673 723 673 723 641 705.5 c 128,-1,110
- 609 688 609 688 592 659 c 1,111,-1
- 592 660 l 2,112,113
- 592 709 592 709 627 744.5 c 128,-1,101
- 662 780 662 780 712 780 c 128,-1,102
-484 630 m 1,114,-1
- 1431 630 l 1,115,116
- 1404 464 1404 464 1270 353 c 128,-1,117
- 1136 242 1136 242 957.5 242 c 128,-1,118
- 779 242 779 242 645 353 c 128,-1,119
- 511 464 511 464 484 630 c 1,114,-1
-637 523 m 1,120,121
- 684 443 684 443 769.5 395 c 128,-1,122
- 855 347 855 347 957.5 347 c 128,-1,123
- 1060 347 1060 347 1145.5 395 c 128,-1,124
- 1231 443 1231 443 1278 523 c 1,125,-1
- 637 523 l 1,120,121
+1741 968 m 1,0,1
+ 1996 968 1996 968 1996 728 c 0,2,3
+ 1996 478 1996 478 1786 472 c 1,4,-1
+ 1774 472 l 1,5,-1
+ 1711 472 l 1,6,7
+ 1623 240 1623 240 1416.5 95 c 128,-1,8
+ 1210 -50 1210 -50 952 -50 c 0,9,10
+ 730 -50 730 -50 542.5 60 c 128,-1,11
+ 355 170 355 170 245.5 357 c 128,-1,12
+ 136 544 136 544 136 766 c 0,13,14
+ 136 986 136 986 245.5 1174 c 128,-1,15
+ 355 1362 355 1362 542.5 1471 c 128,-1,16
+ 730 1580 730 1580 952 1580 c 0,17,18
+ 1234 1580 1234 1580 1453 1407.5 c 128,-1,19
+ 1672 1235 1672 1235 1741 968 c 1,0,1
+952 1516 m 0,20,21
+ 748 1516 748 1516 575 1416 c 128,-1,22
+ 402 1316 402 1316 300.5 1143 c 128,-1,23
+ 199 970 199 970 199 766 c 128,-1,24
+ 199 562 199 562 300.5 389 c 128,-1,25
+ 402 216 402 216 575 115 c 128,-1,26
+ 748 14 748 14 952 14 c 0,27,28
+ 1183 14 1183 14 1369 140.5 c 0,29,30
+ 1555 266 1555 266 1642 472 c 1,31,-1
+ 1534 472 l 1,32,33
+ 1446 294 1446 294 1261 190 c 1,34,-1
+ 1261 146 l 1,35,36
+ 1114 68 1114 68 946 68 c 0,37,38
+ 772 68 772 68 628 148 c 1,39,-1
+ 628 184 l 1,40,41
+ 464 270 464 270 369 429 c 128,-1,42
+ 274 588 274 588 274 772 c 0,43,44
+ 274 878 274 878 304 968 c 1,45,-1
+ 1675 968 l 1,46,47
+ 1609 1210 1609 1210 1408.5 1363 c 128,-1,48
+ 1208 1516 1208 1516 952 1516 c 0,20,21
+946 1358 m 1,49,-1
+ 976 1276 l 1,50,-1
+ 1066 1274 l 1,51,-1
+ 997 1216 l 1,52,-1
+ 1021 1132 l 1,53,-1
+ 946 1180 l 1,54,-1
+ 874 1132 l 1,55,-1
+ 898 1216 l 1,56,-1
+ 826 1270 l 1,57,-1
+ 916 1276 l 1,58,-1
+ 946 1358 l 1,49,-1
+394 860 m 1,59,60
+ 385 820 385 820 385 776 c 0,61,62
+ 385 546 385 546 547.5 383 c 128,-1,63
+ 710 220 710 220 940 220 c 128,-1,64
+ 1170 220 1170 220 1332.5 383 c 128,-1,65
+ 1495 546 1495 546 1495 776 c 0,66,67
+ 1495 780 1495 780 1486 860 c 1,68,-1
+ 394 860 l 1,59,60
+1600 860 m 1,69,70
+ 1606 800 1606 800 1606 772 c 0,71,72
+ 1606 684 1606 684 1576 580 c 1,73,-1
+ 1786 580 l 1,74,75
+ 1824 584 1824 584 1854.5 626.5 c 0,76,77
+ 1885 670 1885 670 1885 728 c 0,78,79
+ 1885 792 1885 792 1845.5 826 c 128,-1,80
+ 1806 860 1806 860 1762 860 c 2,81,-1
+ 1600 860 l 1,69,70
+820 826 m 1,82,83
+ 820 776 820 776 786 741 c 128,-1,84
+ 752 706 752 706 703 706 c 128,-1,85
+ 654 706 654 706 620 741.5 c 0,86,87
+ 586 776 586 776 586 826 c 1,88,89
+ 602 799 602 799 634 781.5 c 128,-1,90
+ 666 764 666 764 703 764 c 0,91,92
+ 786 764 786 764 820 826 c 1,82,83
+1309 824 m 1,93,94
+ 1309 774 1309 774 1275.5 739 c 128,-1,95
+ 1242 704 1242 704 1192 704 c 128,-1,96
+ 1142 704 1142 704 1107 739 c 128,-1,97
+ 1072 774 1072 774 1072 824 c 1,98,99
+ 1088 797 1088 797 1120 778.5 c 128,-1,100
+ 1152 760 1152 760 1189 760 c 0,101,102
+ 1275 760 1275 760 1309 824 c 1,93,94
+481 676 m 1,103,-1
+ 1405 676 l 1,104,105
+ 1378 514 1378 514 1247.5 406 c 128,-1,106
+ 1117 298 1117 298 943 298 c 128,-1,107
+ 769 298 769 298 638.5 406 c 128,-1,108
+ 508 514 508 514 481 676 c 1,103,-1
+631 574 m 1,109,110
+ 677 496 677 496 760.5 450 c 128,-1,111
+ 844 404 844 404 943 404 c 128,-1,112
+ 1042 404 1042 404 1125 450 c 128,-1,113
+ 1208 496 1208 496 1255 574 c 1,114,-1
+ 631 574 l 1,109,110
 EndSplineSet
 EndChar
 
@@ -112399,6 +112382,24 @@ SplineSet
  707 1555 l 1,19,-1
  874 1555 l 2,10,11
 EndSplineSet
+EndChar
+
+StartChar: uni02C9
+Encoding: 713 713 2791
+Width: 799
+Flags: W
+LayerCount: 2
+Fore
+Refer: 183 175 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni02CA
+Encoding: 714 714 2792
+Width: 616
+Flags: W
+LayerCount: 2
+Fore
+Refer: 172 180 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

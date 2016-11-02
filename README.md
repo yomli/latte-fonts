@@ -42,7 +42,7 @@ So I wanted a name which reminds the "serious but friendly" part. A [latte](http
 
 ### License
 
-Copyright © 2016 by Guillaume Litaudon (www.guillaumelitaudon.com) with Reserved Font Name "Latte".
+Copyright © 2016 by Guillaume Litaudon with Reserved Font Name "Latte".
 
 This Font Software is licensed under the [SIL Open Font License](http://scripts.sil.org/OFL), Version 1.1.
 
