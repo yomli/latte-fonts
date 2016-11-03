@@ -4,7 +4,7 @@ FullName: Latte
 FamilyName: Latte
 Weight: Book
 Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.fr) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte Regular font+AAoACgAA-This file provides detailed information on the Latte Regular font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Regular.sfd (Regular weight)+AAoACgAA## ChangeLog+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni1E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261+AAoA-- Modified g.superior and added g.superior.salt+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed **many** intersecting paths+AAoA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77+AAoA-- Added missing stylistic alternates for g.salt in case of superior and ordinal+AAoA-- Added stylistic alternate for y+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-01 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-02 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoA-- Fixed uni02CD+AAoA-- Added uni02F6+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+FontLog: "# FONTLOG for the Latte Regular font+AAoACgAA-This file provides detailed information on the Latte Regular font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Regular.sfd (Regular weight)+AAoACgAA## ChangeLog+AAoACgAA-03 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added gravecomb (Regular)+AAoACgAA-02 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoA-- Fixed uni02CD+AAoA-- Added uni02F6+AAoACgAA-01 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77+AAoA-- Added missing stylistic alternates for g.salt in case of superior and ordinal+AAoA-- Added stylistic alternate for y+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed **many** intersecting paths+AAoA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni1E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261+AAoA-- Modified g.superior and added g.superior.salt+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
 Version: 0.3
 ItalicAngle: 0
 UnderlinePosition: -200
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835834854
-ModificationTime: 1478092377
+ModificationTime: 1478212912
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -753,7 +753,7 @@ Grid
  470.037908381 -1536 l 1024
 EndSplineSet
 TeXData: 1 0 0 237056 118528 79018 500736 -1048576 79018 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114780 2797
+BeginChars: 1114780 2798
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -8821,7 +8821,6 @@ SplineSet
  167 1532 l 1,3,-1
  167 1636 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: breve
@@ -56834,7 +56833,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 132 1532 0
 Refer: 173 -1 N 1 0 0 1 101 229 0
 Refer: 184 -1 N 1 0 0 1 -35 0 0
-Validated: 1
 EndChar
 
 StartChar: glyph1424
@@ -56847,7 +56845,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 36 1532 0
 Refer: 171 -1 N 1 0 0 1 -47 211 0
 Refer: 184 -1 N 1 0 0 1 -35 0 0
-Validated: 1
 EndChar
 
 StartChar: glyph1425
@@ -56926,7 +56923,6 @@ Refer: 2779 -1 N 1 0 0 1 85 1532 0
 Refer: 184 -1 N 1 0 0 1 -35 0 0
 Refer: 485 -1 N 1 0 0 1 -368 2058 0
 Refer: 485 -1 N 1 0 0 1 36 2058 0
-Validated: 1
 EndChar
 
 StartChar: glyph1428
@@ -57187,7 +57183,6 @@ Refer: 2779 -1 N 1 0 0 1 85 1498 0
 Refer: 184 -1 N 1 0 0 1 -35 290 0
 Refer: 485 -1 N 1 0 0 1 -368 1847 0
 Refer: 485 -1 N 1 0 0 1 36 1847 0
-Validated: 1
 EndChar
 
 StartChar: glyph1440
@@ -57256,7 +57251,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 132 1512 0
 Refer: 194 -1 N 1 0 0 1 171 0 0
 Refer: 184 -1 N 1 0 0 1 -35 339 0
-Validated: 1
 EndChar
 
 StartChar: glyph1445
@@ -57380,7 +57374,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 154 1490 0
 Refer: 180 -1 N 1 0 0 1 -7 0 0
 Refer: 184 -1 N 1 0 0 1 24 292 0
-Validated: 1
 EndChar
 
 StartChar: uni02ED
@@ -60886,7 +60879,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 8 0 0
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 155 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61169,7 +61161,6 @@ Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 155 198 0
 Refer: 485 -1 N 1 0 0 1 -177 1770 0
 Refer: 485 -1 N 1 0 0 1 227 1770 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61184,7 +61175,6 @@ Refer: 2779 -1 N 1 0 0 1 8 0 0
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 361 -78 0
 Refer: 184 -1 N 1 0 0 1 155 244 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61443,7 +61433,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 8 0 0
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 155 -77 0
-Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Alpha
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61664,7 +61653,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 0 0 0
 Refer: 5 198 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 613 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62272,7 +62260,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 145 0 0
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 110 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62665,7 +62652,6 @@ Refer: 2779 -1 N 1 0 0 1 145 0 0
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 92 130 0
 Refer: 184 -1 N 1 0 0 1 104 -81 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62680,7 +62666,6 @@ Refer: 2779 -1 N 1 0 0 1 145 0 0
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 219 139 0
 Refer: 184 -1 N 1 0 0 1 110 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62972,7 +62957,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 77 0 0
 Refer: 14 71 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 288 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63486,7 +63470,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 0 0 0
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 -177 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63877,7 +63860,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 0 0 0
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 -177 -77 0
-Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Iota
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -64194,7 +64176,6 @@ Refer: 2779 -1 N 1 0 0 1 0 0 0
 Refer: 21 76 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 -174 -77 0
 Refer: 485 -1 N 1 0 0 1 -67 7 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64606,7 +64587,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 72 0 0
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 242 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64971,7 +64951,6 @@ Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 242 198 0
 Refer: 485 -1 N 1 0 0 1 -91 1770 0
 Refer: 485 -1 N 1 0 0 1 313 1770 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64986,7 +64965,6 @@ Refer: 2779 -1 N 1 0 0 1 72 0 0
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 180 -1 N 1 0 0 1 209 -77 0
 Refer: 184 -1 N 1 0 0 1 242 199 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65015,7 +64993,6 @@ Refer: 2779 -1 N 1 0 0 1 72 0 0
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 448 -78 0
 Refer: 184 -1 N 1 0 0 1 242 244 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65061,7 +65038,6 @@ Refer: 2779 -1 N 1 0 0 1 72 0 0
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 264 130 0
 Refer: 184 -1 N 1 0 0 1 276 -81 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65076,7 +65052,6 @@ Refer: 2779 -1 N 1 0 0 1 72 0 0
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 354 139 0
 Refer: 184 -1 N 1 0 0 1 242 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65510,7 +65485,6 @@ Refer: 2779 -1 N 1 0 0 1 147 0 0
 Refer: 33 82 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 80 -77 0
 Refer: 485 -1 N 1 0 0 1 -8 7 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65989,7 +65963,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 140 0 0
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 220 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -66089,7 +66062,6 @@ Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 220 198 0
 Refer: 485 -1 N 1 0 0 1 -113 1770 0
 Refer: 485 -1 N 1 0 0 1 291 1770 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -66224,7 +66196,6 @@ Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 220 -77 0
 Refer: 485 -1 N 1 0 0 1 -113 1977 0
 Refer: 485 -1 N 1 0 0 1 291 1977 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -66555,7 +66526,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 0 0 0
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 62 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -66688,7 +66658,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 0 0 0
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 62 -77 0
-Validated: 1
 Substitution2: "sous-table 'ss02' Style 2 lookups30" uni1FE9.salt
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni1FE9.salt
 Substitution2: "sous-table Substitution simple lookups7" Upsilon
@@ -70867,7 +70836,6 @@ Refer: 2779 -1 N 1 0 0 1 0 0 0
 Refer: 1138 108 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 -204 0 0
 Refer: 485 -1 N 1 0 0 1 -329 0 0
-Validated: 1
 EndChar
 
 StartChar: uni1E3B
@@ -79029,7 +78997,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 147 0 0
 Refer: 246 1048 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 210 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -79099,7 +79066,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 3 0 0
 Refer: 253 1059 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 103 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -82977,7 +82943,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 17 0 0
 Refer: 923 978 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 62 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -83980,6 +83945,16 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 191 733 S 1 0 0 1 0 -466 2
+EndChar
+
+StartChar: gravecomb
+Encoding: 768 768 2797
+Width: 0
+GlyphClass: 4
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1560 715 S 1 0 0 1 -854 0 2
 EndChar
 EndChars
 EndSplineFont

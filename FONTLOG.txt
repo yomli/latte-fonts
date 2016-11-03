@@ -18,6 +18,51 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 
 ## ChangeLog
 
+03 November 2016 (Guillaume Litaudon) Latte v. 0.3
+- Added gravecomb (Regular)
+
+02 November 2016 (Guillaume Litaudon) Latte v. 0.3
+- Added modifier letter macron at U+02C9 (all)
+- Added modifier letter acute accent at U+02CA (all)
+- Added modifier letter middle grave accent at U+02F4 (all)
+- Fixed the dependency hell of glyph897, glyph898 and glyph899, deleted them (all)
+- Fixed uni02CD (all)
+- Added uni02F6 (all)
+- Fixed uni030F and uni02F5 (BoldItalic)
+
+01 November 2016 (Guillaume Litaudon) Latte v. 0.3
+- Added non-breaking space at U+00A0 (all)
+- Added soft hyphen at U+00AD (all)
+- Added modifier letter double prime at U+02BA (all)
+
+31 October 2016 (Guillaume Litaudon) Latte v. 0.3
+- Replaced the tyPoland logo for copyright reasons (all)
+
+31 October 2016 (Guillaume Litaudon) Latte v. 0.2
+- Fixed uni1D77 and added uni1D77.salt (Regular & Bold)
+- Added the irony point (all)
+- Added the interrobang (all)
+- Added the basis point (all)
+- Added the copyleft symbol (all)
+- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77 (Regular & Bold)
+- Added missing stylistic alternates for g.salt in case of superior and ordinal (Regular & Bold)
+- Added stylistic alternate for y (all)
+
+30 October 2016 (Guillaume Litaudon) Latte v. 0.2
+- Fixed "Circled Numbers" & "Negative Circled Numbers" (Bold)
+- Corrected several non-integral coordinates, missing extrema, cleaning the mess (Bold)
+- Cleaning intersecting paths (BoldItalic)
+- Fixed "Circled Numbers" & "Negative Circled Numbers" (BoldItalic)
+- Corrected several non-integral coordinates, missing extrema, cleaning the mess (BoldItalic)
+
+29 October 2016 (Guillaume Litaudon) Latte v. 0.2
+- Fixed **many** intersecting paths (Regular)
+- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer (Regular)
+- Cleaning intersecting paths (Italic)
+- Fixed "Circled Numbers" & "Negative Circled Numbers" (Italic)
+- Corrected several non-integral coordinates, missing extrema, cleaning the mess (Italic)
+- Cleaning intersecting paths (Bold)
+
 29 October 2016 (Guillaume Litaudon) Latte v. 0.1
 - Inverted g.salt and g (Regular)
 - Inverted uni0123.salt and uni0123 (Regular)
@@ -41,48 +86,6 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 - Inverted uni01E5.salt and uni01E5 (Bold)
 - Modified uni0261 (Bold)
 - Modified g.superior and added g.superior.salt (Bold)
-
-29 October 2016 (Guillaume Litaudon) Latte v. 0.2
-- Fixed **many** intersecting paths (Regular)
-- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer (Regular)
-- Cleaning intersecting paths (Italic)
-- Fixed "Circled Numbers" & "Negative Circled Numbers" (Italic)
-- Corrected several non-integral coordinates, missing extrema, cleaning the mess (Italic)
-- Cleaning intersecting paths (Bold)
-
-30 October 2016 (Guillaume Litaudon) Latte v. 0.2
-- Fixed "Circled Numbers" & "Negative Circled Numbers" (Bold)
-- Corrected several non-integral coordinates, missing extrema, cleaning the mess (Bold)
-- Cleaning intersecting paths (BoldItalic)
-- Fixed "Circled Numbers" & "Negative Circled Numbers" (BoldItalic)
-- Corrected several non-integral coordinates, missing extrema, cleaning the mess (BoldItalic)
-
-31 October 2016 (Guillaume Litaudon) Latte v. 0.2
-- Fixed uni1D77 and added uni1D77.salt (Regular & Bold)
-- Added the irony point (all)
-- Added the interrobang (all)
-- Added the basis point (all)
-- Added the copyleft symbol (all)
-- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77 (Regular & Bold)
-- Added missing stylistic alternates for g.salt in case of superior and ordinal (Regular & Bold)
-- Added stylistic alternate for y (all)
-
-31 October 2016 (Guillaume Litaudon) Latte v. 0.3
-- Replaced the tyPoland logo for copyright reasons (all)
-
-01 October 2016 (Guillaume Litaudon) Latte v. 0.3
-- Added non-breaking space at U+00A0 (all)
-- Added soft hyphen at U+00AD (all)
-- Added modifier letter double prime at U+02BA (all)
-
-02 October 2016 (Guillaume Litaudon) Latte v. 0.3
-- Added modifier letter macron at U+02C9 (all)
-- Added modifier letter acute accent at U+02CA (all)
-- Added modifier letter middle grave accent at U+02F4 (all)
-- Fixed the dependency hell of glyph897, glyph898 and glyph899, deleted them (all)
-- Fixed uni02CD (all)
-- Added uni02F6 (all)
-- Fixed uni030F and uni02F5 (BoldItalic)
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and description (D). 
