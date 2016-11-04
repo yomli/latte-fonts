@@ -4,8 +4,8 @@ FullName: Latte
 FamilyName: Latte
 Weight: Book
 Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.fr) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte Regular font+AAoACgAA-This file provides detailed information on the Latte Regular font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Regular.sfd (Regular weight)+AAoACgAA## ChangeLog+AAoACgAK-04 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added or fixed all glyphs between U+-0300 and U+-0362+AAoA-- Fixed circumflex bad curves+AAoA-- Added GPOS 'mark' lookup for top and bottom anchoring marks+AAoA-- Added anchoring marks for top and bottom diacritics on A-Z+AAoA-- Added anchoring marks for top and bottom diacritics on a-z, dotlessi+AAoA-- Added anchoring marks for top liaisons A-Z+AAoA-- Added anchoring marks for top liaisons on a-z, dotlessi+AAoACgAA-03 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added gravecomb+AAoA-- Added acutecomb+AAoACgAA-02 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoA-- Fixed uni02CD+AAoA-- Added uni02F6+AAoACgAA-01 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77+AAoA-- Added missing stylistic alternates for g.salt in case of superior and ordinal+AAoA-- Added stylistic alternate for y+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed **many** intersecting paths+AAoA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni1E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261+AAoA-- Modified g.superior and added g.superior.salt+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
-Version: 0.4
+FontLog: "# FONTLOG for the Latte Regular font+AAoACgAA-This file provides detailed information on the Latte Regular font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Regular.sfd (Regular weight)+AAoACgAA## ChangeLog+AAoACgAA-03 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added gravecomb (Regular)+AAoA-- Added acutecomb+AAoACgAA-02 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoA-- Fixed uni02CD+AAoA-- Added uni02F6+AAoACgAA-01 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77+AAoA-- Added missing stylistic alternates for g.salt in case of superior and ordinal+AAoA-- Added stylistic alternate for y+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed **many** intersecting paths+AAoA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni1E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261+AAoA-- Modified g.superior and added g.superior.salt+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+Version: 0.3
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 194
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835834854
-ModificationTime: 1478294590
+ModificationTime: 1478214017
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -98,11 +98,8 @@ Lookup: 4 0 0 "'dlig' Ligatures facultatives  dans Latin lookup 36" { "sous-tabl
 Lookup: 4 0 1 "'liga' Ligatures standard dans Latin lookup 37" { "sous-table 'liga' Ligatures standard dans Latin lookup 37"  } ['liga' ('latn' <'IPPH' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'locl' Formes localis+AOkA-es g+AOkA-ographiquement dans Grec lookup 38" { "sous-table 'locl' Formes localis+AOkA-es g+AOkA-ographiquement dans Grec lookup 38"  } ['locl' ('grek' <'dflt' > ) ]
 Lookup: 1 0 0 "'ordn' Ordinaux dans Latin lookup 39" { "sous-table 'ordn' Ordinaux dans Latin lookup 39"  } ['ordn' ('latn' <'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Cr+AOkA-nage horizontal lookups1" { "'kern' Cr+AOkA-nage horizontal lookups1 classe de cr+AOkA-nage 0"  "'kern' Cr+AOkA-nage horizontal lookups1 classe de cr+AOkA-nage 1" [307,0,0] } ['kern' ('cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'IPPH' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Positionnement par marque lookups4" { "sous-table 'mark' Positionnement par marque lookups4"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'IPPH' 'ROM ' 'TRK ' 'dflt' > 'thai' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Positionnement par marque lookups2" { "sous-table 'mark' Positionnement par marque lookups2"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'IPPH' 'ROM ' 'TRK ' 'dflt' > 'thai' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Positionnement par marque lookups3" { "sous-table 'mark' Positionnement par marque lookups3"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'IPPH' 'ROM ' 'TRK ' 'dflt' > 'thai' <'dflt' > ) ]
 Lookup: 257 0 0 "'cpsp' Chasses pour composition en capitales lookups0" { "sous-table 'cpsp' Chasses pour composition en capitales lookups0"  } ['cpsp' ('cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Cr+AOkA-nage horizontal lookups1" { "'kern' Cr+AOkA-nage horizontal lookups1 classe de cr+AOkA-nage 0"  "'kern' Cr+AOkA-nage horizontal lookups1 classe de cr+AOkA-nage 1"  } ['kern' ('cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'IPPH' 'ROM ' 'TRK ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 109+ 167 "'kern' Cr+AOkA-nage horizontal lookups1 classe de cr+AOkA-nage 0"
@@ -738,7 +735,7 @@ ChainSub2: coverage "sous-table 'ccmp' Composition et d+AOkA-composition de glyp
  1
   SeqLookup: 0 "Substitution simple lookups0"
 EndFPST
-LangName: 1033 "" "" "Regular" "" "" "Version 0.4" "" "Latte is a trademark of Guillaume Litaudon." "" "Guillaume Litaudon+AAoA-Lukasz Dziedzic" "Latte is a sans-serif typeface family based on Carlito." "" "http://www.guillaumelitaudon.fr/+AAoA-http://www.typoland.com/designers/Lukasz_Dziedzic/" "Copyright (c) 2016, Guillaume Litaudon (www.guillaumelitaudon.fr),+AAoA-with Reserved Font Name +ACIA-Latte+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "Regular" "" "" "Version 0.3" "" "Latte is a trademark of Guillaume Litaudon." "" "Guillaume Litaudon+AAoA-Lukasz Dziedzic" "Latte is a sans-serif typeface family based on Carlito." "" "http://www.guillaumelitaudon.fr/+AAoA-http://www.typoland.com/designers/Lukasz_Dziedzic/" "Copyright (c) 2016, Guillaume Litaudon (www.guillaumelitaudon.fr),+AAoA-with Reserved Font Name +ACIA-Latte+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: UnicodeFull
 UnicodeInterp: none
@@ -746,7 +743,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 702 26 10
+WinInfo: 676 26 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -756,8 +753,7 @@ Grid
  470.037908381 -1536 l 1024
 EndSplineSet
 TeXData: 1 0 0 237056 118528 79018 500736 -1048576 79018 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "Ancre-2" "sous-table 'mark' Positionnement par marque lookups4" "Ancre-03"""  "Ancre-02"""  "Ancre-1" "sous-table 'mark' Positionnement par marque lookups3" "Ancre-0" "sous-table 'mark' Positionnement par marque lookups2"
-BeginChars: 1114780 2832
+BeginChars: 1114780 2799
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -866,9 +862,6 @@ Encoding: 65 65 3
 Width: 1185
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1185 1515 basechar 0
-AnchorPoint: "Ancre-1" 593 0 basechar 0
-AnchorPoint: "Ancre-0" 593 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -995,9 +988,6 @@ Encoding: 66 66 6
 Width: 1114
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1114 1515 basechar 0
-AnchorPoint: "Ancre-1" 513 10 basechar 0
-AnchorPoint: "Ancre-0" 513 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1050,9 +1040,6 @@ Encoding: 67 67 7
 Width: 1092
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1092 1515 basechar 0
-AnchorPoint: "Ancre-1" 648 -3 basechar 0
-AnchorPoint: "Ancre-0" 648 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1170,9 +1157,6 @@ Encoding: 68 68 9
 Width: 1260
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1260 1515 basechar 0
-AnchorPoint: "Ancre-1" 578 10 basechar 0
-AnchorPoint: "Ancre-0" 578 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1224,9 +1208,6 @@ Encoding: 69 69 11
 Width: 1000
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1000 1515 basechar 0
-AnchorPoint: "Ancre-1" 546 10 basechar 0
-AnchorPoint: "Ancre-0" 546 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1299,9 +1280,6 @@ Encoding: 70 70 13
 Width: 941
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 941 1515 basechar 0
-AnchorPoint: "Ancre-1" 548 10 basechar 0
-AnchorPoint: "Ancre-0" 548 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1327,9 +1305,6 @@ Encoding: 71 71 14
 Width: 1292
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1292 1515 basechar 0
-AnchorPoint: "Ancre-1" 736 -3 basechar 0
-AnchorPoint: "Ancre-0" 736 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1383,9 +1358,6 @@ Encoding: 72 72 15
 Width: 1276
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1276 1515 basechar 0
-AnchorPoint: "Ancre-1" 638 10 basechar 0
-AnchorPoint: "Ancre-0" 638 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1452,9 +1424,6 @@ Encoding: 73 73 17
 Width: 516
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 516 1515 basechar 0
-AnchorPoint: "Ancre-1" 258 10 basechar 0
-AnchorPoint: "Ancre-0" 258 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1511,9 +1480,6 @@ Encoding: 74 74 19
 Width: 653
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 653 1515 basechar 0
-AnchorPoint: "Ancre-1" 191 -3 basechar 0
-AnchorPoint: "Ancre-0" 444 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1546,9 +1512,6 @@ Encoding: 75 75 20
 Width: 1064
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1064 1515 basechar 0
-AnchorPoint: "Ancre-1" 530 89 basechar 0
-AnchorPoint: "Ancre-0" 530 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1587,9 +1550,6 @@ Encoding: 76 76 21
 Width: 861
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 861 1515 basechar 0
-AnchorPoint: "Ancre-1" 470 10 basechar 0
-AnchorPoint: "Ancre-0" 230 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1646,7 +1606,7 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 174 0 0
 Refer: 21 76 N 1 0 0 1 36 0 0
 Refer: 178 789 N 1 0 0 1 348 -59 0
-Validated: 5
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -1655,9 +1615,6 @@ Encoding: 77 77 24
 Width: 1751
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1751 1515 basechar 0
-AnchorPoint: "Ancre-1" 875 10 basechar 0
-AnchorPoint: "Ancre-0" 875 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1699,9 +1656,6 @@ Encoding: 78 78 25
 Width: 1322
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1322 1515 basechar 0
-AnchorPoint: "Ancre-1" 661 10 basechar 0
-AnchorPoint: "Ancre-0" 661 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1781,9 +1735,6 @@ Encoding: 79 79 27
 Width: 1356
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1356 1515 basechar 0
-AnchorPoint: "Ancre-1" 678 0 basechar 0
-AnchorPoint: "Ancre-0" 678 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1949,9 +1900,6 @@ Encoding: 80 80 30
 Width: 1058
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1058 1515 basechar 0
-AnchorPoint: "Ancre-1" 516 10 basechar 0
-AnchorPoint: "Ancre-0" 516 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2029,9 +1977,6 @@ Encoding: 81 81 32
 Width: 1378
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1378 1515 basechar 0
-AnchorPoint: "Ancre-1" 690 -3 basechar 0
-AnchorPoint: "Ancre-0" 690 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2084,9 +2029,6 @@ Encoding: 82 82 33
 Width: 1112
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1112 1515 basechar 0
-AnchorPoint: "Ancre-1" 516 10 basechar 0
-AnchorPoint: "Ancre-0" 516 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2132,9 +2074,6 @@ Encoding: 83 83 34
 Width: 941
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 941 1515 basechar 0
-AnchorPoint: "Ancre-1" 450 0 basechar 0
-AnchorPoint: "Ancre-0" 498 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2283,9 +2222,6 @@ Encoding: 84 84 36
 Width: 998
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 998 1515 basechar 0
-AnchorPoint: "Ancre-1" 499 0 basechar 0
-AnchorPoint: "Ancre-0" 499 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2339,9 +2275,6 @@ Encoding: 85 85 38
 Width: 1314
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1314 1515 basechar 0
-AnchorPoint: "Ancre-1" 657 0 basechar 0
-AnchorPoint: "Ancre-0" 657 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2433,9 +2366,6 @@ Encoding: 86 86 40
 Width: 1162
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1162 1515 basechar 0
-AnchorPoint: "Ancre-1" 581 10 basechar 0
-AnchorPoint: "Ancre-0" 581 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2466,9 +2396,6 @@ Encoding: 87 87 41
 Width: 1822
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1822 1515 basechar 0
-AnchorPoint: "Ancre-1" 911 10 basechar 0
-AnchorPoint: "Ancre-0" 911 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2516,9 +2443,6 @@ Encoding: 88 88 42
 Width: 1063
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1063 1515 basechar 0
-AnchorPoint: "Ancre-1" 532 10 basechar 0
-AnchorPoint: "Ancre-0" 532 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2556,9 +2480,6 @@ Encoding: 89 89 43
 Width: 998
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 998 1515 basechar 0
-AnchorPoint: "Ancre-1" 499 0 basechar 0
-AnchorPoint: "Ancre-0" 499 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2591,9 +2512,6 @@ Encoding: 90 90 44
 Width: 959
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 959 1515 basechar 0
-AnchorPoint: "Ancre-1" 495 10 basechar 0
-AnchorPoint: "Ancre-0" 495 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2622,9 +2540,6 @@ Encoding: 97 97 45
 Width: 981
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 981 1515 basechar 0
-AnchorPoint: "Ancre-1" 378 0 basechar 0
-AnchorPoint: "Ancre-0" 489 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2849,9 +2764,6 @@ Encoding: 98 98 48
 Width: 1076
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1076 1515 basechar 0
-AnchorPoint: "Ancre-1" 549 0 basechar 0
-AnchorPoint: "Ancre-0" 540 1492 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2895,9 +2807,6 @@ Encoding: 99 99 49
 Width: 866
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 866 1515 basechar 0
-AnchorPoint: "Ancre-1" 500 -3 basechar 0
-AnchorPoint: "Ancre-0" 500 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3405,9 +3314,6 @@ Encoding: 100 100 55
 Width: 1076
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1076 1515 basechar 0
-AnchorPoint: "Ancre-1" 461 0 basechar 0
-AnchorPoint: "Ancre-0" 527 1492 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3459,7 +3365,7 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 53 0 0
 Refer: 55 100 N 1 0 0 1 -21 0 0
 Refer: 178 789 N 1 0 0 1 841 0 0
-Validated: 5
+Validated: 1
 EndChar
 
 StartChar: dcroat
@@ -3584,9 +3490,6 @@ Encoding: 101 101 59
 Width: 1019
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1019 1515 basechar 0
-AnchorPoint: "Ancre-1" 520 0 basechar 0
-AnchorPoint: "Ancre-0" 536 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3709,9 +3612,6 @@ Encoding: 102 102 61
 Width: 625
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 625 1515 basechar 0
-AnchorPoint: "Ancre-1" 258 10 basechar 0
-AnchorPoint: "Ancre-0" 415 1538 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5203,9 +5103,6 @@ Encoding: 103 103 93
 Width: 1076
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1076 1515 basechar 0
-AnchorPoint: "Ancre-1" 481 -369 basechar 0
-AnchorPoint: "Ancre-0" 541 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5355,9 +5252,6 @@ Encoding: 104 104 95
 Width: 1076
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1076 1515 basechar 0
-AnchorPoint: "Ancre-1" 577 10 basechar 0
-AnchorPoint: "Ancre-0" 562 1492 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5443,11 +5337,9 @@ Encoding: 105 105 98
 Width: 470
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 470 1515 basechar 0
-AnchorPoint: "Ancre-1" 238 10 basechar 0
-AnchorPoint: "Ancre-0" 238 1534 basechar 0
 LayerCount: 2
 Fore
+Refer: 2779 -1 N 1 0 0 1 110 0 0
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 2 -7 0
 Validated: 1
@@ -5475,9 +5367,6 @@ Encoding: 305 305 100
 Width: 470
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 470 1515 basechar 0
-AnchorPoint: "Ancre-1" 238 10 basechar 0
-AnchorPoint: "Ancre-0" 235 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5577,9 +5466,6 @@ Encoding: 106 106 102
 Width: 490
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 490 1515 basechar 0
-AnchorPoint: "Ancre-1" 182 -356 basechar 0
-AnchorPoint: "Ancre-0" 252 1538 basechar 0
 LayerCount: 2
 Fore
 Refer: 2779 -1 N 1 0 0 1 0 0 0
@@ -5625,9 +5511,6 @@ Encoding: 107 107 104
 Width: 931
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 931 1515 basechar 0
-AnchorPoint: "Ancre-1" 520 70 basechar 0
-AnchorPoint: "Ancre-0" 520 1492 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5738,7 +5621,7 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 120 0 0
 Refer: 1138 108 N 1 0 0 1 -27 0 0
 Refer: 178 789 N 1 0 0 1 222 0 0
-Validated: 5
+Validated: 1
 EndChar
 
 StartChar: m
@@ -5746,9 +5629,6 @@ Encoding: 109 109 108
 Width: 1636
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1636 1515 basechar 0
-AnchorPoint: "Ancre-1" 828 10 basechar 0
-AnchorPoint: "Ancre-0" 822 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5799,9 +5679,6 @@ Encoding: 110 110 109
 Width: 1076
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1076 1515 basechar 0
-AnchorPoint: "Ancre-1" 578 10 basechar 0
-AnchorPoint: "Ancre-0" 538 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5882,9 +5759,6 @@ Encoding: 111 111 111
 Width: 1080
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1080 1515 basechar 0
-AnchorPoint: "Ancre-1" 540 0 basechar 0
-AnchorPoint: "Ancre-0" 540 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6065,9 +5939,6 @@ Encoding: 112 112 114
 Width: 1076
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1076 1515 basechar 0
-AnchorPoint: "Ancre-1" 230 -320 basechar 0
-AnchorPoint: "Ancre-0" 630 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6156,9 +6027,6 @@ Encoding: 113 113 116
 Width: 1076
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1076 1515 basechar 0
-AnchorPoint: "Ancre-1" 847 -320 basechar 0
-AnchorPoint: "Ancre-0" 490 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6204,9 +6072,6 @@ Encoding: 114 114 117
 Width: 714
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 714 1515 basechar 0
-AnchorPoint: "Ancre-1" 219 10 basechar 0
-AnchorPoint: "Ancre-0" 418 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6241,9 +6106,6 @@ Encoding: 115 115 118
 Width: 801
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 801 1515 basechar 0
-AnchorPoint: "Ancre-1" 382 -10 basechar 0
-AnchorPoint: "Ancre-0" 418 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6739,9 +6601,6 @@ Encoding: 116 116 124
 Width: 686
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 686 1515 basechar 0
-AnchorPoint: "Ancre-1" 418 0 basechar 0
-AnchorPoint: "Ancre-0" 291 1434 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6790,7 +6649,7 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 34 0 0
 Refer: 124 116 N 1 0 0 1 0 0 0
 Refer: 178 789 N 1 0 0 1 355 0 0
-Validated: 5
+Validated: 1
 EndChar
 
 StartChar: tbar
@@ -7260,9 +7119,6 @@ Encoding: 117 117 134
 Width: 1076
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1076 1515 basechar 0
-AnchorPoint: "Ancre-1" 538 0 basechar 0
-AnchorPoint: "Ancre-0" 541 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7350,9 +7206,6 @@ Encoding: 118 118 136
 Width: 925
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 925 1515 basechar 0
-AnchorPoint: "Ancre-1" 463 10 basechar 0
-AnchorPoint: "Ancre-0" 463 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7383,9 +7236,6 @@ Encoding: 119 119 137
 Width: 1464
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 1464 1515 basechar 0
-AnchorPoint: "Ancre-1" 732 10 basechar 0
-AnchorPoint: "Ancre-0" 732 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7435,9 +7285,6 @@ Encoding: 120 120 138
 Width: 887
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 887 1515 basechar 0
-AnchorPoint: "Ancre-1" 434 10 basechar 0
-AnchorPoint: "Ancre-0" 454 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7476,9 +7323,6 @@ Encoding: 121 121 139
 Width: 927
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 927 1515 basechar 0
-AnchorPoint: "Ancre-1" 682 -58 basechar 0
-AnchorPoint: "Ancre-0" 472 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7514,9 +7358,6 @@ Encoding: 122 122 140
 Width: 809
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 809 1515 basechar 0
-AnchorPoint: "Ancre-1" 435 10 basechar 0
-AnchorPoint: "Ancre-0" 422 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8732,13 +8573,16 @@ SplineSet
 703 1128 m 1,0,-1
  585 1128 l 2,1,2
  574 1128 574 1128 563 1132 c 128,-1,3
- 552 1136 552 1136 541 1147 c 0,4,5
- 407 1291 l 1,6,-1
- 272 1147 l 2,7,8
- 254 1128 254 1128 228 1128 c 2,9,-1
- 106 1128 l 1,10,-1
- 323 1383 l 1,11,-1
- 485 1383 l 1,12,-1
+ 552 1136 552 1136 541 1147 c 2,4,-1
+ 423 1272 l 2,5,6
+ 418 1276 418 1276 414.5 1281 c 128,-1,7
+ 411 1286 411 1286 407 1291 c 1,8,-1
+ 391 1273 l 1,9,-1
+ 272 1147 l 2,10,11
+ 254 1128 254 1128 228 1128 c 2,12,-1
+ 106 1128 l 1,13,-1
+ 323 1383 l 1,14,-1
+ 485 1383 l 1,15,-1
  703 1128 l 1,0,-1
 EndSplineSet
 Validated: 1
@@ -8780,14 +8624,16 @@ Fore
 SplineSet
 106 1383 m 1,0,-1
  228 1383 l 2,1,2
- 253 1383 253 1383 267 1369 c 0,3,4
- 406 1219 l 1,5,-1
- 546 1368 l 2,6,7
- 552 1374 552 1374 563 1378.5 c 128,-1,8
- 574 1383 574 1383 585 1383 c 2,9,-1
- 703 1383 l 1,10,-1
- 485 1128 l 1,11,-1
- 323 1128 l 1,12,-1
+ 253 1383 253 1383 267 1369 c 2,3,-1
+ 390 1238 l 2,4,5
+ 398 1229 398 1229 406 1219 c 1,6,-1
+ 423 1238 l 1,7,-1
+ 546 1368 l 2,8,9
+ 552 1374 552 1374 563 1378.5 c 128,-1,10
+ 574 1383 574 1383 585 1383 c 2,11,-1
+ 703 1383 l 1,12,-1
+ 485 1128 l 1,13,-1
+ 323 1128 l 1,14,-1
  106 1383 l 1,0,-1
 EndSplineSet
 Validated: 1
@@ -8822,24 +8668,24 @@ EndChar
 
 StartChar: uni0315
 Encoding: 789 789 178
-Width: 0
+Width: 511
 GlyphClass: 4
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-86 1424 m 6,0,1
- 107 1424 107 1424 112.5 1413.5 c 132,-1,2
- 118 1403 118 1403 118 1392 c 4,3,4
- 118 1383 118 1383 114.5 1367 c 132,-1,5
- 111 1351 111 1351 102 1322.5 c 132,-1,6
- 93 1294 93 1294 77.5 1250.5 c 132,-1,7
- 62 1207 62 1207 38 1143 c 4,8,9
- 30 1121 30 1121 15 1114 c 132,-1,10
- 0 1107 0 1107 -24 1107 c 6,11,-1
- -85 1107 l 5,12,-1
- -31 1424 l 5,13,-1
- 86 1424 l 6,0,1
+332 1424 m 2,0,1
+ 353 1424 353 1424 358.5 1413.5 c 128,-1,2
+ 364 1403 364 1403 364 1392 c 0,3,4
+ 364 1383 364 1383 360.5 1367 c 128,-1,5
+ 357 1351 357 1351 348 1322.5 c 128,-1,6
+ 339 1294 339 1294 323.5 1250.5 c 128,-1,7
+ 308 1207 308 1207 284 1143 c 0,8,9
+ 276 1121 276 1121 261 1114 c 128,-1,10
+ 246 1107 246 1107 222 1107 c 2,11,-1
+ 161 1107 l 1,12,-1
+ 215 1424 l 1,13,-1
+ 332 1424 l 2,0,1
 EndSplineSet
 Validated: 1
 EndChar
@@ -8925,42 +8771,9 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-697 1244 m 256,0,1
- 697 1221 697 1221 688 1201 c 128,-1,2
- 679 1181 679 1181 663.5 1166 c 128,-1,3
- 648 1151 648 1151 627.5 1142.5 c 128,-1,4
- 607 1134 607 1134 585 1134 c 0,5,6
- 562 1134 562 1134 542 1142.5 c 128,-1,7
- 522 1151 522 1151 507 1166 c 128,-1,8
- 492 1181 492 1181 483.5 1201 c 128,-1,9
- 475 1221 475 1221 475 1244 c 256,10,11
- 475 1267 475 1267 483.5 1287 c 128,-1,12
- 492 1307 492 1307 507 1322 c 128,-1,13
- 522 1337 522 1337 542 1346 c 128,-1,14
- 562 1355 562 1355 585 1355 c 0,15,16
- 607 1355 607 1355 627.5 1346 c 128,-1,17
- 648 1337 648 1337 663.5 1322 c 128,-1,18
- 679 1307 679 1307 688 1287 c 128,-1,19
- 697 1267 697 1267 697 1244 c 256,0,1
-327 1244 m 256,20,21
- 327 1221 327 1221 318 1201 c 128,-1,22
- 309 1181 309 1181 293.5 1166 c 128,-1,23
- 278 1151 278 1151 257.5 1142.5 c 128,-1,24
- 237 1134 237 1134 215 1134 c 0,25,26
- 192 1134 192 1134 172 1142.5 c 128,-1,27
- 152 1151 152 1151 137 1166 c 128,-1,28
- 122 1181 122 1181 113.5 1201 c 128,-1,29
- 105 1221 105 1221 105 1244 c 256,30,31
- 105 1267 105 1267 113.5 1287 c 128,-1,32
- 122 1307 122 1307 137 1322 c 128,-1,33
- 152 1337 152 1337 172 1346 c 128,-1,34
- 192 1355 192 1355 215 1355 c 0,35,36
- 237 1355 237 1355 257.5 1346 c 128,-1,37
- 278 1337 278 1337 293.5 1322 c 128,-1,38
- 309 1307 309 1307 318 1287 c 128,-1,39
- 327 1267 327 1267 327 1244 c 256,20,21
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 105 1134 0
+Refer: 485 -1 N 1 0 0 1 -348 1483 0
+Refer: 485 -1 N 1 0 0 1 22 1483 0
 Validated: 1
 EndChar
 
@@ -9008,7 +8821,6 @@ SplineSet
  167 1532 l 1,3,-1
  167 1636 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: breve
@@ -9486,11 +9298,11 @@ Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-499 738 m 5,0,-1
- 970 738 l 5,1,-1
- 970 591 l 5,2,-1
- 499 591 l 5,3,-1
- 499 738 l 5,0,-1
+499 738 m 1,0,-1
+ 970 738 l 1,1,-1
+ 970 591 l 1,2,-1
+ 499 591 l 1,3,-1
+ 499 738 l 1,0,-1
 1284 657 m 0,4,5
  1284 509 1284 509 1240.5 386 c 128,-1,6
  1197 263 1197 263 1117.5 174 c 128,-1,7
@@ -38960,13 +38772,8 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-233 1556 m 1,0,-1
- 361 1556 l 1,1,-1
- 361 1135 l 1,2,-1
- 233 1135 l 1,3,-1
- 233 1556 l 1,0,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 233 1135 0
+Refer: 509 -1 N 1 0 0 1 -266 0 0
 Validated: 1
 EndChar
 
@@ -48706,9 +48513,6 @@ Encoding: 108 108 1138
 Width: 470
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-2" 470 1515 basechar 0
-AnchorPoint: "Ancre-1" 235 10 basechar 0
-AnchorPoint: "Ancre-0" 235 1553 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -52770,26 +52574,10 @@ Encoding: 865 865 1309
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-2" 0 1122 mark 0
 LayerCount: 2
 Fore
-SplineSet
-0 1318 m 256,0,1
- -127 1318 -127 1318 -236 1307.5 c 128,-1,2
- -345 1297 -345 1297 -444 1276.5 c 128,-1,3
- -543 1256 -543 1256 -637 1225.5 c 128,-1,4
- -731 1195 -731 1195 -827 1155 c 1,5,-1
- -873 1272 l 1,6,7
- -695 1354 -695 1354 -479 1401.5 c 128,-1,8
- -263 1449 -263 1449 0 1449 c 256,9,10
- 263 1449 263 1449 479 1401.5 c 128,-1,11
- 695 1354 695 1354 873 1272 c 1,12,-1
- 827 1155 l 1,13,14
- 730 1195 730 1195 636.5 1225.5 c 128,-1,15
- 543 1256 543 1256 443.5 1276.5 c 128,-1,16
- 344 1297 344 1297 235.5 1307.5 c 128,-1,17
- 127 1318 127 1318 0 1318 c 256,0,1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 1155 0
+Refer: 556 -1 N 1 0 0 1 -1071 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph1312
 EndChar
@@ -53848,21 +53636,8 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-268 1321 m 1,0,-1
- 124 1466 l 1,1,-1
- 196 1539 l 1,2,-1
- 341 1394 l 1,3,-1
- 486 1539 l 1,4,-1
- 558 1466 l 1,5,-1
- 413 1321 l 1,6,-1
- 558 1177 l 1,7,-1
- 486 1104 l 1,8,-1
- 341 1249 l 1,9,-1
- 196 1104 l 1,10,-1
- 124 1177 l 1,11,-1
- 268 1321 l 1,0,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 124 1104 0
+Refer: 534 -1 N 1 0 0 1 0 0 0
 Validated: 1
 EndChar
 
@@ -54825,29 +54600,29 @@ EndChar
 
 StartChar: uni031B
 Encoding: 795 795 1377
-Width: 88
+Width: 682
 GlyphClass: 4
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--170 816 m 5,0,1
- -82 816 -82 816 -33 851.5 c 132,-1,2
- 16 887 16 887 16 941 c 4,3,4
- 16 957 16 957 9 968.5 c 132,-1,5
- 2 980 2 980 -6.5 991 c 132,-1,6
- -15 1002 -15 1002 -22 1015.5 c 132,-1,7
- -29 1029 -29 1029 -29 1050 c 4,8,9
- -29 1087 -29 1087 -5 1107 c 132,-1,10
- 19 1127 19 1127 68 1127 c 6,11,-1
- 158 1127 l 5,12,13
- 164 1107 164 1107 167.5 1081.5 c 132,-1,14
- 171 1056 171 1056 171 1029 c 4,15,16
- 171 963 171 963 148.5 909.5 c 132,-1,17
- 126 856 126 856 82.5 817.5 c 132,-1,18
- 39 779 39 779 -24.5 758 c 132,-1,19
- -88 737 -88 737 -170 737 c 5,20,-1
- -170 816 l 5,0,1
+196 816 m 1,0,1
+ 284 816 284 816 333 851.5 c 128,-1,2
+ 382 887 382 887 382 941 c 0,3,4
+ 382 957 382 957 375 968.5 c 128,-1,5
+ 368 980 368 980 359.5 991 c 128,-1,6
+ 351 1002 351 1002 344 1015.5 c 128,-1,7
+ 337 1029 337 1029 337 1050 c 0,8,9
+ 337 1087 337 1087 361 1107 c 128,-1,10
+ 385 1127 385 1127 434 1127 c 2,11,-1
+ 524 1127 l 1,12,13
+ 530 1107 530 1107 533.5 1081.5 c 128,-1,14
+ 537 1056 537 1056 537 1029 c 0,15,16
+ 537 963 537 963 514.5 909.5 c 128,-1,17
+ 492 856 492 856 448.5 817.5 c 128,-1,18
+ 405 779 405 779 341.5 758 c 128,-1,19
+ 278 737 278 737 196 737 c 1,20,-1
+ 196 816 l 1,0,1
 EndSplineSet
 Validated: 1
 EndChar
@@ -57058,7 +56833,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 132 1532 0
 Refer: 173 -1 N 1 0 0 1 101 229 0
 Refer: 184 -1 N 1 0 0 1 -35 0 0
-Validated: 1
 EndChar
 
 StartChar: glyph1424
@@ -57071,7 +56845,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 36 1532 0
 Refer: 171 -1 N 1 0 0 1 -47 211 0
 Refer: 184 -1 N 1 0 0 1 -35 0 0
-Validated: 1
 EndChar
 
 StartChar: glyph1425
@@ -57150,7 +56923,6 @@ Refer: 2779 -1 N 1 0 0 1 85 1532 0
 Refer: 184 -1 N 1 0 0 1 -35 0 0
 Refer: 485 -1 N 1 0 0 1 -368 2058 0
 Refer: 485 -1 N 1 0 0 1 36 2058 0
-Validated: 1
 EndChar
 
 StartChar: glyph1428
@@ -57411,7 +57183,6 @@ Refer: 2779 -1 N 1 0 0 1 85 1498 0
 Refer: 184 -1 N 1 0 0 1 -35 290 0
 Refer: 485 -1 N 1 0 0 1 -368 1847 0
 Refer: 485 -1 N 1 0 0 1 36 1847 0
-Validated: 1
 EndChar
 
 StartChar: glyph1440
@@ -57480,7 +57251,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 132 1512 0
 Refer: 194 -1 N 1 0 0 1 171 0 0
 Refer: 184 -1 N 1 0 0 1 -35 339 0
-Validated: 1
 EndChar
 
 StartChar: glyph1445
@@ -57604,7 +57374,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 154 1490 0
 Refer: 180 -1 N 1 0 0 1 -7 0 0
 Refer: 184 -1 N 1 0 0 1 24 292 0
-Validated: 1
 EndChar
 
 StartChar: uni02ED
@@ -57620,11 +57389,11 @@ SplineSet
  1000 1506 l 1,2,-1
  178 1506 l 1,3,-1
  178 1620 l 1,0,-1
-178 1415 m 5,4,-1
- 1000 1415 l 5,5,-1
- 1000 1301 l 5,6,-1
- 178 1301 l 5,7,-1
- 178 1415 l 5,4,-1
+178 1343 m 1,4,-1
+ 1000 1343 l 1,5,-1
+ 1000 1229 l 1,6,-1
+ 178 1229 l 1,7,-1
+ 178 1343 l 1,4,-1
 EndSplineSet
 Validated: 1
 EndChar
@@ -57674,15 +57443,8 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-324 -280 m 1,0,-1
- 472 -425 l 1,1,-1
- 400 -497 l 1,2,-1
- 184 -281 l 1,3,-1
- 400 -64 l 1,4,-1
- 472 -136 l 1,5,-1
- 324 -280 l 1,0,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 184 -64 0
+Refer: 544 -1 N 1 0 0 1 0 0 0
 Validated: 1
 EndChar
 
@@ -57693,15 +57455,8 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-376 -282 m 1,0,-1
- 228 -137 l 1,1,-1
- 300 -65 l 1,2,-1
- 516 -282 l 1,3,-1
- 300 -499 l 1,4,-1
- 228 -426 l 1,5,-1
- 376 -282 l 1,0,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 228 -65 0
+Refer: 541 -1 N 1 0 0 1 18 -1606 0
 Validated: 1
 EndChar
 
@@ -58754,8 +58509,7 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 0 0 0
 Refer: 89 64258 N 1 0 0 1 -57 0 0
 Refer: 178 789 N 1 0 0 1 834 0 0
-Validated: 5
-LCarets2: 1 0
+Validated: 1
 Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f lcaron
 EndChar
 
@@ -58836,7 +58590,7 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 41 0 0
 Refer: 91 -1 N 1 0 0 1 17 0 0
 Refer: 178 789 N 1 0 0 1 997 0 0
-Validated: 5
+Validated: 1
 Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f tcaron
 EndChar
 
@@ -59902,26 +59656,8 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-607 920 m 6,0,1
- 639 920 639 920 659 909 c 132,-1,2
- 679 898 679 898 693 878 c 6,3,-1
- 835 658 l 5,4,-1
- 751 658 l 6,5,6
- 731 658 731 658 718 664.5 c 132,-1,7
- 705 671 705 671 692 685 c 6,8,-1
- 491 920 l 5,9,-1
- 607 920 l 6,0,1
-264 920 m 6,10,11
- 296 920 296 920 316.5 909 c 132,-1,12
- 337 898 337 898 354 878 c 6,13,-1
- 532 658 l 5,14,-1
- 438 658 l 6,15,16
- 417 658 417 658 402 664.5 c 132,-1,17
- 387 671 387 671 372 685 c 6,18,-1
- 131 920 l 5,19,-1
- 264 920 l 6,10,11
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 131 658 0
+Refer: 512 -1 S 1 0 0 1 114 -834 0
 Validated: 1
 EndChar
 
@@ -60614,13 +60350,8 @@ GlyphClass: 4
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
--1120 544 m 1,0,-1
- 40 544 l 1,1,-1
- 40 416 l 1,2,-1
- -1120 416 l 1,3,-1
- -1120 544 l 1,0,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 506 0
+Refer: 331 8211 N 1 0 0 1 -540 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph1560
 EndChar
@@ -60666,6 +60397,7 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
+Refer: 2779 -1 N 1 0 0 1 106 1128 0
 Refer: 176 711 N 1 0 0 1 0 0 0
 Validated: 1
 EndChar
@@ -60724,72 +60456,8 @@ Encoding: 843 843 1566
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -575 1122 mark 0
 LayerCount: 2
 Fore
-SplineSet
--515 1493 m 0,0,1
- -493 1493 -493 1493 -476 1501.5 c 128,-1,2
- -459 1510 -459 1510 -447.5 1523.5 c 128,-1,3
- -436 1537 -436 1537 -430 1554.5 c 128,-1,4
- -424 1572 -424 1572 -424 1589 c 1,5,-1
- -317 1589 l 1,6,7
- -317 1547 -317 1547 -328.5 1509 c 128,-1,8
- -340 1471 -340 1471 -362.5 1441.5 c 128,-1,9
- -385 1412 -385 1412 -418 1394.5 c 128,-1,10
- -451 1377 -451 1377 -494 1377 c 0,11,12
- -538 1377 -538 1377 -572.5 1393 c 128,-1,13
- -607 1409 -607 1409 -636.5 1427.5 c 128,-1,14
- -666 1446 -666 1446 -692 1462 c 128,-1,15
- -718 1478 -718 1478 -745 1478 c 0,16,17
- -767 1478 -767 1478 -783.5 1469.5 c 128,-1,18
- -800 1461 -800 1461 -811 1447 c 128,-1,19
- -822 1433 -822 1433 -828 1415.5 c 128,-1,20
- -834 1398 -834 1398 -834 1381 c 1,21,-1
- -943 1381 l 1,22,23
- -943 1423 -943 1423 -931 1461.5 c 128,-1,24
- -919 1500 -919 1500 -896.5 1529.5 c 128,-1,25
- -874 1559 -874 1559 -840.5 1577 c 128,-1,26
- -807 1595 -807 1595 -765 1595 c 0,27,28
- -721 1595 -721 1595 -686.5 1579 c 128,-1,29
- -652 1563 -652 1563 -622.5 1544 c 128,-1,30
- -593 1525 -593 1525 -567.5 1509 c 128,-1,31
- -542 1493 -542 1493 -515 1493 c 0,0,1
--509 1237 m 256,32,33
- -509 1214 -509 1214 -518 1194 c 128,-1,34
- -527 1174 -527 1174 -542.5 1159 c 128,-1,35
- -558 1144 -558 1144 -578.5 1135.5 c 128,-1,36
- -599 1127 -599 1127 -621 1127 c 0,37,38
- -644 1127 -644 1127 -664 1135.5 c 128,-1,39
- -684 1144 -684 1144 -699 1159 c 128,-1,40
- -714 1174 -714 1174 -722.5 1194 c 128,-1,41
- -731 1214 -731 1214 -731 1237 c 256,42,43
- -731 1260 -731 1260 -722.5 1280 c 128,-1,44
- -714 1300 -714 1300 -699 1315 c 128,-1,45
- -684 1330 -684 1330 -664 1339 c 128,-1,46
- -644 1348 -644 1348 -621 1348 c 0,47,48
- -599 1348 -599 1348 -578.5 1339 c 128,-1,49
- -558 1330 -558 1330 -542.5 1315 c 128,-1,50
- -527 1300 -527 1300 -518 1280 c 128,-1,51
- -509 1260 -509 1260 -509 1237 c 256,32,33
--509 1732 m 256,52,53
- -509 1709 -509 1709 -518 1689 c 128,-1,54
- -527 1669 -527 1669 -542.5 1654 c 128,-1,55
- -558 1639 -558 1639 -578.5 1630.5 c 128,-1,56
- -599 1622 -599 1622 -621 1622 c 0,57,58
- -644 1622 -644 1622 -664 1630.5 c 128,-1,59
- -684 1639 -684 1639 -699 1654 c 128,-1,60
- -714 1669 -714 1669 -722.5 1689 c 128,-1,61
- -731 1709 -731 1709 -731 1732 c 256,62,63
- -731 1755 -731 1755 -722.5 1775 c 128,-1,64
- -714 1795 -714 1795 -699 1810 c 128,-1,65
- -684 1825 -684 1825 -664 1834 c 128,-1,66
- -644 1843 -644 1843 -621 1843 c 0,67,68
- -599 1843 -599 1843 -578.5 1834 c 128,-1,69
- -558 1825 -558 1825 -542.5 1810 c 128,-1,70
- -527 1795 -527 1795 -518 1775 c 128,-1,71
- -509 1755 -509 1755 -509 1732 c 256,52,53
-EndSplineSet
 Validated: 1
 EndChar
 
@@ -60798,57 +60466,8 @@ Encoding: 844 844 1567
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -565 1122 mark 0
 LayerCount: 2
 Fore
-SplineSet
--434 1470 m 0,0,1
- -415 1470 -415 1470 -397.5 1474.5 c 128,-1,2
- -380 1479 -380 1479 -365 1485.5 c 128,-1,3
- -350 1492 -350 1492 -339.5 1499.5 c 128,-1,4
- -329 1507 -329 1507 -323 1513 c 1,5,-1
- -306 1436 l 1,6,7
- -328 1406 -328 1406 -365 1391 c 128,-1,8
- -402 1376 -402 1376 -442 1376 c 0,9,10
- -475 1376 -475 1376 -507.5 1386.5 c 128,-1,11
- -540 1397 -540 1397 -572 1409.5 c 128,-1,12
- -604 1422 -604 1422 -634.5 1432 c 128,-1,13
- -665 1442 -665 1442 -693 1442 c 0,14,15
- -713 1442 -713 1442 -731 1437.5 c 128,-1,16
- -749 1433 -749 1433 -763.5 1426.5 c 128,-1,17
- -778 1420 -778 1420 -789 1412 c 128,-1,18
- -800 1404 -800 1404 -805 1397 c 1,19,-1
- -825 1472 l 1,20,21
- -803 1506 -803 1506 -765.5 1521.5 c 128,-1,22
- -728 1537 -728 1537 -686 1537 c 0,23,24
- -652 1537 -652 1537 -619 1526.5 c 128,-1,25
- -586 1516 -586 1516 -554 1504 c 128,-1,26
- -522 1492 -522 1492 -492 1481 c 128,-1,27
- -462 1470 -462 1470 -434 1470 c 0,0,1
--434 1252 m 0,28,29
- -415 1252 -415 1252 -397.5 1256.5 c 128,-1,30
- -380 1261 -380 1261 -365 1267.5 c 128,-1,31
- -350 1274 -350 1274 -339.5 1282 c 128,-1,32
- -329 1290 -329 1290 -323 1296 c 1,33,-1
- -306 1218 l 1,34,35
- -328 1188 -328 1188 -365 1173.5 c 128,-1,36
- -402 1159 -402 1159 -442 1159 c 0,37,38
- -475 1159 -475 1159 -507.5 1169.5 c 128,-1,39
- -540 1180 -540 1180 -572 1192 c 128,-1,40
- -604 1204 -604 1204 -634.5 1215 c 128,-1,41
- -665 1226 -665 1226 -693 1226 c 0,42,43
- -713 1226 -713 1226 -731 1221 c 128,-1,44
- -749 1216 -749 1216 -763.5 1209.5 c 128,-1,45
- -778 1203 -778 1203 -789 1195 c 128,-1,46
- -800 1187 -800 1187 -805 1180 c 1,47,-1
- -825 1255 l 1,48,49
- -803 1289 -803 1289 -765.5 1304.5 c 128,-1,50
- -728 1320 -728 1320 -686 1320 c 0,51,52
- -652 1320 -652 1320 -619 1309.5 c 128,-1,53
- -586 1299 -586 1299 -554 1286 c 128,-1,54
- -522 1273 -522 1273 -492 1262.5 c 128,-1,55
- -462 1252 -462 1252 -434 1252 c 0,28,29
-EndSplineSet
 Validated: 1
 EndChar
 
@@ -60990,10 +60609,11 @@ Encoding: 831 831 1577
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -245 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 1448 749 S 1 0 0 1 -834 -82 2
+Refer: 2779 -1 N 1 0 0 1 0 1491 0
+Refer: 508 -1 N 1 0 0 1 0 0 0
+Refer: 508 -1 N 1 0 0 1 0 243 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph1580
 EndChar
@@ -61214,7 +60834,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 2779 -1 N 1 0 0 1 8 0 0
-Refer: 3 65 N 1 0 0 1 0 0 3
+Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 123 -77 0
 Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
@@ -61259,7 +60879,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 8 0 0
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 155 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61542,7 +61161,6 @@ Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 155 198 0
 Refer: 485 -1 N 1 0 0 1 -177 1770 0
 Refer: 485 -1 N 1 0 0 1 227 1770 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61557,7 +61175,6 @@ Refer: 2779 -1 N 1 0 0 1 8 0 0
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 361 -78 0
 Refer: 184 -1 N 1 0 0 1 155 244 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61816,7 +61433,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 8 0 0
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 155 -77 0
-Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Alpha
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62037,7 +61653,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 0 0 0
 Refer: 5 198 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 613 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62645,7 +62260,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 145 0 0
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 110 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63038,7 +62652,6 @@ Refer: 2779 -1 N 1 0 0 1 145 0 0
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 92 130 0
 Refer: 184 -1 N 1 0 0 1 104 -81 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63053,7 +62666,6 @@ Refer: 2779 -1 N 1 0 0 1 145 0 0
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 219 139 0
 Refer: 184 -1 N 1 0 0 1 110 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63345,7 +62957,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 77 0 0
 Refer: 14 71 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 288 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63859,7 +63470,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 0 0 0
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 -177 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64250,7 +63860,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 0 0 0
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 -177 -77 0
-Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Iota
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -64567,7 +64176,6 @@ Refer: 2779 -1 N 1 0 0 1 0 0 0
 Refer: 21 76 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 -174 -77 0
 Refer: 485 -1 N 1 0 0 1 -67 7 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64979,7 +64587,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 72 0 0
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 242 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65344,7 +64951,6 @@ Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 242 198 0
 Refer: 485 -1 N 1 0 0 1 -91 1770 0
 Refer: 485 -1 N 1 0 0 1 313 1770 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65359,7 +64965,6 @@ Refer: 2779 -1 N 1 0 0 1 72 0 0
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 180 -1 N 1 0 0 1 209 -77 0
 Refer: 184 -1 N 1 0 0 1 242 199 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65388,7 +64993,6 @@ Refer: 2779 -1 N 1 0 0 1 72 0 0
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 448 -78 0
 Refer: 184 -1 N 1 0 0 1 242 244 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65434,7 +65038,6 @@ Refer: 2779 -1 N 1 0 0 1 72 0 0
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 264 130 0
 Refer: 184 -1 N 1 0 0 1 276 -81 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65449,7 +65052,6 @@ Refer: 2779 -1 N 1 0 0 1 72 0 0
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 354 139 0
 Refer: 184 -1 N 1 0 0 1 242 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65883,7 +65485,6 @@ Refer: 2779 -1 N 1 0 0 1 147 0 0
 Refer: 33 82 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 80 -77 0
 Refer: 485 -1 N 1 0 0 1 -8 7 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -66362,7 +65963,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 140 0 0
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 220 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -66462,7 +66062,6 @@ Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 220 198 0
 Refer: 485 -1 N 1 0 0 1 -113 1770 0
 Refer: 485 -1 N 1 0 0 1 291 1770 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -66597,7 +66196,6 @@ Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 220 -77 0
 Refer: 485 -1 N 1 0 0 1 -113 1977 0
 Refer: 485 -1 N 1 0 0 1 291 1977 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -66928,7 +66526,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 0 0 0
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 62 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -67061,7 +66658,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 0 0 0
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 62 -77 0
-Validated: 1
 Substitution2: "sous-table 'ss02' Style 2 lookups30" uni1FE9.salt
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni1FE9.salt
 Substitution2: "sous-table Substitution simple lookups7" Upsilon
@@ -67451,12 +67047,15 @@ SplineSet
  668 1128 l 2,59,60
  657 1128 657 1128 646 1132 c 128,-1,61
  635 1136 635 1136 624 1147 c 2,62,-1
- 489 1291 l 1,63,-1
- 355 1147 l 2,64,65
- 337 1128 337 1128 311 1128 c 2,66,-1
- 189 1128 l 1,67,-1
- 406 1383 l 1,68,-1
- 568 1383 l 1,69,-1
+ 506 1272 l 2,63,64
+ 501 1276 501 1276 497.5 1281 c 128,-1,65
+ 494 1286 494 1286 489 1291 c 1,66,67
+ 481 1280 481 1280 474 1273 c 2,68,-1
+ 355 1147 l 2,69,70
+ 337 1128 337 1128 311 1128 c 2,71,-1
+ 189 1128 l 1,72,-1
+ 406 1383 l 1,73,-1
+ 568 1383 l 1,74,-1
  786 1128 l 1,58,-1
 EndSplineSet
 Validated: 1
@@ -68840,12 +68439,15 @@ SplineSet
  716 1128 l 2,48,49
  705 1128 705 1128 694 1132 c 128,-1,50
  683 1136 683 1136 672 1147 c 2,51,-1
- 537 1291 l 1,52,-1
- 403 1147 l 2,53,54
- 385 1128 385 1128 359 1128 c 2,55,-1
- 237 1128 l 1,56,-1
- 454 1383 l 1,57,-1
- 616 1383 l 1,58,-1
+ 554 1272 l 2,52,53
+ 549 1276 549 1276 545.5 1281 c 128,-1,54
+ 542 1286 542 1286 537 1291 c 1,55,56
+ 529 1280 529 1280 522 1273 c 2,57,-1
+ 403 1147 l 2,58,59
+ 385 1128 385 1128 359 1128 c 2,60,-1
+ 237 1128 l 1,61,-1
+ 454 1383 l 1,62,-1
+ 616 1383 l 1,63,-1
  834 1128 l 1,47,-1
 EndSplineSet
 Validated: 1
@@ -70662,12 +70264,15 @@ SplineSet
  415 1128 l 2,5,6
  404 1128 404 1128 393 1132 c 128,-1,7
  382 1136 382 1136 371 1147 c 2,8,-1
- 236 1291 l 1,9,10
- 102 1147 l 2,11,12
- 84 1128 84 1128 58 1128 c 2,13,-1
- -64 1128 l 1,14,-1
- 153 1383 l 1,15,-1
- 315 1383 l 1,16,-1
+ 253 1272 l 2,9,10
+ 248 1276 248 1276 244.5 1281 c 128,-1,11
+ 241 1286 241 1286 236 1291 c 1,12,13
+ 228 1280 228 1280 221 1273 c 2,14,-1
+ 102 1147 l 2,15,16
+ 84 1128 84 1128 58 1128 c 2,17,-1
+ -64 1128 l 1,18,-1
+ 153 1383 l 1,19,-1
+ 315 1383 l 1,20,-1
  533 1128 l 1,4,-1
 EndSplineSet
 Validated: 1
@@ -70681,7 +70286,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 2779 -1 N 1 0 0 1 0 0 0
-Refer: 100 305 N 1 0 0 1 0 0 3
+Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 -224 0 0
 Validated: 1
 EndChar
@@ -71231,7 +70836,6 @@ Refer: 2779 -1 N 1 0 0 1 0 0 0
 Refer: 1138 108 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 -204 0 0
 Refer: 485 -1 N 1 0 0 1 -329 0 0
-Validated: 1
 EndChar
 
 StartChar: uni1E3B
@@ -71741,7 +71345,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 2779 -1 N 1 0 0 1 75 0 0
-Refer: 111 111 N 1 0 0 1 0 0 3
+Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 170 96 N 1 0 0 1 176 0 0
 Validated: 1
 EndChar
@@ -71754,7 +71358,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 2779 -1 N 1 0 0 1 75 0 0
-Refer: 111 111 N 1 0 0 1 0 0 3
+Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 318 0 0
 Validated: 1
 EndChar
@@ -71805,12 +71409,15 @@ SplineSet
  723 1128 l 2,41,42
  712 1128 712 1128 701 1132 c 128,-1,43
  690 1136 690 1136 679 1147 c 2,44,-1
- 544 1291 l 1,45,-1
- 410 1147 l 2,46,47
- 392 1128 392 1128 366 1128 c 2,48,-1
- 244 1128 l 1,49,-1
- 461 1383 l 1,50,-1
- 623 1383 l 1,51,-1
+ 561 1272 l 2,45,46
+ 556 1276 556 1276 552.5 1281 c 128,-1,47
+ 549 1286 549 1286 544 1291 c 1,48,49
+ 536 1280 536 1280 529 1273 c 2,50,-1
+ 410 1147 l 2,51,52
+ 392 1128 392 1128 366 1128 c 2,53,-1
+ 244 1128 l 1,54,-1
+ 461 1383 l 1,55,-1
+ 623 1383 l 1,56,-1
  841 1128 l 1,40,-1
 EndSplineSet
 Validated: 1
@@ -71838,8 +71445,8 @@ LayerCount: 2
 Fore
 Refer: 2779 -1 N 1 0 0 1 75 0 0
 Refer: 111 111 N 1 0 0 1 0 0 0
-Refer: 485 -1 S 1 0 0 1 -208 1483 0
-Refer: 485 -1 S 1 0 0 1 162 1483 0
+Refer: 485 -1 N 1 0 0 1 -208 1483 0
+Refer: 485 -1 N 1 0 0 1 162 1483 0
 Validated: 1
 EndChar
 
@@ -74335,12 +73942,15 @@ SplineSet
  720 1128 l 2,26,27
  709 1128 709 1128 698 1132 c 128,-1,28
  687 1136 687 1136 676 1147 c 2,29,-1
- 541 1291 l 1,30,-1
- 407 1147 l 2,31,32
- 389 1128 389 1128 363 1128 c 2,33,-1
- 241 1128 l 1,34,-1
- 458 1383 l 1,35,-1
- 620 1383 l 1,36,-1
+ 558 1272 l 2,30,31
+ 553 1276 553 1276 549.5 1281 c 128,-1,32
+ 546 1286 546 1286 541 1291 c 1,33,34
+ 533 1280 533 1280 526 1273 c 2,35,-1
+ 407 1147 l 2,36,37
+ 389 1128 389 1128 363 1128 c 2,38,-1
+ 241 1128 l 1,39,-1
+ 458 1383 l 1,40,-1
+ 620 1383 l 1,41,-1
  838 1128 l 1,25,-1
 EndSplineSet
 Validated: 1
@@ -74354,7 +73964,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 2779 -1 N 1 0 0 1 125 0 0
-Refer: 134 117 N 1 0 0 1 0 0 3
+Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -210 1483 0
 Refer: 485 -1 N 1 0 0 1 160 1483 0
 Validated: 1
@@ -79387,7 +78997,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 147 0 0
 Refer: 246 1048 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 210 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -79457,7 +79066,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 3 0 0
 Refer: 253 1059 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 103 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -80033,10 +79641,10 @@ Encoding: 818 818 2526
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -498 0 mark 0
 LayerCount: 2
 Fore
-Refer: 2555 773 N 1 0 0 1 0 -1687 2
+Refer: 2779 -1 N 1 0 0 1 0 -158 0
+Refer: 2524 -1 N 1 0 0 1 -510 0 0
 Validated: 1
 EndChar
 
@@ -80045,10 +79653,10 @@ Encoding: 819 819 2527
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -498 0 mark 0
 LayerCount: 2
 Fore
-Refer: 1448 749 N 1 0 0 1 -1087 -1671 2
+Refer: 2779 -1 N 1 0 0 1 0 -158 0
+Refer: 2524 -1 N 1 0 0 1 -130 0 0
 Validated: 1
 EndChar
 
@@ -80057,21 +79665,10 @@ Encoding: 839 839 2528
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
 LayerCount: 2
 Fore
-SplineSet
--708 -308 m 1,0,-1
- -275 -308 l 1,1,-1
- -275 -402 l 1,2,-1
- -708 -402 l 1,3,-1
- -708 -308 l 1,0,-1
--708 -135 m 1,4,-1
- -275 -135 l 1,5,-1
- -275 -229 l 1,6,-1
- -708 -229 l 1,7,-1
- -708 -135 l 1,4,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 -158 0
+Refer: 2524 -1 N 1 0 0 1 -130 0 0
 Validated: 1
 EndChar
 
@@ -80527,16 +80124,10 @@ Encoding: 773 773 2555
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -489 1514 mark 0
 LayerCount: 2
 Fore
-SplineSet
--920 1636 m 1,0,-1
- -75 1636 l 1,1,-1
- -75 1514 l 1,2,-1
- -920 1514 l 1,3,-1
- -920 1636 l 1,0,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 1491 0
+Refer: 508 -1 N 1 0 0 1 0 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2558
 EndChar
@@ -80570,10 +80161,10 @@ Encoding: 781 781 2558
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -551 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 905 712 N 1 0 0 1 -848 0 2
+Refer: 2779 -1 N 1 0 0 1 0 1135 0
+Refer: 509 -1 N 1 0 0 1 -562 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2561
 EndChar
@@ -80608,11 +80199,11 @@ Encoding: 782 782 2561
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -544 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 905 712 N 1 0 0 1 -701 0 2
-Refer: 905 712 N 1 0 0 1 -980 0 2
+Refer: 2779 -1 N 1 0 0 1 0 1135 0
+Refer: 509 -1 N 1 0 0 1 -702 0 0
+Refer: 509 -1 N 1 0 0 1 -423 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2564
 EndChar
@@ -80635,10 +80226,11 @@ Encoding: 840 840 2563
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -498 0 mark 0
 LayerCount: 2
 Fore
-Refer: 2561 782 N 1 0 0 1 40 -1608 2
+Refer: 2779 -1 N 1 0 0 1 0 1135 0
+Refer: 509 -1 N 1 0 0 1 -702 0 0
+Refer: 509 -1 N 1 0 0 1 -423 0 0
 Validated: 1
 EndChar
 
@@ -80766,29 +80358,10 @@ Encoding: 783 783 2573
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -224 1122 mark 0
 LayerCount: 2
 Fore
-SplineSet
--263 1399 m 2,0,1
- -231 1399 -231 1399 -214.5 1388.5 c 128,-1,2
- -198 1378 -198 1378 -186 1356 c 2,3,-1
- -54 1123 l 1,4,-1
- -127 1123 l 2,5,6
- -147 1123 -147 1123 -161 1128.5 c 128,-1,7
- -175 1134 -175 1134 -187 1150 c 2,8,-1
- -379 1399 l 1,9,-1
- -263 1399 l 2,0,1
--555 1399 m 2,10,11
- -523 1399 -523 1399 -508 1388 c 128,-1,12
- -493 1377 -493 1377 -478 1356 c 2,13,-1
- -305 1123 l 1,14,-1
- -389 1123 l 2,15,16
- -409 1123 -409 1123 -422.5 1129.5 c 128,-1,17
- -436 1136 -436 1136 -450 1150 c 2,18,-1
- -684 1399 l 1,19,-1
- -555 1399 l 2,10,11
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 1123 0
+Refer: 511 -1 N 1 0 0 1 -480 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2576
 EndChar
@@ -80810,47 +80383,10 @@ Encoding: 784 784 2575
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -564 1122 mark 0
 LayerCount: 2
 Fore
-SplineSet
--566 1268 m 4,0,1
- -652 1268 -652 1268 -711.5 1289 c 132,-1,2
- -771 1310 -771 1310 -808 1345.5 c 132,-1,3
- -845 1381 -845 1381 -861.5 1428 c 132,-1,4
- -878 1475 -878 1475 -878 1528 c 5,5,-1
- -754 1528 l 5,6,7
- -754 1496 -754 1496 -743.5 1469.5 c 132,-1,8
- -733 1443 -733 1443 -710.5 1423.5 c 132,-1,9
- -688 1404 -688 1404 -652.5 1393 c 132,-1,10
- -617 1382 -617 1382 -566 1382 c 4,11,12
- -516 1382 -516 1382 -480.5 1393 c 132,-1,13
- -445 1404 -445 1404 -422.5 1423.5 c 132,-1,14
- -400 1443 -400 1443 -390 1469.5 c 132,-1,15
- -380 1496 -380 1496 -380 1528 c 5,16,-1
- -256 1528 l 5,17,18
- -256 1475 -256 1475 -272.5 1428 c 132,-1,19
- -289 1381 -289 1381 -325.5 1345.5 c 132,-1,20
- -362 1310 -362 1310 -421.5 1289 c 132,-1,21
- -481 1268 -481 1268 -566 1268 c 4,0,1
--447 1638 m 4,22,23
- -447 1615 -447 1615 -456.5 1594.5 c 132,-1,24
- -466 1574 -466 1574 -481.5 1558.5 c 132,-1,25
- -497 1543 -497 1543 -518 1534 c 132,-1,26
- -539 1525 -539 1525 -562 1525 c 260,27,28
- -585 1525 -585 1525 -606 1534 c 132,-1,29
- -627 1543 -627 1543 -642.5 1558.5 c 132,-1,30
- -658 1574 -658 1574 -667 1594.5 c 132,-1,31
- -676 1615 -676 1615 -676 1638 c 4,32,33
- -676 1662 -676 1662 -667 1682.5 c 132,-1,34
- -658 1703 -658 1703 -642.5 1719 c 132,-1,35
- -627 1735 -627 1735 -606 1744 c 132,-1,36
- -585 1753 -585 1753 -562 1753 c 260,37,38
- -539 1753 -539 1753 -518 1744 c 132,-1,39
- -497 1735 -497 1735 -481.5 1719 c 132,-1,40
- -466 1703 -466 1703 -456.5 1682.5 c 132,-1,41
- -447 1662 -447 1662 -447 1638 c 4,22,23
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 1123 0
+Refer: 513 -1 N 1 0 0 1 -390 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2578
 EndChar
@@ -80990,30 +80526,10 @@ Encoding: 785 785 2586
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -546 1122 mark 0
 LayerCount: 2
 Fore
-SplineSet
--545 1398 m 0,0,1
- -471 1398 -471 1398 -420 1377 c 128,-1,2
- -369 1356 -369 1356 -338 1320.5 c 128,-1,3
- -307 1285 -307 1285 -293.5 1238 c 128,-1,4
- -280 1191 -280 1191 -280 1138 c 1,5,-1
- -404 1138 l 1,6,7
- -404 1170 -404 1170 -410.5 1196.5 c 128,-1,8
- -417 1223 -417 1223 -433.5 1242.5 c 128,-1,9
- -450 1262 -450 1262 -477 1273 c 128,-1,10
- -504 1284 -504 1284 -545 1284 c 0,11,12
- -587 1284 -587 1284 -614.5 1273 c 128,-1,13
- -642 1262 -642 1262 -658.5 1242.5 c 128,-1,14
- -675 1223 -675 1223 -681.5 1196.5 c 128,-1,15
- -688 1170 -688 1170 -688 1138 c 1,16,-1
- -812 1138 l 1,17,18
- -812 1191 -812 1191 -798.5 1238 c 128,-1,19
- -785 1285 -785 1285 -753.5 1320.5 c 128,-1,20
- -722 1356 -722 1356 -671 1377 c 128,-1,21
- -620 1398 -620 1398 -545 1398 c 0,0,1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 1138 0
+Refer: 515 -1 N 1 0 0 1 -390 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2589
 EndChar
@@ -81035,10 +80551,10 @@ Encoding: 815 815 2588
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
 LayerCount: 2
 Fore
-Refer: 2586 785 N 1 0 0 1 52 -1469 2
+Refer: 2779 -1 N 1 0 0 1 0 1138 0
+Refer: 515 -1 N 1 0 0 1 -390 0 0
 Validated: 1
 EndChar
 
@@ -81071,30 +80587,10 @@ Encoding: 787 787 2591
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -540 1122 mark 0
 LayerCount: 2
 Fore
-SplineSet
--651 1383 m 0,0,1
- -651 1426 -651 1426 -621 1456 c 128,-1,2
- -591 1486 -591 1486 -543 1486 c 0,3,4
- -487 1486 -487 1486 -458.5 1447.5 c 128,-1,5
- -430 1409 -430 1409 -430 1347 c 0,6,7
- -430 1271 -430 1271 -471 1198.5 c 128,-1,8
- -512 1126 -512 1126 -586 1063 c 1,9,-1
- -611 1086 l 2,10,11
- -621 1095 -621 1095 -621 1109 c 0,12,13
- -621 1114 -621 1114 -618 1119.5 c 128,-1,14
- -615 1125 -615 1125 -610 1130 c 0,15,16
- -603 1138 -603 1138 -591 1152 c 128,-1,17
- -579 1166 -579 1166 -566.5 1184 c 128,-1,18
- -554 1202 -554 1202 -542.5 1224.5 c 128,-1,19
- -531 1247 -531 1247 -525 1272 c 1,20,21
- -530 1271 -530 1271 -535 1271 c 128,-1,22
- -540 1271 -540 1271 -545 1271 c 0,23,24
- -592 1271 -592 1271 -621.5 1302.5 c 128,-1,25
- -651 1334 -651 1334 -651 1383 c 0,0,1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 1063 0
+Refer: 516 -1 N 1 0 0 1 -256 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2594
 EndChar
@@ -81116,10 +80612,10 @@ Encoding: 835 835 2593
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -540 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 2591 787 N 1 0 0 1 0 0 2
+Refer: 2779 -1 N 1 0 0 1 0 1063 0
+Refer: 516 -1 N 1 0 0 1 -256 0 0
 Validated: 1
 EndChar
 
@@ -81140,30 +80636,10 @@ Encoding: 788 788 2595
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -540 1122 mark 0
 LayerCount: 2
 Fore
-SplineSet
--440 1383 m 0,0,1
- -440 1334 -440 1334 -469.5 1302.5 c 128,-1,2
- -499 1271 -499 1271 -547 1271 c 0,3,4
- -552 1271 -552 1271 -557 1271 c 128,-1,5
- -562 1271 -562 1271 -567 1272 c 1,6,7
- -560 1247 -560 1247 -548.5 1224.5 c 128,-1,8
- -537 1202 -537 1202 -524.5 1184 c 128,-1,9
- -512 1166 -512 1166 -500.5 1152 c 128,-1,10
- -489 1138 -489 1138 -481 1130 c 0,11,12
- -476 1125 -476 1125 -473 1119.5 c 128,-1,13
- -470 1114 -470 1114 -470 1109 c 0,14,15
- -470 1095 -470 1095 -480 1086 c 2,16,-1
- -505 1063 l 1,17,18
- -579 1126 -579 1126 -620 1198.5 c 128,-1,19
- -661 1271 -661 1271 -661 1347 c 0,20,21
- -661 1409 -661 1409 -633 1447.5 c 128,-1,22
- -605 1486 -605 1486 -548 1486 c 0,23,24
- -500 1486 -500 1486 -470 1456 c 128,-1,25
- -440 1426 -440 1426 -440 1383 c 0,0,1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 1063 0
+Refer: 517 -1 N 1 0 0 1 -255 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2598
 EndChar
@@ -81185,20 +80661,10 @@ Encoding: 792 792 2597
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
 LayerCount: 2
 Fore
-SplineSet
--670 -211 m 1,0,-1
- -345 -211 l 1,1,-1
- -345 -52 l 1,2,-1
- -220 -52 l 1,3,-1
- -220 -484 l 1,4,-1
- -345 -484 l 1,5,-1
- -345 -324 l 1,6,-1
- -670 -324 l 1,7,-1
- -670 -211 l 1,0,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 -52 0
+Refer: 518 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 EndChar
 
@@ -81207,20 +80673,10 @@ Encoding: 793 793 2598
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
 LayerCount: 2
 Fore
-SplineSet
--720 -52 m 1,0,-1
- -595 -52 l 1,1,-1
- -595 -211 l 1,2,-1
- -270 -211 l 1,3,-1
- -270 -324 l 1,4,-1
- -595 -324 l 1,5,-1
- -595 -484 l 1,6,-1
- -720 -484 l 1,7,-1
- -720 -52 l 1,0,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 -52 0
+Refer: 519 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 EndChar
 
@@ -81241,18 +80697,10 @@ Encoding: 794 794 2600
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -545 1122 mark 0
 LayerCount: 2
 Fore
-SplineSet
--597 1554 m 1,0,-1
- -147 1554 l 1,1,-1
- -147 1121 l 1,2,-1
- -272 1121 l 1,3,-1
- -272 1440 l 1,4,-1
- -597 1440 l 1,5,-1
- -597 1554 l 1,0,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 1121 0
+Refer: 520 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2603
 EndChar
@@ -81274,10 +80722,10 @@ Encoding: 841 841 2602
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
 LayerCount: 2
 Fore
-Refer: 2600 794 N 1 0 0 1 -20 -1625 2
+Refer: 2779 -1 N 1 0 0 1 0 1121 0
+Refer: 520 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 EndChar
 
@@ -81286,10 +80734,10 @@ Encoding: 797 797 2603
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -494 0 mark 0
 LayerCount: 2
 Fore
-Refer: 908 724 S 1 0 0 1 -836 -790 2
+Refer: 2779 -1 N 1 0 0 1 0 -52 0
+Refer: 521 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 EndChar
 
@@ -81298,10 +80746,10 @@ Encoding: 798 798 2604
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -495 0 mark 0
 LayerCount: 2
 Fore
-Refer: 909 725 N 1 0 0 1 -831 -775 2
+Refer: 2779 -1 N 1 0 0 1 0 -52 0
+Refer: 522 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 EndChar
 
@@ -81310,10 +80758,10 @@ Encoding: 799 799 2605
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
 LayerCount: 2
 Fore
-Refer: 910 726 N 1 0 0 1 -834 -782 2
+Refer: 2779 -1 N 1 0 0 1 0 -52 0
+Refer: 523 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 EndChar
 
@@ -81322,16 +80770,10 @@ Encoding: 800 800 2606
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -480 0 mark 0
 LayerCount: 2
 Fore
-SplineSet
--705 -211 m 1,0,-1
- -255 -211 l 1,1,-1
- -255 -324 l 1,2,-1
- -705 -324 l 1,3,-1
- -705 -211 l 1,0,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 -211 0
+Refer: 524 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 EndChar
 
@@ -81342,27 +80784,8 @@ GlyphClass: 4
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
--408 94 m 1,0,-1
- -275 94 l 1,1,-1
- -275 -8 l 2,2,3
- -275 -55 -275 -55 -289 -98 c 128,-1,4
- -303 -141 -303 -141 -331.5 -174 c 128,-1,5
- -360 -207 -360 -207 -403 -227 c 128,-1,6
- -446 -247 -446 -247 -504 -247 c 0,7,8
- -575 -247 -575 -247 -630 -210 c 128,-1,9
- -685 -173 -685 -173 -716 -95 c 1,10,-1
- -633 -62 l 2,11,12
- -624 -58 -624 -58 -618 -57.5 c 128,-1,13
- -612 -57 -612 -57 -608 -57 c 0,14,15
- -599 -57 -599 -57 -591.5 -68 c 128,-1,16
- -584 -79 -584 -79 -573.5 -92 c 128,-1,17
- -563 -105 -563 -105 -546.5 -116 c 128,-1,18
- -530 -127 -530 -127 -503 -127 c 0,19,20
- -459 -127 -459 -127 -433.5 -95 c 128,-1,21
- -408 -63 -408 -63 -408 -9 c 2,22,-1
- -408 94 l 1,0,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 -19 0
+Refer: 525 -1 N 1 0 0 1 -319 0 0
 Validated: 1
 EndChar
 
@@ -81373,7 +80796,8 @@ GlyphClass: 4
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 526 -1 S 1 0 0 1 -404 120 0
+Refer: 2779 -1 N 1 0 0 1 0 -19 0
+Refer: 526 -1 N 1 0 0 1 -319 0 0
 Validated: 1
 EndChar
 
@@ -81409,10 +80833,10 @@ Encoding: 805 805 2611
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -496 0 mark 0
 LayerCount: 2
 Fore
-Refer: 187 730 N 1 0 0 1 -825 -1530 0
+Refer: 2779 -1 N 1 0 0 1 0 -79 0
+Refer: 187 730 N 1 0 0 1 -329 -1530 0
 Validated: 1
 EndChar
 
@@ -81421,10 +80845,10 @@ Encoding: 809 809 2612
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -498 0 mark 0
 LayerCount: 2
 Fore
-Refer: 905 712 N 1 0 0 1 -799 -1607 2
+Refer: 2779 -1 N 1 0 0 1 0 -20 0
+Refer: 509 -1 N 1 0 0 1 -562 -1576 0
 Validated: 1
 EndChar
 
@@ -81445,20 +80869,10 @@ Encoding: 810 810 2614
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
 LayerCount: 2
 Fore
-SplineSet
--813 -71 m 1,0,-1
- -167 -71 l 1,1,-1
- -167 -325 l 1,2,-1
- -287 -325 l 1,3,-1
- -287 -174 l 1,4,-1
- -693 -174 l 1,5,-1
- -693 -325 l 1,6,-1
- -813 -325 l 1,7,-1
- -813 -71 l 1,0,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 -71 0
+Refer: 529 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 EndChar
 
@@ -81467,10 +80881,10 @@ Encoding: 838 838 2615
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -231 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 2614 810 N 1 0 0 1 259 1448 2
+Refer: 2779 -1 N 1 0 0 1 0 -71 0
+Refer: 529 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2618
 EndChar
@@ -81492,41 +80906,10 @@ Encoding: 811 811 2617
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -496 0 mark 0
 LayerCount: 2
 Fore
-SplineSet
--177 -91 m 2,0,1
- -177 -143 -177 -143 -190 -181 c 128,-1,2
- -203 -219 -203 -219 -226.5 -244 c 128,-1,3
- -250 -269 -250 -269 -283 -281 c 128,-1,4
- -316 -293 -316 -293 -356 -293 c 0,5,6
- -404 -293 -404 -293 -440.5 -275 c 128,-1,7
- -477 -257 -477 -257 -500 -224 c 1,8,9
- -524 -257 -524 -257 -560 -275 c 128,-1,10
- -596 -293 -596 -293 -644 -293 c 0,11,12
- -684 -293 -684 -293 -717 -281 c 128,-1,13
- -750 -269 -750 -269 -773.5 -244 c 128,-1,14
- -797 -219 -797 -219 -810 -181 c 128,-1,15
- -823 -143 -823 -143 -823 -91 c 2,16,-1
- -823 -71 l 1,17,-1
- -698 -71 l 1,18,-1
- -698 -91 l 2,19,20
- -698 -133 -698 -133 -681 -157 c 128,-1,21
- -664 -181 -664 -181 -629 -180 c 0,22,23
- -598 -179 -598 -179 -581.5 -157.5 c 128,-1,24
- -565 -136 -565 -136 -563 -99 c 2,25,-1
- -563 -71 l 1,26,-1
- -437 -71 l 1,27,-1
- -437 -99 l 2,28,29
- -435 -136 -435 -136 -418.5 -157.5 c 128,-1,30
- -402 -179 -402 -179 -371 -180 c 0,31,32
- -336 -181 -336 -181 -319 -157 c 128,-1,33
- -302 -133 -302 -133 -302 -91 c 2,34,-1
- -302 -71 l 1,35,-1
- -177 -71 l 1,36,-1
- -177 -91 l 2,0,1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 -71 0
+Refer: 530 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 EndChar
 
@@ -81535,20 +80918,10 @@ Encoding: 826 826 2618
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
 LayerCount: 2
 Fore
-SplineSet
--813 -325 m 1,0,-1
- -813 -71 l 1,1,-1
- -693 -71 l 1,2,-1
- -693 -222 l 1,3,-1
- -287 -222 l 1,4,-1
- -287 -71 l 1,5,-1
- -167 -71 l 1,6,-1
- -167 -325 l 1,7,-1
- -813 -325 l 1,0,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 -71 0
+Refer: 531 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 EndChar
 
@@ -81557,10 +80930,10 @@ Encoding: 827 827 2619
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -483 0 mark 0
 LayerCount: 2
 Fore
-Refer: 532 -1 N 1 0 0 1 -811 0 0
+Refer: 2779 -1 N 1 0 0 1 0 -52 0
+Refer: 532 -1 N 1 0 0 1 -328 0 0
 Validated: 1
 EndChar
 
@@ -81569,40 +80942,31 @@ Encoding: 828 828 2620
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -496 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
--177 -273 m 2,0,1
- -177 -293 l 1,2,-1
- -302 -293 l 1,3,-1
- -302 -273 l 2,4,5
- -302 -231 -302 -231 -319 -207 c 128,-1,6
- -336 -183 -336 -183 -371 -184 c 0,7,8
- -402 -185 -402 -185 -418.5 -206.5 c 128,-1,9
- -435 -228 -435 -228 -437 -265 c 2,10,-1
- -437 -293 l 1,11,-1
- -563 -293 l 1,12,-1
- -563 -265 l 2,13,14
- -565 -228 -565 -228 -581.5 -206.5 c 128,-1,15
- -598 -185 -598 -185 -629 -184 c 0,16,17
- -664 -183 -664 -183 -681 -207 c 128,-1,18
- -698 -231 -698 -231 -698 -273 c 2,19,20
- -698 -293 l 1,21,-1
- -823 -293 l 1,22,-1
- -823 -273 l 2,23,24
- -823 -221 -823 -221 -810 -183 c 128,-1,25
- -797 -145 -797 -145 -773.5 -120 c 128,-1,26
- -750 -95 -750 -95 -717 -83 c 128,-1,27
- -684 -71 -684 -71 -644 -71 c 0,28,29
- -596 -71 -596 -71 -560 -89 c 128,-1,30
- -524 -107 -524 -107 -500 -140 c 1,31,32
- -477 -107 -477 -107 -440.5 -89 c 128,-1,33
- -404 -71 -404 -71 -356 -71 c 0,34,35
- -316 -71 -316 -71 -283 -83 c 128,-1,36
- -250 -95 -250 -95 -226.5 -120 c 128,-1,37
- -203 -145 -203 -145 -190 -183 c 128,-1,38
- -177 -221 -177 -221 -177 -273 c 2,0,1
+144 -72 m 0,0,1
+ 213 -72 213 -72 259.5 -108.5 c 128,-1,2
+ 306 -145 306 -145 320 -223 c 1,3,-1
+ 198 -255 l 1,4,5
+ 190 -185 190 -185 131 -185 c 0,6,7
+ 130 -185 130 -185 129 -185 c 0,8,9
+ 98 -185 98 -185 80 -210 c 0,10,11
+ 63 -233 63 -233 63 -274 c 2,12,-1
+ 63 -294 l 1,13,-1
+ -62 -294 l 1,14,-1
+ -62 -266 l 2,15,16
+ -64 -228 -64 -228 -80.5 -207 c 128,-1,17
+ -97 -186 -97 -186 -128 -185 c 256,18,19
+ -159 -184 -159 -184 -176 -202 c 128,-1,20
+ -193 -220 -193 -220 -196 -255 c 1,21,-1
+ -319 -223 l 1,22,23
+ -305 -145 -305 -145 -258.5 -108.5 c 128,-1,24
+ -212 -72 -212 -72 -143 -72 c 0,25,26
+ -95 -72 -95 -72 -59 -90 c 128,-1,27
+ -23 -108 -23 -108 0 -142 c 1,28,29
+ 23 -108 23 -108 59.5 -90 c 128,-1,30
+ 96 -72 96 -72 144 -72 c 0,0,1
 EndSplineSet
 Validated: 1
 EndChar
@@ -81624,10 +80988,10 @@ Encoding: 829 829 2622
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -238 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 1339 735 N 1 0 0 1 -579 0 2
+Refer: 2779 -1 N 1 0 0 1 0 1104 0
+Refer: 534 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2625
 EndChar
@@ -81649,10 +81013,10 @@ Encoding: 851 851 2624
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
 LayerCount: 2
 Fore
-Refer: 1339 735 N 1 0 0 1 -833 -1599 2
+Refer: 2779 -1 N 1 0 0 1 0 1104 0
+Refer: 534 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 EndChar
 
@@ -81661,10 +81025,10 @@ Encoding: 830 830 2625
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -255 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 535 -1 N 1 0 0 1 -719 0 0
+Refer: 2779 -1 N 1 0 0 1 0 1117 0
+Refer: 535 -1 N 1 0 0 1 -461 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2628
 EndChar
@@ -81698,40 +81062,10 @@ Encoding: 842 842 2628
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -576 1122 mark 0
 LayerCount: 2
 Fore
-SplineSet
--648 1238 m 1,0,1
- -666 1246 -666 1246 -683 1251 c 128,-1,2
- -700 1256 -700 1256 -714 1256 c 0,3,4
- -748 1256 -748 1256 -766 1232.5 c 128,-1,5
- -784 1209 -784 1209 -785 1167 c 1,6,-1
- -889 1167 l 1,7,8
- -889 1213 -889 1213 -876 1251.5 c 128,-1,9
- -863 1290 -863 1290 -840 1317.5 c 128,-1,10
- -817 1345 -817 1345 -785 1360 c 128,-1,11
- -753 1375 -753 1375 -715 1375 c 0,12,13
- -682 1375 -682 1375 -649 1363.5 c 128,-1,14
- -616 1352 -616 1352 -584 1337 c 1,15,-1
- -486 1488 l 1,16,-1
- -403 1442 l 1,17,-1
- -498 1296 l 1,18,19
- -481 1289 -481 1289 -466 1285 c 128,-1,20
- -451 1281 -451 1281 -437 1281 c 0,21,22
- -402 1281 -402 1281 -384 1304.5 c 128,-1,23
- -366 1328 -366 1328 -365 1370 c 1,24,-1
- -263 1370 l 1,25,26
- -263 1324 -263 1324 -275.5 1286 c 128,-1,27
- -288 1248 -288 1248 -310.5 1220.5 c 128,-1,28
- -333 1193 -333 1193 -365 1178 c 128,-1,29
- -397 1163 -397 1163 -436 1163 c 0,30,31
- -468 1163 -468 1163 -499.5 1173 c 128,-1,32
- -531 1183 -531 1183 -562 1197 c 1,33,-1
- -659 1047 l 1,34,-1
- -742 1093 l 1,35,-1
- -648 1238 l 1,0,1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 1040 0
+Refer: 537 -1 N 1 0 0 1 -461 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2631
 EndChar
@@ -81753,30 +81087,10 @@ Encoding: 845 845 2630
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -543 0 mark 0
 LayerCount: 2
 Fore
-SplineSet
--1020 -345 m 2,0,1
- -1034 -338 -1034 -338 -1041 -328 c 128,-1,2
- -1048 -318 -1048 -318 -1048 -307.5 c 128,-1,3
- -1048 -297 -1048 -297 -1041 -287 c 128,-1,4
- -1034 -277 -1034 -277 -1020 -270 c 2,5,-1
- -772 -147 l 1,6,-1
- -772 -245 l 1,7,-1
- -313 -245 l 1,8,-1
- -313 -148 l 1,9,-1
- -66 -274 l 2,10,11
- -52 -281 -52 -281 -45 -291 c 128,-1,12
- -38 -301 -38 -301 -38 -311.5 c 128,-1,13
- -38 -322 -38 -322 -45 -331.5 c 128,-1,14
- -52 -341 -52 -341 -66 -348 c 2,15,-1
- -313 -471 l 1,16,-1
- -313 -376 l 1,17,-1
- -772 -376 l 1,18,-1
- -772 -471 l 1,19,-1
- -1020 -345 l 2,0,1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 -147 0
+Refer: 538 -1 N 1 0 0 1 -513 0 0
 Validated: 1
 EndChar
 
@@ -81785,23 +81099,10 @@ Encoding: 846 846 2631
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -516 0 mark 0
 LayerCount: 2
 Fore
-SplineSet
--551 -108 m 2,0,1
- -544 -94 -544 -94 -534 -86.5 c 128,-1,2
- -524 -79 -524 -79 -513.5 -79 c 128,-1,3
- -503 -79 -503 -79 -493.5 -86 c 128,-1,4
- -484 -93 -484 -93 -477 -107 c 2,5,-1
- -354 -355 l 1,6,-1
- -451 -355 l 1,7,-1
- -451 -519 l 1,8,-1
- -582 -519 l 1,9,-1
- -582 -355 l 1,10,-1
- -677 -355 l 1,11,-1
- -551 -108 l 2,0,1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 -79 0
+Refer: 539 -1 N 1 0 0 1 -513 0 0
 Validated: 1
 EndChar
 
@@ -81822,10 +81123,10 @@ Encoding: 848 848 2633
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -542 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 1452 754 N 1 0 0 1 -914 1606 2
+Refer: 2779 -1 N 1 0 0 1 0 1107 0
+Refer: 541 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2636
 EndChar
@@ -81859,11 +81160,10 @@ Encoding: 849 849 2636
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -545 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 899 703 N 1 0 0 1 -847 85 2
 Refer: 2779 -1 N 1 0 0 1 0 1129 0
+Refer: 542 -1 N 1 0 0 1 -231 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2639
 EndChar
@@ -81897,47 +81197,10 @@ Encoding: 850 850 2639
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -564 1122 mark 0
 LayerCount: 2
 Fore
-SplineSet
--566 1706 m 0,0,1
- -481 1706 -481 1706 -421.5 1685 c 128,-1,2
- -362 1664 -362 1664 -325.5 1628.5 c 128,-1,3
- -289 1593 -289 1593 -272.5 1546 c 128,-1,4
- -256 1499 -256 1499 -256 1446 c 1,5,-1
- -380 1446 l 1,6,7
- -380 1478 -380 1478 -390 1504.5 c 128,-1,8
- -400 1531 -400 1531 -422.5 1550.5 c 128,-1,9
- -445 1570 -445 1570 -480.5 1581 c 128,-1,10
- -516 1592 -516 1592 -566 1592 c 0,11,12
- -617 1592 -617 1592 -652.5 1581 c 128,-1,13
- -688 1570 -688 1570 -710.5 1550.5 c 128,-1,14
- -733 1531 -733 1531 -743.5 1504.5 c 128,-1,15
- -754 1478 -754 1478 -754 1446 c 1,16,-1
- -878 1446 l 1,17,18
- -878 1499 -878 1499 -861.5 1546 c 128,-1,19
- -845 1593 -845 1593 -808 1628.5 c 128,-1,20
- -771 1664 -771 1664 -711.5 1685 c 128,-1,21
- -652 1706 -652 1706 -566 1706 c 0,0,1
--447 1336 m 0,22,23
- -447 1312 -447 1312 -456.5 1291.5 c 128,-1,24
- -466 1271 -466 1271 -481.5 1255 c 128,-1,25
- -497 1239 -497 1239 -518 1230 c 128,-1,26
- -539 1221 -539 1221 -562 1221 c 256,27,28
- -585 1221 -585 1221 -606 1230 c 128,-1,29
- -627 1239 -627 1239 -642.5 1255 c 128,-1,30
- -658 1271 -658 1271 -667 1291.5 c 128,-1,31
- -676 1312 -676 1312 -676 1336 c 0,32,33
- -676 1359 -676 1359 -667 1379.5 c 128,-1,34
- -658 1400 -658 1400 -642.5 1415.5 c 128,-1,35
- -627 1431 -627 1431 -606 1440 c 128,-1,36
- -585 1449 -585 1449 -562 1449 c 256,37,38
- -539 1449 -539 1449 -518 1440 c 128,-1,39
- -497 1431 -497 1431 -481.5 1415.5 c 128,-1,40
- -466 1400 -466 1400 -456.5 1379.5 c 128,-1,41
- -447 1359 -447 1359 -447 1336 c 0,22,23
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 1095 0
+Refer: 543 -1 N 1 0 0 1 -390 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2642
 EndChar
@@ -81959,10 +81222,10 @@ Encoding: 852 852 2641
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
 LayerCount: 2
 Fore
-Refer: 1451 753 N 1 0 0 1 -819 4 2
+Refer: 2779 -1 N 1 0 0 1 0 -64 0
+Refer: 544 -1 N 1 0 0 1 -340 0 0
 Validated: 1
 EndChar
 
@@ -81971,10 +81234,10 @@ Encoding: 853 853 2642
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
 LayerCount: 2
 Fore
-Refer: 1452 754 N 1 0 0 1 -863 5 2
+Refer: 2779 -1 N 1 0 0 1 0 -65 0
+Refer: 541 -1 N 1 0 0 1 -323 -1606 0
 Validated: 1
 EndChar
 
@@ -81983,11 +81246,11 @@ Encoding: 854 854 2643
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -518 0 mark 0
 LayerCount: 2
 Fore
-Refer: 1452 754 N 1 0 0 1 -1092 0 2
-Refer: 1450 752 N 1 0 0 1 -677 -40 0
+Refer: 2779 -1 N 1 0 0 1 0 -65 0
+Refer: 1450 752 N 1 0 0 1 -165 -40 0
+Refer: 541 -1 N 1 0 0 1 -562 -1606 0
 Validated: 1
 EndChar
 
@@ -82021,11 +81284,10 @@ Encoding: 855 855 2646
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -545 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 900 702 S 1 0 0 1 -760 85 2
-Refer: 2779 -1 N 1 0 0 1 0 1129 0
+Refer: 2779 -1 N 1 0 0 1 0 1154 0
+Refer: 547 -1 N 1 0 0 1 -231 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2649
 EndChar
@@ -82047,49 +81309,10 @@ Encoding: 857 857 2648
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -516 0 mark 0
 LayerCount: 2
 Fore
-SplineSet
--549 -413 m 1,0,-1
- -549 -324 l 2,1,2
- -549 -309 -549 -309 -547 -295.5 c 128,-1,3
- -545 -282 -545 -282 -539 -269 c 1,4,5
- -547 -280 -547 -280 -557.5 -288.5 c 128,-1,6
- -568 -297 -568 -297 -581 -305 c 2,7,-1
- -658 -350 l 1,8,-1
- -690 -293 l 1,9,-1
- -613 -249 l 2,10,11
- -599 -241 -599 -241 -585.5 -236 c 128,-1,12
- -572 -231 -572 -231 -556 -230 c 1,13,14
- -585 -227 -585 -227 -613 -211 c 2,15,-1
- -686 -168 l 1,16,-1
- -654 -113 l 1,17,-1
- -581 -155 l 2,18,19
- -567 -163 -567 -163 -556 -172.5 c 128,-1,20
- -545 -182 -545 -182 -536 -196 c 1,21,22
- -549 -169 -549 -169 -549 -137 c 2,23,-1
- -549 -46 l 1,24,-1
- -484 -46 l 1,25,-1
- -484 -137 l 2,26,27
- -484 -152 -484 -152 -486 -165 c 128,-1,28
- -488 -178 -488 -178 -494 -191 c 1,29,30
- -478 -170 -478 -170 -452 -155 c 2,31,-1
- -374 -110 l 1,32,-1
- -342 -165 l 1,33,-1
- -420 -211 l 2,34,35
- -434 -219 -434 -219 -445.5 -223.5 c 128,-1,36
- -457 -228 -457 -228 -471 -230 c 1,37,38
- -445 -233 -445 -233 -419 -249 c 2,39,-1
- -342 -294 l 1,40,-1
- -374 -349 l 1,41,-1
- -452 -305 l 2,42,43
- -466 -297 -466 -297 -476.5 -288.5 c 128,-1,44
- -487 -280 -487 -280 -495 -268 c 1,45,46
- -484 -291 -484 -291 -484 -322 c 2,47,-1
- -484 -413 l 1,48,-1
- -549 -413 l 1,0,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 -19 0
+Refer: 548 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 EndChar
 
@@ -82098,54 +81321,10 @@ Encoding: 858 858 2649
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -529 0 mark 0
 LayerCount: 2
 Fore
-SplineSet
--816 -202 m 256,0,1
- -816 -170 -816 -170 -804.5 -142 c 128,-1,2
- -793 -114 -793 -114 -772.5 -93 c 128,-1,3
- -752 -72 -752 -72 -722.5 -60 c 128,-1,4
- -693 -48 -693 -48 -657 -48 c 0,5,6
- -611 -48 -611 -48 -578.5 -66.5 c 128,-1,7
- -546 -85 -546 -85 -528 -117 c 1,8,9
- -510 -85 -510 -85 -477.5 -66.5 c 132,-1,10
- -445 -48 -445 -48 -398 -48 c 0,11,12
- -362 -48 -362 -48 -333 -60 c 128,-1,13
- -304 -72 -304 -72 -283.5 -93 c 128,-1,14
- -263 -114 -263 -114 -252 -142 c 128,-1,15
- -241 -170 -241 -170 -241 -202 c 256,16,17
- -241 -234 -241 -234 -252 -262 c 128,-1,18
- -263 -290 -263 -290 -283.5 -311 c 128,-1,19
- -304 -332 -304 -332 -333 -344 c 128,-1,20
- -362 -356 -362 -356 -398 -356 c 0,21,22
- -445 -356 -445 -356 -477.5 -337 c 128,-1,23
- -510 -318 -510 -318 -528 -286 c 1,24,25
- -546 -318 -546 -318 -578.5 -337 c 128,-1,26
- -611 -356 -611 -356 -657 -356 c 0,27,28
- -693 -356 -693 -356 -722.5 -344 c 128,-1,29
- -752 -332 -752 -332 -772.5 -311 c 128,-1,30
- -793 -290 -793 -290 -804.5 -262 c 128,-1,31
- -816 -234 -816 -234 -816 -202 c 256,0,1
--476 -204 m 0,32,33
- -476 -233 -476 -233 -457.5 -251.5 c 128,-1,34
- -439 -270 -439 -270 -407 -270 c 256,35,36
- -375 -270 -375 -270 -357 -251.5 c 128,-1,37
- -339 -233 -339 -233 -339 -204 c 0,38,39
- -339 -174 -339 -174 -357 -155.5 c 128,-1,40
- -375 -137 -375 -137 -407 -137 c 256,41,42
- -439 -137 -439 -137 -457.5 -155.5 c 128,-1,43
- -476 -174 -476 -174 -476 -204 c 0,32,33
--718 -204 m 0,44,45
- -718 -233 -718 -233 -700 -251.5 c 128,-1,46
- -682 -270 -682 -270 -650 -270 c 256,47,48
- -618 -270 -618 -270 -599.5 -251.5 c 128,-1,49
- -581 -233 -581 -233 -581 -204 c 0,50,51
- -581 -174 -581 -174 -599.5 -155.5 c 128,-1,52
- -618 -137 -618 -137 -650 -137 c 256,53,54
- -682 -137 -682 -137 -700 -155.5 c 128,-1,55
- -718 -174 -718 -174 -718 -204 c 0,44,45
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 -45 0
+Refer: 549 -1 N 1 0 0 1 -472 0 0
 Validated: 1
 EndChar
 
@@ -82166,24 +81345,10 @@ Encoding: 859 859 2651
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-0" -511 1122 mark 0
 LayerCount: 2
 Fore
-SplineSet
--537.5 1076.5 m 128,-1,1
- -544 1088 -544 1088 -537 1105 c 2,2,-1
- -471 1279 l 1,3,-1
- -712 1279 l 1,4,-1
- -599 1601 l 1,5,-1
- -511 1601 l 2,6,7
- -491 1601 -491 1601 -485.5 1590 c 128,-1,8
- -480 1579 -480 1579 -486 1562 c 2,9,-1
- -552 1388 l 1,10,-1
- -310 1388 l 1,11,-1
- -424 1065 l 1,12,-1
- -512 1065 l 1,13,0
- -531 1065 -531 1065 -537.5 1076.5 c 128,-1,1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 1065 0
+Refer: 550 -1 N 1 0 0 1 -341 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2654
 EndChar
@@ -82208,23 +81373,23 @@ Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-1 -380 m 0,0,1
- 143 -380 143 -380 265 -370 c 128,-1,2
- 387 -360 387 -360 497.5 -339 c 128,-1,3
- 608 -318 608 -318 712.5 -287 c 128,-1,4
- 817 -256 817 -256 925 -218 c 1,5,-1
- 971 -334 l 1,6,7
- 772 -417 772 -417 532.5 -464.5 c 128,-1,8
- 293 -512 293 -512 1 -512 c 0,9,10
- -145 -512 -145 -512 -277.5 -500 c 128,-1,11
- -410 -488 -410 -488 -531 -465 c 128,-1,12
- -652 -442 -652 -442 -761 -409 c 128,-1,13
- -870 -376 -870 -376 -970 -334 c 1,14,-1
- -924 -218 l 1,15,16
- -816 -257 -816 -257 -711.5 -287.5 c 128,-1,17
- -607 -318 -607 -318 -496 -339 c 128,-1,18
- -385 -360 -385 -360 -263.5 -370 c 128,-1,19
- -142 -380 -142 -380 1 -380 c 0,0,1
+1051 -313 m 0,0,1
+ 1193 -313 1193 -313 1315 -302.5 c 128,-1,2
+ 1437 -292 1437 -292 1547.5 -271 c 128,-1,3
+ 1658 -250 1658 -250 1762.5 -219.5 c 128,-1,4
+ 1867 -189 1867 -189 1975 -150 c 1,5,-1
+ 2021 -267 l 1,6,7
+ 1822 -350 1822 -350 1582.5 -397 c 128,-1,8
+ 1343 -444 1343 -444 1051 -444 c 0,9,10
+ 905 -444 905 -444 772.5 -432 c 128,-1,11
+ 640 -420 640 -420 519 -397 c 128,-1,12
+ 398 -374 398 -374 289 -341 c 128,-1,13
+ 180 -308 180 -308 80 -267 c 1,14,-1
+ 126 -150 l 1,15,16
+ 234 -189 234 -189 338.5 -219.5 c 128,-1,17
+ 443 -250 443 -250 554 -271 c 128,-1,18
+ 665 -292 665 -292 786.5 -302.5 c 128,-1,19
+ 908 -313 908 -313 1051 -313 c 0,0,1
 EndSplineSet
 Validated: 1
 EndChar
@@ -82248,23 +81413,8 @@ GlyphClass: 4
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-0 1248 m 256,0,1
- 127 1248 127 1248 236 1258.5 c 128,-1,2
- 345 1269 345 1269 444 1290 c 128,-1,3
- 543 1311 543 1311 637 1341.5 c 128,-1,4
- 731 1372 731 1372 827 1411 c 1,5,-1
- 873 1294 l 1,6,7
- 695 1211 695 1211 479 1164 c 128,-1,8
- 263 1117 263 1117 0 1117 c 256,9,10
- -263 1117 -263 1117 -479 1164 c 128,-1,11
- -695 1211 -695 1211 -873 1294 c 1,12,-1
- -827 1411 l 1,13,14
- -730 1372 -730 1372 -636.5 1341.5 c 128,-1,15
- -543 1311 -543 1311 -443.5 1290 c 128,-1,16
- -344 1269 -344 1269 -235.5 1258.5 c 128,-1,17
- -127 1248 -127 1248 0 1248 c 256,0,1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 1117 0
+Refer: 551 -1 N 1 0 0 1 -942 1561 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2658
 EndChar
@@ -82298,16 +81448,10 @@ Encoding: 862 862 2658
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-2" 0 1122 mark 0
 LayerCount: 2
 Fore
-SplineSet
--853 1316 m 1,0,-1
- 853 1316 l 1,1,-1
- 853 1184 l 1,2,-1
- -853 1184 l 1,3,-1
- -853 1316 l 1,0,-1
-EndSplineSet
+Refer: 2779 -1 N 1 0 0 1 0 1184 0
+Refer: 553 -1 N 1 0 0 1 -942 0 0
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2661
 EndChar
@@ -82332,11 +81476,11 @@ Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--950 -246 m 5,0,-1
- 950 -246 l 5,1,-1
- 950 -378 l 5,2,-1
- -950 -378 l 5,3,-1
- -950 -246 l 5,0,-1
+101 -245 m 1,0,-1
+ 2001 -245 l 1,1,-1
+ 2001 -377 l 1,2,-1
+ 101 -377 l 1,3,-1
+ 101 -245 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar
@@ -82383,35 +81527,34 @@ Encoding: 864 864 2662
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-2" 0 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
-833 1202 m 0,0,1
- 726 1123 726 1123 502 1123 c 0,2,3
- 403 1123 403 1123 315.5 1137.5 c 128,-1,4
- 228 1152 228 1152 147 1173.5 c 128,-1,5
- 66 1195 66 1195 -12 1220.5 c 128,-1,6
- -90 1246 -90 1246 -169 1267.5 c 128,-1,7
- -248 1289 -248 1289 -331 1303.5 c 128,-1,8
- -414 1318 -414 1318 -508 1318 c 0,9,10
- -657 1318 -657 1318 -726.5 1276.5 c 128,-1,11
- -796 1235 -796 1235 -796 1148 c 1,12,-1
- -940 1148 l 1,13,14
- -940 1219 -940 1219 -913 1275 c 128,-1,15
- -886 1331 -886 1331 -832 1369.5 c 128,-1,16
- -778 1408 -778 1408 -696 1428.5 c 128,-1,17
- -614 1449 -614 1449 -502 1449 c 0,18,19
- -402 1449 -402 1449 -314 1434.5 c 128,-1,20
- -226 1420 -226 1420 -145 1398.5 c 128,-1,21
- -64 1377 -64 1377 13 1352 c 128,-1,22
- 90 1327 90 1327 169 1305.5 c 128,-1,23
- 248 1284 248 1284 332 1269.5 c 128,-1,24
- 416 1255 416 1255 508 1255 c 0,25,26
- 657 1255 657 1255 727.5 1296.5 c 128,-1,27
- 798 1338 798 1338 798 1425 c 1,28,-1
- 940 1425 l 1,29,30
- 940 1282 940 1282 833 1202 c 0,0,1
+1883.5 1204.5 m 128,-1,1
+ 1776 1125 1776 1125 1552 1125 c 0,2,3
+ 1453 1125 1453 1125 1365.5 1139.5 c 128,-1,4
+ 1278 1154 1278 1154 1197 1175.5 c 128,-1,5
+ 1116 1197 1116 1197 1038.5 1222.5 c 128,-1,6
+ 961 1248 961 1248 882 1269.5 c 128,-1,7
+ 803 1291 803 1291 719.5 1305.5 c 128,-1,8
+ 636 1320 636 1320 543 1320 c 0,9,10
+ 394 1320 394 1320 324 1278.5 c 128,-1,11
+ 254 1237 254 1237 254 1150 c 1,12,-1
+ 111 1150 l 1,13,14
+ 111 1221 111 1221 137.5 1277 c 128,-1,15
+ 164 1333 164 1333 218 1371.5 c 128,-1,16
+ 272 1410 272 1410 354.5 1430.5 c 128,-1,17
+ 437 1451 437 1451 549 1451 c 0,18,19
+ 649 1451 649 1451 736.5 1436.5 c 128,-1,20
+ 824 1422 824 1422 905 1400.5 c 128,-1,21
+ 986 1379 986 1379 1063.5 1354 c 128,-1,22
+ 1141 1329 1141 1329 1220 1307.5 c 128,-1,23
+ 1299 1286 1299 1286 1382.5 1271.5 c 128,-1,24
+ 1466 1257 1466 1257 1559 1257 c 0,25,26
+ 1708 1257 1708 1257 1778 1298.5 c 128,-1,27
+ 1848 1340 1848 1340 1848 1427 c 1,28,-1
+ 1991 1427 l 1,29,0
+ 1991 1284 1991 1284 1883.5 1204.5 c 128,-1,1
 EndSplineSet
 Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2665
@@ -82449,18 +81592,18 @@ Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--942 -244 m 5,0,-1
- 668 -244 l 5,1,-1
- 668 -147 l 5,2,-1
- 915 -273 l 6,3,4
- 929 -280 929 -280 936 -290 c 132,-1,5
- 943 -300 943 -300 943 -310.5 c 132,-1,6
- 943 -321 943 -321 936 -330.5 c 132,-1,7
- 929 -340 929 -340 915 -347 c 6,8,-1
- 668 -470 l 5,9,-1
- 668 -375 l 5,10,-1
- -942 -375 l 5,11,-1
- -942 -244 l 5,0,-1
+101 -245 m 1,0,-1
+ 1711 -245 l 1,1,-1
+ 1711 -148 l 1,2,-1
+ 1958 -274 l 2,3,4
+ 1972 -281 1972 -281 1979 -291 c 128,-1,5
+ 1986 -301 1986 -301 1986 -311.5 c 128,-1,6
+ 1986 -322 1986 -322 1979 -331.5 c 128,-1,7
+ 1972 -341 1972 -341 1958 -348 c 2,8,-1
+ 1711 -471 l 1,9,-1
+ 1711 -376 l 1,10,-1
+ 101 -376 l 1,11,-1
+ 101 -245 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar
@@ -83656,10 +82799,10 @@ Encoding: 796 796 2748
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -495 0 mark 0
 LayerCount: 2
 Fore
-Refer: 899 703 N 1 0 0 1 -736 -1521 0
+Refer: 2779 -1 N 1 0 0 1 0 1091 0
+Refer: 899 703 N 1 0 0 1 -230 0 0
 Validated: 1
 EndChar
 
@@ -83668,10 +82811,10 @@ Encoding: 825 825 2749
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -249 0 mark 0
 LayerCount: 2
 Fore
-Refer: 1537 722 N 1 0 0 1 -471 -789 2
+Refer: 2779 -1 N 1 0 0 1 0 1091 0
+Refer: 899 703 N 1 0 0 1 -230 0 0
 Validated: 1
 EndChar
 
@@ -83800,7 +82943,6 @@ Fore
 Refer: 2779 -1 N 1 0 0 1 17 0 0
 Refer: 923 978 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 62 -77 0
-Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -84802,8 +83944,7 @@ Width: 961
 Flags: W
 LayerCount: 2
 Fore
-Refer: 191 733 N 1 0 0 1 0 -466 2
-Validated: 1
+Refer: 191 733 S 1 0 0 1 0 -466 2
 EndChar
 
 StartChar: gravecomb
@@ -84811,519 +83952,18 @@ Encoding: 768 768 2797
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-0" -236 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 1560 715 N 1 0 0 1 -578 0 2
-Validated: 1
+Refer: 1560 715 S 1 0 0 1 -854 0 2
 EndChar
 
 StartChar: acutecomb
 Encoding: 769 769 2798
 Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-0" -247 1122 mark 0
-LayerCount: 2
-Fore
-Refer: 2793 714 N 1 0 0 1 -405 -1 2
-Validated: 1
-EndChar
-
-StartChar: uni0302
-Encoding: 770 770 2799
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-0" -234 1122 mark 0
-LayerCount: 2
-Fore
-Refer: 174 710 N 1 0 0 1 -641 -6 2
-Validated: 1
-EndChar
-
-StartChar: uni0306
-Encoding: 774 774 2800
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-0" -240 1122 mark 0
-LayerCount: 2
-Fore
-Refer: 185 728 N 1 0 0 1 -638 -5 2
-Validated: 1
-EndChar
-
-StartChar: tildecomb
-Encoding: 771 771 2801
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-0" -217 1122 mark 0
-LayerCount: 2
-Fore
-Refer: 179 732 N 1 0 0 1 -679 -4 2
-Validated: 1
-EndChar
-
-StartChar: uni0304
-Encoding: 772 772 2802
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-0" -242 1122 mark 0
-LayerCount: 2
-Fore
-Refer: 2792 713 N 1 0 0 1 -656 -4 2
-Validated: 1
-EndChar
-
-StartChar: uni0307
-Encoding: 775 775 2803
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-0" -232 1122 mark 0
-LayerCount: 2
-Fore
-Refer: 193 729 S 1 0 0 1 -469 -15 2
-Validated: 1
-EndChar
-
-StartChar: uni0308
-Encoding: 776 776 2804
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-0" -236 1122 mark 0
-LayerCount: 2
-Fore
-SplineSet
-61 1244 m 256,0,1
- 61 1221 61 1221 52 1201 c 128,-1,2
- 43 1181 43 1181 27.5 1166 c 128,-1,3
- 12 1151 12 1151 -8.5 1142.5 c 128,-1,4
- -29 1134 -29 1134 -51 1134 c 0,5,6
- -74 1134 -74 1134 -94 1142.5 c 128,-1,7
- -114 1151 -114 1151 -129 1166 c 128,-1,8
- -144 1181 -144 1181 -152.5 1201 c 128,-1,9
- -161 1221 -161 1221 -161 1244 c 256,10,11
- -161 1267 -161 1267 -152.5 1287 c 128,-1,12
- -144 1307 -144 1307 -129 1322 c 128,-1,13
- -114 1337 -114 1337 -94 1346 c 128,-1,14
- -74 1355 -74 1355 -51 1355 c 0,15,16
- -29 1355 -29 1355 -8.5 1346 c 128,-1,17
- 12 1337 12 1337 27.5 1322 c 128,-1,18
- 43 1307 43 1307 52 1287 c 128,-1,19
- 61 1267 61 1267 61 1244 c 256,0,1
--309 1244 m 256,20,21
- -309 1221 -309 1221 -318 1201 c 128,-1,22
- -327 1181 -327 1181 -342.5 1166 c 128,-1,23
- -358 1151 -358 1151 -378.5 1142.5 c 128,-1,24
- -399 1134 -399 1134 -421 1134 c 0,25,26
- -444 1134 -444 1134 -464 1142.5 c 128,-1,27
- -484 1151 -484 1151 -499 1166 c 128,-1,28
- -514 1181 -514 1181 -522.5 1201 c 128,-1,29
- -531 1221 -531 1221 -531 1244 c 256,30,31
- -531 1267 -531 1267 -522.5 1287 c 128,-1,32
- -514 1307 -514 1307 -499 1322 c 128,-1,33
- -484 1337 -484 1337 -464 1346 c 128,-1,34
- -444 1355 -444 1355 -421 1355 c 0,35,36
- -399 1355 -399 1355 -378.5 1346 c 128,-1,37
- -358 1337 -358 1337 -342.5 1322 c 128,-1,38
- -327 1307 -327 1307 -318 1287 c 128,-1,39
- -309 1267 -309 1267 -309 1244 c 256,20,21
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: uni0327
-Encoding: 807 807 2805
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-1" -496 0 mark 0
-LayerCount: 2
-Fore
-Refer: 195 184 N 1 0 0 1 -819 10 2
-Validated: 1
-EndChar
-
-StartChar: hookabovecomb
-Encoding: 777 777 2806
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-0" -237 1122 mark 0
-LayerCount: 2
-Fore
-SplineSet
--419 1411 m 1,0,1
- -390 1433 -390 1433 -344 1446 c 128,-1,2
- -298 1459 -298 1459 -245 1459 c 0,3,4
- -156 1459 -156 1459 -114.5 1424 c 128,-1,5
- -73 1389 -73 1389 -73 1337 c 0,6,7
- -73 1290 -73 1290 -105 1255 c 128,-1,8
- -137 1220 -137 1220 -187 1201 c 1,9,-1
- -202 1122 l 1,10,-1
- -288 1122 l 1,11,-1
- -288 1250 l 1,12,13
- -236 1257 -236 1257 -216.5 1276 c 128,-1,14
- -197 1295 -197 1295 -197 1318 c 0,15,16
- -197 1340 -197 1340 -213 1357 c 128,-1,17
- -229 1374 -229 1374 -267 1374 c 0,18,19
- -286 1374 -286 1374 -301 1370 c 128,-1,20
- -316 1366 -316 1366 -327 1360.5 c 128,-1,21
- -338 1355 -338 1355 -347 1351 c 128,-1,22
- -356 1347 -356 1347 -363 1347 c 0,23,24
- -371 1347 -371 1347 -376 1351 c 128,-1,25
- -381 1355 -381 1355 -386 1363 c 2,26,-1
- -419 1411 l 1,0,1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: uni030A
-Encoding: 778 778 2807
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-0" -234 1122 mark 0
-LayerCount: 2
-Fore
-Refer: 187 730 N 1 0 0 1 -568 -3 2
-Validated: 1
-EndChar
-
-StartChar: uni030B
-Encoding: 779 779 2808
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-0" -489 1122 mark 0
-LayerCount: 2
-Fore
-Refer: 191 733 N 1 0 0 1 -1000 -1 2
-Validated: 1
-EndChar
-
-StartChar: uni030C
-Encoding: 780 780 2809
-Width: 0
-Flags: W
-AnchorPoint: "Ancre-0" -234 1122 mark 0
-LayerCount: 2
-Fore
-Refer: 176 711 N 1 0 0 1 -641 -6 2
-Validated: 1
-EndChar
-
-StartChar: uni0312
-Encoding: 786 786 2810
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-0" -540 1122 mark 0
-LayerCount: 2
-Fore
-SplineSet
--430 1166 m 0,0,1
- -430 1123 -430 1123 -460 1093 c 128,-1,2
- -490 1063 -490 1063 -538 1063 c 0,3,4
- -594 1063 -594 1063 -622.5 1101.5 c 128,-1,5
- -651 1140 -651 1140 -651 1202 c 0,6,7
- -651 1278 -651 1278 -610 1350.5 c 128,-1,8
- -569 1423 -569 1423 -495 1486 c 1,9,-1
- -470 1463 l 2,10,11
- -460 1454 -460 1454 -460 1440 c 0,12,13
- -460 1435 -460 1435 -463 1429.5 c 128,-1,14
- -466 1424 -466 1424 -471 1419 c 0,15,16
- -478 1411 -478 1411 -490 1397 c 128,-1,17
- -502 1383 -502 1383 -514.5 1365 c 128,-1,18
- -527 1347 -527 1347 -538.5 1324.5 c 128,-1,19
- -550 1302 -550 1302 -556 1277 c 1,20,21
- -551 1278 -551 1278 -546 1278 c 128,-1,22
- -541 1278 -541 1278 -536 1278 c 0,23,24
- -489 1278 -489 1278 -459.5 1246.5 c 128,-1,25
- -430 1215 -430 1215 -430 1166 c 0,0,1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: uni0316
-Encoding: 790 790 2811
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-1" -490 0 mark 0
-LayerCount: 2
-Fore
-Refer: 1560 715 S 1 0 0 1 -614 -1470 2
-Validated: 1
-EndChar
-
-StartChar: uni0317
-Encoding: 791 791 2812
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-1" -490 0 mark 0
-LayerCount: 2
-Fore
-Refer: 172 180 S 1 0 0 1 -880 -1470 2
-Validated: 1
-EndChar
-
-StartChar: uni0331
-Encoding: 817 817 2813
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-1" -490 0 mark 0
-LayerCount: 2
-Fore
-Refer: 183 175 S 1 0 0 1 -897 -1400 2
-Validated: 1
-EndChar
-
-StartChar: dotbelowcomb
-Encoding: 803 803 2814
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-1" -497 0 mark 0
-LayerCount: 2
-Fore
-Refer: 193 729 N 1 0 0 1 -731 -1487 2
-Validated: 1
-EndChar
-
-StartChar: uni0324
-Encoding: 804 804 2815
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-1" -496 0 mark 0
-LayerCount: 2
-Fore
-Refer: 2804 776 N 1 0 0 1 -261 -1428 2
-Validated: 1
-EndChar
-
-StartChar: uni0326
-Encoding: 806 806 2816
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-1" -490 0 mark 0
-LayerCount: 2
-Fore
-Refer: 2591 787 N 1 0 0 1 60 -1565 2
-Validated: 1
-EndChar
-
-StartChar: uni0328
-Encoding: 808 808 2817
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-1" -496 0 mark 0
-LayerCount: 2
-Fore
-Refer: 196 731 N 1 0 0 1 -855 1 2
-Validated: 1
-EndChar
-
-StartChar: uni032C
-Encoding: 812 812 2818
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-1" -498 0 mark 0
-LayerCount: 2
-Fore
-Refer: 176 711 N 1 0 0 1 -904 -1453 2
-Validated: 1
-EndChar
-
-StartChar: uni032D
-Encoding: 813 813 2819
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-1" -496 0 mark 0
-LayerCount: 2
-Fore
-Refer: 174 710 N 1 0 0 1 -904 -1453 2
-Validated: 1
-EndChar
-
-StartChar: uni032E
-Encoding: 814 814 2820
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-1" -490 0 mark 0
-LayerCount: 2
-Fore
-Refer: 185 728 N 1 0 0 1 -884 -1454 2
-Validated: 1
-EndChar
-
-StartChar: uni0330
-Encoding: 816 816 2821
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-1" -490 0 mark 0
-LayerCount: 2
-Fore
-Refer: 179 732 N 1 0 0 1 -967 -1487 2
-Validated: 1
-EndChar
-
-StartChar: uni0334
-Encoding: 820 820 2822
-Width: 0
-GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
-Refer: 179 732 S 1 0 0 1 -1012 -776 2
-Validated: 1
-EndChar
-
-StartChar: uni0335
-Encoding: 821 821 2823
-Width: 0
-GlyphClass: 4
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
--836 544 m 1,0,-1
- -132 544 l 1,1,-1
- -132 416 l 1,2,-1
- -836 416 l 1,3,-1
- -836 544 l 1,0,-1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: uni0337
-Encoding: 823 823 2824
-Width: 0
-GlyphClass: 4
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
--742 -83 m 2,0,1
- -756 -112 -756 -112 -777.5 -125 c 128,-1,2
- -799 -138 -799 -138 -821 -138 c 2,3,-1
- -862 -138 l 1,4,-1
- -903 -138 l 1,5,-1
- -884 -102 l 1,6,-1
- -299 1053 l 2,7,8
- -287 1077 -287 1077 -277 1089 c 0,9,10
- -261 1105 -261 1105 -234 1105 c 2,11,-1
- -181 1105 l 1,12,-1
- -140 1105 l 1,13,-1
- -159 1069 l 1,14,-1
- -742 -83 l 2,0,1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: uni0338
-Encoding: 824 824 2825
-Width: 0
-GlyphClass: 4
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
--321 1281 m 2,0,1
- -307 1302 -307 1302 -290.5 1314.5 c 128,-1,2
- -274 1327 -274 1327 -249 1327 c 2,3,-1
- -187 1327 l 1,4,-1
- -1028 2 l 2,5,6
- -1041 -18 -1041 -18 -1059.5 -31 c 128,-1,7
- -1078 -44 -1078 -44 -1099 -44 c 2,8,-1
- -1161 -44 l 1,9,-1
- -321 1281 l 2,0,1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: uni0340
-Encoding: 832 832 2826
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-0" 200 1122 mark 0
-LayerCount: 2
-Fore
-Refer: 170 96 N 1 0 0 1 -329 0 2
-Validated: 1
-EndChar
-
-StartChar: uni0341
-Encoding: 833 833 2827
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-0" 33 1122 mark 0
-LayerCount: 2
-Fore
-Refer: 172 180 N 1 0 0 1 -277 0 2
-Validated: 1
-EndChar
-
-StartChar: uni0342
-Encoding: 834 834 2828
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-0" -217 1122 mark 0
-LayerCount: 2
-Fore
-Refer: 179 732 N 1 0 0 1 -679 -4 2
-Validated: 1
-EndChar
-
-StartChar: uni0344
-Encoding: 836 836 2829
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-0" -555 1122 mark 0
-LayerCount: 2
-Fore
-Refer: 237 901 N 1 0 0 1 -1101 0 2
-Validated: 1
-EndChar
-
-StartChar: uni0345
-Encoding: 837 837 2830
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Ancre-1" -236 0 mark 0
-LayerCount: 2
-Fore
-Refer: 1357 890 N 1 0 0 1 -498 0 2
-Validated: 1
-EndChar
-
-StartChar: uni0358
-Encoding: 856 856 2831
-Width: 462
-Flags: W
-LayerCount: 2
-Fore
-Refer: 193 729 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 2793 714 N 1 0 0 1 -683 0 2
 EndChar
 EndChars
 EndSplineFont
