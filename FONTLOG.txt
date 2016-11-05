@@ -15,8 +15,8 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 
 ## ChangeLog
 
-05 November 2016 (Guillaume Litaudon) Latte v. 0.4
-- New workflow: using Regular as a master, creating other weights and style from it 
+06 November 2016 (Guillaume Litaudon) Latte v. 0.4
+- New workflow: using Regular as a master, creating other weights and style from it
 
 05 November 2016 (Guillaume Litaudon) Latte v. 0.3
 - Added anchoring marks for bottom liaisons on A-Z
@@ -25,6 +25,8 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 - Added ligatures for all accented glyphs between U+00C0 and U+0233
 - Added ligatures for all accented glyphs between U+1E00 and U+1EF9
 - Fixed glyphs uni1E2A, uni1E73, uni1EAC, uni1EC6, uni1ED8
+- Fixed U+1DCA, U+1DFE, U+1DFF
+- Added U+1DFD, U+1DFC, U+1DF5
 
 04 November 2016 (Guillaume Litaudon) Latte v. 0.3
 - Added or fixed all glyphs between U+0300 and U+0362

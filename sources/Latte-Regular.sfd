@@ -4,7 +4,7 @@ FullName: Latte
 FamilyName: Latte
 Weight: Book
 Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.fr) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte Regular font+AAoACgAA-This file provides detailed information on the Latte Regular font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Regular.sfd (Regular weight)+AAoACgAA## ChangeLog+AAoACgAA-05 November 2016 (Guillaume Litaudon) Latte v. 0.4+AAoA-- New workflow: using Regular as a master, creating other weights and style from it+AAoACgAA-05 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added anchoring marks for bottom liaisons on A-Z+AAoA-- Added anchoring marks for bottom liaisons on a-z, dotlessi+AAoACgAA-04 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added or fixed all glyphs between U+-0300 and U+-0362+AAoA-- Fixed circumflex bad curves+AAoA-- Added GPOS 'mark' lookup for top and bottom anchoring marks+AAoA-- Added anchoring marks for top and bottom diacritics on A-Z+AAoA-- Added anchoring marks for top and bottom diacritics on a-z, dotlessi+AAoA-- Added anchoring marks for top liaisons on A-Z+AAoA-- Added anchoring marks for top liaisons on a-z, dotlessi+AAoACgAA-03 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added gravecomb+AAoA-- Added acutecomb+AAoACgAA-02 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoA-- Fixed uni02CD+AAoA-- Added uni02F6+AAoACgAA-01 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77+AAoA-- Added missing stylistic alternates for g.salt in case of superior and ordinal+AAoA-- Added stylistic alternate for y+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed **many** intersecting paths+AAoA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni1E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261+AAoA-- Modified g.superior and added g.superior.salt+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+FontLog: "# FONTLOG for the Latte Regular font+AAoACgAA-This file provides detailed information on the Latte Regular font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Regular.sfd (Regular weight)+AAoACgAA## ChangeLog+AAoACgAA-06 November 2016 (Guillaume Litaudon) Latte v. 0.4+AAoA-- New workflow: using Regular as a master, creating other weights and style from it+AAoACgAA-05 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added anchoring marks for bottom liaisons on A-Z+AAoA-- Added anchoring marks for bottom liaisons on a-z, dotlessi+AAoA-- Fixed all glyphs between U+-0363 and U+-036F+AAoA-- Added ligatures for all accented glyphs between U+-00C0 and U+-0233+AAoA-- Added ligatures for all accented glyphs between U+-1E00 and U+-1EF9+AAoA-- Fixed glyphs uni1E2A, uni1E73, uni1EAC, uni1EC6, uni1ED8+AAoA-- Fixed U+-1DCA, U+-1DFE, U+-1DFF+AAoA-- Added U+-1DFD, U+-1DFC, U+-1DF5+AAoACgAA-04 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added or fixed all glyphs between U+-0300 and U+-0362+AAoA-- Fixed circumflex bad curves+AAoA-- Added GPOS 'mark' lookup for top and bottom anchoring marks+AAoA-- Added anchoring marks for top and bottom diacritics on A-Z+AAoA-- Added anchoring marks for top and bottom diacritics on a-z, dotlessi+AAoA-- Added anchoring marks for top liaisons on A-Z+AAoA-- Added anchoring marks for top liaisons on a-z, dotlessi+AAoACgAA-03 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added gravecomb+AAoA-- Added acutecomb+AAoACgAA-02 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoA-- Fixed uni02CD+AAoA-- Added uni02F6+AAoACgAA-01 November 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77+AAoA-- Added missing stylistic alternates for g.salt in case of superior and ordinal+AAoA-- Added stylistic alternate for y+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2+AAoA-- Fixed **many** intersecting paths+AAoA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni1E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261+AAoA-- Modified g.superior and added g.superior.salt+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
 Version: 0.4
 ItalicAngle: 0
 UnderlinePosition: -200
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835834854
-ModificationTime: 1478383504
+ModificationTime: 1478386083
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -748,7 +748,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1508 26 10
+WinInfo: 1274 26 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -759,7 +759,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 237056 118528 79018 500736 -1048576 79018 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Ancre-3" "sous-table 'mark' Positionnement par marque lookups5" "Ancre-2" "sous-table 'mark' Positionnement par marque lookups4" "Ancre-03"""  "Ancre-02"""  "Ancre-1" "sous-table 'mark' Positionnement par marque lookups3" "Ancre-0" "sous-table 'mark' Positionnement par marque lookups2"
-BeginChars: 1114780 2831
+BeginChars: 1114780 2834
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -61183,6 +61183,7 @@ Fore
 Refer: 175 -1 S 1 0 0 1 123 -77 0
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 28 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62602,6 +62603,7 @@ Fore
 Refer: 175 -1 S 1 0 0 1 89 -78 0
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 3 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63150,6 +63152,7 @@ LayerCount: 2
 Fore
 Refer: 2819 814 N 1 0 0 1 1128 10 2
 Refer: 15 72 N 1 0 0 1 0 0 3
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" H uni032E
 EndChar
@@ -64842,6 +64845,7 @@ Fore
 Refer: 175 -1 S 1 0 0 1 209 -77 0
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 114 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -74123,6 +74127,7 @@ LayerCount: 2
 Fore
 Refer: 2814 804 N 1 0 0 1 1034 0 2
 Refer: 134 117 N 1 0 0 1 0 0 3
+Validated: 1
 Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" u uni0324
 EndChar
 
@@ -82283,10 +82288,10 @@ Encoding: 7626 7626 2696
 Width: 0
 GlyphClass: 4
 Flags: MW
+AnchorPoint: "Ancre-1" -549 0 mark 0
 LayerCount: 2
 Fore
-Refer: 567 -1 N 1 0 0 1 -176 0 0
-Validated: 1
+Refer: 2694 876 N 1 0 0 1 23 -1587 2
 EndChar
 
 StartChar: glyph2699
@@ -82648,10 +82653,10 @@ Encoding: 7678 7678 2715
 Width: 0
 GlyphClass: 4
 Flags: MW
+AnchorPoint: "Ancre-0" -542 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 544 -1 N 1 0 0 1 -340 1605 0
-Validated: 1
+Refer: 1451 753 N 1 0 0 1 -870 1604 2
 Substitution2: "sous-table Substitution simple lookups0" glyph2718
 EndChar
 
@@ -82671,11 +82676,11 @@ Encoding: 7679 7679 2717
 Width: 0
 GlyphClass: 4
 Flags: MW
+AnchorPoint: "Ancre-1" -518 0 mark 0
 LayerCount: 2
 Fore
-Refer: 1449 751 N 1 0 0 1 -166 -31 0
-Refer: 541 -1 N 1 0 0 1 -562 -1606 0
-Validated: 1
+Refer: 1449 751 N 1 0 0 1 -677 -39 2
+Refer: 1452 754 N 1 0 0 1 -1092 0 2
 EndChar
 
 StartChar: uni01EE
@@ -84753,6 +84758,53 @@ LayerCount: 2
 Fore
 Refer: 193 729 N 1 0 0 1 0 0 2
 Validated: 1
+EndChar
+
+StartChar: uni1DFD
+Encoding: 7677 7677 2831
+Width: 0
+Flags: W
+AnchorPoint: "Ancre-1" -528 0 mark 0
+LayerCount: 2
+Fore
+Refer: 1567 844 N 1 0 0 1 37 -1598 2
+EndChar
+
+StartChar: uni1DFC
+Encoding: 7676 7676 2832
+Width: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1 -350 m 0,0,1
+ -142 -350 -142 -350 -263.5 -360 c 128,-1,2
+ -385 -370 -385 -370 -496 -391 c 128,-1,3
+ -607 -412 -607 -412 -711.5 -442.5 c 128,-1,4
+ -816 -473 -816 -473 -924 -512 c 1,5,-1
+ -970 -396 l 1,6,7
+ -870 -354 -870 -354 -761 -321 c 128,-1,8
+ -652 -288 -652 -288 -531 -265 c 128,-1,9
+ -410 -242 -410 -242 -277.5 -230 c 128,-1,10
+ -145 -218 -145 -218 1 -218 c 0,11,12
+ 293 -218 293 -218 532.5 -265.5 c 128,-1,13
+ 772 -313 772 -313 971 -396 c 1,14,-1
+ 925 -512 l 1,15,16
+ 817 -474 817 -474 712.5 -443 c 128,-1,17
+ 608 -412 608 -412 497.5 -391 c 128,-1,18
+ 387 -370 387 -370 265 -360 c 128,-1,19
+ 143 -350 143 -350 1 -350 c 0,0,1
+EndSplineSet
+EndChar
+
+StartChar: uni1DF5
+Encoding: 7669 7669 2833
+Width: 0
+Flags: W
+AnchorPoint: "Ancre-0" -552 1122 mark 0
+LayerCount: 2
+Fore
+Refer: 908 724 N 1 0 0 1 -893 814 2
 EndChar
 EndChars
 EndSplineFont
