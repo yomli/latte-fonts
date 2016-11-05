@@ -11,14 +11,16 @@ Latte is a modification of Google's Carlito fonts. I just wanted a modern versio
 * Addition of the [basis point](https://en.wikipedia.org/wiki/Basis_point), at U+2031, in order to be hated by the BIPM.
 * Addition of the [Copyleft symbol](https://en.wikipedia.org/wiki/Copyleft#Symbol) at code point U+1F12F as [accepted by the Unicode Technical Committe](https://twitter.com/ken_lunde/status/730168010321760258).
 
-| Version    | Changes     | 
-|:-----------|------------:|
-| 0.4        |        Diacritics |
-| 0.3        |        Clean-up, irony point, interrobang, basis point, copyleft, alternate *y* (beta) |
-| 0.2        |        New *g* |
-| 0.1        |        Base    |
-
 See the [FONTLOG](FONTLOG.txt) for a much complete changelog.
+
+### Versions
+
+| Version    | Changes     | 
+|:-----------|:------------|
+| 0.4        | Diacritics |
+| 0.3        | Clean-up, irony point, interrobang, basis point, copyleft, alternate *y* (beta) |
+| 0.2        | New *g* |
+| 0.1        | Base    |
 
 ## A word about hinting
 
