@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835834854
-ModificationTime: 1478362893
+ModificationTime: 1478365804
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -747,7 +747,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 702 26 10
+WinInfo: 520 26 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -896,6 +896,7 @@ SplineSet
  563 1040 563 1040 554 1016 c 2,22,-1
  368 488 l 1,14,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" A.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -950,7 +951,8 @@ SplineSet
  368 488 l 1,40,-1
 EndSplineSet
 Validated: 1
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" A uni0328
 EndChar
 
 StartChar: AE
@@ -1042,6 +1044,7 @@ SplineSet
  326 1171 l 1,42,-1
  326 726 l 1,32,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" B.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -1094,6 +1097,7 @@ SplineSet
  894 229 894 229 923 260 c 0,43,44
  939 274 939 274 954 274 c 0,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" C.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -1163,7 +1167,8 @@ SplineSet
  490 -243 490 -243 506 -243 c 0,0,1
 EndSplineSet
 Validated: 1
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" C uni0327
 EndChar
 
 StartChar: D
@@ -1203,6 +1208,7 @@ SplineSet
  947 347 947 347 976 442 c 128,-1,25
  1005 537 1005 537 1005 657 c 256,13,14
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" D.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -1245,6 +1251,7 @@ SplineSet
  145 1314 l 1,11,-1
  913 1314 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" E.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -1291,7 +1298,8 @@ SplineSet
  881 -200 881 -200 886 -200 c 0,0,1
 EndSplineSet
 Validated: 1
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" E uni0328
 EndChar
 
 StartChar: F
@@ -1318,6 +1326,7 @@ SplineSet
  138 1314 l 1,9,-1
  882 1314 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" F.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -1374,6 +1383,7 @@ SplineSet
  791 633 l 1,48,-1
  1185 633 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" G.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -1404,6 +1414,7 @@ SplineSet
  1136 1314 l 1,11,-1
  1136 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" H.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -1465,6 +1476,7 @@ SplineSet
  349 1314 l 1,3,-1
  349 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" I.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -1503,7 +1515,8 @@ SplineSet
  378 -200 378 -200 383 -200 c 0,0,1
 EndSplineSet
 Validated: 1
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" I uni0328
 EndChar
 
 StartChar: J
@@ -1537,6 +1550,7 @@ SplineSet
  538 1314 l 1,22,-1
  538 455 l 2,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" J.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -1578,6 +1592,7 @@ SplineSet
  306 1314 l 1,28,-1
  306 740 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" K.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -1602,6 +1617,7 @@ SplineSet
  320 1314 l 1,5,-1
  320 153 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" L.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -1644,8 +1660,10 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 21 76 N 1 0 0 1 36 0 0
-Refer: 178 789 N 1 0 0 1 348 -59 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Refer: 178 789 S 1 0 0 1 557 -59 0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" L uni030C
 EndChar
 
 StartChar: M
@@ -1688,6 +1706,7 @@ SplineSet
  352 1305 352 1305 365 1283 c 2,36,-1
  835 479 l 2,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" M.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -1724,6 +1743,7 @@ SplineSet
  148 1314 l 1,23,-1
  243 1314 l 2,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" N.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -1821,6 +1841,7 @@ SplineSet
  1039 346 1039 346 1068.5 441.5 c 128,-1,39
  1098 537 1098 537 1098 657 c 256,20,21
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" O.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -1979,6 +2000,7 @@ SplineSet
  329 1171 l 1,25,-1
  329 634 l 1,15,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" P.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -2073,6 +2095,7 @@ SplineSet
  1050 346 1050 346 1079.5 441.5 c 128,-1,45
  1109 537 1109 537 1109 657 c 256,26,27
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" Q.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -2121,6 +2144,7 @@ SplineSet
  329 1171 l 1,35,-1
  329 679 l 1,26,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" R.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -2188,6 +2212,7 @@ SplineSet
  778 1259 778 1259 842 1192 c 1,60,-1
  797 1107 l 2,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" S.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -2272,8 +2297,9 @@ SplineSet
  354 -243 354 -243 370 -243 c 0,0,1
 EndSplineSet
 Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" S uni0327
 Substitution2: "sous-table 'salt' Alternatives stylistiques dans Latin lookup 8" uni0218
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
 StartChar: T
@@ -2298,6 +2324,7 @@ SplineSet
  24 1314 l 1,7,-1
  974 1314 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" T.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -2368,6 +2395,7 @@ SplineSet
  453 199 453 199 515.5 171.5 c 128,-1,25
  578 144 578 144 657 144 c 256,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" U.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -2423,7 +2451,8 @@ SplineSet
  814 -200 814 -200 819 -200 c 0,0,1
 EndSplineSet
 Validated: 1
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" U uni0328
 EndChar
 
 StartChar: V
@@ -2455,6 +2484,7 @@ SplineSet
  499 0 l 1,18,-1
  6 1314 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" V.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -2505,6 +2535,7 @@ SplineSet
  411 0 l 1,41,-1
  12 1314 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" W.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -2545,6 +2576,7 @@ SplineSet
  11 0 l 1,27,-1
  407 674 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" X.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -2580,6 +2612,7 @@ SplineSet
  998 1314 l 1,20,-1
  590 525 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" Y.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -2611,6 +2644,7 @@ SplineSet
  90 1314 l 1,14,-1
  910 1314 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" Z.superior
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -2676,6 +2710,7 @@ SplineSet
  320 125 320 125 349 116.5 c 128,-1,57
  378 108 378 108 411 108 c 0,42,43
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" a.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" a.superior
 EndChar
@@ -2755,6 +2790,7 @@ SplineSet
  378 108 378 108 411 108 c 0,66,67
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" a uni0328
 EndChar
 
 StartChar: ae
@@ -2884,6 +2920,7 @@ SplineSet
  821 686 821 686 757 770 c 128,-1,35
  693 854 693 854 575 854 c 0,23,24
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" b.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" b.superior
 EndChar
@@ -2937,6 +2974,7 @@ SplineSet
  757 926 757 926 815 866 c 1,44,-1
  769 802 l 2,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" c.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" c.superior
 EndChar
@@ -3005,6 +3043,7 @@ SplineSet
  364 -243 364 -243 381 -243 c 0,0,1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" c uni0327
 EndChar
 
 StartChar: c_h.dlig
@@ -3443,6 +3482,7 @@ SplineSet
  350 168 350 168 395 147.5 c 128,-1,38
  440 127 440 127 497 127 c 0,24,25
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" d.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" d.superior
 EndChar
@@ -3455,7 +3495,9 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 55 100 N 1 0 0 1 -21 0 0
-Refer: 178 789 N 1 0 0 1 841 0 0
+Refer: 178 789 S 1 0 0 1 1044 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" d uni030C
 EndChar
 
 StartChar: dcroat
@@ -3627,6 +3669,7 @@ SplineSet
  689 825 689 825 642.5 845 c 128,-1,46
  596 865 596 865 538 865 c 0,38,39
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" e.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" e.superior
 EndChar
@@ -3698,6 +3741,7 @@ SplineSet
  596 865 596 865 538 865 c 0,63,64
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" e uni0328
 EndChar
 
 StartChar: f
@@ -3740,6 +3784,7 @@ SplineSet
  346 0 l 1,30,-1
  170 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" f.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" f.superior
 EndChar
@@ -4767,6 +4812,7 @@ Fore
 Refer: 1475 -1 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 606 0 0
 Validated: 1
+LCarets2: 1 0
 Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f j
 EndChar
 
@@ -5244,6 +5290,7 @@ SplineSet
  351 193 351 193 397 172.5 c 128,-1,59
  443 152 443 152 501 152 c 0,45,46
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant lookups25" g.superior
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" g.salt
 Substitution2: "sous-table 'ss04' Style 4 lookups34" g.salt
@@ -5367,6 +5414,7 @@ SplineSet
  319 0 l 1,21,-1
  143 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" h.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" h.superior
 EndChar
@@ -5380,6 +5428,8 @@ LayerCount: 2
 Fore
 Refer: 95 104 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 -220 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" h uni0302
 EndChar
 
 StartChar: hbar
@@ -5434,6 +5484,7 @@ LayerCount: 2
 Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 2 -7 0
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" i.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" i.superior
 Substitution2: "sous-table Substitution simple lookups1" dotlessi
@@ -5449,6 +5500,7 @@ Fore
 Refer: 499 -1 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 2 -7 0
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" i uni0328
 Substitution2: "sous-table Substitution simple lookups1" glyph499
 EndChar
 
@@ -5470,6 +5522,7 @@ SplineSet
  147 978 l 1,3,-1
  323 978 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ij.salt
@@ -5567,6 +5620,7 @@ LayerCount: 2
 Fore
 Refer: 103 567 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 21 -7 0
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" j.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" j.superior
 Substitution2: "sous-table Substitution simple lookups2" uni0237
@@ -5640,6 +5694,7 @@ SplineSet
  128 1422 l 1,30,-1
  304 1422 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" k.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" k.superior
 EndChar
@@ -5717,7 +5772,9 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 1138 108 N 1 0 0 1 -27 0 0
-Refer: 178 789 N 1 0 0 1 222 0 0
+Refer: 178 789 S 1 0 0 1 421 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" l uni030C
 EndChar
 
 StartChar: m
@@ -5769,6 +5826,7 @@ SplineSet
  323 0 l 1,43,-1
  147 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" m.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" m.superior
 EndChar
@@ -5807,6 +5865,7 @@ SplineSet
  316 0 l 1,24,-1
  140 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" uni207F
 Substitution2: "sous-table 'sups' Exposant lookups25" uni207F
 EndChar
@@ -5903,6 +5962,7 @@ SplineSet
  362 172 362 172 415.5 147.5 c 128,-1,39
  469 123 469 123 541 123 c 0,20,21
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" o.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" o.superior
 EndChar
@@ -6084,6 +6144,7 @@ SplineSet
  725 814 725 814 679.5 834 c 128,-1,38
  634 854 634 854 576 854 c 0,24,25
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" p.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" p.superior
 EndChar
@@ -6174,6 +6235,7 @@ SplineSet
  351 168 351 168 396.5 147.5 c 128,-1,37
  442 127 442 127 499 127 c 0,23,24
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" q.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" q.superior
 EndChar
@@ -6211,6 +6273,7 @@ SplineSet
  307 0 l 1,24,-1
  131 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" r.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" r.superior
 EndChar
@@ -6278,6 +6341,7 @@ SplineSet
  666 933 666 933 718 879 c 1,60,-1
  679 816 l 2,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" s.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" s.superior
 EndChar
@@ -6362,6 +6426,7 @@ SplineSet
  249 -243 249 -243 265 -243 c 0,0,1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" s uni0327
 Substitution2: "sous-table 'salt' Alternatives stylistiques dans Latin lookup 8" uni0219
 EndChar
 
@@ -6755,6 +6820,7 @@ SplineSet
  605 31 605 31 544 8 c 128,-1,34
  483 -15 483 -15 417 -15 c 0,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" t.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" t.superior
 EndChar
@@ -6767,7 +6833,9 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 124 116 N 1 0 0 1 0 0 0
-Refer: 178 789 N 1 0 0 1 355 0 0
+Refer: 178 789 S 1 0 0 1 556.038 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" t uni030C
 EndChar
 
 StartChar: tbar
@@ -7265,6 +7333,7 @@ SplineSet
  125 978 l 1,24,-1
  301 978 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" u.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" u.superior
 EndChar
@@ -7319,6 +7388,7 @@ SplineSet
  301 978 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" u uni0328
 EndChar
 
 StartChar: v
@@ -7350,6 +7420,7 @@ SplineSet
  906 978 l 1,18,-1
  542 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" v.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" v.superior
 EndChar
@@ -7402,6 +7473,7 @@ SplineSet
  329 0 l 1,45,-1
  21 978 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" w.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" w.superior
 EndChar
@@ -7443,6 +7515,7 @@ SplineSet
  23 0 l 1,28,-1
  327 502 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" x.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" x.superior
 EndChar
@@ -7479,6 +7552,7 @@ SplineSet
  913 978 l 1,22,-1
  409 -288 l 2,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" y.salt
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" y.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" y.superior
@@ -7513,6 +7587,7 @@ SplineSet
  749 978 l 1,15,-1
  749 904 l 2,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" z.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" z.superior
 EndChar
@@ -12179,6 +12254,7 @@ LayerCount: 2
 Fore
 Refer: 263 1068 N 1 0 0 1 16 0 0
 Refer: 17 73 N 1 0 0 1 1059 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -25503,6 +25579,7 @@ Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -94 23 0
 Refer: 485 -1 N 1 0 0 1 276 23 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -33617,6 +33694,7 @@ LayerCount: 2
 Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 2 -1573 0
+Validated: 1
 EndChar
 
 StartChar: uni1D0A
@@ -47134,6 +47212,7 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 -2 0 0
 Refer: 139 121 N 1 0 0 1 1285 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -47801,6 +47880,7 @@ LayerCount: 2
 Fore
 Refer: 139 121 N 1 0 0 1 964 0 0
 Refer: 111 111 N 1 0 0 1 -45 0 0
+Validated: 1
 EndChar
 
 StartChar: uni047B
@@ -48592,6 +48672,7 @@ SplineSet
  147 1422 l 1,3,-1
  323 1422 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'ordn' Ordinaux dans Latin lookup 39" l.superior
 Substitution2: "sous-table 'sups' Exposant lookups25" l.superior
 EndChar
@@ -52120,6 +52201,8 @@ LayerCount: 2
 Fore
 Refer: 1138 108 N 1 0 0 1 18 0 0
 Refer: 193 729 N 1 0 0 1 401 -584 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" l uni0307
 EndChar
 
 StartChar: glyph1302
@@ -58085,6 +58168,7 @@ Fore
 Refer: 103 567 N 1 0 0 1 0 0 0
 Refer: 176 711 N 1 0 0 1 -153 0 0
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" j uni030C
 EndChar
 
 StartChar: uni01EF
@@ -58465,8 +58549,8 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 89 64258 N 1 0 0 1 -57 0 0
-Refer: 178 789 N 1 0 0 1 834 0 0
-Validated: 5
+Refer: 178 789 S 1 0 0 1 1036 0 0
+Validated: 1
 LCarets2: 1 0
 Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f lcaron
 EndChar
@@ -58545,8 +58629,9 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 91 -1 N 1 0 0 1 17 0 0
-Refer: 178 789 N 1 0 0 1 997 0 0
-Validated: 5
+Refer: 178 789 S 1 0 0 1 1140 0 0
+Validated: 1
+LCarets2: 1 0
 Ligature2: "sous-table 'liga' Ligatures standard dans Latin lookup 37" f tcaron
 EndChar
 
@@ -58754,7 +58839,8 @@ SplineSet
  1091 565 1091 565 1091 692 c 0,45,46
 EndSplineSet
 Validated: 1
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" O uni0328
 EndChar
 
 StartChar: iotadieresis
@@ -58908,6 +58994,7 @@ SplineSet
  469 123 469 123 541 123 c 0,45,46
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" o uni0328
 EndChar
 
 StartChar: uni02CD
@@ -58963,6 +59050,7 @@ LayerCount: 2
 Fore
 Refer: 9 68 N 1 0 0 1 0 0 0
 Refer: 516 -1 N 1 0 0 1 255 -1572 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -58975,6 +59063,7 @@ LayerCount: 2
 Fore
 Refer: 55 100 N 1 0 0 1 0 0 0
 Refer: 516 -1 N 1 0 0 1 250 -1592 0
+Validated: 1
 EndChar
 
 StartChar: uni02F7
@@ -59126,7 +59215,9 @@ LayerCount: 2
 Fore
 Refer: 21 76 N 1 0 0 1 186 0 0
 Refer: 193 729 N 1 0 0 1 603 -544 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" L uni0307
 EndChar
 
 StartChar: utilde
@@ -59138,6 +59229,8 @@ LayerCount: 2
 Fore
 Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 81 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" u tildecomb
 EndChar
 
 StartChar: uni0499
@@ -59517,6 +59610,7 @@ LayerCount: 2
 Fore
 Refer: 49 99 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 272 -772 0
+Validated: 1
 EndChar
 
 StartChar: uni037D
@@ -59540,6 +59634,7 @@ LayerCount: 2
 Fore
 Refer: 7 67 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 396 -586 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -60837,7 +60932,9 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 188 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" A gravecomb
 EndChar
 
 StartChar: Aacute
@@ -60849,7 +60946,9 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 236 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" A acutecomb
 EndChar
 
 StartChar: Acircumflex
@@ -60861,7 +60960,9 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 3
 Refer: 175 -1 N 1 0 0 1 123 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" A uni0302
 EndChar
 
 StartChar: Atilde
@@ -60873,7 +60974,9 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 180 -1 N 1 0 0 1 123 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" A tildecomb
 EndChar
 
 StartChar: Adieresis
@@ -60886,7 +60989,9 @@ Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -177 1770 0
 Refer: 485 -1 N 1 0 0 1 227 1770 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" A uni0308
 EndChar
 
 StartChar: Amacron
@@ -60898,7 +61003,9 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 155 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" A uni0304
 EndChar
 
 StartChar: Abreve
@@ -60910,7 +61017,9 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 186 -1 N 1 0 0 1 200 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" A uni0306
 EndChar
 
 StartChar: Aring
@@ -60922,7 +61031,9 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 188 -1 N 1 0 0 1 256 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" A uni030A
 EndChar
 
 StartChar: Aringacute
@@ -60934,6 +61045,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 190 -1 N 1 0 0 1 250 -79 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -60945,6 +61057,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -60957,6 +61070,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 236 900 N 1 0 0 1 -130 -87 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Alpha
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -60969,6 +61083,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -60981,6 +61096,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 28 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -60993,6 +61109,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 468 -1 N 1 0 0 1 358 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61005,6 +61122,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 470 -1 N 1 0 0 1 26 -80 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61017,6 +61135,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 472 -1 N 1 0 0 1 23 -80 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61029,6 +61148,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 474 -1 N 1 0 0 1 29 -81 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61042,6 +61162,7 @@ Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 133 -82 0
 Refer: 180 -1 N 1 0 0 1 123 247 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61054,6 +61175,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 28 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61066,6 +61188,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 478 -1 N 1 0 0 1 24 -81 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61078,6 +61201,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 480 -1 N 1 0 0 1 32 -81 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61090,6 +61214,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 482 -1 N 1 0 0 1 29 -81 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61102,6 +61227,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 484 -1 N 1 0 0 1 28 -81 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61115,6 +61241,7 @@ Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 186 -1 N 1 0 0 1 200 -78 0
 Refer: 485 -1 N 1 0 0 1 28 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61127,7 +61254,9 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 134 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" A uni030C
 EndChar
 
 StartChar: uni01DE
@@ -61141,6 +61270,7 @@ Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 155 198 0
 Refer: 485 -1 N 1 0 0 1 -177 1770 0
 Refer: 485 -1 N 1 0 0 1 227 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61154,6 +61284,7 @@ Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 361 -78 0
 Refer: 184 -1 N 1 0 0 1 155 244 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61166,7 +61297,9 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 512 -1 N 1 0 0 1 129 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" A uni030F
 EndChar
 
 StartChar: uni0202
@@ -61178,7 +61311,9 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1445 -1 N 1 0 0 1 592 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" A uni0311
 EndChar
 
 StartChar: uni0226
@@ -61190,7 +61325,9 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 360 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" A uni0307
 EndChar
 
 StartChar: uni023A
@@ -61249,6 +61386,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1340 8127 N 1 0 0 1 -74 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Alpha
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61263,6 +61401,7 @@ Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1340 8127 N 1 0 0 1 -256 -57 0
 Refer: 1342 8189 N 1 0 0 1 -99 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Alpha
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61277,6 +61416,7 @@ Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1340 8127 N 1 0 0 1 -278 -57 0
 Refer: 1343 8175 N 1 0 0 1 -20 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Alpha
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61291,6 +61431,7 @@ Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1344 8128 N 1 0 0 1 -252 239 0
 Refer: 1340 8127 N 1 0 0 1 -56 -61 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Alpha
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61304,6 +61445,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1341 8190 N 1 0 0 1 -57 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Alpha
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61318,6 +61460,7 @@ Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1341 8190 N 1 0 0 1 -275 -57 0
 Refer: 1342 8189 N 1 0 0 1 -126 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Alpha
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61332,6 +61475,7 @@ Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1341 8190 N 1 0 0 1 -276 -57 0
 Refer: 1343 8175 N 1 0 0 1 -21 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Alpha
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61346,6 +61490,7 @@ Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1344 8128 N 1 0 0 1 -252 239 0
 Refer: 1341 8190 N 1 0 0 1 -56 -61 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Alpha
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61359,6 +61504,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1342 8189 N 1 0 0 1 -162 -58 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Alpha
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61372,6 +61518,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1343 8175 N 1 0 0 1 -126 -58 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Alpha
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61385,6 +61532,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 155 -77 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Alpha
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61398,6 +61546,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 186 -1 N 1 0 0 1 200 -78 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Alpha
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61411,6 +61560,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1357 890 N 1 0 0 1 335 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61424,6 +61574,7 @@ Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1357 890 N 1 0 0 1 335 7 0
 Refer: 1340 8127 N 1 0 0 1 -74 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FBC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61439,6 +61590,7 @@ Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1357 890 N 1 0 0 1 335 7 0
 Refer: 1340 8127 N 1 0 0 1 -256 -57 0
 Refer: 1342 8189 N 1 0 0 1 -99 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FBC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61454,6 +61606,7 @@ Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1357 890 N 1 0 0 1 335 7 0
 Refer: 1340 8127 N 1 0 0 1 -278 -57 0
 Refer: 1343 8175 N 1 0 0 1 -20 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FBC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61469,6 +61622,7 @@ Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1344 8128 N 1 0 0 1 -252 239 0
 Refer: 1357 890 N 1 0 0 1 335 7 0
 Refer: 1340 8127 N 1 0 0 1 -56 -61 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FBC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61483,6 +61637,7 @@ Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1357 890 N 1 0 0 1 335 7 0
 Refer: 1341 8190 N 1 0 0 1 -57 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FBC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61498,6 +61653,7 @@ Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1357 890 N 1 0 0 1 335 7 0
 Refer: 1341 8190 N 1 0 0 1 -275 -57 0
 Refer: 1342 8189 N 1 0 0 1 -126 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FBC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61513,6 +61669,7 @@ Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1357 890 N 1 0 0 1 335 7 0
 Refer: 1341 8190 N 1 0 0 1 -276 -57 0
 Refer: 1343 8175 N 1 0 0 1 -21 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FBC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61528,6 +61685,7 @@ Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 1344 8128 N 1 0 0 1 -252 239 0
 Refer: 1357 890 N 1 0 0 1 335 7 0
 Refer: 1341 8190 N 1 0 0 1 -56 -61 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FBC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -61541,6 +61699,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 307 -1 N 1 0 0 1 153 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61554,6 +61713,7 @@ Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -177 1770 0
 Refer: 485 -1 N 1 0 0 1 227 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61567,7 +61727,8 @@ Fore
 Refer: 5 198 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 682 -78 0
 Validated: 1
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" AE acutecomb
 EndChar
 
 StartChar: uni01E2
@@ -61580,7 +61741,8 @@ Fore
 Refer: 5 198 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 613 -77 0
 Validated: 1
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" AE uni0304
 EndChar
 
 StartChar: uni04D4
@@ -61603,6 +61765,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 6 66 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61614,6 +61777,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 6 66 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61685,6 +61849,7 @@ LayerCount: 2
 Fore
 Refer: 6 66 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 285 279 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61697,6 +61862,7 @@ LayerCount: 2
 Fore
 Refer: 6 66 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -25 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61765,7 +61931,9 @@ LayerCount: 2
 Fore
 Refer: 7 67 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 272 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" C acutecomb
 EndChar
 
 StartChar: Ccircumflex
@@ -61777,7 +61945,9 @@ LayerCount: 2
 Fore
 Refer: 7 67 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 190 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" C uni0302
 EndChar
 
 StartChar: Ccaron
@@ -61789,7 +61959,9 @@ LayerCount: 2
 Fore
 Refer: 7 67 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 190 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" C uni030C
 EndChar
 
 StartChar: Cdotaccent
@@ -61801,7 +61973,9 @@ LayerCount: 2
 Fore
 Refer: 7 67 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 415 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" C uni0307
 EndChar
 
 StartChar: uni0421
@@ -61812,6 +61986,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 7 67 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61884,6 +62059,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 7 67 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61909,7 +62085,9 @@ LayerCount: 2
 Fore
 Refer: 9 68 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 121 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" D uni030C
 EndChar
 
 StartChar: uni1E0A
@@ -61921,6 +62099,7 @@ LayerCount: 2
 Fore
 Refer: 9 68 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 346 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61933,6 +62112,7 @@ LayerCount: 2
 Fore
 Refer: 9 68 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 12 -18 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61987,6 +62167,7 @@ LayerCount: 2
 Fore
 Refer: 9 68 N 1 0 0 1 0 0 0
 Refer: 174 710 N 1 0 0 1 172 -1496 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -61999,6 +62180,7 @@ LayerCount: 2
 Fore
 Refer: 9 68 N 1 0 0 1 0 0 0
 Refer: 44 90 N 1 0 0 1 1238 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62011,6 +62193,7 @@ LayerCount: 2
 Fore
 Refer: 9 68 N 1 0 0 1 30 0 0
 Refer: 140 122 N 1 0 0 1 1282 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62080,7 +62263,9 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 153 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" E gravecomb
 EndChar
 
 StartChar: Eacute
@@ -62092,7 +62277,9 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 176 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" E acutecomb
 EndChar
 
 StartChar: Ecircumflex
@@ -62104,7 +62291,9 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 89 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" E uni0302
 EndChar
 
 StartChar: Ecaron
@@ -62116,7 +62305,9 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 89 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" E uni030C
 EndChar
 
 StartChar: Edieresis
@@ -62129,7 +62320,9 @@ Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -223 1770 0
 Refer: 485 -1 N 1 0 0 1 181 1770 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" E uni0308
 EndChar
 
 StartChar: Emacron
@@ -62141,7 +62334,9 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 110 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" E uni0304
 EndChar
 
 StartChar: Ebreve
@@ -62153,7 +62348,9 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 186 -1 N 1 0 0 1 154 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" E uni0306
 EndChar
 
 StartChar: Edotaccent
@@ -62165,7 +62362,9 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 314 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" E uni0307
 EndChar
 
 StartChar: Epsilon
@@ -62176,6 +62375,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62188,6 +62388,7 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 236 900 N 1 0 0 1 -377 -87 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Epsilon
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62200,6 +62401,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62212,6 +62414,7 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 153 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62225,6 +62428,7 @@ Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -223 1770 0
 Refer: 485 -1 N 1 0 0 1 181 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62237,6 +62441,7 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 3 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62249,6 +62454,7 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 468 -1 N 1 0 0 1 313 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62261,6 +62467,7 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 180 -1 N 1 0 0 1 77 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62273,6 +62480,7 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 470 -1 N 1 0 0 1 -23 -80 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62285,6 +62493,7 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 472 -1 N 1 0 0 1 -23 -80 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62360,6 +62569,7 @@ Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 89 -78 0
 Refer: 180 -1 N 1 0 0 1 77 247 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62372,6 +62582,7 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 3 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62384,7 +62595,9 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 512 -1 N 1 0 0 1 96 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" E uni030F
 EndChar
 
 StartChar: uni0206
@@ -62396,7 +62609,9 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 1445 -1 N 1 0 0 1 546 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" E uni0311
 EndChar
 
 StartChar: uni0228
@@ -62443,7 +62658,8 @@ SplineSet
  433 -243 433 -243 449 -243 c 0,0,1
 EndSplineSet
 Validated: 1
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" E uni0327
 EndChar
 
 StartChar: uni0246
@@ -62500,6 +62716,7 @@ Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 92 130 0
 Refer: 184 -1 N 1 0 0 1 104 -81 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62513,6 +62730,7 @@ Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 219 139 0
 Refer: 184 -1 N 1 0 0 1 110 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62525,6 +62743,7 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 174 710 N 1 0 0 1 163 -1470 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62537,6 +62756,7 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 99 -1448 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62562,6 +62782,7 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 1340 8127 N 1 0 0 1 -310 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Epsilon
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62576,6 +62797,7 @@ Fore
 Refer: 11 69 N 1 0 0 1 213 0 0
 Refer: 1340 8127 N 1 0 0 1 -423 -57 0
 Refer: 1342 8189 N 1 0 0 1 -266 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Epsilon
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62590,6 +62812,7 @@ Fore
 Refer: 11 69 N 1 0 0 1 213 0 0
 Refer: 1340 8127 N 1 0 0 1 -445 -57 0
 Refer: 1343 8175 N 1 0 0 1 -187 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Epsilon
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62603,6 +62826,7 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 1341 8190 N 1 0 0 1 -295 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Epsilon
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62617,6 +62841,7 @@ Fore
 Refer: 11 69 N 1 0 0 1 217 0 0
 Refer: 1341 8190 N 1 0 0 1 -441 -57 0
 Refer: 1342 8189 N 1 0 0 1 -292 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Epsilon
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62631,6 +62856,7 @@ Fore
 Refer: 11 69 N 1 0 0 1 213 0 0
 Refer: 1341 8190 N 1 0 0 1 -443 -57 0
 Refer: 1343 8175 N 1 0 0 1 -188 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Epsilon
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62644,6 +62870,7 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 1342 8189 N 1 0 0 1 -403 -58 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Epsilon
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62657,6 +62884,7 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 1343 8175 N 1 0 0 1 -359 -58 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Epsilon
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62670,6 +62898,7 @@ LayerCount: 2
 Fore
 Refer: 11 69 N 1 0 0 1 0 0 0
 Refer: 307 -1 N 1 0 0 1 108 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62682,6 +62911,7 @@ LayerCount: 2
 Fore
 Refer: 13 70 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 294 279 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62694,7 +62924,9 @@ LayerCount: 2
 Fore
 Refer: 14 71 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 278 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" G uni0302
 EndChar
 
 StartChar: Gbreve
@@ -62706,7 +62938,9 @@ LayerCount: 2
 Fore
 Refer: 14 71 N 1 0 0 1 0 0 0
 Refer: 186 -1 N 1 0 0 1 332 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" G uni0306
 EndChar
 
 StartChar: Gdotaccent
@@ -62718,7 +62952,9 @@ LayerCount: 2
 Fore
 Refer: 14 71 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 492 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" G uni0307
 EndChar
 
 StartChar: uni0122
@@ -62730,7 +62966,8 @@ LayerCount: 2
 Fore
 Refer: 14 71 N 1 0 0 1 0 0 0
 Refer: 197 -1 N 1 0 0 1 401 7 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 EndChar
 
 StartChar: Gcaron
@@ -62742,7 +62979,9 @@ LayerCount: 2
 Fore
 Refer: 14 71 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 267 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" G uni030C
 EndChar
 
 StartChar: uni01F4
@@ -62754,7 +62993,9 @@ LayerCount: 2
 Fore
 Refer: 14 71 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 357 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" G acutecomb
 EndChar
 
 StartChar: uni1E20
@@ -62766,6 +63007,7 @@ LayerCount: 2
 Fore
 Refer: 14 71 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 288 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62777,6 +63019,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62788,6 +63031,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62800,6 +63044,7 @@ LayerCount: 2
 Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
 Refer: 236 900 N 1 0 0 1 -377 -87 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Eta
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62812,6 +63057,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62824,7 +63070,9 @@ LayerCount: 2
 Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 188 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" H uni030C
 EndChar
 
 StartChar: uni1E22
@@ -62836,6 +63084,7 @@ LayerCount: 2
 Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 414 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62848,6 +63097,7 @@ LayerCount: 2
 Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 83 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62861,6 +63111,7 @@ Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -123 1770 0
 Refer: 485 -1 N 1 0 0 1 281 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62873,6 +63124,7 @@ LayerCount: 2
 Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
 Refer: 185 728 N 1 0 0 1 248 325 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -62885,6 +63137,7 @@ LayerCount: 2
 Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
 Refer: 1340 8127 N 1 0 0 1 -311 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Eta
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62899,6 +63152,7 @@ Fore
 Refer: 15 72 N 1 0 0 1 213 0 0
 Refer: 1340 8127 N 1 0 0 1 -398 -57 0
 Refer: 1342 8189 N 1 0 0 1 -241 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Eta
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62913,6 +63167,7 @@ Fore
 Refer: 15 72 N 1 0 0 1 213 0 0
 Refer: 1340 8127 N 1 0 0 1 -419 -57 0
 Refer: 1343 8175 N 1 0 0 1 -161 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Eta
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62927,6 +63182,7 @@ Fore
 Refer: 15 72 N 1 0 0 1 93 0 0
 Refer: 1344 8128 N 1 0 0 1 -449 239 0
 Refer: 1340 8127 N 1 0 0 1 -253 -61 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Eta
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62940,6 +63196,7 @@ LayerCount: 2
 Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
 Refer: 1341 8190 N 1 0 0 1 -296 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Eta
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62954,6 +63211,7 @@ Fore
 Refer: 15 72 N 1 0 0 1 213 0 0
 Refer: 1341 8190 N 1 0 0 1 -417 -57 0
 Refer: 1342 8189 N 1 0 0 1 -268 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Eta
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62968,6 +63226,7 @@ Fore
 Refer: 15 72 N 1 0 0 1 213 0 0
 Refer: 1341 8190 N 1 0 0 1 -417 -57 0
 Refer: 1343 8175 N 1 0 0 1 -162 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Eta
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62982,6 +63241,7 @@ Fore
 Refer: 15 72 N 1 0 0 1 93 0 0
 Refer: 1344 8128 N 1 0 0 1 -449 239 0
 Refer: 1341 8190 N 1 0 0 1 -253 -61 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Eta
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -62995,6 +63255,7 @@ LayerCount: 2
 Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
 Refer: 1342 8189 N 1 0 0 1 -403 -58 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Eta
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63008,6 +63269,7 @@ LayerCount: 2
 Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
 Refer: 1343 8175 N 1 0 0 1 -360 -58 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Eta
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63021,6 +63283,7 @@ LayerCount: 2
 Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
 Refer: 1357 890 N 1 0 0 1 383 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63034,6 +63297,7 @@ Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
 Refer: 1357 890 N 1 0 0 1 383 7 0
 Refer: 1340 8127 N 1 0 0 1 -311 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FCC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63049,6 +63313,7 @@ Refer: 15 72 N 1 0 0 1 213 0 0
 Refer: 1357 890 N 1 0 0 1 606 7 0
 Refer: 1340 8127 N 1 0 0 1 -398 -57 0
 Refer: 1342 8189 N 1 0 0 1 -241 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FCC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63064,6 +63329,7 @@ Refer: 15 72 N 1 0 0 1 213 0 0
 Refer: 1357 890 N 1 0 0 1 606 7 0
 Refer: 1340 8127 N 1 0 0 1 -419 -57 0
 Refer: 1343 8175 N 1 0 0 1 -161 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FCC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63079,6 +63345,7 @@ Refer: 15 72 N 1 0 0 1 93 0 0
 Refer: 1344 8128 N 1 0 0 1 -449 239 0
 Refer: 1357 890 N 1 0 0 1 481 7 0
 Refer: 1340 8127 N 1 0 0 1 -253 -61 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FCC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63093,6 +63360,7 @@ Fore
 Refer: 15 72 N 1 0 0 1 0 0 0
 Refer: 1357 890 N 1 0 0 1 383 7 0
 Refer: 1341 8190 N 1 0 0 1 -296 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FCC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63108,6 +63376,7 @@ Refer: 15 72 N 1 0 0 1 213 0 0
 Refer: 1357 890 N 1 0 0 1 606 7 0
 Refer: 1341 8190 N 1 0 0 1 -417 -57 0
 Refer: 1342 8189 N 1 0 0 1 -268 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FCC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63123,6 +63392,7 @@ Refer: 15 72 N 1 0 0 1 213 0 0
 Refer: 1357 890 N 1 0 0 1 606 7 0
 Refer: 1341 8190 N 1 0 0 1 -417 -57 0
 Refer: 1343 8175 N 1 0 0 1 -162 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FCC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63138,6 +63408,7 @@ Refer: 15 72 N 1 0 0 1 93 0 0
 Refer: 1344 8128 N 1 0 0 1 -449 239 0
 Refer: 1357 890 N 1 0 0 1 481 7 0
 Refer: 1341 8190 N 1 0 0 1 -253 -61 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" uni1FCC
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63151,7 +63422,9 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 -138 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" I gravecomb
 EndChar
 
 StartChar: Iacute
@@ -63163,7 +63436,9 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 -105 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" I acutecomb
 EndChar
 
 StartChar: Icircumflex
@@ -63175,7 +63450,9 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 -210 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" I uni0302
 EndChar
 
 StartChar: Itilde
@@ -63187,7 +63464,9 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 180 -1 N 1 0 0 1 -210 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" I tildecomb
 EndChar
 
 StartChar: Idieresis
@@ -63200,7 +63479,9 @@ Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -510 1770 0
 Refer: 485 -1 N 1 0 0 1 -106 1770 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" I uni0308
 EndChar
 
 StartChar: Imacron
@@ -63212,7 +63493,9 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 -177 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" I uni0304
 EndChar
 
 StartChar: Ibreve
@@ -63224,7 +63507,9 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 186 -1 N 1 0 0 1 -133 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" I uni0306
 EndChar
 
 StartChar: Idotaccent
@@ -63259,7 +63544,8 @@ SplineSet
  377 1575 377 1575 377 1551 c 0,4,5
 EndSplineSet
 Validated: 1
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" I uni0307
 EndChar
 
 StartChar: Iota
@@ -63270,6 +63556,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups5" Iotadieresis
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63283,6 +63570,7 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 236 900 N 1 0 0 1 -350 -87 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Iota
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63297,6 +63585,7 @@ Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -510 1770 0
 Refer: 485 -1 N 1 0 0 1 -106 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63308,6 +63597,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63321,6 +63611,7 @@ Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -510 1770 0
 Refer: 485 -1 N 1 0 0 1 -106 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63333,6 +63624,7 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 468 -1 N 1 0 0 1 25 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63345,6 +63637,7 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -306 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63357,7 +63650,9 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 -198 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" I uni030C
 EndChar
 
 StartChar: uni0208
@@ -63369,7 +63664,9 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 512 -1 N 1 0 0 1 -195 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" I uni030F
 EndChar
 
 StartChar: uni020A
@@ -63381,7 +63678,9 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 1445 -1 N 1 0 0 1 259 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" I uni0311
 EndChar
 
 StartChar: uni1E2C
@@ -63393,6 +63692,7 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 -206 -1448 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63407,6 +63707,7 @@ Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 -70 197 0
 Refer: 485 -1 N 1 0 0 1 -510 1770 0
 Refer: 485 -1 N 1 0 0 1 -106 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63419,6 +63720,7 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 1340 8127 N 1 0 0 1 -287 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Iota
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63433,6 +63735,7 @@ Fore
 Refer: 17 73 N 1 0 0 1 213 0 0
 Refer: 1340 8127 N 1 0 0 1 -392 -57 0
 Refer: 1342 8189 N 1 0 0 1 -235 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Iota
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63447,6 +63750,7 @@ Fore
 Refer: 17 73 N 1 0 0 1 213 0 0
 Refer: 1340 8127 N 1 0 0 1 -419 -57 0
 Refer: 1343 8175 N 1 0 0 1 -161 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Iota
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63461,6 +63765,7 @@ Fore
 Refer: 17 73 N 1 0 0 1 93 0 0
 Refer: 1344 8128 N 1 0 0 1 -422 239 0
 Refer: 1340 8127 N 1 0 0 1 -226 -61 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Iota
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63474,6 +63779,7 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 1341 8190 N 1 0 0 1 -272 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Iota
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63488,6 +63794,7 @@ Fore
 Refer: 17 73 N 1 0 0 1 213 0 0
 Refer: 1341 8190 N 1 0 0 1 -417 -57 0
 Refer: 1342 8189 N 1 0 0 1 -268 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Iota
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63502,6 +63809,7 @@ Fore
 Refer: 17 73 N 1 0 0 1 213 0 0
 Refer: 1341 8190 N 1 0 0 1 -417 -57 0
 Refer: 1343 8175 N 1 0 0 1 -162 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Iota
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63516,6 +63824,7 @@ Fore
 Refer: 17 73 N 1 0 0 1 93 0 0
 Refer: 1344 8128 N 1 0 0 1 -422 239 0
 Refer: 1341 8190 N 1 0 0 1 -226 -61 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Iota
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63529,6 +63838,7 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 1342 8189 N 1 0 0 1 -378 -58 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Iota
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63542,6 +63852,7 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 1343 8175 N 1 0 0 1 -337 -58 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Iota
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63555,6 +63866,7 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 -177 -77 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Iota
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63568,6 +63880,7 @@ LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
 Refer: 186 -1 N 1 0 0 1 -133 -78 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Iota
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -63580,6 +63893,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63591,6 +63905,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 17 73 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: IJ
@@ -63602,6 +63917,7 @@ LayerCount: 2
 Fore
 Refer: 19 74 N 1 0 0 1 477 0 0
 Refer: 17 73 N 1 0 0 1 -31 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63614,7 +63930,9 @@ LayerCount: 2
 Fore
 Refer: 19 74 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 -19 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" J uni0302
 EndChar
 
 StartChar: uni0408
@@ -63625,6 +63943,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 19 74 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63676,6 +63995,7 @@ LayerCount: 2
 Fore
 Refer: 20 75 N 1 0 0 1 0 0 0
 Refer: 197 -1 N 1 0 0 1 254 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63687,6 +64007,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 20 75 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63699,7 +64020,9 @@ LayerCount: 2
 Fore
 Refer: 20 75 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 76 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" K uni030C
 EndChar
 
 StartChar: uni1E30
@@ -63711,6 +64034,7 @@ LayerCount: 2
 Fore
 Refer: 20 75 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 206 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63723,6 +64047,7 @@ LayerCount: 2
 Fore
 Refer: 20 75 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -43 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63777,7 +64102,9 @@ LayerCount: 2
 Fore
 Refer: 21 76 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 -156 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" L acutecomb
 EndChar
 
 StartChar: uni013B
@@ -63789,6 +64116,7 @@ LayerCount: 2
 Fore
 Refer: 21 76 N 1 0 0 1 0 0 0
 Refer: 197 -1 N 1 0 0 1 231 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63829,6 +64157,7 @@ LayerCount: 2
 Fore
 Refer: 21 76 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -67 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63842,6 +64171,7 @@ Fore
 Refer: 21 76 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 -174 -77 0
 Refer: 485 -1 N 1 0 0 1 -67 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63879,6 +64209,7 @@ LayerCount: 2
 Fore
 Refer: 21 76 N 1 0 0 1 0 0 0
 Refer: 174 710 N 1 0 0 1 93 -1470 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63891,6 +64222,7 @@ LayerCount: 2
 Fore
 Refer: 21 76 N 1 0 0 1 0 0 0
 Refer: 19 74 N 1 0 0 1 837 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63904,6 +64236,7 @@ Fore
 Refer: 21 76 N 1 0 0 1 84 0 0
 Refer: 103 567 N 1 0 0 1 903 -5 0
 Refer: 193 729 N 1 0 0 1 924 -12 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63915,6 +64248,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 24 77 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63926,6 +64260,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 24 77 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63938,6 +64273,7 @@ LayerCount: 2
 Fore
 Refer: 24 77 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 529 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63950,6 +64286,7 @@ LayerCount: 2
 Fore
 Refer: 24 77 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 651 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63962,6 +64299,7 @@ LayerCount: 2
 Fore
 Refer: 24 77 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 311 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -63974,7 +64312,9 @@ LayerCount: 2
 Fore
 Refer: 25 78 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 320 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" N acutecomb
 EndChar
 
 StartChar: Ncaron
@@ -63986,7 +64326,9 @@ LayerCount: 2
 Fore
 Refer: 25 78 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 228 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" N uni030C
 EndChar
 
 StartChar: Ntilde
@@ -63998,7 +64340,9 @@ LayerCount: 2
 Fore
 Refer: 25 78 N 1 0 0 1 0 0 0
 Refer: 180 -1 N 1 0 0 1 217 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" N tildecomb
 EndChar
 
 StartChar: uni0145
@@ -64010,6 +64354,7 @@ LayerCount: 2
 Fore
 Refer: 25 78 N 1 0 0 1 0 0 0
 Refer: 197 -1 N 1 0 0 1 416 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64021,6 +64366,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 25 78 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64033,7 +64379,9 @@ LayerCount: 2
 Fore
 Refer: 25 78 N 1 0 0 1 0 0 0
 Refer: 170 96 N 1 0 0 1 242 324 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" N gravecomb
 EndChar
 
 StartChar: uni1E44
@@ -64045,6 +64393,7 @@ LayerCount: 2
 Fore
 Refer: 25 78 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 454 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64057,6 +64406,7 @@ LayerCount: 2
 Fore
 Refer: 25 78 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 97 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64106,6 +64456,7 @@ LayerCount: 2
 Fore
 Refer: 25 78 N 1 0 0 1 0 0 0
 Refer: 174 710 N 1 0 0 1 257 -1470 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64118,6 +64469,7 @@ LayerCount: 2
 Fore
 Refer: 25 78 N 1 0 0 1 -48 0 0
 Refer: 19 74 N 1 0 0 1 1263 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64131,6 +64483,7 @@ Fore
 Refer: 25 78 N 1 0 0 1 43 0 0
 Refer: 103 567 N 1 0 0 1 1364 -5 0
 Refer: 193 729 N 1 0 0 1 1385 -12 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64143,7 +64496,9 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 284 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" O gravecomb
 EndChar
 
 StartChar: Oacute
@@ -64155,7 +64510,9 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 310 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" O acutecomb
 EndChar
 
 StartChar: Ocircumflex
@@ -64167,7 +64524,9 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 209 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" O uni0302
 EndChar
 
 StartChar: Otilde
@@ -64179,7 +64538,9 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 180 -1 N 1 0 0 1 209 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" O tildecomb
 EndChar
 
 StartChar: Odieresis
@@ -64192,7 +64553,9 @@ Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -91 1770 0
 Refer: 485 -1 N 1 0 0 1 313 1770 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" O uni0308
 EndChar
 
 StartChar: Omacron
@@ -64204,7 +64567,9 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 242 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" O uni0304
 EndChar
 
 StartChar: Obreve
@@ -64216,7 +64581,9 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 186 -1 N 1 0 0 1 286 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" O uni0306
 EndChar
 
 StartChar: Ohungarumlaut
@@ -64228,7 +64595,9 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 192 -1 N 1 0 0 1 134 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" O uni030B
 EndChar
 
 StartChar: Omicron
@@ -64239,6 +64608,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64251,6 +64621,7 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 236 900 N 1 0 0 1 -369 -87 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Omicron
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -64263,6 +64634,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64275,6 +64647,7 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 114 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64287,6 +64660,7 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 468 -1 N 1 0 0 1 445 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64299,6 +64673,7 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 470 -1 N 1 0 0 1 101 -80 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64311,6 +64686,7 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 472 -1 N 1 0 0 1 98 -80 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64407,6 +64783,7 @@ Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 219 -82 0
 Refer: 180 -1 N 1 0 0 1 209 247 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64419,6 +64796,7 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 114 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64431,7 +64809,9 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 221 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" O uni030C
 EndChar
 
 StartChar: uni01EC
@@ -64513,7 +64893,9 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 512 -1 N 1 0 0 1 227 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" O uni030F
 EndChar
 
 StartChar: uni020E
@@ -64525,7 +64907,9 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 1445 -1 N 1 0 0 1 678 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" O uni0311
 EndChar
 
 StartChar: uni022A
@@ -64539,6 +64923,7 @@ Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 242 198 0
 Refer: 485 -1 N 1 0 0 1 -91 1770 0
 Refer: 485 -1 N 1 0 0 1 313 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64552,6 +64937,7 @@ Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 180 -1 N 1 0 0 1 209 -77 0
 Refer: 184 -1 N 1 0 0 1 242 199 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64564,7 +64950,9 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 446 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" O uni0307
 EndChar
 
 StartChar: uni0230
@@ -64577,6 +64965,7 @@ Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 448 -78 0
 Refer: 184 -1 N 1 0 0 1 242 244 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64590,6 +64979,7 @@ Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 386 185 0
 Refer: 180 -1 N 1 0 0 1 189 -81 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64604,6 +64994,7 @@ Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 180 -1 N 1 0 0 1 209 -77 0
 Refer: 485 -1 N 1 0 0 1 -91 2064 0
 Refer: 485 -1 N 1 0 0 1 313 2064 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64617,6 +65008,7 @@ Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 264 130 0
 Refer: 184 -1 N 1 0 0 1 276 -81 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64630,6 +65022,7 @@ Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 354 139 0
 Refer: 184 -1 N 1 0 0 1 242 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64642,6 +65035,7 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 1340 8127 N 1 0 0 1 -304 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Omicron
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -64656,6 +65050,7 @@ Fore
 Refer: 27 79 N 1 0 0 1 169 0 0
 Refer: 1340 8127 N 1 0 0 1 -408 -57 0
 Refer: 1342 8189 N 1 0 0 1 -251 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Omicron
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -64670,6 +65065,7 @@ Fore
 Refer: 27 79 N 1 0 0 1 192 0 0
 Refer: 1340 8127 N 1 0 0 1 -420 -57 0
 Refer: 1343 8175 N 1 0 0 1 -162 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Omicron
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -64683,6 +65079,7 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 1341 8190 N 1 0 0 1 -289 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Omicron
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -64697,6 +65094,7 @@ Fore
 Refer: 27 79 N 1 0 0 1 166 0 0
 Refer: 1341 8190 N 1 0 0 1 -428 -57 0
 Refer: 1342 8189 N 1 0 0 1 -279 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Omicron
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -64711,6 +65109,7 @@ Fore
 Refer: 27 79 N 1 0 0 1 185 0 0
 Refer: 1341 8190 N 1 0 0 1 -420 -57 0
 Refer: 1343 8175 N 1 0 0 1 -165 -57 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Omicron
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -64724,6 +65123,7 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 1342 8189 N 1 0 0 1 -396 -58 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Omicron
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -64737,6 +65137,7 @@ LayerCount: 2
 Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 1343 8175 N 1 0 0 1 -353 -58 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Omicron
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -64751,6 +65152,7 @@ Fore
 Refer: 27 79 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -91 1770 0
 Refer: 485 -1 N 1 0 0 1 313 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64764,7 +65166,8 @@ Fore
 Refer: 28 216 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 318 -78 0
 Validated: 1
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" Oslash acutecomb
 EndChar
 
 StartChar: Rho
@@ -64775,6 +65178,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 30 80 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64786,6 +65190,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 30 80 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64798,6 +65203,7 @@ LayerCount: 2
 Fore
 Refer: 30 80 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 162 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64810,6 +65216,7 @@ LayerCount: 2
 Fore
 Refer: 30 80 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 289 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64867,6 +65274,7 @@ LayerCount: 2
 Fore
 Refer: 30 80 N 1 0 0 1 0 0 0
 Refer: 1341 8190 N 1 0 0 1 279 327 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups7" Rho
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
@@ -64933,7 +65341,9 @@ LayerCount: 2
 Fore
 Refer: 33 82 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 156 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" R acutecomb
 EndChar
 
 StartChar: Rcaron
@@ -64945,7 +65355,9 @@ LayerCount: 2
 Fore
 Refer: 33 82 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 59 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" R uni030C
 EndChar
 
 StartChar: uni0156
@@ -64957,6 +65369,7 @@ LayerCount: 2
 Fore
 Refer: 33 82 N 1 0 0 1 0 0 0
 Refer: 197 -1 N 1 0 0 1 311 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -64969,7 +65382,9 @@ LayerCount: 2
 Fore
 Refer: 33 82 N 1 0 0 1 0 0 0
 Refer: 512 -1 N 1 0 0 1 58 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" R uni030F
 EndChar
 
 StartChar: uni0212
@@ -64981,7 +65396,9 @@ LayerCount: 2
 Fore
 Refer: 33 82 N 1 0 0 1 0 0 0
 Refer: 1445 -1 N 1 0 0 1 517 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" R uni0311
 EndChar
 
 StartChar: uni1E58
@@ -64993,6 +65410,7 @@ LayerCount: 2
 Fore
 Refer: 33 82 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 284 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65005,6 +65423,7 @@ LayerCount: 2
 Fore
 Refer: 33 82 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -8 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65018,6 +65437,7 @@ Fore
 Refer: 33 82 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 80 -77 0
 Refer: 485 -1 N 1 0 0 1 -8 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65079,7 +65499,9 @@ LayerCount: 2
 Fore
 Refer: 34 83 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 158 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" S acutecomb
 EndChar
 
 StartChar: Scircumflex
@@ -65091,7 +65513,9 @@ LayerCount: 2
 Fore
 Refer: 34 83 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 62 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" S uni0302
 EndChar
 
 StartChar: Scaron
@@ -65103,7 +65527,9 @@ LayerCount: 2
 Fore
 Refer: 34 83 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 62 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" S uni030C
 EndChar
 
 StartChar: uni0218
@@ -65115,6 +65541,7 @@ LayerCount: 2
 Fore
 Refer: 34 83 N 1 0 0 1 0 0 0
 Refer: 197 -1 N 1 0 0 1 180 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65126,6 +65553,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 34 83 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65138,6 +65566,7 @@ LayerCount: 2
 Fore
 Refer: 34 83 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 287 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65150,6 +65579,7 @@ LayerCount: 2
 Fore
 Refer: 34 83 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -115 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65163,6 +65593,7 @@ Fore
 Refer: 34 83 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 219 -90 0
 Refer: 194 -1 N 1 0 0 1 106 27 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65175,6 +65606,7 @@ LayerCount: 2
 Fore
 Refer: 34 83 N 1 0 0 1 0 0 0
 Refer: 1428 -1 N 1 0 0 1 115 -82 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65188,6 +65620,7 @@ Fore
 Refer: 34 83 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 287 -78 0
 Refer: 485 -1 N 1 0 0 1 -115 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65200,7 +65633,9 @@ LayerCount: 2
 Fore
 Refer: 36 84 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 43 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" T uni030C
 EndChar
 
 StartChar: uni021A
@@ -65212,6 +65647,7 @@ LayerCount: 2
 Fore
 Refer: 36 84 N 1 0 0 1 0 0 0
 Refer: 197 -1 N 1 0 0 1 234 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65223,6 +65659,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 36 84 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65234,6 +65671,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 36 84 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65277,6 +65715,7 @@ SplineSet
  974 1314 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" T uni0327
 Substitution2: "sous-table 'salt' Alternatives stylistiques dans Latin lookup 8" uni021A
 EndChar
 
@@ -65327,6 +65766,7 @@ LayerCount: 2
 Fore
 Refer: 36 84 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 268 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65339,6 +65779,7 @@ LayerCount: 2
 Fore
 Refer: 36 84 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -63 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65378,6 +65819,7 @@ LayerCount: 2
 Fore
 Refer: 36 84 N 1 0 0 1 0 0 0
 Refer: 174 710 N 1 0 0 1 97 -1470 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65390,7 +65832,9 @@ LayerCount: 2
 Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 259 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" U gravecomb
 EndChar
 
 StartChar: Uacute
@@ -65402,7 +65846,9 @@ LayerCount: 2
 Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 293 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" U acutecomb
 EndChar
 
 StartChar: Ucircumflex
@@ -65414,7 +65860,9 @@ LayerCount: 2
 Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 187 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" U uni0302
 EndChar
 
 StartChar: Utilde
@@ -65426,7 +65874,9 @@ LayerCount: 2
 Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 180 -1 N 1 0 0 1 187 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" U tildecomb
 EndChar
 
 StartChar: Udieresis
@@ -65439,7 +65889,9 @@ Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -113 1770 0
 Refer: 485 -1 N 1 0 0 1 291 1770 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" U uni0308
 EndChar
 
 StartChar: Umacron
@@ -65451,7 +65903,9 @@ LayerCount: 2
 Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 220 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" U uni0304
 EndChar
 
 StartChar: Ubreve
@@ -65463,7 +65917,9 @@ LayerCount: 2
 Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 186 -1 N 1 0 0 1 264 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" U uni0306
 EndChar
 
 StartChar: Uring
@@ -65475,7 +65931,9 @@ LayerCount: 2
 Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 188 -1 N 1 0 0 1 321 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" U uni030A
 EndChar
 
 StartChar: Uhungarumlaut
@@ -65487,7 +65945,9 @@ LayerCount: 2
 Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 192 -1 N 1 0 0 1 117 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" U uni030B
 EndChar
 
 StartChar: uni1EE4
@@ -65499,6 +65959,7 @@ LayerCount: 2
 Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 93 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65511,6 +65972,7 @@ LayerCount: 2
 Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 468 -1 N 1 0 0 1 423 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65523,7 +65985,9 @@ LayerCount: 2
 Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 199 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" U uni030C
 EndChar
 
 StartChar: uni01D5
@@ -65537,6 +66001,7 @@ Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 220 198 0
 Refer: 485 -1 N 1 0 0 1 -113 1770 0
 Refer: 485 -1 N 1 0 0 1 291 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65551,6 +66016,7 @@ Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 329 197 0
 Refer: 485 -1 N 1 0 0 1 -113 1770 0
 Refer: 485 -1 N 1 0 0 1 291 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65565,6 +66031,7 @@ Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 199 197 0
 Refer: 485 -1 N 1 0 0 1 -113 1770 0
 Refer: 485 -1 N 1 0 0 1 291 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65579,6 +66046,7 @@ Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 197 197 0
 Refer: 485 -1 N 1 0 0 1 -113 1770 0
 Refer: 485 -1 N 1 0 0 1 291 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65591,7 +66059,9 @@ LayerCount: 2
 Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 512 -1 N 1 0 0 1 201 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" U uni030F
 EndChar
 
 StartChar: uni0216
@@ -65603,7 +66073,9 @@ LayerCount: 2
 Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 1445 -1 N 1 0 0 1 657 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" U uni0311
 EndChar
 
 StartChar: uni1E74
@@ -65615,6 +66087,7 @@ LayerCount: 2
 Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 193 -1448 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65627,6 +66100,7 @@ LayerCount: 2
 Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 174 710 N 1 0 0 1 253 -1470 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65640,6 +66114,7 @@ Fore
 Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 366 185 0
 Refer: 180 -1 N 1 0 0 1 169 -81 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65654,6 +66129,7 @@ Refer: 38 85 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 220 -77 0
 Refer: 485 -1 N 1 0 0 1 -113 1977 0
 Refer: 485 -1 N 1 0 0 1 291 1977 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65666,6 +66142,7 @@ LayerCount: 2
 Fore
 Refer: 40 86 N 1 0 0 1 0 0 0
 Refer: 180 -1 N 1 0 0 1 113 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65678,6 +66155,7 @@ LayerCount: 2
 Fore
 Refer: 40 86 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 17 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65690,6 +66168,7 @@ LayerCount: 2
 Fore
 Refer: 41 87 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 507 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65702,6 +66181,7 @@ LayerCount: 2
 Fore
 Refer: 41 87 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 552 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65714,7 +66194,9 @@ LayerCount: 2
 Fore
 Refer: 41 87 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 475 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" W uni0302
 EndChar
 
 StartChar: Wdieresis
@@ -65727,6 +66209,7 @@ Fore
 Refer: 41 87 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 141 1770 0
 Refer: 485 -1 N 1 0 0 1 545 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65739,6 +66222,7 @@ LayerCount: 2
 Fore
 Refer: 41 87 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 677 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65751,6 +66235,7 @@ LayerCount: 2
 Fore
 Refer: 41 87 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 347 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65762,6 +66247,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 42 88 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65773,6 +66259,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 42 88 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65785,6 +66272,7 @@ LayerCount: 2
 Fore
 Refer: 42 88 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 308 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65798,6 +66286,7 @@ Fore
 Refer: 42 88 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -229 1770 0
 Refer: 485 -1 N 1 0 0 1 175 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65810,6 +66299,7 @@ LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 171 -1 N 1 0 0 1 102 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65822,7 +66312,9 @@ LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 132 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" Y acutecomb
 EndChar
 
 StartChar: Ycircumflex
@@ -65834,7 +66326,9 @@ LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 43 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" Y uni0302
 EndChar
 
 StartChar: Ydieresis
@@ -65847,7 +66341,9 @@ Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -271 1770 0
 Refer: 485 -1 N 1 0 0 1 133 1770 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" Y uni0308
 EndChar
 
 StartChar: Upsilon
@@ -65858,6 +66354,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
+Validated: 1
 Substitution2: "sous-table 'ss02' Style 2 lookups30" Upsilon1
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" Upsilon1
 Substitution2: "sous-table Substitution simple lookups6" Upsilondieresis
@@ -65873,6 +66370,7 @@ LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 236 900 N 1 0 0 1 -524 -87 0
+Validated: 1
 Substitution2: "sous-table 'ss02' Style 2 lookups30" uni03D3
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni03D3
 Substitution2: "sous-table Substitution simple lookups7" Upsilon
@@ -65889,6 +66387,7 @@ Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -271 1770 0
 Refer: 485 -1 N 1 0 0 1 133 1770 0
+Validated: 1
 Substitution2: "sous-table 'ss02' Style 2 lookups30" uni03D4
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni03D4
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
@@ -65903,6 +66402,7 @@ LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -65 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65915,6 +66415,7 @@ LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 180 -1 N 1 0 0 1 29 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65927,6 +66428,7 @@ LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 468 -1 N 1 0 0 1 265 -77 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65939,7 +66441,9 @@ LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 62 -77 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" Y uni0304
 EndChar
 
 StartChar: uni1E8E
@@ -65951,6 +66455,7 @@ LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 266 -78 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -65963,6 +66468,7 @@ LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 1341 8190 N 1 0 0 1 -395 -57 0
+Validated: 1
 Substitution2: "sous-table 'ss02' Style 2 lookups30" uni1F59.salt
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni1F59.salt
 Substitution2: "sous-table Substitution simple lookups7" Upsilon
@@ -65979,6 +66485,7 @@ Fore
 Refer: 43 89 N 1 0 0 1 305 0 0
 Refer: 1341 8190 N 1 0 0 1 -520 -57 0
 Refer: 1342 8189 N 1 0 0 1 -371 -57 0
+Validated: 1
 Substitution2: "sous-table 'ss02' Style 2 lookups30" uni1F5D.salt
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni1F5D.salt
 Substitution2: "sous-table Substitution simple lookups7" Upsilon
@@ -65995,6 +66502,7 @@ Fore
 Refer: 43 89 N 1 0 0 1 301 0 0
 Refer: 1341 8190 N 1 0 0 1 -521 -57 0
 Refer: 1343 8175 N 1 0 0 1 -266 -57 0
+Validated: 1
 Substitution2: "sous-table 'ss02' Style 2 lookups30" uni1F5B.salt
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni1F5B.salt
 Substitution2: "sous-table Substitution simple lookups7" Upsilon
@@ -66011,6 +66519,7 @@ Fore
 Refer: 43 89 N 1 0 0 1 185 0 0
 Refer: 1344 8128 N 1 0 0 1 -522 239 0
 Refer: 1341 8190 N 1 0 0 1 -326 -61 0
+Validated: 1
 Substitution2: "sous-table 'ss02' Style 2 lookups30" uni1F5F.salt
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni1F5F.salt
 Substitution2: "sous-table Substitution simple lookups7" Upsilon
@@ -66026,6 +66535,7 @@ LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 1342 8189 N 1 0 0 1 -531 -58 0
+Validated: 1
 Substitution2: "sous-table 'ss02' Style 2 lookups30" uni1FEB.salt
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni1FEB.salt
 Substitution2: "sous-table Substitution simple lookups7" Upsilon
@@ -66041,6 +66551,7 @@ LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 1343 8175 N 1 0 0 1 -460 -58 0
+Validated: 1
 Substitution2: "sous-table 'ss02' Style 2 lookups30" uni1FEA.salt
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni1FEA.salt
 Substitution2: "sous-table Substitution simple lookups7" Upsilon
@@ -66056,6 +66567,7 @@ LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 62 -77 0
+Validated: 1
 Substitution2: "sous-table 'ss02' Style 2 lookups30" uni1FE9.salt
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni1FE9.salt
 Substitution2: "sous-table Substitution simple lookups7" Upsilon
@@ -66071,6 +66583,7 @@ LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
 Refer: 186 -1 N 1 0 0 1 106 -78 0
+Validated: 1
 Substitution2: "sous-table 'ss02' Style 2 lookups30" uni1FE8.salt
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni1FE8.salt
 Substitution2: "sous-table Substitution simple lookups7" Upsilon
@@ -66085,6 +66598,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 43 89 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -66097,7 +66611,9 @@ LayerCount: 2
 Fore
 Refer: 44 90 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 116 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" Z acutecomb
 EndChar
 
 StartChar: Zcaron
@@ -66109,7 +66625,9 @@ LayerCount: 2
 Fore
 Refer: 44 90 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 37 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" Z uni030C
 EndChar
 
 StartChar: Zdotaccent
@@ -66121,7 +66639,9 @@ LayerCount: 2
 Fore
 Refer: 44 90 N 1 0 0 1 0 0 0
 Refer: 194 -1 N 1 0 0 1 263 -78 0
-Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
+Validated: 1
+Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" Z uni0307
 EndChar
 
 StartChar: Zeta
@@ -66132,6 +66652,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 44 90 N 1 0 0 1 0 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -66296,6 +66817,7 @@ LayerCount: 2
 Fore
 Refer: 44 90 N 1 0 0 1 0 0 0
 Refer: 175 -1 N 1 0 0 1 40 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -66308,6 +66830,7 @@ LayerCount: 2
 Fore
 Refer: 44 90 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -64 7 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -66350,8 +66873,9 @@ GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 45 97 N 1 0 0 1 0 0 0
+Refer: 45 97 N 1 0 0 1 0 0 3
 Refer: 170 96 N 1 0 0 1 121 0 0
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" a gravecomb
 EndChar
 
 StartChar: aacute
@@ -66363,6 +66887,8 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 264 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" a acute
 EndChar
 
 StartChar: acircumflex
@@ -66434,6 +66960,7 @@ SplineSet
  786 1128 l 1,58,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" a uni0302
 EndChar
 
 StartChar: atilde
@@ -66445,6 +66972,8 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 29 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" a tildecomb
 EndChar
 
 StartChar: adieresis
@@ -66457,6 +66986,8 @@ Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -263 1483 0
 Refer: 485 -1 N 1 0 0 1 107 1483 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" a uni0308
 EndChar
 
 StartChar: amacron
@@ -66522,6 +67053,7 @@ SplineSet
  210 1301 l 1,58,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" a uni0304
 EndChar
 
 StartChar: abreve
@@ -66533,6 +67065,8 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 185 728 N 1 0 0 1 97 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" a uni0306
 EndChar
 
 StartChar: aring
@@ -66544,6 +67078,8 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 187 730 N 1 0 0 1 158 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" a uni030A
 EndChar
 
 StartChar: aringacute
@@ -66556,6 +67092,7 @@ Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 187 730 N 1 0 0 1 144 -6 0
 Refer: 172 180 N 1 0 0 1 339 385 0
+Validated: 1
 EndChar
 
 StartChar: uni0430
@@ -66566,6 +67103,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EA1
@@ -66577,6 +67115,7 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -74 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EA3
@@ -66588,6 +67127,7 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 467 -1 N 1 0 0 1 297 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EA5
@@ -66599,6 +67139,7 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 469 -1 N 1 0 0 1 -75 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EA7
@@ -66610,6 +67151,7 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 471 -1 N 1 0 0 1 -76 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EA9
@@ -66621,6 +67163,7 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 473 -1 N 1 0 0 1 -83 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EAB
@@ -66632,6 +67175,7 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 475 -1 N 1 0 0 1 -76 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EAD
@@ -66655,6 +67199,7 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 477 -1 N 1 0 0 1 -78 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EB1
@@ -66666,6 +67211,7 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 479 -1 N 1 0 0 1 -76 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EB3
@@ -66677,6 +67223,7 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 481 -1 N 1 0 0 1 -76 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EB5
@@ -66688,6 +67235,7 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 483 -1 N 1 0 0 1 -76 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EB7
@@ -66700,6 +67248,7 @@ Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 185 728 N 1 0 0 1 97 0 0
 Refer: 485 -1 N 1 0 0 1 -74 0 0
+Validated: 1
 EndChar
 
 StartChar: uni01CE
@@ -66711,6 +67260,8 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 176 711 N 1 0 0 1 83 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" a uni030C
 EndChar
 
 StartChar: uni01DF
@@ -66903,6 +67454,8 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 256 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" a uni0307
 EndChar
 
 StartChar: uni2C65
@@ -67066,6 +67619,7 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 305 -1 N 1 0 0 1 48 0 0
+Validated: 1
 EndChar
 
 StartChar: uni04D3
@@ -67078,6 +67632,7 @@ Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -263 1483 0
 Refer: 485 -1 N 1 0 0 1 107 1483 0
+Validated: 1
 EndChar
 
 StartChar: aeacute
@@ -67090,6 +67645,7 @@ Fore
 Refer: 47 230 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 553 0 0
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" ae acutecomb
 EndChar
 
 StartChar: uni01E3
@@ -67180,6 +67736,7 @@ SplineSet
  500 1301 l 1,91,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" ae uni0304
 EndChar
 
 StartChar: uni04D5
@@ -67202,6 +67759,7 @@ LayerCount: 2
 Fore
 Refer: 48 98 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 333 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E05
@@ -67213,6 +67771,7 @@ LayerCount: 2
 Fore
 Refer: 48 98 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -24 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E07
@@ -67326,6 +67885,8 @@ LayerCount: 2
 Fore
 Refer: 49 99 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 280 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" c acutecomb
 EndChar
 
 StartChar: ccircumflex
@@ -67388,6 +67949,7 @@ SplineSet
  805 1128 l 1,45,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" c uni0302
 EndChar
 
 StartChar: ccaron
@@ -67399,6 +67961,8 @@ LayerCount: 2
 Fore
 Refer: 49 99 N 1 0 0 1 0 0 0
 Refer: 176 711 N 1 0 0 1 102 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" c uni030C
 EndChar
 
 StartChar: cdotaccent
@@ -67410,6 +67974,8 @@ LayerCount: 2
 Fore
 Refer: 49 99 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 275 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" c uni0307
 EndChar
 
 StartChar: uni0441
@@ -67420,6 +67986,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 49 99 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni023C
@@ -67490,6 +68057,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 49 99 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E09
@@ -67513,6 +68081,7 @@ LayerCount: 2
 Fore
 Refer: 55 100 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 281 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E0D
@@ -67524,6 +68093,7 @@ LayerCount: 2
 Fore
 Refer: 55 100 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -26 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E0F
@@ -67584,6 +68154,7 @@ LayerCount: 2
 Fore
 Refer: 55 100 N 1 0 0 1 0 0 0
 Refer: 174 710 N 1 0 0 1 134 -1476 0
+Validated: 1
 EndChar
 
 StartChar: uni1D81
@@ -67654,6 +68225,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 55 100 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni01F3
@@ -67665,6 +68237,7 @@ LayerCount: 2
 Fore
 Refer: 55 100 N 1 0 0 1 0 0 0
 Refer: 140 122 N 1 0 0 1 1076 0 0
+Validated: 1
 EndChar
 
 StartChar: egrave
@@ -67676,6 +68249,8 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 170 96 N 1 0 0 1 170 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" e gravecomb
 EndChar
 
 StartChar: eacute
@@ -67687,6 +68262,8 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 312 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" e acute
 EndChar
 
 StartChar: ecircumflex
@@ -67749,6 +68326,7 @@ SplineSet
  834 1128 l 1,47,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" e uni0302
 EndChar
 
 StartChar: ecaron
@@ -67760,6 +68338,8 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 176 711 N 1 0 0 1 131 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" e uni030C
 EndChar
 
 StartChar: edieresis
@@ -67772,6 +68352,8 @@ Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -214 1483 0
 Refer: 485 -1 N 1 0 0 1 156 1483 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" e uni0308
 EndChar
 
 StartChar: emacron
@@ -67828,6 +68410,7 @@ SplineSet
  258 1301 l 1,47,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" e uni0304
 EndChar
 
 StartChar: ebreve
@@ -67839,6 +68422,8 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 185 728 N 1 0 0 1 146 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" e uni0306
 EndChar
 
 StartChar: edotaccent
@@ -67850,6 +68435,8 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 304 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" e uni0307
 EndChar
 
 StartChar: uni0435
@@ -67860,6 +68447,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0450
@@ -67871,6 +68459,7 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 170 96 N 1 0 0 1 170 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0451
@@ -67883,6 +68472,7 @@ Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -214 1483 0
 Refer: 485 -1 N 1 0 0 1 156 1483 0
+Validated: 1
 EndChar
 
 StartChar: uni1EB9
@@ -67894,6 +68484,7 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -23 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EBB
@@ -67905,6 +68496,7 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 467 -1 N 1 0 0 1 345 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EBD
@@ -67916,6 +68508,7 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 77 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EBF
@@ -67927,6 +68520,7 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 469 -1 N 1 0 0 1 -38 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EC1
@@ -67938,6 +68532,7 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 471 -1 N 1 0 0 1 -38 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EC3
@@ -67949,6 +68544,7 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 473 -1 N 1 0 0 1 -36 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EC5
@@ -67960,6 +68556,7 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 475 -1 N 1 0 0 1 -28 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EC7
@@ -68043,6 +68640,7 @@ SplineSet
  596 865 596 865 538 865 c 0,65,66
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" e uni0327
 EndChar
 
 StartChar: uni0247
@@ -68251,6 +68849,7 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 174 710 N 1 0 0 1 137 -1476 0
+Validated: 1
 EndChar
 
 StartChar: uni1E1B
@@ -68262,6 +68861,7 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 72 -1461 0
+Validated: 1
 EndChar
 
 StartChar: uni1E1D
@@ -68285,6 +68885,7 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 305 -1 N 1 0 0 1 97 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E1F
@@ -68296,6 +68897,7 @@ LayerCount: 2
 Fore
 Refer: 61 102 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 175 379 0
+Validated: 1
 EndChar
 
 StartChar: uni1D82
@@ -68712,8 +69314,10 @@ LayerCount: 2
 Fore
 Refer: 174 710 N 1 0 0 1 134 -1 2
 Refer: 93 103 N 1 0 0 1 0 0 2
-Substitution2: "sous-table 'ss04' Style 4 lookups34" gcircumflex.salt
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" g uni0302
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" gcircumflex.salt
+Substitution2: "sous-table 'ss04' Style 4 lookups34" gcircumflex.salt
 EndChar
 
 StartChar: gbreve
@@ -68725,8 +69329,10 @@ LayerCount: 2
 Fore
 Refer: 93 103 N 1 0 0 1 0 0 0
 Refer: 185 728 N 1 0 0 1 149 0 0
-Substitution2: "sous-table 'ss04' Style 4 lookups34" gbreve.salt
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" g uni0306
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" gbreve.salt
+Substitution2: "sous-table 'ss04' Style 4 lookups34" gbreve.salt
 EndChar
 
 StartChar: gdotaccent
@@ -68738,8 +69344,10 @@ LayerCount: 2
 Fore
 Refer: 93 103 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 308 0 0
-Substitution2: "sous-table 'ss04' Style 4 lookups34" gdotaccent.salt
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" g uni0307
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" gdotaccent.salt
+Substitution2: "sous-table 'ss04' Style 4 lookups34" gdotaccent.salt
 EndChar
 
 StartChar: uni0123
@@ -68751,6 +69359,7 @@ LayerCount: 2
 Fore
 Refer: 93 103 N 1 0 0 1 0 0 0
 Refer: 198 -1 N 1 0 0 1 254 0 0
+Validated: 1
 Substitution2: "sous-table 'ss04' Style 4 lookups34" uni0123.salt
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni0123.salt
 EndChar
@@ -68764,8 +69373,10 @@ LayerCount: 2
 Fore
 Refer: 93 103 N 1 0 0 1 0 0 0
 Refer: 176 711 N 1 0 0 1 135 -1 0
-Substitution2: "sous-table 'ss04' Style 4 lookups34" gcaron.salt
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" g uni030C
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" gcaron.salt
+Substitution2: "sous-table 'ss04' Style 4 lookups34" gcaron.salt
 EndChar
 
 StartChar: uni01F5
@@ -68777,8 +69388,10 @@ LayerCount: 2
 Fore
 Refer: 93 103 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 315 0 0
-Substitution2: "sous-table 'ss04' Style 4 lookups34" uni01F5.salt
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" g acutecomb
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" uni01F5.salt
+Substitution2: "sous-table 'ss04' Style 4 lookups34" uni01F5.salt
 EndChar
 
 StartChar: uni1E21
@@ -68915,6 +69528,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 93 103 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni1D83
@@ -69115,6 +69729,8 @@ LayerCount: 2
 Fore
 Refer: 95 104 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 -40 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" h uni030C
 EndChar
 
 StartChar: uni1E23
@@ -69126,6 +69742,7 @@ LayerCount: 2
 Fore
 Refer: 95 104 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 346 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E25
@@ -69137,6 +69754,7 @@ LayerCount: 2
 Fore
 Refer: 95 104 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -26 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E27
@@ -69149,6 +69767,7 @@ Fore
 Refer: 95 104 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -192 1847 0
 Refer: 485 -1 N 1 0 0 1 212 1847 0
+Validated: 1
 EndChar
 
 StartChar: uni1E29
@@ -69212,6 +69831,7 @@ LayerCount: 2
 Fore
 Refer: 95 104 N 1 0 0 1 0 0 0
 Refer: 185 728 N 1 0 0 1 148 -1464 0
+Validated: 1
 EndChar
 
 StartChar: uni1E96
@@ -69340,6 +69960,7 @@ Refer: 103 567 N 1 0 0 1 470 0 0
 Refer: 100 305 N 1 0 0 1 13 0 0
 Refer: 193 729 N 1 0 0 1 15 -7 0
 Refer: 193 729 N 1 0 0 1 491 -7 0
+Validated: 1
 Substitution2: "sous-table 'salt' Alternatives stylistiques lookups28" ij.salt
 EndChar
 
@@ -69352,6 +69973,7 @@ LayerCount: 2
 Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 2 -7 0
+Validated: 1
 EndChar
 
 StartChar: uni1ECB
@@ -69364,6 +69986,7 @@ Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 2 -7 0
 Refer: 485 -1 N 1 0 0 1 -329 0 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups1" glyph2098
 EndChar
 
@@ -69377,6 +70000,7 @@ Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 -229 -1461 0
 Refer: 193 729 N 1 0 0 1 2 -7 0
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups1" glyph2094
 EndChar
 
@@ -69439,6 +70063,8 @@ LayerCount: 2
 Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 170 96 N 1 0 0 1 -210 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" i gravecomb
 EndChar
 
 StartChar: iacute
@@ -69450,6 +70076,8 @@ LayerCount: 2
 Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 71 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" i acutecomb
 EndChar
 
 StartChar: icircumflex
@@ -69478,6 +70106,7 @@ SplineSet
  533 1128 l 1,4,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" i uni0302
 EndChar
 
 StartChar: itilde
@@ -69489,6 +70118,8 @@ LayerCount: 2
 Fore
 Refer: 100 305 N 1 0 0 1 0 0 3
 Refer: 179 732 N 1 0 0 1 -224 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" i tildecomb
 EndChar
 
 StartChar: idieresis
@@ -69501,6 +70132,8 @@ Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -482 1483 0
 Refer: 485 -1 N 1 0 0 1 -179 1483 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" i uni0308
 EndChar
 
 StartChar: imacron
@@ -69523,6 +70156,7 @@ SplineSet
  -43 1301 l 1,4,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" i uni0304
 EndChar
 
 StartChar: ibreve
@@ -69534,6 +70168,8 @@ LayerCount: 2
 Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 185 728 N 1 0 0 1 -155 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" i uni0306
 EndChar
 
 StartChar: glyph2090
@@ -69568,6 +70204,7 @@ Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -482 1483 0
 Refer: 485 -1 N 1 0 0 1 -179 1483 0
+Validated: 1
 EndChar
 
 StartChar: uni1EC9
@@ -69579,6 +70216,7 @@ LayerCount: 2
 Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 467 -1 N 1 0 0 1 44 0 0
+Validated: 1
 EndChar
 
 StartChar: uni01D0
@@ -69590,6 +70228,8 @@ LayerCount: 2
 Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 176 711 N 1 0 0 1 -170 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" i uni030C
 EndChar
 
 StartChar: glyph2094
@@ -69601,6 +70241,7 @@ LayerCount: 2
 Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 -229 -1461 0
+Validated: 1
 EndChar
 
 StartChar: uni1E2F
@@ -69614,6 +70255,7 @@ Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 68 303 0
 Refer: 485 -1 N 1 0 0 1 -508 1483 0
 Refer: 485 -1 N 1 0 0 1 -138 1483 0
+Validated: 1
 EndChar
 
 StartChar: glyph2096
@@ -69649,6 +70291,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: glyph2098
@@ -69660,6 +70303,7 @@ LayerCount: 2
 Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -329 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0458
@@ -69740,6 +70384,7 @@ SplineSet
  560 1128 l 1,20,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" j uni0302
 EndChar
 
 StartChar: glyph2103
@@ -69788,6 +70433,7 @@ LayerCount: 2
 Fore
 Refer: 104 107 N 1 0 0 1 0 0 0
 Refer: 197 -1 N 1 0 0 1 221 0 0
+Validated: 1
 EndChar
 
 StartChar: uni01E9
@@ -69799,6 +70445,8 @@ LayerCount: 2
 Fore
 Refer: 104 107 N 1 0 0 1 0 0 0
 Refer: 177 -1 N 1 0 0 1 7 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" k uni030C
 EndChar
 
 StartChar: uni1E31
@@ -69810,6 +70458,7 @@ LayerCount: 2
 Fore
 Refer: 104 107 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 -70 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E33
@@ -69821,6 +70470,7 @@ LayerCount: 2
 Fore
 Refer: 104 107 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -99 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E35
@@ -69940,6 +70590,8 @@ LayerCount: 2
 Fore
 Refer: 1138 108 N 1 0 0 1 0 0 0
 Refer: 173 -1 N 1 0 0 1 -118 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" l acutecomb
 EndChar
 
 StartChar: uni013C
@@ -69951,6 +70603,7 @@ LayerCount: 2
 Fore
 Refer: 1138 108 N 1 0 0 1 0 0 0
 Refer: 197 -1 N 1 0 0 1 -35 0 0
+Validated: 1
 EndChar
 
 StartChar: uni019A
@@ -69987,6 +70640,7 @@ LayerCount: 2
 Fore
 Refer: 1138 108 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -328 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E39
@@ -69999,6 +70653,7 @@ Fore
 Refer: 1138 108 N 1 0 0 1 0 0 0
 Refer: 184 -1 N 1 0 0 1 -204 0 0
 Refer: 485 -1 N 1 0 0 1 -329 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E3B
@@ -70032,6 +70687,7 @@ LayerCount: 2
 Fore
 Refer: 1138 108 N 1 0 0 1 0 0 0
 Refer: 174 710 N 1 0 0 1 -168 -1476 0
+Validated: 1
 EndChar
 
 StartChar: uni2C61
@@ -70116,6 +70772,7 @@ Fore
 Refer: 103 567 N 1 0 0 1 470 0 0
 Refer: 1138 108 N 1 0 0 1 13 0 0
 Refer: 193 729 N 1 0 0 1 491 -7 0
+Validated: 1
 EndChar
 
 StartChar: glyph2121
@@ -70126,6 +70783,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 108 109 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E3F
@@ -70137,6 +70795,7 @@ LayerCount: 2
 Fore
 Refer: 108 109 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 607 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E41
@@ -70148,6 +70807,7 @@ LayerCount: 2
 Fore
 Refer: 108 109 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 598 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E43
@@ -70159,6 +70819,7 @@ LayerCount: 2
 Fore
 Refer: 108 109 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 254 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1D86
@@ -70292,6 +70953,8 @@ LayerCount: 2
 Fore
 Refer: 109 110 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 311 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" n acutecomb
 EndChar
 
 StartChar: ncaron
@@ -70303,6 +70966,8 @@ LayerCount: 2
 Fore
 Refer: 109 110 N 1 0 0 1 0 0 0
 Refer: 176 711 N 1 0 0 1 132 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" n uni030C
 EndChar
 
 StartChar: ntilde
@@ -70314,6 +70979,8 @@ LayerCount: 2
 Fore
 Refer: 109 110 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 77 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" n tildecomb
 EndChar
 
 StartChar: uni0146
@@ -70325,6 +70992,7 @@ LayerCount: 2
 Fore
 Refer: 109 110 N 1 0 0 1 0 0 0
 Refer: 197 -1 N 1 0 0 1 293 0 0
+Validated: 1
 EndChar
 
 StartChar: uni01F9
@@ -70336,6 +71004,8 @@ LayerCount: 2
 Fore
 Refer: 109 110 N 1 0 0 1 0 0 0
 Refer: 170 96 N 1 0 0 1 171 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" n gravecomb
 EndChar
 
 StartChar: uni1E45
@@ -70347,6 +71017,7 @@ LayerCount: 2
 Fore
 Refer: 109 110 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 305 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E47
@@ -70358,6 +71029,7 @@ LayerCount: 2
 Fore
 Refer: 109 110 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -26 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E49
@@ -70407,6 +71079,7 @@ LayerCount: 2
 Fore
 Refer: 109 110 N 1 0 0 1 0 0 0
 Refer: 174 710 N 1 0 0 1 134 -1476 0
+Validated: 1
 EndChar
 
 StartChar: uni1D87
@@ -70468,6 +71141,7 @@ Fore
 Refer: 109 110 N 1 0 0 1 18 0 0
 Refer: 103 567 N 1 0 0 1 1086 0 0
 Refer: 193 729 N 1 0 0 1 1107 -7 0
+Validated: 1
 EndChar
 
 StartChar: ograve
@@ -70479,6 +71153,8 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 3
 Refer: 170 96 N 1 0 0 1 176 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" o gravecomb
 EndChar
 
 StartChar: oacute
@@ -70490,6 +71166,8 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 3
 Refer: 172 180 N 1 0 0 1 318 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" o acutecomb
 EndChar
 
 StartChar: ocircumflex
@@ -70547,6 +71225,7 @@ SplineSet
  841 1128 l 1,40,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" o uni0302
 EndChar
 
 StartChar: otilde
@@ -70558,6 +71237,8 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 83 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" o tildecomb
 EndChar
 
 StartChar: odieresis
@@ -70570,6 +71251,8 @@ Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 485 -1 S 1 0 0 1 -208 1483 0
 Refer: 485 -1 S 1 0 0 1 162 1483 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" o uni0308
 EndChar
 
 StartChar: omacron
@@ -70621,6 +71304,7 @@ SplineSet
  265 1301 l 1,40,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" o uni0304
 EndChar
 
 StartChar: obreve
@@ -70632,6 +71316,8 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 185 728 N 1 0 0 1 152 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" o uni0306
 EndChar
 
 StartChar: ohungarumlaut
@@ -70643,6 +71329,8 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 191 733 N 1 0 0 1 59 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" o uni030B
 EndChar
 
 StartChar: omicron
@@ -70653,6 +71341,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: omicrontonos
@@ -70664,6 +71353,7 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 236 900 N 1 0 0 1 217 0 0
+Validated: 1
 EndChar
 
 StartChar: uni043E
@@ -70674,6 +71364,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1ECD
@@ -70685,6 +71376,7 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -22 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1ECF
@@ -70696,6 +71388,7 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 467 -1 N 1 0 0 1 351 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1ED1
@@ -70707,6 +71400,7 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 469 -1 N 1 0 0 1 -32 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1ED3
@@ -70718,6 +71412,7 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 471 -1 N 1 0 0 1 -30 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1ED5
@@ -70729,6 +71424,7 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 473 -1 N 1 0 0 1 -29 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1ED7
@@ -70740,6 +71436,7 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 475 -1 N 1 0 0 1 -25 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1ED9
@@ -70763,6 +71460,8 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 176 711 N 1 0 0 1 138 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" o uni030C
 EndChar
 
 StartChar: uni01ED
@@ -71002,6 +71701,8 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 311 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" o uni0307
 EndChar
 
 StartChar: uni0231
@@ -71082,6 +71783,7 @@ Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 78 0 0
 Refer: 172 180 N 1 0 0 1 394 293 0
+Validated: 1
 EndChar
 
 StartChar: uni1E4F
@@ -71095,6 +71797,7 @@ Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 76 0 0
 Refer: 485 -1 N 1 0 0 1 -202 1777 0
 Refer: 485 -1 N 1 0 0 1 168 1777 0
+Validated: 1
 EndChar
 
 StartChar: uni1E51
@@ -71226,6 +71929,7 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 1340 8127 N 1 0 0 1 308 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1F44
@@ -71238,6 +71942,7 @@ Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 1340 8127 N 1 0 0 1 187 0 0
 Refer: 1342 8189 N 1 0 0 1 344 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1F42
@@ -71250,6 +71955,7 @@ Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 1340 8127 N 1 0 0 1 165 0 0
 Refer: 1343 8175 N 1 0 0 1 423 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1F41
@@ -71261,6 +71967,7 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 1341 8190 N 1 0 0 1 308 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1F45
@@ -71273,6 +71980,7 @@ Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 1341 8190 N 1 0 0 1 167 0 0
 Refer: 1342 8189 N 1 0 0 1 316 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1F43
@@ -71285,6 +71993,7 @@ Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 1341 8190 N 1 0 0 1 167 0 0
 Refer: 1343 8175 N 1 0 0 1 422 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1F79
@@ -71296,6 +72005,7 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 236 900 N 1 0 0 1 217 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1F78
@@ -71307,6 +72017,7 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 1343 8175 N 1 0 0 1 236 0 0
+Validated: 1
 EndChar
 
 StartChar: uni04E7
@@ -71319,6 +72030,7 @@ Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -208 1483 0
 Refer: 485 -1 N 1 0 0 1 162 1483 0
+Validated: 1
 EndChar
 
 StartChar: oslashacute
@@ -71331,6 +72043,7 @@ Fore
 Refer: 112 248 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 318 0 0
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" oslash acutecomb
 EndChar
 
 StartChar: uni0440
@@ -71341,6 +72054,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 114 112 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E55
@@ -71352,6 +72066,7 @@ LayerCount: 2
 Fore
 Refer: 114 112 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 261 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E57
@@ -71363,6 +72078,7 @@ LayerCount: 2
 Fore
 Refer: 114 112 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 306 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1D7D
@@ -71535,6 +72251,8 @@ LayerCount: 2
 Fore
 Refer: 117 114 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 192 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" n acutecomb
 EndChar
 
 StartChar: rcaron
@@ -71546,6 +72264,8 @@ LayerCount: 2
 Fore
 Refer: 117 114 N 1 0 0 1 0 0 0
 Refer: 176 711 N 1 0 0 1 12 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" r uni030C
 EndChar
 
 StartChar: uni0157
@@ -71557,6 +72277,7 @@ LayerCount: 2
 Fore
 Refer: 117 114 N 1 0 0 1 0 0 0
 Refer: 197 -1 N 1 0 0 1 -48 0 0
+Validated: 1
 EndChar
 
 StartChar: uni024D
@@ -71608,6 +72329,7 @@ LayerCount: 2
 Fore
 Refer: 117 114 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 185 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E5B
@@ -71619,6 +72341,7 @@ LayerCount: 2
 Fore
 Refer: 117 114 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -345 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E5D
@@ -71732,6 +72455,8 @@ LayerCount: 2
 Fore
 Refer: 118 115 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 188 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" s acutecomb
 EndChar
 
 StartChar: scircumflex
@@ -71808,6 +72533,7 @@ SplineSet
  715 1128 l 1,61,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" s uni0302
 EndChar
 
 StartChar: scaron
@@ -71819,6 +72545,8 @@ LayerCount: 2
 Fore
 Refer: 118 115 N 1 0 0 1 0 0 0
 Refer: 176 711 N 1 0 0 1 12 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" s uni030C
 EndChar
 
 StartChar: uni0219
@@ -71830,6 +72558,7 @@ LayerCount: 2
 Fore
 Refer: 118 115 N 1 0 0 1 0 0 0
 Refer: 197 -1 N 1 0 0 1 133 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0455
@@ -71840,6 +72569,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 118 115 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E61
@@ -71851,6 +72581,7 @@ LayerCount: 2
 Fore
 Refer: 118 115 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 185 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E63
@@ -71862,6 +72593,7 @@ LayerCount: 2
 Fore
 Refer: 118 115 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -162 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E65
@@ -71874,6 +72606,7 @@ Fore
 Refer: 118 115 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 264 0 0
 Refer: 193 729 N 1 0 0 1 32 124 0
+Validated: 1
 EndChar
 
 StartChar: uni1E67
@@ -71886,6 +72619,7 @@ Fore
 Refer: 118 115 N 1 0 0 1 0 0 0
 Refer: 176 711 N 1 0 0 1 12 0 0
 Refer: 193 729 N 1 0 0 1 186 244 0
+Validated: 1
 EndChar
 
 StartChar: uni1E69
@@ -71898,6 +72632,7 @@ Fore
 Refer: 118 115 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 185 0 0
 Refer: 485 -1 N 1 0 0 1 -162 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1D8A
@@ -71999,6 +72734,7 @@ LayerCount: 2
 Fore
 Refer: 124 116 N 1 0 0 1 0 0 0
 Refer: 197 -1 N 1 0 0 1 166 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0163
@@ -72060,6 +72796,7 @@ SplineSet
  307 -243 307 -243 323 -243 c 0,0,1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" t uni0327
 Substitution2: "sous-table 'salt' Alternatives stylistiques dans Latin lookup 8" uni021B
 EndChar
 
@@ -72072,6 +72809,7 @@ LayerCount: 2
 Fore
 Refer: 124 116 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 72 220 0
+Validated: 1
 EndChar
 
 StartChar: uni1E6D
@@ -72083,6 +72821,7 @@ LayerCount: 2
 Fore
 Refer: 124 116 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -127 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E6F
@@ -72140,6 +72879,7 @@ LayerCount: 2
 Fore
 Refer: 124 116 N 1 0 0 1 0 0 0
 Refer: 174 710 N 1 0 0 1 33 -1476 0
+Validated: 1
 EndChar
 
 StartChar: uni1E97
@@ -72152,6 +72892,7 @@ Fore
 Refer: 124 116 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -456 1704 0
 Refer: 485 -1 N 1 0 0 1 -86 1704 0
+Validated: 1
 EndChar
 
 StartChar: uni2C66
@@ -72897,6 +73638,8 @@ LayerCount: 2
 Fore
 Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 170 96 N 1 0 0 1 175 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" u gravecomb
 EndChar
 
 StartChar: uacute
@@ -72908,6 +73651,8 @@ LayerCount: 2
 Fore
 Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 315 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" u acutecomb
 EndChar
 
 StartChar: ucircumflex
@@ -72952,6 +73697,7 @@ SplineSet
  838 1128 l 1,25,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" u uni0302
 EndChar
 
 StartChar: udieresis
@@ -72964,6 +73710,8 @@ Fore
 Refer: 134 117 N 1 0 0 1 0 0 3
 Refer: 485 -1 N 1 0 0 1 -210 1483 0
 Refer: 485 -1 N 1 0 0 1 160 1483 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" u uni0308
 EndChar
 
 StartChar: umacron
@@ -73002,6 +73750,7 @@ SplineSet
  262 1301 l 1,25,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" u uni0304
 EndChar
 
 StartChar: ubreve
@@ -73013,6 +73762,8 @@ LayerCount: 2
 Fore
 Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 185 728 N 1 0 0 1 150 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" u uni0306
 EndChar
 
 StartChar: uring
@@ -73024,6 +73775,8 @@ LayerCount: 2
 Fore
 Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 187 730 N 1 0 0 1 211 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" u uni030A
 EndChar
 
 StartChar: uhungarumlaut
@@ -73035,6 +73788,8 @@ LayerCount: 2
 Fore
 Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 191 733 N 1 0 0 1 54 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" u uni030B
 EndChar
 
 StartChar: glyph2246
@@ -73084,6 +73839,7 @@ LayerCount: 2
 Fore
 Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -26 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EE7
@@ -73095,6 +73851,7 @@ LayerCount: 2
 Fore
 Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 467 -1 N 1 0 0 1 350 0 0
+Validated: 1
 EndChar
 
 StartChar: uni01D4
@@ -73106,6 +73863,8 @@ LayerCount: 2
 Fore
 Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 176 711 N 1 0 0 1 135 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" u uni030C
 EndChar
 
 StartChar: uni01D6
@@ -73191,6 +73950,7 @@ Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 368 303 0
 Refer: 485 -1 N 1 0 0 1 -208 1483 0
 Refer: 485 -1 N 1 0 0 1 162 1483 0
+Validated: 1
 EndChar
 
 StartChar: uni01DA
@@ -73204,6 +73964,7 @@ Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 1575 -1 N 1 0 0 1 154 1783 0
 Refer: 485 -1 N 1 0 0 1 -209 1483 0
 Refer: 485 -1 N 1 0 0 1 161 1483 0
+Validated: 1
 EndChar
 
 StartChar: uni01DC
@@ -73217,6 +73978,7 @@ Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 170 96 N 1 0 0 1 122 302 0
 Refer: 485 -1 N 1 0 0 1 -200 1483 0
 Refer: 485 -1 N 1 0 0 1 170 1483 0
+Validated: 1
 EndChar
 
 StartChar: uni1E73
@@ -73229,6 +73991,7 @@ Fore
 Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -210 1483 0
 Refer: 485 -1 N 1 0 0 1 160 1483 0
+Validated: 1
 EndChar
 
 StartChar: uni1E75
@@ -73240,6 +74003,7 @@ LayerCount: 2
 Fore
 Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 74 -1461 0
+Validated: 1
 EndChar
 
 StartChar: uni1E77
@@ -73251,6 +74015,7 @@ LayerCount: 2
 Fore
 Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 174 710 N 1 0 0 1 134 -1476 0
+Validated: 1
 EndChar
 
 StartChar: uni1E79
@@ -73263,6 +74028,7 @@ Fore
 Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 61 0 0
 Refer: 172 180 N 1 0 0 1 377 293 0
+Validated: 1
 EndChar
 
 StartChar: uni1E7B
@@ -73395,6 +74161,7 @@ LayerCount: 2
 Fore
 Refer: 136 118 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 -2 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E7F
@@ -73406,6 +74173,7 @@ LayerCount: 2
 Fore
 Refer: 136 118 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -102 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1D8C
@@ -73461,6 +74229,7 @@ LayerCount: 2
 Fore
 Refer: 137 119 N 1 0 0 1 0 0 0
 Refer: 170 96 N 1 0 0 1 371 0 0
+Validated: 1
 EndChar
 
 StartChar: wacute
@@ -73472,6 +74241,7 @@ LayerCount: 2
 Fore
 Refer: 137 119 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 511 0 0
+Validated: 1
 EndChar
 
 StartChar: wcircumflex
@@ -73533,6 +74303,7 @@ SplineSet
  1034 1128 l 1,46,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" w uni0302
 EndChar
 
 StartChar: wdieresis
@@ -73545,6 +74316,7 @@ Fore
 Refer: 137 119 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -14 1483 0
 Refer: 485 -1 N 1 0 0 1 356 1483 0
+Validated: 1
 EndChar
 
 StartChar: uni1E87
@@ -73556,6 +74328,7 @@ LayerCount: 2
 Fore
 Refer: 137 119 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 504 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E89
@@ -73567,6 +74340,7 @@ LayerCount: 2
 Fore
 Refer: 137 119 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 168 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E98
@@ -73578,6 +74352,7 @@ LayerCount: 2
 Fore
 Refer: 137 119 N 1 0 0 1 0 0 0
 Refer: 187 730 N 1 0 0 1 407 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0445
@@ -73588,6 +74363,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 138 120 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E8B
@@ -73599,6 +74375,7 @@ LayerCount: 2
 Fore
 Refer: 138 120 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 212 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E8D
@@ -73611,6 +74388,7 @@ Fore
 Refer: 138 120 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -307 1483 0
 Refer: 485 -1 N 1 0 0 1 63 1483 0
+Validated: 1
 EndChar
 
 StartChar: uni1D8D
@@ -73674,6 +74452,7 @@ LayerCount: 2
 Fore
 Refer: 139 121 N 1 0 0 1 0 0 0
 Refer: 170 96 N 1 0 0 1 38 0 0
+Validated: 1
 EndChar
 
 StartChar: yacute
@@ -73685,6 +74464,8 @@ LayerCount: 2
 Fore
 Refer: 139 121 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 267 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" y acutecomb
 EndChar
 
 StartChar: ycircumflex
@@ -73730,6 +74511,7 @@ SplineSet
  791 1128 l 1,23,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" y uni0302
 EndChar
 
 StartChar: ydieresis
@@ -73742,6 +74524,8 @@ Fore
 Refer: 139 121 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -258 1483 0
 Refer: 485 -1 N 1 0 0 1 112 1483 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" y uni0308
 EndChar
 
 StartChar: uni0443
@@ -73752,6 +74536,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 139 121 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni045E
@@ -73763,6 +74548,7 @@ LayerCount: 2
 Fore
 Refer: 139 121 N 1 0 0 1 0 0 0
 Refer: 305 -1 N 1 0 0 1 53 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EF5
@@ -73774,6 +74560,7 @@ LayerCount: 2
 Fore
 Refer: 139 121 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 184 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EF9
@@ -73785,6 +74572,7 @@ LayerCount: 2
 Fore
 Refer: 139 121 N 1 0 0 1 0 0 0
 Refer: 179 732 N 1 0 0 1 33 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1EF7
@@ -73796,6 +74584,7 @@ LayerCount: 2
 Fore
 Refer: 139 121 N 1 0 0 1 0 0 0
 Refer: 467 -1 N 1 0 0 1 302 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0233
@@ -73832,6 +74621,7 @@ SplineSet
  215 1301 l 1,23,-1
 EndSplineSet
 Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" y uni0304
 EndChar
 
 StartChar: uni1E8F
@@ -73843,6 +74633,7 @@ LayerCount: 2
 Fore
 Refer: 139 121 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 261 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E99
@@ -73854,6 +74645,7 @@ LayerCount: 2
 Fore
 Refer: 139 121 N 1 0 0 1 0 0 0
 Refer: 187 730 N 1 0 0 1 163 0 0
+Validated: 1
 EndChar
 
 StartChar: uni04EF
@@ -73902,6 +74694,7 @@ Fore
 Refer: 139 121 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -258 1483 0
 Refer: 485 -1 N 1 0 0 1 112 1483 0
+Validated: 1
 EndChar
 
 StartChar: uni04F3
@@ -73913,6 +74706,7 @@ LayerCount: 2
 Fore
 Refer: 139 121 N 1 0 0 1 0 0 0
 Refer: 191 733 N 1 0 0 1 7 0 0
+Validated: 1
 EndChar
 
 StartChar: zacute
@@ -73924,6 +74718,8 @@ LayerCount: 2
 Fore
 Refer: 140 122 N 1 0 0 1 0 0 0
 Refer: 172 180 N 1 0 0 1 241 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" z acutecomb
 EndChar
 
 StartChar: zcaron
@@ -73935,6 +74731,8 @@ LayerCount: 2
 Fore
 Refer: 140 122 N 1 0 0 1 0 0 0
 Refer: 176 711 N 1 0 0 1 16 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" z uni030C
 EndChar
 
 StartChar: zdotaccent
@@ -73946,6 +74744,8 @@ LayerCount: 2
 Fore
 Refer: 140 122 N 1 0 0 1 0 0 0
 Refer: 193 729 N 1 0 0 1 189 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" z uni0307
 EndChar
 
 StartChar: uni01C5
@@ -73958,6 +74758,7 @@ Fore
 Refer: 9 68 N 1 0 0 1 30 0 0
 Refer: 140 122 N 1 0 0 1 1282 0 0
 Refer: 176 711 N 1 0 0 1 1302 0 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -73971,6 +74772,7 @@ Fore
 Refer: 55 100 N 1 0 0 1 0 0 0
 Refer: 140 122 N 1 0 0 1 1076 0 0
 Refer: 176 711 N 1 0 0 1 1096 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E91
@@ -74023,6 +74825,7 @@ LayerCount: 2
 Fore
 Refer: 140 122 N 1 0 0 1 0 0 0
 Refer: 485 -1 N 1 0 0 1 -157 0 0
+Validated: 1
 EndChar
 
 StartChar: uni1E95
@@ -77860,6 +78663,7 @@ Refer: 263 1068 N 1 0 0 1 16 0 0
 Refer: 17 73 N 1 0 0 1 1059 0 0
 Refer: 485 -1 N 1 0 0 1 18 1770 0
 Refer: 485 -1 N 1 0 0 1 422 1770 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -78237,6 +79041,7 @@ LayerCount: 2
 Fore
 Refer: 109 110 N 1 0 0 1 110 0 0
 Refer: 317 8217 N 1 0 0 1 -140 0 0
+Validated: 1
 EndChar
 
 StartChar: uni02BC
@@ -78937,6 +79742,8 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 21 0 0
 Refer: 511 -1 N 1 0 0 1 29 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" a uni030F
 EndChar
 
 StartChar: uni0205
@@ -78948,6 +79755,8 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 -1 0 0
 Refer: 511 -1 N 1 0 0 1 25 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" e uni030F
 EndChar
 
 StartChar: uni0209
@@ -78959,6 +79768,8 @@ LayerCount: 2
 Fore
 Refer: 511 -1 N 1 0 0 1 -270 0 0
 Refer: 100 305 N 1 0 0 1 0 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" i uni030F
 EndChar
 
 StartChar: uni020D
@@ -78970,6 +79781,8 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 511 -1 N 1 0 0 1 40 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" o uni030F
 EndChar
 
 StartChar: uni0211
@@ -78981,6 +79794,8 @@ LayerCount: 2
 Fore
 Refer: 117 114 N 1 0 0 1 0 0 0
 Refer: 511 -1 N 1 0 0 1 -170 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" r uni030F
 EndChar
 
 StartChar: uni0215
@@ -78992,6 +79807,8 @@ LayerCount: 2
 Fore
 Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 511 -1 N 1 0 0 1 40 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" u uni030F
 EndChar
 
 StartChar: t_uni0209.liga
@@ -79156,6 +79973,8 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 515 -1 N 1 0 0 1 100 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" a uni0311
 EndChar
 
 StartChar: uni0207
@@ -79167,6 +79986,8 @@ LayerCount: 2
 Fore
 Refer: 59 101 N 1 0 0 1 0 0 0
 Refer: 515 -1 N 1 0 0 1 140 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" e uni0311
 EndChar
 
 StartChar: uni020B
@@ -79178,6 +79999,8 @@ LayerCount: 2
 Fore
 Refer: 100 305 N 1 0 0 1 0 0 0
 Refer: 515 -1 N 1 0 0 1 -160 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" i uni0311
 EndChar
 
 StartChar: uni020F
@@ -79189,6 +80012,8 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 0
 Refer: 515 -1 N 1 0 0 1 150 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" o uni0311
 EndChar
 
 StartChar: uni0213
@@ -79200,6 +80025,8 @@ LayerCount: 2
 Fore
 Refer: 117 114 N 1 0 0 1 0 0 0
 Refer: 515 -1 N 1 0 0 1 10 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" r uni0311
 EndChar
 
 StartChar: uni0217
@@ -79211,6 +80038,8 @@ LayerCount: 2
 Fore
 Refer: 134 117 N 1 0 0 1 0 0 0
 Refer: 515 -1 N 1 0 0 1 140 0 0
+Validated: 1
+Ligature2: "sous-table 'ccmp' Composition et d+AOkA-composition de glyphe (CJK) lookups10" u uni0311
 EndChar
 
 StartChar: t_uni020B.liga
@@ -79632,6 +80461,7 @@ LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 0
 Refer: 187 730 N 1 0 0 1 263 -1521 0
+Validated: 1
 Position2: "sous-table 'cpsp' Chasses pour composition en capitales lookups0" dx=40 dy=0 dh=80 dv=0
 EndChar
 
@@ -79644,6 +80474,7 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 187 730 N 1 0 0 1 161 -1530 0
+Validated: 1
 EndChar
 
 StartChar: uni0325
@@ -80239,6 +81070,7 @@ LayerCount: 2
 Fore
 Refer: 45 97 N 1 0 0 1 0 0 0
 Refer: 900 702 N 1 0 0 1 310 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0357
@@ -80448,6 +81280,7 @@ SplineSet
  -385 -360 -385 -360 -263.5 -370 c 128,-1,19
  -142 -380 -142 -380 1 -380 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph2656
@@ -80486,6 +81319,7 @@ SplineSet
  -344 1269 -344 1269 -235.5 1258.5 c 128,-1,17
  -127 1248 -127 1248 0 1248 c 256,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2658
 EndChar
 
@@ -80556,6 +81390,7 @@ SplineSet
  -950 -378 l 5,3,-1
  -950 -246 l 5,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph2663
@@ -80678,6 +81513,7 @@ SplineSet
  -942 -375 l 1,11,-1
  -942 -244 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph2668
@@ -80739,6 +81575,7 @@ SplineSet
  -642 1174 -642 1174 -627 1163 c 128,-1,47
  -612 1152 -612 1152 -585 1152 c 0,36,37
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2670
 EndChar
 
@@ -80808,6 +81645,7 @@ SplineSet
  -414 1389 -414 1389 -435.5 1417 c 128,-1,41
  -457 1445 -457 1445 -503 1445 c 0,35,36
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2673
 EndChar
 
@@ -80857,6 +81695,7 @@ SplineSet
  -535 1715 -535 1715 -513.5 1694.5 c 128,-1,15
  -492 1674 -492 1674 -492 1645 c 256,4,5
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2676
 EndChar
 
@@ -80914,6 +81753,7 @@ SplineSet
  -673 1439 -673 1439 -673 1300 c 256,26,27
  -673 1161 -673 1161 -569 1161 c 0,20,21
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2679
 EndChar
 
@@ -80967,6 +81807,7 @@ SplineSet
  -759 1520 l 1,21,-1
  -647 1520 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2682
 EndChar
 
@@ -81032,6 +81873,7 @@ SplineSet
  -384 1494 -384 1494 -354 1463 c 1,38,-1
  -384 1422 l 2,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2685
 EndChar
 
@@ -81094,6 +81936,7 @@ SplineSet
  -671 1224 -671 1224 -648 1194 c 128,-1,33
  -625 1164 -625 1164 -587 1164 c 0,21,22
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2688
 EndChar
 
@@ -81148,6 +81991,7 @@ SplineSet
  -626 1081 l 1,21,-1
  -739 1081 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2691
 EndChar
 
@@ -81210,6 +82054,7 @@ SplineSet
  -750 1081 l 1,34,-1
  -862 1081 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2694
 EndChar
 
@@ -81262,6 +82107,7 @@ SplineSet
  -503 1081 l 1,21,-1
  -616 1081 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2697
 EndChar
 
@@ -81335,6 +82181,7 @@ SplineSet
  -425 1095 -425 1095 -454.5 1084.5 c 128,-1,32
  -484 1074 -484 1074 -516 1074 c 0,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2701
 EndChar
 
@@ -81386,6 +82233,7 @@ SplineSet
  -328 1520 l 1,18,-1
  -501 1081 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2704
 EndChar
 
@@ -81443,6 +82291,7 @@ SplineSet
  -763 1081 l 1,26,-1
  -615 1307 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2707
 EndChar
 
