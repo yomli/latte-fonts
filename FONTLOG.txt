@@ -18,13 +18,18 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 
 ## ChangeLog
 
+05 November 2016 (Guillaume Litaudon) Latte v. 0.3
+- Added anchoring marks for bottom liaisons on A-Z
+- Added anchoring marks for bottom liaisons on a-z, dotlessi
+- Fixed all glyphs between U+0363 and U+036F
+
 04 November 2016 (Guillaume Litaudon) Latte v. 0.3
 - Added or fixed all glyphs between U+0300 and U+0362
 - Fixed circumflex bad curves
 - Added GPOS 'mark' lookup for top and bottom anchoring marks
 - Added anchoring marks for top and bottom diacritics on A-Z
 - Added anchoring marks for top and bottom diacritics on a-z, dotlessi
-- Added anchoring marks for top liaisons A-Z
+- Added anchoring marks for top liaisons on A-Z
 - Added anchoring marks for top liaisons on a-z, dotlessi
 
 03 November 2016 (Guillaume Litaudon) Latte v. 0.3
