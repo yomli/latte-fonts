@@ -12,11 +12,11 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 
 ## Source files
 - Latte-Regular.sfd (Regular weight)
-- Latte-Italic.sfd (Italic weight)
-- Latte-Bold.sfd (Bold weight)
-- Latte-BoldItalic.sfd (Bold-Italic weight)
 
 ## ChangeLog
+
+05 November 2016 (Guillaume Litaudon) Latte v. 0.4
+- New workflow: using Regular as a master, creating other weights and style from it 
 
 05 November 2016 (Guillaume Litaudon) Latte v. 0.3
 - Added anchoring marks for bottom liaisons on A-Z
