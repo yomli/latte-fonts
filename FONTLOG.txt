@@ -15,6 +15,14 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 
 ## ChangeLog
 
+06 November 2016 (Guillaume Litaudon) Latte v. 0.5
+- Added missing uni0476 and uni0487
+- Fixed combining glyphs in the Cyrillic block
+- Added all appropriates anchoring marks in the Cyrillic and Cyrillic Supplement blocks
+- Fixed uni0508
+- Completed the Cyrillic Supplement block
+
+
 06 November 2016 (Guillaume Litaudon) Latte v. 0.4
 - New workflow: using Regular as a master, creating other weights and style from it
 - Added or fixed all glyphs between U+0370 and U+037F
@@ -25,11 +33,9 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 - Added anchoring mark 5 on uni0315
 - Added anchoring marks 5 for uni0315 on A-Z, a-z, dotlessi
 - Added anchoring marks 5 for uni0315 on all Greek block
-- Added all appropriate anchoring marks on all Greek Extended block
+- Added all appropriates anchoring marks in the Greek Extended block
 - Fixed bad references on **all** small letters omega in the Greek Extended block
 - Added uni1FBE
-
-
 
 05 November 2016 (Guillaume Litaudon) Latte v. 0.3
 - Added anchoring marks for bottom liaisons on A-Z
