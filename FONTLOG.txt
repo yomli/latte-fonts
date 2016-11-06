@@ -6,7 +6,7 @@ This information should be distributed along with the Latte fonts and any deriva
 
 ## Basic Font Information
 
-Latte is a modification of Google's Carlito fonts. The stylistic alternate "g" is now the default one on bold and regular weights. 
+Latte is a modification of Google's Carlito fonts. The stylistic alternate "g" is now the default one. Diacritics are improved, some glyphs added.
 
 Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.
 
@@ -17,6 +17,19 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 
 06 November 2016 (Guillaume Litaudon) Latte v. 0.4
 - New workflow: using Regular as a master, creating other weights and style from it
+- Added or fixed all glyphs between U+0370 and U+037F
+- Added U+03CF
+- Added anchoring marks on glyphs U+037F to U+03FF
+- Fixed uni02DE and added anchoring mark 4
+- Added anchoring marks 4 on glyphs U+02DE, U+0061, U+0065, U+0069, U+006F,U+0075, U+0079, U+0131, U+0250, U+0251, U+0252, U+0254, U+0258, U+0259, U+025C, U+025E, U+0269, U+1E2D and U+1E2F
+- Added anchoring mark 5 on uni0315
+- Added anchoring marks 5 for uni0315 on A-Z, a-z, dotlessi
+- Added anchoring marks 5 for uni0315 on all Greek block
+- Added all appropriate anchoring marks on all Greek Extended block
+- Fixed bad references on **all** small letters omega in the Greek Extended block
+- Added uni1FBE
+
+
 
 05 November 2016 (Guillaume Litaudon) Latte v. 0.3
 - Added anchoring marks for bottom liaisons on A-Z
