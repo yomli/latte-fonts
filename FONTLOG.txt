@@ -15,15 +15,17 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 
 ## ChangeLog
 
-06 November 2016 (Guillaume Litaudon) Latte v. 0.5
+07 November 2016 (Guillaume Litaudon) Latte v. 0.5.2
+- Completed the Cyrillic Extended-A block
+
+06 November 2016 (Guillaume Litaudon) Latte v. 0.5.1
 - Added missing uni0476 and uni0487
 - Fixed combining glyphs in the Cyrillic block
 - Added all appropriates anchoring marks in the Cyrillic and Cyrillic Supplement blocks
 - Fixed uni0508
 - Completed the Cyrillic Supplement block
 
-
-06 November 2016 (Guillaume Litaudon) Latte v. 0.4
+06 November 2016 (Guillaume Litaudon) Latte v. 0.4.1
 - New workflow: using Regular as a master, creating other weights and style from it
 - Added or fixed all glyphs between U+0370 and U+037F
 - Added U+03CF
@@ -37,7 +39,7 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 - Fixed bad references on **all** small letters omega in the Greek Extended block
 - Added uni1FBE
 
-05 November 2016 (Guillaume Litaudon) Latte v. 0.3
+05 November 2016 (Guillaume Litaudon) Latte v. 0.3.6
 - Added anchoring marks for bottom liaisons on A-Z
 - Added anchoring marks for bottom liaisons on a-z, dotlessi
 - Fixed all glyphs between U+0363 and U+036F
@@ -47,7 +49,7 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 - Fixed U+1DCA, U+1DFE, U+1DFF
 - Added U+1DFD, U+1DFC, U+1DF5
 
-04 November 2016 (Guillaume Litaudon) Latte v. 0.3
+04 November 2016 (Guillaume Litaudon) Latte v. 0.3.5
 - Added or fixed all glyphs between U+0300 and U+0362
 - Fixed circumflex bad curves
 - Added GPOS 'mark' lookup for top and bottom anchoring marks
@@ -56,11 +58,11 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 - Added anchoring marks for top liaisons on A-Z
 - Added anchoring marks for top liaisons on a-z, dotlessi
 
-03 November 2016 (Guillaume Litaudon) Latte v. 0.3
+03 November 2016 (Guillaume Litaudon) Latte v. 0.3.4
 - Added gravecomb (Regular)
 - Added acutecomb (Regular)
 
-02 November 2016 (Guillaume Litaudon) Latte v. 0.3
+02 November 2016 (Guillaume Litaudon) Latte v. 0.3.3
 - Added modifier letter macron at U+02C9 (all)
 - Added modifier letter acute accent at U+02CA (all)
 - Added modifier letter middle grave accent at U+02F4 (all)
@@ -69,15 +71,15 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 - Added uni02F6 (all)
 - Fixed uni030F and uni02F5 (BoldItalic)
 
-01 November 2016 (Guillaume Litaudon) Latte v. 0.3
+01 November 2016 (Guillaume Litaudon) Latte v. 0.3.2
 - Added non-breaking space at U+00A0 (all)
 - Added soft hyphen at U+00AD (all)
 - Added modifier letter double prime at U+02BA (all)
 
-31 October 2016 (Guillaume Litaudon) Latte v. 0.3
+31 October 2016 (Guillaume Litaudon) Latte v. 0.3.1
 - Replaced the tyPoland logo for copyright reasons (all)
 
-31 October 2016 (Guillaume Litaudon) Latte v. 0.2
+31 October 2016 (Guillaume Litaudon) Latte v. 0.2.3
 - Fixed uni1D77 and added uni1D77.salt (Regular & Bold)
 - Added the irony point (all)
 - Added the interrobang (all)
@@ -87,14 +89,14 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 - Added missing stylistic alternates for g.salt in case of superior and ordinal (Regular & Bold)
 - Added stylistic alternate for y (all)
 
-30 October 2016 (Guillaume Litaudon) Latte v. 0.2
+30 October 2016 (Guillaume Litaudon) Latte v. 0.2.2
 - Fixed "Circled Numbers" & "Negative Circled Numbers" (Bold)
 - Corrected several non-integral coordinates, missing extrema, cleaning the mess (Bold)
 - Cleaning intersecting paths (BoldItalic)
 - Fixed "Circled Numbers" & "Negative Circled Numbers" (BoldItalic)
 - Corrected several non-integral coordinates, missing extrema, cleaning the mess (BoldItalic)
 
-29 October 2016 (Guillaume Litaudon) Latte v. 0.2
+29 October 2016 (Guillaume Litaudon) Latte v. 0.2.1
 - Fixed **many** intersecting paths (Regular)
 - Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer (Regular)
 - Cleaning intersecting paths (Italic)
