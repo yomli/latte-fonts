@@ -17,7 +17,8 @@ See the [FONTLOG](FONTLOG.txt) for a much complete changelog.
 
 | Version    | Changes     | 
 |:-----------|:------------|
-| 0.6        | Complete Cyrillic, Cyrillic Supplement, Cyrillic Extended A, B and C |
+| 0.7        | IPA |
+| 0.6        | Complete Cyrillic, Cyrillic Supplement, Cyrillic Extended A and B |
 | 0.5        | Complete Greek and Greek Extended |
 | 0.4        | Diacritics |
 | 0.3        | Clean-up, irony point, interrobang, basis point, copyleft, alternate *y* (beta) |
