@@ -16,6 +16,9 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 ## ChangeLog
 
 09 November 2016 (Guillaume Litaudon) Latte v. 0.7.1
+- Added the Combining Diacritical Marks Extended block
+- Completed the Combining Half Marks block
+- Completed the Combining Diacriticals Marks Supplement
 
 08 November 2016 (Guillaume Litaudon) Latte v. 0.6.1
 - Completed the Modifier Tone Letters block
