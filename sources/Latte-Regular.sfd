@@ -4,7 +4,7 @@ FullName: Latte
 FamilyName: Latte
 Weight: Book
 Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.fr) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte Regular font+AAoACgAA-This file provides detailed information on the Latte Regular font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Regular.sfd (Regular weight)+AAoACgAA## ChangeLog+AAoACgAA-08 November 2016 (Guillaume Litaudon) Latte v. 0.6.1+AAoA-- Completed the Modifier Tone Letters block+AAoA-- Completed and fixed the Superscripts and Subscripts block+AAoACgAA-08 November 2016 (Guillaume Litaudon) Latte v. 0.5.3+AAoA-- Completed the Cyrillic Extended-B block+AAoACgAA-07 November 2016 (Guillaume Litaudon) Latte v. 0.5.2+AAoA-- Completed the Cyrillic Extended-A block+AAoACgAA-06 November 2016 (Guillaume Litaudon) Latte v. 0.5.1+AAoA-- Added missing uni0476 and uni0487+AAoA-- Fixed combining glyphs in the Cyrillic block+AAoA-- Added all appropriates anchoring marks in the Cyrillic and Cyrillic Supplement blocks+AAoA-- Fixed uni0508+AAoA-- Completed the Cyrillic Supplement block+AAoACgAA-06 November 2016 (Guillaume Litaudon) Latte v. 0.4.1+AAoA-- New workflow: using Regular as a master, creating other weights and style from it+AAoA-- Added or fixed all glyphs between U+-0370 and U+-037F+AAoA-- Added U+-03CF+AAoA-- Added anchoring marks on glyphs U+-037F to U+-03FF+AAoA-- Fixed uni02DE and added anchoring mark 4+AAoA-- Added anchoring marks 4 on glyphs U+-02DE, U+-0061, U+-0065, U+-0069, U+-006F,U+-0075, U+-0079, U+-0131, U+-0250, U+-0251, U+-0252, U+-0254, U+-0258, U+-0259, U+-025C, U+-025E, U+-0269, U+-1E2D and U+-1E2F+AAoA-- Added anchoring mark 5 on uni0315+AAoA-- Added anchoring marks 5 for uni0315 on A-Z, a-z, dotlessi+AAoA-- Added anchoring marks 5 for uni0315 on all Greek block+AAoA-- Added all appropriate anchoring marks on all Greek Extended block+AAoA-- Fixed bad references on **all** small letters omega in the Greek Extended block+AAoA-- Added uni1FBE+AAoACgAA-05 November 2016 (Guillaume Litaudon) Latte v. 0.3.6+AAoA-- Added anchoring marks for bottom liaisons on A-Z+AAoA-- Added anchoring marks for bottom liaisons on a-z, dotlessi+AAoA-- Fixed all glyphs between U+-0363 and U+-036F+AAoA-- Added ligatures for all accented glyphs between U+-00C0 and U+-0233+AAoA-- Added ligatures for all accented glyphs between U+-1E00 and U+-1EF9+AAoA-- Fixed glyphs uni1E2A, uni1E73, uni1EAC, uni1EC6, uni1ED8+AAoA-- Fixed U+-1DCA, U+-1DFE, U+-1DFF+AAoA-- Added U+-1DFD, U+-1DFC, U+-1DF5+AAoACgAA-04 November 2016 (Guillaume Litaudon) Latte v. 0.3.5+AAoA-- Added or fixed all glyphs between U+-0300 and U+-0362+AAoA-- Fixed circumflex bad curves+AAoA-- Added GPOS 'mark' lookup for top and bottom anchoring marks+AAoA-- Added anchoring marks for top and bottom diacritics on A-Z+AAoA-- Added anchoring marks for top and bottom diacritics on a-z, dotlessi+AAoA-- Added anchoring marks for top liaisons on A-Z+AAoA-- Added anchoring marks for top liaisons on a-z, dotlessi+AAoACgAA-03 November 2016 (Guillaume Litaudon) Latte v. 0.3.4+AAoA-- Added gravecomb+AAoA-- Added acutecomb+AAoACgAA-02 November 2016 (Guillaume Litaudon) Latte v. 0.3.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoA-- Fixed uni02CD+AAoA-- Added uni02F6+AAoACgAA-01 November 2016 (Guillaume Litaudon) Latte v. 0.3.2+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3.1+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77+AAoA-- Added missing stylistic alternates for g.salt in case of superior and ordinal+AAoA-- Added stylistic alternate for y+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2.1+AAoA-- Fixed **many** intersecting paths+AAoA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni1E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261+AAoA-- Modified g.superior and added g.superior.salt+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+FontLog: "# FONTLOG for the Latte Regular font+AAoACgAA-This file provides detailed information on the Latte Regular font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Regular.sfd (Regular weight)+AAoACgAA## ChangeLog+AAoACgAA-09 November 2016 (Guillaume Litaudon) Latte v. 0.7.1+AAoA-- Added the Combining Diacritical Marks Extended block+AAoA-- Completed the Combining Half Marks block+AAoA-- Completed the Combining Diacriticals Marks Supplement+AAoACgAA-08 November 2016 (Guillaume Litaudon) Latte v. 0.6.1+AAoA-- Completed the Modifier Tone Letters block+AAoA-- Completed and fixed the Superscripts and Subscripts block+AAoACgAA-08 November 2016 (Guillaume Litaudon) Latte v. 0.5.3+AAoA-- Completed the Cyrillic Extended-B block+AAoACgAA-07 November 2016 (Guillaume Litaudon) Latte v. 0.5.2+AAoA-- Completed the Cyrillic Extended-A block+AAoACgAA-06 November 2016 (Guillaume Litaudon) Latte v. 0.5.1+AAoA-- Added missing uni0476 and uni0487+AAoA-- Fixed combining glyphs in the Cyrillic block+AAoA-- Added all appropriates anchoring marks in the Cyrillic and Cyrillic Supplement blocks+AAoA-- Fixed uni0508+AAoA-- Completed the Cyrillic Supplement block+AAoACgAA-06 November 2016 (Guillaume Litaudon) Latte v. 0.4.1+AAoA-- New workflow: using Regular as a master, creating other weights and style from it+AAoA-- Added or fixed all glyphs between U+-0370 and U+-037F+AAoA-- Added U+-03CF+AAoA-- Added anchoring marks on glyphs U+-037F to U+-03FF+AAoA-- Fixed uni02DE and added anchoring mark 4+AAoA-- Added anchoring marks 4 on glyphs U+-02DE, U+-0061, U+-0065, U+-0069, U+-006F,U+-0075, U+-0079, U+-0131, U+-0250, U+-0251, U+-0252, U+-0254, U+-0258, U+-0259, U+-025C, U+-025E, U+-0269, U+-1E2D and U+-1E2F+AAoA-- Added anchoring mark 5 on uni0315+AAoA-- Added anchoring marks 5 for uni0315 on A-Z, a-z, dotlessi+AAoA-- Added anchoring marks 5 for uni0315 on all Greek block+AAoA-- Added all appropriate anchoring marks on all Greek Extended block+AAoA-- Fixed bad references on **all** small letters omega in the Greek Extended block+AAoA-- Added uni1FBE+AAoACgAA-05 November 2016 (Guillaume Litaudon) Latte v. 0.3.6+AAoA-- Added anchoring marks for bottom liaisons on A-Z+AAoA-- Added anchoring marks for bottom liaisons on a-z, dotlessi+AAoA-- Fixed all glyphs between U+-0363 and U+-036F+AAoA-- Added ligatures for all accented glyphs between U+-00C0 and U+-0233+AAoA-- Added ligatures for all accented glyphs between U+-1E00 and U+-1EF9+AAoA-- Fixed glyphs uni1E2A, uni1E73, uni1EAC, uni1EC6, uni1ED8+AAoA-- Fixed U+-1DCA, U+-1DFE, U+-1DFF+AAoA-- Added U+-1DFD, U+-1DFC, U+-1DF5+AAoACgAA-04 November 2016 (Guillaume Litaudon) Latte v. 0.3.5+AAoA-- Added or fixed all glyphs between U+-0300 and U+-0362+AAoA-- Fixed circumflex bad curves+AAoA-- Added GPOS 'mark' lookup for top and bottom anchoring marks+AAoA-- Added anchoring marks for top and bottom diacritics on A-Z+AAoA-- Added anchoring marks for top and bottom diacritics on a-z, dotlessi+AAoA-- Added anchoring marks for top liaisons on A-Z+AAoA-- Added anchoring marks for top liaisons on a-z, dotlessi+AAoACgAA-03 November 2016 (Guillaume Litaudon) Latte v. 0.3.4+AAoA-- Added gravecomb+AAoA-- Added acutecomb+AAoACgAA-02 November 2016 (Guillaume Litaudon) Latte v. 0.3.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoA-- Fixed uni02CD+AAoA-- Added uni02F6+AAoACgAA-01 November 2016 (Guillaume Litaudon) Latte v. 0.3.2+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3.1+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77+AAoA-- Added missing stylistic alternates for g.salt in case of superior and ordinal+AAoA-- Added stylistic alternate for y+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2.1+AAoA-- Fixed **many** intersecting paths+AAoA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni1E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261+AAoA-- Modified g.superior and added g.superior.salt+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
 Version: 0.7
 ItalicAngle: 0
 UnderlinePosition: -200
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835834854
-ModificationTime: 1478713016
+ModificationTime: 1478727758
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -750,7 +750,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 858 26 10
+WinInfo: 1378 26 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -23733,6 +23733,7 @@ SplineSet
  -653 -113 -653 -113 -663.5 -103 c 128,-1,65
  -674 -93 -674 -93 -674 -84 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph574
@@ -60980,17 +60981,17 @@ SplineSet
  -313 1202 l 2,1,2
  -328 1189 -328 1189 -341 1186 c 0,3,4
  -352 1184 -352 1184 -368 1183 c 1,5,-1
- -368 1183 l 1,6,-1
- -855 1183 l 1,7,-1
- -855 1297 l 1,8,-1
- -406 1297 l 1,9,-1
- -281 1447 l 2,10,11
- -276 1454 -276 1454 -264 1464 c 0,12,13
- -256 1470 -256 1470 -246.5 1473.5 c 128,-1,14
- -237 1477 -237 1477 -225.5 1478 c 128,-1,15
- -214 1479 -214 1479 -198 1479 c 2,16,-1
+ -855 1183 l 1,6,-1
+ -855 1297 l 1,7,-1
+ -406 1297 l 1,8,-1
+ -281 1447 l 2,9,10
+ -276 1454 -276 1454 -264 1464 c 0,11,12
+ -256 1470 -256 1470 -246.5 1473.5 c 128,-1,13
+ -237 1477 -237 1477 -225.5 1478 c 128,-1,14
+ -214 1479 -214 1479 -198 1479 c 2,15,-1
  0 1479 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DC5
@@ -61014,6 +61015,7 @@ SplineSet
  -1039 1479 l 1,12,-1
  -851 1479 l 2,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DC6
@@ -61034,12 +61036,12 @@ SplineSet
  -406 1365 l 1,8,-1
  -855 1365 l 1,9,-1
  -855 1479 l 1,10,-1
- -368 1479 l 1,11,-1
- -368 1479 l 1,12,13
- -352 1478 -352 1478 -341 1476 c 0,14,15
- -328 1473 -328 1473 -313 1460 c 2,16,-1
+ -368 1479 l 1,11,12
+ -352 1478 -352 1478 -341 1476 c 0,13,14
+ -328 1473 -328 1473 -313 1460 c 2,15,-1
  0 1183 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DC7
@@ -61063,6 +61065,7 @@ SplineSet
  -787 1193 -787 1193 -803 1188 c 0,12,13
  -820 1183 -820 1183 -851 1183 c 2,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DC8
@@ -61100,6 +61103,7 @@ SplineSet
  -1182 1479 l 1,31,-1
  -994 1479 l 2,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DC9
@@ -61139,6 +61143,7 @@ SplineSet
  -224 1479 -224 1479 -208 1479 c 2,33,-1
  -10 1479 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph1576
@@ -82535,6 +82540,7 @@ SplineSet
  -258 1474 -258 1474 -249 1453.5 c 128,-1,43
  -240 1433 -240 1433 -240 1410 c 0,24,25
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2710
 EndChar
 
@@ -82546,6 +82552,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 2706 7616 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: glyph2711
@@ -82608,6 +82615,7 @@ SplineSet
  -886 1349 -886 1349 -895 1368.5 c 128,-1,43
  -904 1388 -904 1388 -904 1410 c 0,24,25
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table Substitution simple lookups0" glyph2713
 EndChar
 
@@ -82619,6 +82627,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 2709 7617 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: glyph2714
@@ -82661,6 +82670,7 @@ SplineSet
  -687 1342 l 1,21,0
  -687 1306 -687 1306 -677.5 1284 c 128,-1,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph2716
@@ -93075,6 +93085,7 @@ EndChar
 StartChar: uni1DCB
 Encoding: 7627 7627 3061
 Width: 0
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Ancre-0" -546 1122 mark 0
 LayerCount: 2
@@ -93101,11 +93112,13 @@ SplineSet
  -534 1078 -534 1078 -585 1057.5 c 128,-1,23
  -636 1037 -636 1037 -710 1037 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DCC
 Encoding: 7628 7628 3062
 Width: 0
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Ancre-0" -546 1122 mark 0
 LayerCount: 2
@@ -93132,11 +93145,13 @@ SplineSet
  -205 1079 -205 1079 -256 1058 c 128,-1,23
  -307 1037 -307 1037 -382 1037 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DCD
 Encoding: 7629 7629 3063
 Width: 0
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Ancre-0" -530 1122 mark 0
 LayerCount: 2
@@ -93154,11 +93169,13 @@ SplineSet
  -374 1377 l 1,12,-1
  62 1122 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DCE
 Encoding: 7630 7630 3064
 Width: 0
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Ancre-0" -532 1122 mark 0
 LayerCount: 2
@@ -93187,21 +93204,25 @@ SplineSet
  -652 1405 -652 1405 -658 1401.5 c 128,-1,27
  -664 1398 -664 1398 -669 1398 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DCF
 Encoding: 7631 7631 3065
 Width: 0
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Ancre-1" -511 0 mark 0
 LayerCount: 2
 Fore
 Refer: 2650 859 N 1 0 0 1 -20 -1664 2
+Validated: 1
 EndChar
 
 StartChar: uni1DD0
 Encoding: 7632 7632 3066
 Width: 0
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Ancre-1" -451 0 mark 0
 LayerCount: 2
@@ -93224,11 +93245,13 @@ SplineSet
  -660 -66 l 1,20,-1
  -531 -66 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DD1
 Encoding: 7633 7633 3067
 Width: 0
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Ancre-0" -533 1122 mark 0
 LayerCount: 2
@@ -93236,36 +93259,39 @@ Fore
 SplineSet
 -394 1400 m 1,0,1
  -328 1334 -328 1334 -328 1250 c 0,2,3
- -328 1208 -328 1208 -340 1178 c 0,4,5
- -360 1116 -360 1116 -410 1092 c 0,6,7
- -434 1080 -434 1080 -473.5 1080.5 c 128,-1,8
- -513 1081 -513 1081 -550 1124 c 0,9,10
- -568 1146 -568 1146 -596 1238 c 0,11,12
- -602 1256 -602 1256 -611.5 1275 c 128,-1,13
- -621 1294 -621 1294 -642 1294 c 0,14,15
- -676 1294 -676 1294 -688 1260 c 0,16,17
- -692 1248 -692 1248 -692 1218.5 c 128,-1,18
- -692 1189 -692 1189 -660 1150 c 0,19,20
- -652 1140 -652 1140 -652.5 1122 c 128,-1,21
- -653 1104 -653 1104 -674 1090 c 2,22,-1
- -714 1066 l 1,23,24
- -782 1138 -782 1138 -782 1224 c 0,25,26
- -782 1268 -782 1268 -770 1300 c 0,27,28
- -736 1400 -736 1400 -636 1400 c 0,29,30
- -552 1400 -552 1400 -516 1284 c 0,31,32
- -510 1262 -510 1262 -504 1244 c 0,33,34
- -486 1188 -486 1188 -462 1188 c 0,35,36
- -420 1188 -420 1188 -420 1258 c 0,37,38
- -420 1284 -420 1284 -444 1324 c 0,39,40
- -450 1332 -450 1332 -450 1348 c 128,-1,41
- -450 1364 -450 1364 -432 1374 c 1,42,-1
+ -328 1215 -328 1215 -340 1178 c 0,4,5
+ -359 1119 -359 1119 -410 1092 c 0,6,7
+ -433 1080 -433 1080 -470 1080 c 0,8,9
+ -472 1080 -472 1080 -474 1080 c 0,10,11
+ -528 1099 -528 1099 -550 1124 c 0,12,13
+ -567 1144 -567 1144 -596 1238 c 0,14,15
+ -602 1256 -602 1256 -611.5 1275 c 128,-1,16
+ -621 1294 -621 1294 -642 1294 c 0,17,18
+ -676 1294 -676 1294 -688 1260 c 0,19,20
+ -692 1248 -692 1248 -692 1218.5 c 128,-1,21
+ -692 1189 -692 1189 -660 1150 c 0,22,23
+ -652 1140 -652 1140 -652.5 1122 c 128,-1,24
+ -653 1104 -653 1104 -674 1090 c 2,25,-1
+ -714 1066 l 1,26,27
+ -782 1138 -782 1138 -782 1224 c 0,28,29
+ -782 1268 -782 1268 -770 1300 c 0,30,31
+ -736 1400 -736 1400 -636 1400 c 0,32,33
+ -552 1400 -552 1400 -516 1284 c 0,34,35
+ -510 1262 -510 1262 -504 1244 c 0,36,37
+ -486 1188 -486 1188 -462 1188 c 0,38,39
+ -420 1188 -420 1188 -420 1258 c 0,40,41
+ -420 1284 -420 1284 -444 1324 c 0,42,43
+ -450 1332 -450 1332 -450 1348 c 128,-1,44
+ -450 1364 -450 1364 -432 1374 c 1,45,-1
  -394 1400 l 1,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DD2
 Encoding: 7634 7634 3068
 Width: 0
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Ancre-0" -588 1122 mark 0
 LayerCount: 2
@@ -93292,22 +93318,27 @@ SplineSet
  -476 1464 l 1,27,28
  -534 1426 -534 1426 -617 1426 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DD3
 Encoding: 7635 7635 3069
 Width: 0
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Ancre-0" -496 1122 mark 0
 LayerCount: 2
 Fore
 Refer: 2616 811 N 1 0 0 1 0 1476 2
+Validated: 1
 EndChar
 
 StartChar: uni1DD4
 Encoding: 7636 7636 3070
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -514 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -93355,44 +93386,148 @@ SplineSet
  -440 1396 -440 1396 -450 1354 c 1,69,-1
  -256 1354 l 1,61,62
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DD5
 Encoding: 7637 7637 3071
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -527 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 2800 772 N 1 0 0 1 0 0 2
+SplineSet
+-328 1153 m 0,0,1
+ -218 1153 -218 1153 -218 1301.5 c 128,-1,2
+ -218 1450 -218 1450 -328 1450 c 0,3,4
+ -454 1450 -454 1450 -454 1301.5 c 128,-1,5
+ -454 1153 -454 1153 -328 1153 c 0,0,1
+-503 1468 m 1,6,7
+ -432 1524 -432 1524 -328 1524 c 0,8,9
+ -170 1524 -170 1524 -119 1390 c 0,10,11
+ -103 1349 -103 1349 -103 1298 c 0,12,13
+ -103 1196 -103 1196 -164.5 1133.5 c 128,-1,14
+ -226 1071 -226 1071 -342.5 1071 c 128,-1,15
+ -459 1071 -459 1071 -528 1152 c 1,16,17
+ -617 1071 -617 1071 -714.5 1071 c 128,-1,18
+ -812 1071 -812 1071 -847 1140 c 0,19,20
+ -858 1163 -858 1163 -858 1192 c 0,21,22
+ -858 1287 -858 1287 -701 1321 c 0,23,24
+ -654 1331 -654 1331 -585 1333 c 1,25,-1
+ -585 1350 l 2,26,27
+ -585 1351 -585 1351 -585 1352 c 128,-1,28
+ -585 1353 -585 1353 -585 1354 c 0,29,30
+ -585 1429 -585 1429 -656 1429 c 0,31,32
+ -700 1429 -700 1429 -733 1406 c 128,-1,33
+ -766 1383 -766 1383 -780 1383 c 0,34,35
+ -806 1383 -806 1383 -820 1406 c 1,36,-1
+ -840 1443 l 1,37,38
+ -755 1525 -755 1525 -655.5 1525 c 128,-1,39
+ -556 1525 -556 1525 -503 1468 c 1,6,7
+-748 1208 m 0,40,41
+ -748 1160 -748 1160 -694 1160 c 0,42,43
+ -693 1160 -693 1160 -692 1159 c 0,44,45
+ -638 1159 -638 1159 -585 1208 c 1,46,-1
+ -585 1275 l 1,47,48
+ -748 1267 -748 1267 -748 1208 c 0,40,41
+EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DD6
 Encoding: 7638 7638 3072
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -576 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 2800 772 N 1 0 0 1 0 0 2
+SplineSet
+-588 1274 m 1,0,1
+ -749 1264 -749 1264 -749 1206 c 0,2,3
+ -749 1158 -749 1158 -692.5 1158 c 128,-1,4
+ -636 1158 -636 1158 -588 1207 c 1,5,-1
+ -588 1274 l 1,0,1
+-840 1442 m 1,6,7
+ -756 1524 -756 1524 -648 1524 c 0,8,9
+ -525 1524 -525 1524 -489 1414 c 0,10,11
+ -478 1382 -478 1382 -478 1342 c 2,12,-1
+ -478 1249 l 1,13,-1
+ -396 1489 l 2,14,15
+ -386 1517 -386 1517 -358 1517 c 2,16,-1
+ -272 1517 l 1,17,-1
+ -448 1077 l 1,18,-1
+ -532 1077 l 2,19,20
+ -566 1077 -566 1077 -572 1108 c 1,21,-1
+ -575 1122 l 1,22,23
+ -638 1070 -638 1070 -718 1070 c 0,24,25
+ -813 1070 -813 1070 -847 1139 c 0,26,27
+ -858 1162 -858 1162 -858 1191 c 0,28,29
+ -858 1286 -858 1286 -701 1320 c 0,30,31
+ -654 1330 -654 1330 -588 1332 c 1,32,-1
+ -588 1349 l 2,33,34
+ -588 1428 -588 1428 -658 1428 c 0,35,36
+ -701 1428 -701 1428 -733.5 1405 c 128,-1,37
+ -766 1382 -766 1382 -780 1382 c 0,38,39
+ -806 1382 -806 1382 -820 1405 c 1,40,-1
+ -840 1442 l 1,6,7
+EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DD7
 Encoding: 7639 7639 3073
-Width: 866
+Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -542 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 50 231 N 1 0 0 1 0 0 2
+SplineSet
+-540 1171 m 1,0,1
+ -470 1152 -470 1152 -470 1101 c 0,2,3
+ -470 1049 -470 1049 -538 1033 c 0,4,5
+ -556 1029 -556 1029 -576 1029 c 0,6,7
+ -613 1029 -613 1029 -658 1049 c 1,8,-1
+ -647 1087 l 2,9,10
+ -640 1107 -640 1107 -620 1107 c 1,11,-1
+ -583 1097 l 1,12,13
+ -565 1097 -565 1097 -565.5 1107 c 128,-1,14
+ -566 1117 -566 1117 -636 1125 c 1,15,-1
+ -618 1178 l 1,16,17
+ -685 1192 -685 1192 -718 1231 c 0,18,19
+ -778 1303 -778 1303 -778 1402 c 0,20,21
+ -778 1502 -778 1502 -723 1565 c 0,22,23
+ -666 1630 -666 1630 -564 1630 c 0,24,25
+ -473 1630 -473 1630 -404 1558 c 1,26,-1
+ -433 1518 l 2,27,28
+ -446 1501 -446 1501 -460 1501 c 128,-1,29
+ -474 1501 -474 1501 -484 1508 c 0,30,31
+ -522 1536 -522 1536 -554 1536 c 0,32,33
+ -664 1536 -664 1536 -664 1397 c 0,34,35
+ -664 1293 -664 1293 -604 1265 c 0,36,37
+ -585 1256 -585 1256 -562 1256 c 128,-1,38
+ -539 1256 -539 1256 -525 1262 c 0,39,40
+ -500 1272 -500 1272 -486.5 1285 c 128,-1,41
+ -473 1298 -473 1298 -457 1298 c 128,-1,42
+ -441 1298 -441 1298 -430 1284 c 2,43,-1
+ -399 1248 l 1,44,45
+ -453 1182 -453 1182 -540 1171 c 1,0,1
+EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DD8
 Encoding: 7640 7640 3074
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
 -479 1459 m 1,0,1
- -514.176757812 1557.83105469 -514.176757812 1557.83105469 -684 1599 c 1,2,3
+ -514 1558 -514 1558 -684 1599 c 1,2,3
  -707 1612 -707 1612 -714 1622.5 c 128,-1,4
  -721 1633 -721 1633 -712 1655 c 1,5,-1
  -699 1694 l 1,6,7
@@ -93403,23 +93538,26 @@ SplineSet
  -715 1102 -715 1102 -744 1129 c 0,14,15
  -807 1189 -807 1189 -807 1285 c 0,16,17
  -807 1370 -807 1370 -751 1429 c 0,18,19
- -685.833007812 1497 -685.833007812 1497 -581 1497 c 0,20,21
+ -686 1497 -686 1497 -581 1497 c 0,20,21
  -530 1497 -530 1497 -479 1459 c 1,0,1
--467 1324 m 24,22,23
+-467 1324 m 8,22,23
  -482 1403 -482 1403 -582 1403 c 0,24,25
  -664 1403 -664 1403 -688 1333 c 0,26,27
  -696 1312 -696 1312 -696 1284.5 c 128,-1,28
- -696 1257 -696 1257 -687 1234 c 128,-1,29
- -678 1211 -678 1211 -663 1196 c 0,30,31
- -633 1165 -633 1165 -583.5 1165 c 128,-1,32
- -534 1165 -534 1165 -502 1203.5 c 0,33,34
- -455.068359375 1259.96484375 -455.068359375 1259.96484375 -467 1324 c 24,22,23
+ -696 1257 -696 1257 -687 1234 c 0,29,30
+ -678 1212 -678 1212 -663 1196 c 0,31,32
+ -633 1165 -633 1165 -584 1165 c 0,33,34
+ -534 1166 -534 1166 -502 1204 c 0,35,36
+ -465 1248 -465 1248 -465 1298 c 0,37,38
+ -465 1311 -465 1311 -467 1324 c 8,22,23
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DD9
 Encoding: 7641 7641 3075
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -93450,21 +93588,24 @@ SplineSet
  -430 1658 l 6,35,36
  -412 1631 -412 1631 -441 1611 c 5,37,-1
  -465 1595 l 5,7,8
--467 1323 m 28,38,39
+-467 1323 m 12,38,39
  -482 1402 -482 1402 -582 1402 c 4,40,41
  -664 1402 -664 1402 -688 1332 c 4,42,43
  -696 1311 -696 1311 -696 1283.5 c 132,-1,44
  -696 1256 -696 1256 -687 1233 c 132,-1,45
  -678 1210 -678 1210 -663 1195 c 4,46,47
  -633 1164 -633 1164 -583.5 1164 c 132,-1,48
- -534 1164 -534 1164 -502 1202.5 c 4,49,50
- -455.068359375 1258.96484375 -455.068359375 1258.96484375 -467 1323 c 28,38,39
+ -534 1164 -534 1164 -502 1202 c 4,49,50
+ -465 1247 -465 1247 -465 1297 c 0,51,52
+ -465 1310 -465 1310 -467 1323 c 12,38,39
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DDA
 Encoding: 7642 7642 3076
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -93496,11 +93637,13 @@ SplineSet
  -645 1543 -645 1543 -674 1508 c 128,-1,38
  -703 1473 -703 1473 -703 1406 c 0,30,31
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DDB
 Encoding: 7643 7643 3077
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -93529,11 +93672,13 @@ SplineSet
  -389 1311 l 1,34,-1
  -389 1124 l 1,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DDC
 Encoding: 7644 7644 3078
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -93559,11 +93704,13 @@ SplineSet
  -749 1721 l 1,23,-1
  -637 1721 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DDD
 Encoding: 7645 7645 3079
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -93574,11 +93721,13 @@ SplineSet
  -616 1754 l 1,3,-1
  -503 1754 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DDE
 Encoding: 7646 7646 3080
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -93591,11 +93740,13 @@ SplineSet
  -695 1521 l 5,5,-1
  -585 1521 l 5,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DDF
 Encoding: 7647 7647 3081
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -93621,11 +93772,13 @@ SplineSet
  -711 1555 -711 1555 -696 1530 c 2,24,-1
  -561 1302 l 2,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DE0
 Encoding: 7648 7648 3082
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -93644,532 +93797,721 @@ SplineSet
  -360 1081 l 1,16,-1
  -472 1081 l 1,17,-1
  -472 1352 l 2,18,19
- -471 1432 -471 1432 -545 1432 c 0,0,1
+ -472 1353 -472 1353 -472 1354 c 0,20,21
+ -472 1432 -472 1432 -545 1432 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DE1
 Encoding: 7649 7649 3083
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -569 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 2800 772 N 1 0 0 1 0 0 2
+SplineSet
+-772 1555 m 1,0,-1
+ -707 1555 l 2,1,2
+ -685 1555 -685 1555 -666 1528 c 0,3,4
+ -610 1450 -610 1450 -578 1405 c 0,5,6
+ -506 1304 -506 1304 -478 1265 c 1,7,-1
+ -478 1554 l 1,8,-1
+ -366 1554 l 1,9,-1
+ -366 1081 l 1,10,-1
+ -431 1081 l 1,11,12
+ -498 1176 l 2,13,14
+ -528 1220 -528 1220 -560 1264.5 c 128,-1,15
+ -592 1309 -592 1309 -610.5 1335 c 128,-1,16
+ -629 1361 -629 1361 -641 1377.5 c 128,-1,17
+ -653 1394 -653 1394 -660 1404 c 1,18,-1
+ -660 1082 l 1,19,-1
+ -772 1082 l 1,20,-1
+ -772 1555 l 1,0,-1
+EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DE2
 Encoding: 7650 7650 3084
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -540 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 2800 772 N 1 0 0 1 0 0 2
+SplineSet
+-384 1389 m 0,0,1
+ -384 1303 -384 1303 -469 1267 c 1,2,3
+ -466 1263 -466 1263 -463 1259 c 2,4,-1
+ -329 1081 l 1,5,-1
+ -430 1081 l 2,6,7
+ -458 1081 -458 1081 -472 1101 c 2,8,-1
+ -572 1233 l 1,9,10
+ -574 1240 -574 1240 -586 1240 c 2,11,-1
+ -608 1240 l 1,12,-1
+ -608 1081 l 1,13,-1
+ -717 1081 l 1,14,-1
+ -717 1521 l 1,15,-1
+ -568 1521 l 2,16,17
+ -432 1521 -432 1521 -395 1442 c 0,18,19
+ -384 1418 -384 1418 -384 1389 c 0,0,1
+-570 1328 m 2,20,21
+ -491 1328 -491 1328 -491 1380 c 0,22,23
+ -491 1381 -491 1381 -491 1382 c 0,24,25
+ -491 1428 -491 1428 -568 1428 c 2,26,-1
+ -608 1428 l 1,27,-1
+ -608 1328 l 1,28,-1
+ -570 1328 l 2,20,21
+EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DE3
 Encoding: 7651 7651 3085
 Width: 0
-Flags: W
+GlyphClass: 4
+AnchorPoint: "Ancre-0" -540 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 2800 772 N 1 0 0 1 0 0 2
+SplineSet
+-570 1328 m 2,0,1
+ -491 1328 -491 1328 -491 1380 c 0,2,3
+ -491 1381 -491 1381 -491 1382 c 0,4,5
+ -491 1428 -491 1428 -568 1428 c 2,6,-1
+ -717 1428 l 1,7,-1
+ -717 1521 l 1,8,-1
+ -568 1521 l 2,9,10
+ -432 1521 -432 1521 -395 1442 c 0,11,12
+ -384 1418 -384 1418 -384 1389 c 0,13,14
+ -384 1303 -384 1303 -469 1267 c 1,15,16
+ -463 1259 l 2,17,-1
+ -329 1081 l 1,18,-1
+ -430 1081 l 2,19,20
+ -457 1081 -457 1081 -472 1101 c 2,21,-1
+ -642 1328 l 1,22,-1
+ -570 1328 l 2,0,1
+EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DE4
 Encoding: 7652 7652 3086
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -553 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
-586 650 m 1,0,-1
- 561 611 l 1,1,2
- 551 593 551 593 535 593 c 128,-1,3
- 519 593 519 593 510 599 c 0,4,5
- 470 624 470 624 445 624 c 0,6,7
- 376 624 376 624 376 582 c 0,8,9
- 376 557 376 557 431 539 c 0,10,11
- 450 533 450 533 471 527 c 0,12,13
- 588 492 588 492 588 408 c 0,14,15
- 588 309 588 309 486 274 c 0,16,17
- 454 262 454 262 410 262 c 0,18,19
- 323 262 323 262 252 330 c 1,20,-1
- 277 370 l 2,21,22
- 291 391 291 391 309 391 c 128,-1,23
- 327 391 327 391 337 383 c 0,24,25
- 376 351 376 351 405.5 351 c 128,-1,26
- 435 351 435 351 446 355 c 0,27,28
- 480 368 480 368 481 402 c 0,29,30
- 481 423 481 423 461.5 432 c 128,-1,31
- 442 441 442 441 424 447 c 0,32,33
- 332 476 332 476 311 494 c 0,34,35
- 268 531 268 531 268 570.5 c 128,-1,36
- 268 610 268 610 279 634 c 0,37,38
- 303 684 303 684 364 704 c 0,39,40
- 395 716 395 716 437 716 c 0,41,42
- 520 716 520 716 586 650 c 1,0,-1
+-417 1456 m 1,0,-1
+ -442 1417 l 1,1,2
+ -452 1399 -452 1399 -468 1399 c 128,-1,3
+ -484 1399 -484 1399 -493 1405 c 0,4,5
+ -533 1430 -533 1430 -558 1430 c 0,6,7
+ -627 1430 -627 1430 -627 1388 c 0,8,9
+ -627 1363 -627 1363 -572 1345 c 0,10,11
+ -553 1339 -553 1339 -532 1333 c 0,12,13
+ -415 1298 -415 1298 -415 1214 c 0,14,15
+ -415 1115 -415 1115 -517 1080 c 0,16,17
+ -549 1068 -549 1068 -593 1068 c 0,18,19
+ -680 1068 -680 1068 -751 1136 c 1,20,-1
+ -726 1176 l 2,21,22
+ -712 1197 -712 1197 -694 1197 c 128,-1,23
+ -676 1197 -676 1197 -666 1189 c 0,24,25
+ -627 1157 -627 1157 -597.5 1157 c 128,-1,26
+ -568 1157 -568 1157 -557 1161 c 0,27,28
+ -523 1174 -523 1174 -522 1208 c 0,29,30
+ -522 1229 -522 1229 -541.5 1238 c 128,-1,31
+ -561 1247 -561 1247 -579 1253 c 0,32,33
+ -671 1282 -671 1282 -692 1300 c 0,34,35
+ -735 1337 -735 1337 -735 1376.5 c 128,-1,36
+ -735 1416 -735 1416 -724 1440 c 0,37,38
+ -700 1490 -700 1490 -639 1510 c 0,39,40
+ -608 1522 -608 1522 -566 1522 c 0,41,42
+ -483 1522 -483 1522 -417 1456 c 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DE5
 Encoding: 7653 7653 3087
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -545 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
-246 858 m 2,0,1
- 246 972 246 972 341 1007 c 0,2,3
- 371 1018 371 1018 404 1018 c 128,-1,4
- 437 1018 437 1018 477 1004 c 1,5,-1
- 473 950 l 1,6,7
- 464 924 464 924 433 927 c 0,8,9
- 427 927 427 927 416 927 c 0,10,11
- 358 927 358 927 358 847 c 2,12,-1
- 358 386 l 1,13,-1
- 246 386 l 1,14,-1
- 246 749 l 1,15,-1
- 217 753 l 2,16,17
- 182 757 182 757 182 788 c 2,18,-1
- 182 834 l 1,19,-1
- 246 834 l 1,20,-1
- 246 858 l 2,0,1
+-602 1552 m 2,0,1
+ -602 1666 -602 1666 -507 1701 c 0,2,3
+ -477 1712 -477 1712 -444 1712 c 128,-1,4
+ -411 1712 -411 1712 -371 1698 c 1,5,-1
+ -375 1644 l 1,6,7
+ -384 1618 -384 1618 -415 1621 c 0,8,9
+ -421 1621 -421 1621 -432 1621 c 0,10,11
+ -490 1621 -490 1621 -490 1541 c 2,12,-1
+ -490 1080 l 1,13,-1
+ -602 1080 l 1,14,-1
+ -602 1443 l 1,15,-1
+ -631 1447 l 2,16,17
+ -666 1451 -666 1451 -666 1482 c 2,18,-1
+ -666 1528 l 1,19,-1
+ -602 1528 l 1,20,-1
+ -602 1552 l 2,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DE6
 Encoding: 7654 7654 3088
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -558 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
-593 709 m 1,0,-1
- 593 663 l 2,1,2
- 593 642 593 642 579 625 c 1,3,-1
- 388 364 l 1,4,-1
- 586 364 l 1,5,-1
- 586 269 l 1,6,-1
- 249 269 l 1,7,-1
- 249 315 l 2,8,9
- 249 331 249 331 263 349 c 2,10,-1
- 455 614 l 1,11,-1
- 262 614 l 1,12,-1
- 262 709 l 1,13,-1
- 593 709 l 1,0,-1
+-386 1521 m 1,0,-1
+ -386 1475 l 2,1,2
+ -386 1454 -386 1454 -400 1437 c 1,3,-1
+ -591 1176 l 1,4,-1
+ -393 1176 l 1,5,-1
+ -393 1081 l 1,6,-1
+ -730 1081 l 1,7,-1
+ -730 1127 l 2,8,9
+ -730 1143 -730 1143 -716 1161 c 2,10,-1
+ -524 1426 l 1,11,-1
+ -717 1426 l 1,12,-1
+ -717 1521 l 1,13,-1
+ -386 1521 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DE7
 Encoding: 7655 7655 3089
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -554 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
-791 407 m 0,0,1
- 792 358 792 358 844 358 c 2,2,-1
- 886 358 l 1,3,-1
- 886 310 l 2,4,5
- 886 291 886 291 866.5 278.5 c 0,6,7
- 846 266 846 266 816 266 c 0,8,9
- 741 266 741 266 709 329 c 1,10,11
- 652 263 652 263 566 263 c 0,12,13
- 483 263 483 263 427 323 c 0,14,15
- 372 383 372 383 372 483 c 0,16,17
- 372 588 372 588 433 653 c 128,-1,18
- 494 718 494 718 578 718 c 128,-1,19
- 662 718 662 718 718 667 c 1,20,21
- 723 694 723 694 732 702 c 0,22,23
- 740 710 740 710 756 710 c 2,24,-1
- 822 710 l 1,25,-1
- 796 479 l 2,26,27
- 791 429 791 429 791 407 c 0,0,1
-699 566 m 1,28,29
- 670 624 670 624 600 624 c 0,30,31
- 522 624 522 624 496 549 c 0,32,33
- 486 522 486 522 486 487 c 0,34,35
- 486 391 486 391 547 367 c 0,36,37
- 564 360 564 360 583 360 c 0,38,39
- 673 360 673 360 687 472 c 2,40,-1
- 699 566 l 1,28,29
+-368 1214 m 0,0,1
+ -367 1165 -367 1165 -315 1165 c 2,2,-1
+ -273 1165 l 1,3,-1
+ -273 1117 l 2,4,5
+ -273 1097 -273 1097 -293 1085 c 128,-1,6
+ -313 1073 -313 1073 -343 1073 c 0,7,8
+ -418 1073 -418 1073 -450 1136 c 1,9,10
+ -507 1070 -507 1070 -593 1070 c 0,11,12
+ -676 1070 -676 1070 -732 1130 c 0,13,14
+ -787 1190 -787 1190 -787 1290 c 0,15,16
+ -787 1395 -787 1395 -726 1460 c 128,-1,17
+ -665 1525 -665 1525 -581 1525 c 128,-1,18
+ -497 1525 -497 1525 -441 1474 c 1,19,20
+ -436 1501 -436 1501 -427 1509 c 0,21,22
+ -419 1517 -419 1517 -403 1517 c 2,23,-1
+ -337 1517 l 1,24,-1
+ -363 1286 l 2,25,26
+ -368 1236 -368 1236 -368 1214 c 0,0,1
+-460 1373 m 1,27,28
+ -489 1431 -489 1431 -559 1431 c 0,29,30
+ -637 1431 -637 1431 -663 1356 c 0,31,32
+ -673 1329 -673 1329 -673 1294 c 0,33,34
+ -673 1198 -673 1198 -612 1174 c 0,35,36
+ -595 1167 -595 1167 -576 1167 c 0,37,38
+ -486 1167 -486 1167 -472 1279 c 2,39,-1
+ -460 1373 l 1,27,28
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DE8
 Encoding: 7656 7656 3090
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -546 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
-484 422 m 1,0,1
- 480 387 480 387 448 387 c 2,2,-1
- 380 387 l 1,3,-1
- 380 1027 l 1,4,-1
- 492 1027 l 1,5,-1
- 492 805 l 1,6,7
- 547 850 547 850 602 850 c 0,8,9
- 747 850 747 850 787 718 c 0,10,11
- 799 676 799 676 799 624 c 0,12,13
- 799 518 799 518 745 450 c 0,14,15
- 689 381 689 381 609.5 381 c 128,-1,16
- 530 381 530 381 484 422 c 1,0,1
-576 475 m 0,17,18
- 686 475 686 475 685.5 615.5 c 0,19,20
- 684 756 684 756 590 756 c 0,21,22
- 535 756 535 756 492 704 c 1,23,-1
- 492 513 l 1,24,25
- 525 475 525 475 576 475 c 0,17,18
+-650 1118 m 1,0,1
+ -654 1083 -654 1083 -686 1083 c 2,2,-1
+ -754 1083 l 1,3,-1
+ -754 1723 l 1,4,-1
+ -642 1723 l 1,5,-1
+ -642 1501 l 1,6,7
+ -587 1546 -587 1546 -532 1546 c 0,8,9
+ -387 1546 -387 1546 -347 1414 c 0,10,11
+ -335 1372 -335 1372 -335 1320 c 0,12,13
+ -335 1214 -335 1214 -389 1146 c 0,14,15
+ -445 1077 -445 1077 -524.5 1077 c 128,-1,16
+ -604 1077 -604 1077 -650 1118 c 1,0,1
+-558 1171 m 0,17,18
+ -448 1171 -448 1171 -448 1310 c 0,19,20
+ -448 1452 -448 1452 -544 1452 c 0,21,22
+ -599 1452 -599 1452 -642 1400 c 1,23,-1
+ -642 1209 l 1,24,25
+ -609 1171 -609 1171 -558 1171 c 0,17,18
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DE9
 Encoding: 7657 7657 3091
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -520 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
-702 624 m 1,0,1
- 809 579 809 579 809 463 c 0,2,3
- 809 380 809 380 752 323 c 0,4,5
- 693 264 693 264 617.5 264 c 128,-1,6
- 542 264 542 264 500 293 c 1,7,-1
- 500 128 l 1,8,-1
- 388 128 l 1,9,-1
- 388 677 l 2,10,11
- 388 916 388 916 586 916 c 0,12,13
- 674 916 674 916 724 866 c 0,14,15
- 769 821 769 821 769 744 c 128,-1,16
- 769 667 769 667 702 624 c 1,0,1
-533 676 m 1,17,-1
- 566 676 l 2,18,19
- 662 676 662 676 662 750.5 c 128,-1,20
- 662 825 662 825 584 825 c 0,21,22
- 542 825 542 825 526 800 c 0,23,24
- 500 757 500 757 500 670 c 2,25,-1
- 500 400 l 1,26,27
- 530 358 530 358 570 358 c 0,28,29
- 663 358 663 358 688 430 c 0,30,31
- 696 451 696 451 696 476 c 0,32,33
- 696 582 696 582 576 582 c 2,34,-1
- 533 582 l 1,35,-1
- 533 676 l 1,17,-1
+-428 1522 m 1,0,1
+ -322 1477 -322 1477 -322 1361 c 0,2,3
+ -322 1278 -322 1278 -378 1221 c 0,4,5
+ -437 1162 -437 1162 -512.5 1162 c 128,-1,6
+ -588 1162 -588 1162 -630 1191 c 1,7,-1
+ -630 1026 l 1,8,-1
+ -742 1026 l 1,9,-1
+ -742 1575 l 2,10,11
+ -742 1814 -742 1814 -544 1814 c 0,12,13
+ -456 1814 -456 1814 -406 1764 c 0,14,15
+ -361 1719 -361 1719 -361 1642 c 128,-1,16
+ -361 1565 -361 1565 -428 1522 c 1,0,1
+-598 1574 m 1,17,-1
+ -564 1574 l 2,18,19
+ -468 1574 -468 1574 -468 1648.5 c 128,-1,20
+ -468 1723 -468 1723 -546 1723 c 0,21,22
+ -588 1723 -588 1723 -604 1698 c 0,23,24
+ -630 1655 -630 1655 -630 1568 c 2,25,-1
+ -630 1298 l 1,26,27
+ -600 1256 -600 1256 -560 1256 c 0,28,29
+ -466 1256 -466 1256 -442 1328 c 0,30,31
+ -434 1349 -434 1349 -434 1374 c 0,32,33
+ -434 1480 -434 1480 -554 1480 c 2,34,-1
+ -598 1480 l 1,35,-1
+ -598 1574 l 1,17,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DEA
 Encoding: 7658 7658 3092
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -570 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
-315 632 m 1,0,1
- 384 716 384 716 510 716 c 0,2,3
- 611 716 611 716 673 655 c 0,4,5
- 738 592 738 592 738 482 c 0,6,7
- 738 388 738 388 678 327 c 0,8,9
- 616 263 616 263 514 263 c 0,10,11
- 427 263 427 263 371 316 c 0,12,13
- 313 370 313 370 313 463 c 0,14,15
- 314 508 314 508 350 508 c 2,16,-1
- 625 508 l 1,17,18
- 614 622 614 622 504 621 c 0,19,20
- 455 621 455 621 420.5 600 c 128,-1,21
- 386 579 386 579 376 579 c 0,22,23
- 356 579 356 579 346 591 c 2,24,-1
- 315 632 l 1,0,1
-418 442 m 1,25,26
- 428 354 428 354 512 354 c 0,27,28
- 599 354 599 354 621 442 c 1,29,-1
- 418 442 l 1,25,26
+-766 1439 m 1,0,1
+ -697 1523 -697 1523 -571 1523 c 0,2,3
+ -470 1523 -470 1523 -408 1462 c 0,4,5
+ -343 1399 -343 1399 -343 1289 c 0,6,7
+ -343 1195 -343 1195 -403 1134 c 0,8,9
+ -465 1070 -465 1070 -567 1070 c 0,10,11
+ -654 1070 -654 1070 -710 1123 c 0,12,13
+ -768 1177 -768 1177 -768 1270 c 0,14,15
+ -767 1315 -767 1315 -731 1315 c 2,16,-1
+ -456 1315 l 1,17,18
+ -467 1428 -467 1428 -575 1428 c 0,19,20
+ -576 1428 -576 1428 -577 1428 c 0,21,22
+ -626 1428 -626 1428 -660.5 1407 c 128,-1,23
+ -695 1386 -695 1386 -705 1386 c 0,24,25
+ -725 1386 -725 1386 -735 1398 c 2,26,-1
+ -766 1439 l 1,0,1
+-663 1249 m 1,27,28
+ -653 1161 -653 1161 -569 1161 c 0,29,30
+ -482 1161 -482 1161 -460 1249 c 1,31,-1
+ -663 1249 l 1,27,28
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DEB
 Encoding: 7659 7659 3093
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -555 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
-251 858 m 2,0,1
- 251 972 251 972 346 1007 c 0,2,3
- 376 1018 376 1018 405 1018 c 128,-1,4
- 434 1018 434 1018 484 1006 c 1,5,-1
- 480 952 l 2,6,7
- 478 929 478 929 456 926 c 0,8,9
- 445 924 445 924 427.5 924 c 128,-1,10
- 410 924 410 924 398 921 c 0,11,12
- 361 910 361 910 361 854 c 2,13,-1
- 361 834 l 1,14,-1
- 479 834 l 1,15,-1
- 479 744 l 1,16,-1
- 363 744 l 1,17,-1
- 363 386 l 1,18,-1
- 251 386 l 1,19,-1
- 251 749 l 1,20,-1
- 221 753 l 2,21,22
- 185 757 185 757 185 788 c 2,23,-1
- 185 834 l 1,24,-1
- 251 834 l 1,25,-1
- 251 858 l 2,0,1
+-622 1543 m 2,0,1
+ -622 1657 -622 1657 -527 1692 c 0,2,3
+ -497 1703 -497 1703 -468 1703 c 128,-1,4
+ -439 1703 -439 1703 -389 1691 c 1,5,-1
+ -393 1637 l 2,6,7
+ -395 1614 -395 1614 -417 1611 c 0,8,9
+ -428 1609 -428 1609 -445.5 1609 c 128,-1,10
+ -463 1609 -463 1609 -475 1606 c 0,11,12
+ -512 1595 -512 1595 -512 1539 c 2,13,-1
+ -512 1519 l 1,14,-1
+ -394 1519 l 1,15,-1
+ -394 1429 l 1,16,-1
+ -510 1429 l 1,17,-1
+ -510 1071 l 1,18,-1
+ -622 1071 l 1,19,-1
+ -622 1434 l 1,20,-1
+ -652 1438 l 2,21,22
+ -688 1442 -688 1442 -688 1473 c 2,23,-1
+ -688 1519 l 1,24,-1
+ -622 1519 l 1,25,-1
+ -622 1543 l 2,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DEC
 Encoding: 7660 7660 3094
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -548 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 2800 772 N 1 0 0 1 0 0 2
+SplineSet
+-489 1504 m 1,0,1
+ -481 1507 -481 1507 -471 1538 c 1,2,-1
+ -405 1538 l 1,3,-1
+ -405 1522 l 2,4,5
+ -405 1451 -405 1451 -459 1426 c 0,6,7
+ -473 1420 -473 1420 -489 1419 c 1,8,-1
+ -489 1357 l 1,9,10
+ -481 1360 -481 1360 -471 1392 c 1,11,-1
+ -405 1392 l 1,12,-1
+ -405 1377 l 2,13,14
+ -405 1307 -405 1307 -459 1281 c 0,15,16
+ -473 1275 -473 1275 -489 1274 c 1,17,-1
+ -489 1081 l 1,18,-1
+ -601 1081 l 1,19,-1
+ -601 1306 l 1,20,21
+ -616 1302 -616 1302 -625 1268 c 1,22,-1
+ -691 1268 l 1,23,-1
+ -691 1285 l 2,24,25
+ -691 1361 -691 1361 -635 1387 c 0,26,27
+ -619 1394 -619 1394 -601 1394 c 1,28,-1
+ -601 1459 l 1,29,30
+ -616 1456 -616 1456 -625 1422 c 1,31,-1
+ -691 1422 l 1,32,-1
+ -691 1437 l 2,33,34
+ -691 1508 -691 1508 -636 1533 c 0,35,36
+ -619 1540 -619 1540 -601 1541 c 1,37,-1
+ -601 1721 l 1,38,-1
+ -489 1721 l 1,39,-1
+ -489 1504 l 1,0,1
+EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DED
 Encoding: 7661 7661 3095
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -555 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 2800 772 N 1 0 0 1 0 0 2
+SplineSet
+-721 1327.5 m 128,-1,1
+ -721 1187 -721 1187 -609.5 1187 c 128,-1,2
+ -498 1187 -498 1187 -498 1327.5 c 128,-1,3
+ -498 1468 -498 1468 -609.5 1468 c 128,-1,0
+ -721 1468 -721 1468 -721 1327.5 c 128,-1,1
+-835 1327 m 0,4,5
+ -835 1493 -835 1493 -703 1546 c 0,6,7
+ -664 1562 -664 1562 -610 1562 c 0,8,9
+ -558 1562 -558 1562 -516 1546 c 0,10,11
+ -384 1494 -384 1494 -384 1327 c 0,12,13
+ -384 1220 -384 1220 -444 1157 c 0,14,15
+ -505 1092 -505 1092 -609 1092 c 0,16,17
+ -639 1092 -639 1092 -666 1097 c 1,18,-1
+ -722 993 l 1,19,-1
+ -800 1034 l 1,20,-1
+ -747 1132 l 1,21,22
+ -762 1143 -762 1143 -775 1157 c 0,23,24
+ -835 1220 -835 1220 -835 1327 c 0,4,5
+EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DEE
 Encoding: 7662 7662 3096
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -570 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
-587 160 m 0,0,1
- 534 160 534 160 490 191 c 1,2,-1
- 490 34 l 1,3,-1
- 378 34 l 1,4,-1
- 378 623 l 1,5,-1
- 442 623 l 2,6,7
- 475 623 475 623 478 593 c 2,8,-1
- 481 575 l 1,9,10
- 542 631 542 631 616 631 c 0,11,12
- 700 631 700 631 750 569 c 0,13,14
- 798 509 798 509 798 398 c 0,15,16
- 798 295 798 295 742 227.5 c 128,-1,17
- 686 160 686 160 587 160 c 0,0,1
-574 254 m 0,18,19
- 684 254 684 254 684 394 c 128,-1,20
- 684 534 684 534 590 534 c 0,21,22
- 531 534 531 534 490 482 c 1,23,-1
- 490 292 l 1,24,25
- 522 254 522 254 574 254 c 0,18,19
+-578 1161 m 0,0,1
+ -631 1161 -631 1161 -675 1192 c 1,2,-1
+ -675 1035 l 1,3,-1
+ -787 1035 l 1,4,-1
+ -787 1624 l 1,5,-1
+ -723 1624 l 2,6,7
+ -690 1624 -690 1624 -687 1594 c 2,8,-1
+ -684 1576 l 1,9,10
+ -623 1632 -623 1632 -549 1632 c 0,11,12
+ -465 1632 -465 1632 -415 1570 c 0,13,14
+ -367 1510 -367 1510 -367 1399 c 0,15,16
+ -367 1296 -367 1296 -423 1228.5 c 128,-1,17
+ -479 1161 -479 1161 -578 1161 c 0,0,1
+-591 1255 m 0,18,19
+ -481 1255 -481 1255 -481 1395 c 128,-1,20
+ -481 1535 -481 1535 -575 1535 c 0,21,22
+ -634 1535 -634 1535 -675 1483 c 1,23,-1
+ -675 1293 l 1,24,25
+ -643 1255 -643 1255 -591 1255 c 0,18,19
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DEF
 Encoding: 7663 7663 3097
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -569 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
-372 818 m 1,0,-1
- 347 824 l 1,1,2
- 320 824 320 824 320 753 c 2,3,-1
- 320 303 l 2,4,5
- 320 182 320 182 248 145 c 0,6,7
- 223 132 223 132 196 132 c 0,8,9
- 155 132 155 132 112 155 c 1,10,-1
- 123 202 l 2,11,12
- 129 230 129 230 156 230 c 1,13,-1
- 181 224 l 1,14,15
- 208 224 208 224 207 294 c 2,16,-1
- 207 748 l 2,17,18
- 207 866 207 866 280 903 c 0,19,20
- 305 916 305 916 331 916 c 0,21,22
- 372 916 372 916 416 893 c 1,23,-1
- 405 846 l 2,24,25
- 400 818 400 818 372 818 c 1,0,-1
+-469 1701 m 1,0,-1
+ -494 1707 l 1,1,2
+ -521 1707 -521 1707 -521 1636 c 2,3,-1
+ -521 1186 l 2,4,5
+ -521 1065 -521 1065 -593 1028 c 0,6,7
+ -618 1015 -618 1015 -645 1015 c 0,8,9
+ -686 1015 -686 1015 -729 1038 c 1,10,-1
+ -718 1085 l 2,11,12
+ -712 1113 -712 1113 -685 1113 c 1,13,-1
+ -660 1107 l 1,14,15
+ -634 1107 -634 1107 -634 1172 c 0,16,17
+ -634 1174 -634 1174 -634 1177 c 2,18,-1
+ -634 1631 l 2,19,20
+ -634 1749 -634 1749 -561 1786 c 0,21,22
+ -536 1799 -536 1799 -510 1799 c 0,23,24
+ -469 1799 -469 1799 -425 1776 c 1,25,-1
+ -436 1729 l 2,26,27
+ -441 1701 -441 1701 -469 1701 c 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DF0
 Encoding: 7664 7664 3098
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -537 1122 mark 0
 LayerCount: 2
 Fore
-Refer: 2800 772 N 1 0 0 1 0 0 2
+SplineSet
+-470 1149 m 1,0,1
+ -529 1097 -529 1097 -603 1097 c 0,2,3
+ -622 1097 -622 1097 -638 1100 c 1,4,-1
+ -696 993 l 1,5,-1
+ -774 1034 l 1,6,-1
+ -717 1139 l 1,7,8
+ -742 1165 -742 1165 -755 1207 c 0,9,10
+ -765 1239 -765 1239 -765 1279 c 2,11,-1
+ -765 1577 l 1,12,-1
+ -653 1577 l 1,13,-1
+ -653 1279 l 2,14,15
+ -653 1192 -653 1192 -581 1192 c 0,16,17
+ -580 1192 -580 1192 -579 1192 c 0,18,19
+ -526 1192 -526 1192 -479 1242 c 1,20,-1
+ -479 1577 l 1,21,-1
+ -367 1577 l 1,22,-1
+ -367 1103 l 1,23,-1
+ -431 1103 l 2,24,25
+ -464 1103 -464 1103 -468 1134 c 2,26,-1
+ -470 1149 l 1,0,1
+EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DF1
 Encoding: 7665 7665 3099
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -547 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
-412 710 m 1,0,-1
- 498 710 l 2,1,2
- 529 710 529 710 536 681 c 2,3,-1
- 614 403 l 1,4,-1
- 709 683 l 2,5,6
- 718 710 718 710 753 710 c 2,7,-1
- 793 710 l 2,8,9
- 828 710 828 710 838 683 c 2,10,-1
- 930 402 l 1,11,-1
- 1010 681 l 2,12,13
- 1018 710 1018 710 1049 710 c 2,14,-1
- 1130 710 l 1,15,-1
- 985 282 l 1,16,-1
- 970 237 l 1,17,-1
- 907 237 l 2,18,19
- 884 237 884 237 873 262 c 1,20,-1
- 772 542 l 1,21,-1
- 667 262 l 1,22,23
- 655 237 655 237 633 237 c 2,24,-1
- 561 237 l 1,25,-1
- 558 282 l 1,26,-1
- 412 710 l 1,0,-1
+-906 1554 m 1,0,-1
+ -820 1554 l 2,1,2
+ -789 1554 -789 1554 -782 1525 c 2,3,-1
+ -704 1247 l 1,4,-1
+ -609 1527 l 2,5,6
+ -600 1554 -600 1554 -565 1554 c 2,7,-1
+ -525 1554 l 2,8,9
+ -490 1554 -490 1554 -480 1527 c 2,10,-1
+ -388 1246 l 1,11,-1
+ -308 1525 l 2,12,13
+ -300 1554 -300 1554 -269 1554 c 2,14,-1
+ -188 1554 l 1,15,-1
+ -348 1081 l 1,16,-1
+ -411 1081 l 2,17,18
+ -434 1081 -434 1081 -445 1106 c 1,19,-1
+ -546 1386 l 1,20,-1
+ -651 1106 l 1,21,22
+ -663 1081 -663 1081 -685 1081 c 2,23,-1
+ -757 1081 l 1,24,-1
+ -906 1554 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DF2
 Encoding: 7666 7666 3100
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -514 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
-314 749 m 1,0,1
- 400 832 400 832 506 832 c 0,2,3
- 629 832 629 832 665 726 c 0,4,5
- 676 694 676 694 676 656 c 2,6,-1
- 676 368 l 1,7,-1
- 624 368 l 2,8,9
- 590 368 590 368 582 399 c 2,10,-1
- 578 414 l 1,11,12
- 516 362 516 362 436 362 c 0,13,14
- 340 362 340 362 307 434 c 0,15,16
- 296 458 296 458 296 488 c 0,17,18
- 296 588 296 588 452 623 c 0,19,20
- 499 634 499 634 566 636 c 1,21,-1
- 566 654 l 2,22,23
- 566 736 566 736 496 736 c 0,24,25
- 453 736 453 736 420.5 713 c 128,-1,26
- 388 690 388 690 373 690 c 0,27,28
- 348 690 348 690 334 713 c 1,29,-1
- 314 749 l 1,0,1
-405 498 m 0,30,31
- 405 450 405 450 461.5 450 c 128,-1,32
- 518 450 518 450 566 499 c 1,33,-1
- 566 565 l 1,34,35
- 405 556 405 556 405 498 c 0,30,31
-410 978 m 0,36,37
- 455 978 455 978 472 937 c 0,38,39
- 477 924 477 924 477 912 c 0,40,41
- 477 867 477 867 435 851 c 0,42,43
- 423 846 423 846 409.5 846 c 128,-1,44
- 396 846 396 846 384 851 c 0,45,46
- 344 868 344 868 344 912 c 0,47,48
- 344 955 344 955 384 973 c 0,49,50
- 396 978 396 978 410 978 c 0,36,37
-576.5 978 m 128,-1,52
- 621 978 621 978 638 937 c 0,53,54
- 643 924 643 924 643 912 c 0,55,56
- 643 867 643 867 601 851 c 0,57,58
- 588 846 588 846 576 846 c 0,59,60
- 533 846 533 846 515 886 c 0,61,62
- 510 898 510 898 510 911.5 c 128,-1,63
- 510 925 510 925 515 937 c 0,64,51
- 532 978 532 978 576.5 978 c 128,-1,52
+-719 1462 m 1,0,1
+ -633 1545 -633 1545 -527 1545 c 0,2,3
+ -404 1545 -404 1545 -368 1439 c 0,4,5
+ -357 1407 -357 1407 -357 1369 c 2,6,-1
+ -357 1081 l 1,7,-1
+ -409 1081 l 2,8,9
+ -443 1081 -443 1081 -451 1112 c 2,10,-1
+ -455 1127 l 1,11,12
+ -517 1075 -517 1075 -597 1075 c 0,13,14
+ -693 1075 -693 1075 -726 1147 c 0,15,16
+ -737 1171 -737 1171 -737 1201 c 0,17,18
+ -737 1301 -737 1301 -581 1336 c 0,19,20
+ -534 1347 -534 1347 -467 1349 c 1,21,-1
+ -467 1367 l 2,22,23
+ -467 1449 -467 1449 -537 1449 c 0,24,25
+ -580 1449 -580 1449 -612.5 1426 c 128,-1,26
+ -645 1403 -645 1403 -660 1403 c 0,27,28
+ -685 1403 -685 1403 -699 1426 c 1,29,-1
+ -719 1462 l 1,0,1
+-628 1211 m 0,30,31
+ -628 1163 -628 1163 -571.5 1163 c 128,-1,32
+ -515 1163 -515 1163 -467 1212 c 1,33,-1
+ -467 1278 l 1,34,35
+ -628 1269 -628 1269 -628 1211 c 0,30,31
+-623 1691 m 0,36,37
+ -578 1691 -578 1691 -561 1650 c 0,38,39
+ -556 1637 -556 1637 -556 1625 c 0,40,41
+ -556 1580 -556 1580 -598 1564 c 0,42,43
+ -610 1559 -610 1559 -623.5 1559 c 128,-1,44
+ -637 1559 -637 1559 -649 1564 c 0,45,46
+ -689 1581 -689 1581 -689 1625 c 0,47,48
+ -689 1668 -689 1668 -649 1686 c 0,49,50
+ -637 1691 -637 1691 -623 1691 c 0,36,37
+-456.5 1691 m 128,-1,52
+ -412 1691 -412 1691 -395 1650 c 0,53,54
+ -390 1637 -390 1637 -390 1625 c 0,55,56
+ -390 1580 -390 1580 -432 1564 c 0,57,58
+ -445 1559 -445 1559 -457 1559 c 0,59,60
+ -500 1559 -500 1559 -518 1599 c 0,61,62
+ -523 1611 -523 1611 -523 1624.5 c 128,-1,63
+ -523 1638 -523 1638 -518 1650 c 0,64,51
+ -501 1691 -501 1691 -456.5 1691 c 128,-1,52
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DF3
 Encoding: 7667 7667 3101
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -555 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
-331 597 m 0,0,1
- 331 763 331 763 463 816 c 0,2,3
- 505 833 505 833 556.5 832.5 c 128,-1,4
- 608 832 608 832 650 816 c 0,5,6
- 782 764 782 764 782 597 c 0,7,8
- 782 490 782 490 722 427 c 0,9,10
- 661 362 661 362 557 362 c 128,-1,11
- 453 362 453 362 391 427 c 0,12,13
- 331 490 331 490 331 597 c 0,0,1
-445 597.5 m 128,-1,15
- 445 457 445 457 556.5 457 c 128,-1,16
- 668 457 668 457 668 597.5 c 128,-1,17
- 668 738 668 738 556.5 738 c 128,-1,14
- 445 738 445 738 445 597.5 c 128,-1,15
-500 973 m 0,18,19
- 540 952 540 952 540 912 c 0,20,21
- 540 869 540 869 499 851 c 0,22,23
- 487 846 487 846 473.5 846 c 128,-1,24
- 460 846 460 846 448 851 c 0,25,26
- 407 868 407 868 407 912 c 0,27,28
- 407 953 407 953 446 973 c 0,29,30
- 458 979 458 979 473 979 c 128,-1,31
- 488 979 488 979 500 973 c 0,18,19
-666 973 m 0,32,33
- 707 954 707 954 707 912 c 0,34,35
- 707 868 707 868 665 851 c 0,36,37
- 652 846 652 846 640 846 c 0,38,39
- 614 846 614 846 599 860 c 0,40,41
- 574 883 574 883 574 904 c 0,42,43
- 574 941 574 941 588 954 c 128,-1,44
- 602 967 602 967 614 973 c 128,-1,45
- 626 979 626 979 639.5 979 c 128,-1,46
- 653 979 653 979 666 973 c 0,32,33
+-780 1305 m 0,0,1
+ -780 1471 -780 1471 -648 1524 c 0,2,3
+ -609 1540 -609 1540 -555 1540 c 0,4,5
+ -503 1540 -503 1540 -461 1524 c 0,6,7
+ -329 1472 -329 1472 -329 1305 c 0,8,9
+ -329 1198 -329 1198 -389 1135 c 0,10,11
+ -450 1070 -450 1070 -554 1070 c 128,-1,12
+ -658 1070 -658 1070 -720 1135 c 0,13,14
+ -780 1198 -780 1198 -780 1305 c 0,0,1
+-666 1305.5 m 128,-1,16
+ -666 1165 -666 1165 -554.5 1165 c 128,-1,17
+ -443 1165 -443 1165 -443 1305.5 c 128,-1,18
+ -443 1446 -443 1446 -554.5 1446 c 128,-1,15
+ -666 1446 -666 1446 -666 1305.5 c 128,-1,16
+-611 1681 m 0,19,20
+ -571 1660 -571 1660 -571 1620 c 0,21,22
+ -571 1577 -571 1577 -612 1559 c 0,23,24
+ -624 1554 -624 1554 -637.5 1554 c 128,-1,25
+ -651 1554 -651 1554 -663 1559 c 0,26,27
+ -704 1576 -704 1576 -704 1620 c 0,28,29
+ -704 1661 -704 1661 -665 1681 c 0,30,31
+ -653 1687 -653 1687 -638 1687 c 128,-1,32
+ -623 1687 -623 1687 -611 1681 c 0,19,20
+-445 1681 m 0,33,34
+ -404 1662 -404 1662 -404 1620 c 0,35,36
+ -404 1576 -404 1576 -446 1559 c 0,37,38
+ -459 1554 -459 1554 -471 1554 c 0,39,40
+ -497 1554 -497 1554 -512 1568 c 0,41,42
+ -537 1591 -537 1591 -537 1612 c 0,43,44
+ -537 1649 -537 1649 -523 1662 c 128,-1,45
+ -509 1675 -509 1675 -497 1681 c 128,-1,46
+ -485 1687 -485 1687 -471.5 1687 c 128,-1,47
+ -458 1687 -458 1687 -445 1681 c 0,33,34
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1DF4
 Encoding: 7668 7668 3102
 Width: 0
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Ancre-0" -537 1122 mark 0
 LayerCount: 2
 Fore
 SplineSet
-643 414 m 1,0,1
- 584 362 584 362 510 362 c 0,2,3
- 391 362 391 362 358 472 c 0,4,5
- 348 504 348 504 348 544 c 2,6,-1
- 348 842 l 1,7,-1
- 460 842 l 1,8,-1
- 460 544 l 2,9,10
- 460 456 460 456 534 457 c 0,11,12
- 587 457 587 457 634 507 c 1,13,-1
- 634 842 l 1,14,-1
- 746 842 l 1,15,-1
- 746 368 l 1,16,-1
- 682 368 l 2,17,18
- 649 368 649 368 645 399 c 1,19,-1
- 643 414 l 1,0,1
-467.5 978 m 128,-1,21
- 512 978 512 978 529 937 c 0,22,23
- 534 924 534 924 534 912 c 0,24,25
- 534 867 534 867 492 851 c 0,26,27
- 480 846 480 846 468 846 c 0,28,29
- 425 846 425 846 406 886 c 0,30,31
- 401 898 401 898 401 911.5 c 128,-1,32
- 401 925 401 925 406 937 c 0,33,20
- 423 978 423 978 467.5 978 c 128,-1,21
-634 978 m 0,34,35
- 676 978 676 978 695 938 c 0,36,37
- 701 926 701 926 701 912 c 0,38,39
- 701 886 701 886 686 870.5 c 128,-1,40
- 671 855 671 855 659 850.5 c 128,-1,41
- 647 846 647 846 633.5 846 c 128,-1,42
- 620 846 620 846 608 851 c 0,43,44
- 568 868 568 868 568 912 c 0,45,46
- 568 955 568 955 608 973 c 0,47,48
- 620 978 620 978 634 978 c 0,34,35
+-441 1127 m 1,0,1
+ -500 1075 -500 1075 -574 1075 c 0,2,3
+ -693 1075 -693 1075 -726 1185 c 0,4,5
+ -736 1217 -736 1217 -736 1257 c 2,6,-1
+ -736 1555 l 1,7,-1
+ -624 1555 l 1,8,-1
+ -624 1257 l 2,9,10
+ -624 1170 -624 1170 -552 1170 c 0,11,12
+ -551 1170 -551 1170 -550 1170 c 0,13,14
+ -497 1170 -497 1170 -450 1220 c 1,15,-1
+ -450 1555 l 1,16,-1
+ -338 1555 l 1,17,-1
+ -338 1081 l 1,18,-1
+ -402 1081 l 2,19,20
+ -435 1081 -435 1081 -439 1112 c 1,21,-1
+ -441 1127 l 1,0,1
+-616 1717 m 0,22,23
+ -570 1717 -570 1717 -555 1676 c 0,24,25
+ -550 1663 -550 1663 -550 1651 c 0,26,27
+ -550 1607 -550 1607 -592 1590 c 0,28,29
+ -604 1585 -604 1585 -616 1585 c 0,30,31
+ -661 1585 -661 1585 -678 1625 c 0,32,33
+ -683 1637 -683 1637 -683 1650.5 c 128,-1,34
+ -683 1664 -683 1664 -678 1676 c 0,35,36
+ -660 1717 -660 1717 -616 1717 c 0,22,23
+-450 1717 m 0,37,38
+ -408 1717 -408 1717 -389 1677 c 0,39,40
+ -383 1665 -383 1665 -383 1651 c 0,41,42
+ -383 1625 -383 1625 -398 1609.5 c 128,-1,43
+ -413 1594 -413 1594 -425 1589.5 c 128,-1,44
+ -437 1585 -437 1585 -450.5 1585 c 128,-1,45
+ -464 1585 -464 1585 -476 1590 c 0,46,47
+ -516 1607 -516 1607 -516 1651 c 128,-1,48
+ -516 1695 -516 1695 -476 1712 c 0,49,50
+ -464 1717 -464 1717 -450 1717 c 0,37,38
 EndSplineSet
 EndChar
 EndChars
