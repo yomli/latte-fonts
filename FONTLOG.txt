@@ -18,6 +18,7 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 10 November 2016 (Guillaume Litaudon) Latte v. 0.7.2
 - Fixed uni20DD
 - Added uni20D6, uni20D7, uni20DB, uni20DB, uni20DC, uni20DE, uni20DF, uni20E0, uni20E1, uni20E3, uni20E4, uni20E8, uni20E9, uni20EE, uni20EF and uni20F0
+- Added appropriates anchoring marks in the Latin-1, Latin Extended-A and Latin Extended-B blocks
 
 09 November 2016 (Guillaume Litaudon) Latte v. 0.7.1
 - Added the Combining Diacritical Marks Extended block
