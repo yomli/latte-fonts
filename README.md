@@ -17,7 +17,7 @@ See the [FONTLOG](FONTLOG.txt) for a much complete changelog.
 
 | Version    | Changes     | 
 |:-----------|:------------|
-| 0.8        | Complete Combining Diacritical Marks Extended, Combining Diacritical Marks Supplement and Combining Half Marks  |
+| 0.8        | Complete Combining Diacritical Marks Extended, Combining Diacritical Marks Supplement and Combining Half Marks, partial support of the Combining Diacritical Marks for Symbols block  |
 | 0.7        | Complete IPA with Modifier Tone Letters and Superscripts and Subscripts |
 | 0.6        | Complete Cyrillic, Cyrillic Supplement, Cyrillic Extended A and B |
 | 0.5        | Complete Greek and Greek Extended |
