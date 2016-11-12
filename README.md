@@ -11,6 +11,7 @@ Latte is a modification of Google's Carlito fonts. I just wanted a modern versio
 * Addition of the [basis point](https://en.wikipedia.org/wiki/Basis_point), at U+2031, in order to be hated by the BIPM.
 * Addition of the [Copyleft symbol](https://en.wikipedia.org/wiki/Copyleft#Symbol) at code point U+1F12F as [accepted by the Unicode Technical Committe](https://twitter.com/ken_lunde/status/730168010321760258).
 * Addition of the [Bitcoin sign](http://www.unicode.org/L2/L2015/15229-bitcoin-sign.pdf) at code point U+20BF.
+* Addition of the Linux logo at U+F000.
 
 See the [FONTLOG](FONTLOG.txt) for a much complete changelog.
 
@@ -18,7 +19,7 @@ See the [FONTLOG](FONTLOG.txt) for a much complete changelog.
 
 | Version    | Changes     | 
 |:-----------|:------------|
-| 0.9        | Small caps, Bitcoin sign, Object Replacement Character, Replacement Character |
+| 0.9        | Small caps, Bitcoin sign, Object Replacement Character, Replacement Character, Linux logo |
 | 0.8        | Complete Combining Diacritical Marks Extended, Combining Diacritical Marks Supplement and Combining Half Marks, partial support of the Combining Diacritical Marks for Symbols block  |
 | 0.7        | Complete IPA with Modifier Tone Letters and Superscripts and Subscripts |
 | 0.6        | Complete Cyrillic, Cyrillic Supplement, Cyrillic Extended A and B |
