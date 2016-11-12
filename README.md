@@ -19,6 +19,7 @@ See the [FONTLOG](FONTLOG.txt) for a much complete changelog.
 
 | Version    | Changes     | 
 |:-----------|:------------|
+| 0.10       | General clean-up, some additions in the General Punctuation block and in the Letterlike Symbols block |
 | 0.9        | Small caps, Bitcoin sign, Object Replacement Character, Replacement Character, Linux logo |
 | 0.8        | Complete Combining Diacritical Marks Extended, Combining Diacritical Marks Supplement and Combining Half Marks, partial support of the Combining Diacritical Marks for Symbols block  |
 | 0.7        | Complete IPA with Modifier Tone Letters and Superscripts and Subscripts |
