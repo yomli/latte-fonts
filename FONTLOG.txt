@@ -15,6 +15,10 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 
 ## ChangeLog
 
+12 November 2016 (Guillaume Litaudon) Latte v. 0.8.2
+- Small caps for Latin Extended-A, Latin Extended-B, Greek, Cyrillic blocks
+- Small caps for some Greek Extended, Cyrillic Extended, currencies
+
 11 November 2016 (Guillaume Litaudon) Latte v. 0.8.1
 - Small caps for A-Z, 0-9, $, &, £, yen, Latin-1
 
