@@ -4,7 +4,7 @@ FullName: Latte Italic
 FamilyName: Latte
 Weight: Book
 Copyright: Copyright (c) 2016 by Guillaume Litaudon (www.guillaumelitaudon.fr) with Reserved Font Name "Latte".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nLatte is a variation of Carlito.\nCarlito is Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name "Carlito". Licensed under the SIL Open Font License, Version 1.1.
-FontLog: "# FONTLOG for the Latte Regular font+AAoACgAA-This file provides detailed information on the Latte Regular font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Regular.sfd (Regular weight)+AAoACgAA## ChangeLog+AAoACgAA-12 November 2016 (Guillaume Litaudon) Latte v. 0.9.1+AAoA-- General clean-up+AAoA-- Added some glyphs in the General Punctuation block and in the Letterlike Symbols block+AAoACgAA-12 November 2016 (Guillaume Litaudon) Latte v. 0.8.2+AAoA-- Small caps for Latin Extended-A, Latin Extended-B, Greek, Cyrillic blocks+AAoA-- Small caps for some Greek Extended, Cyrillic Extended, currencies+AAoA-- Added Bitcoin sign, uniFFFC and uniFFFD+AAoA-- Added Linux logo+AAoACgAA-11 November 2016 (Guillaume Litaudon) Latte v. 0.8.1+AAoA-- Small caps for A-Z, 0-9, $, &, +AKMA, yen, Latin-1+AAoACgAA-10 November 2016 (Guillaume Litaudon) Latte v. 0.7.2+AAoA-- Fixed uni20DD+AAoA-- Added uni20D6, uni20D7, uni20DB, uni20DB, uni20DC, uni20DE, uni20DF, uni20E0, uni20E1, uni20E3, uni20E4, uni20E8, uni20E9, uni20EE, uni20EF and uni20F0+AAoA-- Added appropriates anchoring marks in the Latin-1, Latin Extended-A and Latin Extended-B blocks+AAoACgAA-09 November 2016 (Guillaume Litaudon) Latte v. 0.7.1+AAoA-- Added the Combining Diacritical Marks Extended block+AAoA-- Completed the Combining Half Marks block+AAoA-- Completed the Combining Diacriticals Marks Supplement+AAoACgAA-08 November 2016 (Guillaume Litaudon) Latte v. 0.6.1+AAoA-- Completed the Modifier Tone Letters block+AAoA-- Completed and fixed the Superscripts and Subscripts block+AAoACgAA-08 November 2016 (Guillaume Litaudon) Latte v. 0.5.3+AAoA-- Completed the Cyrillic Extended-B block+AAoACgAA-07 November 2016 (Guillaume Litaudon) Latte v. 0.5.2+AAoA-- Completed the Cyrillic Extended-A block+AAoACgAA-06 November 2016 (Guillaume Litaudon) Latte v. 0.5.1+AAoA-- Added missing uni0476 and uni0487+AAoA-- Fixed combining glyphs in the Cyrillic block+AAoA-- Added all appropriates anchoring marks in the Cyrillic and Cyrillic Supplement blocks+AAoA-- Fixed uni0508+AAoA-- Completed the Cyrillic Supplement block+AAoACgAA-06 November 2016 (Guillaume Litaudon) Latte v. 0.4.1+AAoA-- New workflow: using Regular as a master, creating other weights and style from it+AAoA-- Added or fixed all glyphs between U+-0370 and U+-037F+AAoA-- Added U+-03CF+AAoA-- Added anchoring marks on glyphs U+-037F to U+-03FF+AAoA-- Fixed uni02DE and added anchoring mark 4+AAoA-- Added anchoring marks 4 on glyphs U+-02DE, U+-0061, U+-0065, U+-0069, U+-006F,U+-0075, U+-0079, U+-0131, U+-0250, U+-0251, U+-0252, U+-0254, U+-0258, U+-0259, U+-025C, U+-025E, U+-0269, U+-1E2D and U+-1E2F+AAoA-- Added anchoring mark 5 on uni0315+AAoA-- Added anchoring marks 5 for uni0315 on A-Z, a-z, dotlessi+AAoA-- Added anchoring marks 5 for uni0315 on all Greek block+AAoA-- Added all appropriate anchoring marks on all Greek Extended block+AAoA-- Fixed bad references on **all** small letters omega in the Greek Extended block+AAoA-- Added uni1FBE+AAoACgAA-05 November 2016 (Guillaume Litaudon) Latte v. 0.3.6+AAoA-- Added anchoring marks for bottom liaisons on A-Z+AAoA-- Added anchoring marks for bottom liaisons on a-z, dotlessi+AAoA-- Fixed all glyphs between U+-0363 and U+-036F+AAoA-- Added ligatures for all accented glyphs between U+-00C0 and U+-0233+AAoA-- Added ligatures for all accented glyphs between U+-1E00 and U+-1EF9+AAoA-- Fixed glyphs uni1E2A, uni1E73, uni1EAC, uni1EC6, uni1ED8+AAoA-- Fixed U+-1DCA, U+-1DFE, U+-1DFF+AAoA-- Added U+-1DFD, U+-1DFC, U+-1DF5+AAoACgAA-04 November 2016 (Guillaume Litaudon) Latte v. 0.3.5+AAoA-- Added or fixed all glyphs between U+-0300 and U+-0362+AAoA-- Fixed circumflex bad curves+AAoA-- Added GPOS 'mark' lookup for top and bottom anchoring marks+AAoA-- Added anchoring marks for top and bottom diacritics on A-Z+AAoA-- Added anchoring marks for top and bottom diacritics on a-z, dotlessi+AAoA-- Added anchoring marks for top liaisons on A-Z+AAoA-- Added anchoring marks for top liaisons on a-z, dotlessi+AAoACgAA-03 November 2016 (Guillaume Litaudon) Latte v. 0.3.4+AAoA-- Added gravecomb+AAoA-- Added acutecomb+AAoACgAA-02 November 2016 (Guillaume Litaudon) Latte v. 0.3.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoA-- Fixed uni02CD+AAoA-- Added uni02F6+AAoACgAA-01 November 2016 (Guillaume Litaudon) Latte v. 0.3.2+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3.1+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77+AAoA-- Added missing stylistic alternates for g.salt in case of superior and ordinal+AAoA-- Added stylistic alternate for y+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2.1+AAoA-- Fixed **many** intersecting paths+AAoA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni1E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261+AAoA-- Modified g.superior and added g.superior.salt+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
+FontLog: "# FONTLOG for the Latte Regular font+AAoACgAA-This file provides detailed information on the Latte Regular font Software.+AAoACgAA-This information should be distributed along with the Latte fonts and any derivative works.+AAoACgAA## Basic Font Information+AAoACgAA-Latte is a modification of Google's Carlito fonts. +AAoACgAA-Carlito is based on Lato fonts by +AUEA-ukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.+AAoACgAA## Source files+AAoA-- Latte-Regular.sfd (Regular weight)+AAoA-- Latte-Italic.sfd (Italic style)+AAoACgAA## ChangeLog+AAoACgAA-14 November 2016 (Guillaume Litaudon) Latte v. 0.10.1+AAoA-- Italic. All of it.+AAoACgAA-12 November 2016 (Guillaume Litaudon) Latte v. 0.9.1+AAoA-- General clean-up+AAoA-- Added some glyphs in the General Punctuation block and in the Letterlike Symbols block+AAoACgAA-12 November 2016 (Guillaume Litaudon) Latte v. 0.8.2+AAoA-- Small caps for Latin Extended-A, Latin Extended-B, Greek, Cyrillic blocks+AAoA-- Small caps for some Greek Extended, Cyrillic Extended, currencies+AAoA-- Added Bitcoin sign, uniFFFC and uniFFFD+AAoA-- Added Linux logo+AAoACgAA-11 November 2016 (Guillaume Litaudon) Latte v. 0.8.1+AAoA-- Small caps for A-Z, 0-9, $, &, +AKMA, yen, Latin-1+AAoACgAA-10 November 2016 (Guillaume Litaudon) Latte v. 0.7.2+AAoA-- Fixed uni20DD+AAoA-- Added uni20D6, uni20D7, uni20DB, uni20DB, uni20DC, uni20DE, uni20DF, uni20E0, uni20E1, uni20E3, uni20E4, uni20E8, uni20E9, uni20EE, uni20EF and uni20F0+AAoA-- Added appropriates anchoring marks in the Latin-1, Latin Extended-A and Latin Extended-B blocks+AAoACgAA-09 November 2016 (Guillaume Litaudon) Latte v. 0.7.1+AAoA-- Added the Combining Diacritical Marks Extended block+AAoA-- Completed the Combining Half Marks block+AAoA-- Completed the Combining Diacriticals Marks Supplement+AAoACgAA-08 November 2016 (Guillaume Litaudon) Latte v. 0.6.1+AAoA-- Completed the Modifier Tone Letters block+AAoA-- Completed and fixed the Superscripts and Subscripts block+AAoACgAA-08 November 2016 (Guillaume Litaudon) Latte v. 0.5.3+AAoA-- Completed the Cyrillic Extended-B block+AAoACgAA-07 November 2016 (Guillaume Litaudon) Latte v. 0.5.2+AAoA-- Completed the Cyrillic Extended-A block+AAoACgAA-06 November 2016 (Guillaume Litaudon) Latte v. 0.5.1+AAoA-- Added missing uni0476 and uni0487+AAoA-- Fixed combining glyphs in the Cyrillic block+AAoA-- Added all appropriates anchoring marks in the Cyrillic and Cyrillic Supplement blocks+AAoA-- Fixed uni0508+AAoA-- Completed the Cyrillic Supplement block+AAoACgAA-06 November 2016 (Guillaume Litaudon) Latte v. 0.4.1+AAoA-- New workflow: using Regular as a master, creating other weights and style from it+AAoA-- Added or fixed all glyphs between U+-0370 and U+-037F+AAoA-- Added U+-03CF+AAoA-- Added anchoring marks on glyphs U+-037F to U+-03FF+AAoA-- Fixed uni02DE and added anchoring mark 4+AAoA-- Added anchoring marks 4 on glyphs U+-02DE, U+-0061, U+-0065, U+-0069, U+-006F,U+-0075, U+-0079, U+-0131, U+-0250, U+-0251, U+-0252, U+-0254, U+-0258, U+-0259, U+-025C, U+-025E, U+-0269, U+-1E2D and U+-1E2F+AAoA-- Added anchoring mark 5 on uni0315+AAoA-- Added anchoring marks 5 for uni0315 on A-Z, a-z, dotlessi+AAoA-- Added anchoring marks 5 for uni0315 on all Greek block+AAoA-- Added all appropriate anchoring marks on all Greek Extended block+AAoA-- Fixed bad references on **all** small letters omega in the Greek Extended block+AAoA-- Added uni1FBE+AAoACgAA-05 November 2016 (Guillaume Litaudon) Latte v. 0.3.6+AAoA-- Added anchoring marks for bottom liaisons on A-Z+AAoA-- Added anchoring marks for bottom liaisons on a-z, dotlessi+AAoA-- Fixed all glyphs between U+-0363 and U+-036F+AAoA-- Added ligatures for all accented glyphs between U+-00C0 and U+-0233+AAoA-- Added ligatures for all accented glyphs between U+-1E00 and U+-1EF9+AAoA-- Fixed glyphs uni1E2A, uni1E73, uni1EAC, uni1EC6, uni1ED8+AAoA-- Fixed U+-1DCA, U+-1DFE, U+-1DFF+AAoA-- Added U+-1DFD, U+-1DFC, U+-1DF5+AAoACgAA-04 November 2016 (Guillaume Litaudon) Latte v. 0.3.5+AAoA-- Added or fixed all glyphs between U+-0300 and U+-0362+AAoA-- Fixed circumflex bad curves+AAoA-- Added GPOS 'mark' lookup for top and bottom anchoring marks+AAoA-- Added anchoring marks for top and bottom diacritics on A-Z+AAoA-- Added anchoring marks for top and bottom diacritics on a-z, dotlessi+AAoA-- Added anchoring marks for top liaisons on A-Z+AAoA-- Added anchoring marks for top liaisons on a-z, dotlessi+AAoACgAA-03 November 2016 (Guillaume Litaudon) Latte v. 0.3.4+AAoA-- Added gravecomb+AAoA-- Added acutecomb+AAoACgAA-02 November 2016 (Guillaume Litaudon) Latte v. 0.3.3+AAoA-- Added modifier letter macron at U+-02C9+AAoA-- Added modifier letter acute accent at U+-02CA+AAoA-- Added modifier letter middle grave accent at U+-02F4+AAoA-- Fixed the dependency hell of glyph898 and glyph899, deleted them+AAoA-- Fixed uni02CD+AAoA-- Added uni02F6+AAoACgAA-01 November 2016 (Guillaume Litaudon) Latte v. 0.3.2+AAoA-- Added non-breaking space at U+-00A0+AAoA-- Added soft hyphen at U+-00AD+AAoA-- Added modifier letter double prime at U+-02BA+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.3.1+AAoA-- Replaced the tyPoland logo for copyright reasons+AAoACgAA-31 October 2016 (Guillaume Litaudon) Latte v. 0.2.2+AAoA-- Fixed uni1D77 and added uni1D77.salt+AAoA-- Added the irony point+AAoA-- Added the interrobang+AAoA-- Added the basis point+AAoA-- Added the copyleft symbol+AAoA-- Fixed stylistic alternates for g.superior, uni1D4D, uni1DA2, uni1D77+AAoA-- Added missing stylistic alternates for g.salt in case of superior and ordinal+AAoA-- Added stylistic alternate for y+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.2.1+AAoA-- Fixed **many** intersecting paths+AAoA-- Corrected several non-integral coordinates, missing extrema, cleaning the mess, rounding all to integer+AAoACgAA-29 October 2016 (Guillaume Litaudon) Latte v. 0.1+AAoA--+AKAA-Inverted g.salt and g+AAoA-- Inverted uni0123.salt and uni0123+AAoA-- Inverted gcircumflex.salt and gcircumflex+AAoA-- Inverted gdotaccent.salt and gdotaccent+AAoA-- Inverted gbreve.salt and gbreve+AAoA-- Inverted gcaron.salt and gcaron+AAoA-- Inverted uni01F5.salt and uni01F5+AAoA-- Inverted uni1E21.salt and uni1E21+AAoA-- Inverted uni01E5.salt and uni01E5+AAoA-- Modified uni0261+AAoA-- Modified g.superior and added g.superior.salt+AAoACgAK-If you make modifications be sure to add your name (N), +AAoA-email (E), web-address (if you have one) (W) and description (D). +AAoA-This list is in alphabetical order.+AAoACgAA-N: Guillaume Litaudon+AAoA-E: guillaume.litaudon@gmail.com+AAoA-W: www.guillaumelitaudon.fr+AAoA-D: Fonts Original Author+AAoACgAA-N: +AUEA-ukasz Dziedzic+AAoA-W: www.lukaszdziedzic.eu+AAoA-D: Typeface Original Author"
 Version: 0.11
 ItalicAngle: -7
 UnderlinePosition: -200
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835834854
-ModificationTime: 1479143397
+ModificationTime: 1479376589
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -752,7 +752,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 307
-WinInfo: 2990 26 10
+WinInfo: 0 26 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -878,7 +878,7 @@ AnchorPoint: "Ancre-5" 1185 1414 basechar 0
 AnchorPoint: "Ancre-3" 1185 -510 basechar 0
 AnchorPoint: "Ancre-2" 1185 1515 basechar 0
 AnchorPoint: "Ancre-1" 593 -3 basechar 0
-AnchorPoint: "Ancre-0" 758 1414 basechar 0
+AnchorPoint: "Ancre-0" 567 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -918,7 +918,7 @@ Flags: MW
 AnchorPoint: "Ancre-5" 1185 1414 basechar 0
 AnchorPoint: "Ancre-2" 1185 1515 basechar 0
 AnchorPoint: "Ancre-1" 593 -3 basechar 0
-AnchorPoint: "Ancre-0" 676 1810 basechar 0
+AnchorPoint: "Ancre-0" 567 1414 basechar 0
 AnchorPoint: "Ancre-3" 1185 -510 basechar 0
 LayerCount: 2
 Fore
@@ -973,7 +973,7 @@ Encoding: 198 198 5
 Width: 1352
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-0" 892 1414 basechar 0
+AnchorPoint: "Ancre-0" 999 1414 basechar 0
 AnchorPoint: "Ancre-1" 892 89 basechar 0
 AnchorPoint: "Ancre-2" 1563 1515 basechar 0
 AnchorPoint: "Ancre-3" 1563 -510 basechar 0
@@ -1021,7 +1021,7 @@ AnchorPoint: "Ancre-5" 1114 1414 basechar 0
 AnchorPoint: "Ancre-3" 1114 -510 basechar 0
 AnchorPoint: "Ancre-2" 1114 1515 basechar 0
 AnchorPoint: "Ancre-1" 513 10 basechar 0
-AnchorPoint: "Ancre-0" 649 1414 basechar 0
+AnchorPoint: "Ancre-0" 471 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1084,7 +1084,7 @@ AnchorPoint: "Ancre-5" 1092 1414 basechar 0
 AnchorPoint: "Ancre-3" 1092 -510 basechar 0
 AnchorPoint: "Ancre-2" 1092 1515 basechar 0
 AnchorPoint: "Ancre-1" 648 -3 basechar 0
-AnchorPoint: "Ancre-0" 783 1414 basechar 0
+AnchorPoint: "Ancre-0" 592 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1137,7 +1137,7 @@ Encoding: 199 199 8
 Width: 1013
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-0" 648 1414 basechar 0
+AnchorPoint: "Ancre-0" 592 1414 basechar 0
 AnchorPoint: "Ancre-1" 648 -300 basechar 0
 AnchorPoint: "Ancre-2" 1092 1515 basechar 0
 AnchorPoint: "Ancre-3" 1092 -510 basechar 0
@@ -1221,7 +1221,7 @@ AnchorPoint: "Ancre-5" 1260 1414 basechar 0
 AnchorPoint: "Ancre-3" 1260 -510 basechar 0
 AnchorPoint: "Ancre-2" 1260 1515 basechar 0
 AnchorPoint: "Ancre-1" 578 10 basechar 0
-AnchorPoint: "Ancre-0" 730 1414 basechar 0
+AnchorPoint: "Ancre-0" 519 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1263,7 +1263,7 @@ Encoding: 208 208 10
 Width: 1279
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-0" 578 1414 basechar 0
+AnchorPoint: "Ancre-0" 519 1414 basechar 0
 AnchorPoint: "Ancre-1" 578 10 basechar 0
 AnchorPoint: "Ancre-2" 1279 1515 basechar 0
 AnchorPoint: "Ancre-3" 1279 -510 basechar 0
@@ -1285,7 +1285,7 @@ AnchorPoint: "Ancre-5" 1000 1414 basechar 0
 AnchorPoint: "Ancre-3" 1000 -510 basechar 0
 AnchorPoint: "Ancre-2" 1000 1515 basechar 0
 AnchorPoint: "Ancre-1" 546 10 basechar 0
-AnchorPoint: "Ancre-0" 660 1414 basechar 0
+AnchorPoint: "Ancre-0" 509 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1318,36 +1318,36 @@ AnchorPoint: "Ancre-5" 1000 1414 basechar 0
 AnchorPoint: "Ancre-3" 1000 -510 basechar 0
 AnchorPoint: "Ancre-2" 1000 1515 basechar 0
 AnchorPoint: "Ancre-1" 546 10 basechar 0
-AnchorPoint: "Ancre-0" 551 1810 basechar 0
+AnchorPoint: "Ancre-0" 509 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 908 -280 m 5,0,1
- 840 -330 840 -330 756 -330 c 132,-1,3
- 672 -330 672 -330 632 -296 c 132,-1,5
- 592 -262 592 -262 592 -218 c 4,6,7
- 592 -89 592 -89 739 0 c 5,8,-1
- 132 0 l 5,9,-1
- 293 1314 l 5,10,-1
- 1008 1314 l 5,11,-1
- 989 1166 l 5,12,-1
- 445 1166 l 5,13,-1
- 392 735 l 5,14,-1
- 830 735 l 5,15,-1
- 813 592 l 5,16,-1
- 375 592 l 5,17,-1
- 320 148 l 5,18,-1
- 865 148 l 5,19,20
- 846 0 l 13,21,-1
- 736 -108 l 5,22,23
- 724 -132 724 -132 724 -161 c 4,24,25
- 724 -191 724 -191 743 -209 c 4,26,27
- 761 -228 761 -228 787 -228 c 4,28,29
- 812 -228 812 -228 826 -224 c 4,30,31
- 840 -221 840 -221 849 -216 c 4,32,33
- 858 -212 858 -212 864 -208 c 4,34,35
- 869 -205 869 -205 873 -205 c 4,36,37
- 887 -205 887 -205 890 -217 c 6,38,-1
+ 840 -330 840 -330 756 -330 c 132,-1,2
+ 672 -330 672 -330 632 -296 c 132,-1,3
+ 592 -262 592 -262 592 -218 c 4,4,5
+ 592 -89 592 -89 739 0 c 5,6,-1
+ 132 0 l 5,7,-1
+ 293 1314 l 5,8,-1
+ 1008 1314 l 5,9,-1
+ 989 1166 l 5,10,-1
+ 445 1166 l 5,11,-1
+ 392 735 l 5,12,-1
+ 830 735 l 5,13,-1
+ 813 592 l 5,14,-1
+ 375 592 l 5,15,-1
+ 320 148 l 5,16,-1
+ 865 148 l 5,17,-1
+ 846 0 l 13,18,-1
+ 736 -108 l 5,19,20
+ 724 -132 724 -132 724 -161 c 4,21,22
+ 724 -191 724 -191 743 -209 c 4,23,24
+ 761 -228 761 -228 787 -228 c 4,25,26
+ 812 -228 812 -228 826 -224 c 4,27,28
+ 840 -221 840 -221 849 -216 c 4,29,30
+ 858 -212 858 -212 864 -208 c 4,31,32
+ 869 -205 869 -205 873 -205 c 4,33,34
+ 887 -205 887 -205 890 -217 c 6,35,-1
  908 -280 l 5,0,1
 EndSplineSet
 Validated: 1
@@ -1366,7 +1366,7 @@ AnchorPoint: "Ancre-5" 941 1414 basechar 0
 AnchorPoint: "Ancre-3" 941 -510 basechar 0
 AnchorPoint: "Ancre-2" 941 1515 basechar 0
 AnchorPoint: "Ancre-1" 548 10 basechar 0
-AnchorPoint: "Ancre-0" 673 1414 basechar 0
+AnchorPoint: "Ancre-0" 509 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1397,7 +1397,7 @@ AnchorPoint: "Ancre-5" 1292 1414 basechar 0
 AnchorPoint: "Ancre-3" 1292 -510 basechar 0
 AnchorPoint: "Ancre-2" 1292 1515 basechar 0
 AnchorPoint: "Ancre-1" 736 -3 basechar 0
-AnchorPoint: "Ancre-0" 879 1414 basechar 0
+AnchorPoint: "Ancre-0" 610 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1460,7 +1460,7 @@ AnchorPoint: "Ancre-5" 1276 1414 basechar 0
 AnchorPoint: "Ancre-3" 1276 -510 basechar 0
 AnchorPoint: "Ancre-2" 1276 1515 basechar 0
 AnchorPoint: "Ancre-1" 638 10 basechar 0
-AnchorPoint: "Ancre-0" 776 1414 basechar 0
+AnchorPoint: "Ancre-0" 571 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1489,7 +1489,7 @@ Encoding: 294 294 16
 Width: 1248
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-0" 672 1414 basechar 0
+AnchorPoint: "Ancre-0" 571 1414 basechar 0
 AnchorPoint: "Ancre-1" 672 10 basechar 0
 AnchorPoint: "Ancre-2" 1345 1515 basechar 0
 AnchorPoint: "Ancre-3" 1345 -510 basechar 0
@@ -1538,7 +1538,7 @@ AnchorPoint: "Ancre-5" 516 1414 basechar 0
 AnchorPoint: "Ancre-3" 516 -510 basechar 0
 AnchorPoint: "Ancre-2" 516 1515 basechar 0
 AnchorPoint: "Ancre-1" 258 10 basechar 0
-AnchorPoint: "Ancre-0" 434 1414 basechar 0
+AnchorPoint: "Ancre-0" 231 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1563,7 +1563,7 @@ AnchorPoint: "Ancre-5" 516 1414 basechar 0
 AnchorPoint: "Ancre-3" 516 -510 basechar 0
 AnchorPoint: "Ancre-2" 516 1515 basechar 0
 AnchorPoint: "Ancre-1" 258 -300 basechar 0
-AnchorPoint: "Ancre-0" 258 1810 basechar 0
+AnchorPoint: "Ancre-0" 231 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1604,7 +1604,7 @@ AnchorPoint: "Ancre-5" 653 1414 basechar 0
 AnchorPoint: "Ancre-3" 653 -510 basechar 0
 AnchorPoint: "Ancre-2" 653 1515 basechar 0
 AnchorPoint: "Ancre-1" 191 -3 basechar 0
-AnchorPoint: "Ancre-0" 601 1414 basechar 0
+AnchorPoint: "Ancre-0" 395 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1642,7 +1642,7 @@ AnchorPoint: "Ancre-5" 1064 1414 basechar 0
 AnchorPoint: "Ancre-3" 1064 -510 basechar 0
 AnchorPoint: "Ancre-2" 1064 1515 basechar 0
 AnchorPoint: "Ancre-1" 530 89 basechar 0
-AnchorPoint: "Ancre-0" 694 1414 basechar 0
+AnchorPoint: "Ancre-0" 457 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1686,7 +1686,7 @@ AnchorPoint: "Ancre-5" 861 1414 basechar 0
 AnchorPoint: "Ancre-3" 861 -510 basechar 0
 AnchorPoint: "Ancre-2" 861 1515 basechar 0
 AnchorPoint: "Ancre-1" 470 10 basechar 0
-AnchorPoint: "Ancre-0" 450 1414 basechar 0
+AnchorPoint: "Ancre-0" 201 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1709,7 +1709,7 @@ Encoding: 321 321 22
 Width: 880
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-0" 438 1414 basechar 0
+AnchorPoint: "Ancre-0" 238 1414 basechar 0
 AnchorPoint: "Ancre-1" 488 10 basechar 0
 AnchorPoint: "Ancre-2" 879 1515 basechar 0
 AnchorPoint: "Ancre-3" 879 -510 basechar 0
@@ -1764,7 +1764,7 @@ AnchorPoint: "Ancre-5" 1751 1414 basechar 0
 AnchorPoint: "Ancre-3" 1751 -510 basechar 0
 AnchorPoint: "Ancre-2" 1751 1515 basechar 0
 AnchorPoint: "Ancre-1" 875 10 basechar 0
-AnchorPoint: "Ancre-0" 1035 1414 basechar 0
+AnchorPoint: "Ancre-0" 835 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1811,7 +1811,7 @@ AnchorPoint: "Ancre-5" 1322 1414 basechar 0
 AnchorPoint: "Ancre-3" 1322 -510 basechar 0
 AnchorPoint: "Ancre-2" 1322 1515 basechar 0
 AnchorPoint: "Ancre-1" 661 10 basechar 0
-AnchorPoint: "Ancre-0" 795 1414 basechar 0
+AnchorPoint: "Ancre-0" 619 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1846,7 +1846,7 @@ Encoding: 330 330 26
 Width: 1191
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-0" 626 1414 basechar 0
+AnchorPoint: "Ancre-0" 619 1414 basechar 0
 AnchorPoint: "Ancre-1" 626 10 basechar 0
 AnchorPoint: "Ancre-2" 1287 1515 basechar 0
 AnchorPoint: "Ancre-3" 1287 -510 basechar 0
@@ -1902,7 +1902,7 @@ AnchorPoint: "Ancre-5" 1356 1414 basechar 0
 AnchorPoint: "Ancre-3" 1356 -510 basechar 0
 AnchorPoint: "Ancre-2" 1356 1515 basechar 0
 AnchorPoint: "Ancre-1" 678 0 basechar 0
-AnchorPoint: "Ancre-0" 839 1414 basechar 0
+AnchorPoint: "Ancre-0" 643 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1961,7 +1961,7 @@ AnchorPoint: "Ancre-5" 1359 1414 basechar 0
 AnchorPoint: "Ancre-3" 1359 -510 basechar 0
 AnchorPoint: "Ancre-2" 1359 1515 basechar 0
 AnchorPoint: "Ancre-1" 681 0 basechar 0
-AnchorPoint: "Ancre-0" 681 1414 basechar 0
+AnchorPoint: "Ancre-0" 613 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2030,7 +2030,7 @@ Encoding: 338 338 29
 Width: 1775
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-0" 1168 1414 basechar 0
+AnchorPoint: "Ancre-0" 1281 1414 basechar 0
 AnchorPoint: "Ancre-1" 1069 89 basechar 0
 AnchorPoint: "Ancre-2" 1775 1515 basechar 0
 AnchorPoint: "Ancre-3" 1775 -510 basechar 0
@@ -2085,7 +2085,7 @@ AnchorPoint: "Ancre-5" 1058 1414 basechar 0
 AnchorPoint: "Ancre-3" 1058 -510 basechar 0
 AnchorPoint: "Ancre-2" 1058 1515 basechar 0
 AnchorPoint: "Ancre-1" 516 10 basechar 0
-AnchorPoint: "Ancre-0" 673 1414 basechar 0
+AnchorPoint: "Ancre-0" 483 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2175,7 +2175,7 @@ AnchorPoint: "Ancre-5" 1378 1414 basechar 0
 AnchorPoint: "Ancre-3" 1378 -510 basechar 0
 AnchorPoint: "Ancre-2" 1378 1515 basechar 0
 AnchorPoint: "Ancre-1" 690 -3 basechar 0
-AnchorPoint: "Ancre-0" 898 1414 basechar 0
+AnchorPoint: "Ancre-0" 617 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2237,7 +2237,7 @@ AnchorPoint: "Ancre-5" 1112 1414 basechar 0
 AnchorPoint: "Ancre-3" 1112 -510 basechar 0
 AnchorPoint: "Ancre-2" 1112 1515 basechar 0
 AnchorPoint: "Ancre-1" 516 10 basechar 0
-AnchorPoint: "Ancre-0" 655 1414 basechar 0
+AnchorPoint: "Ancre-0" 445 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2290,7 +2290,7 @@ AnchorPoint: "Ancre-5" 941 1414 basechar 0
 AnchorPoint: "Ancre-3" 941 -510 basechar 0
 AnchorPoint: "Ancre-2" 941 1515 basechar 0
 AnchorPoint: "Ancre-1" 450 0 basechar 0
-AnchorPoint: "Ancre-0" 660 1414 basechar 0
+AnchorPoint: "Ancre-0" 480 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2364,7 +2364,7 @@ AnchorPoint: "Ancre-5" 941 1414 basechar 0
 AnchorPoint: "Ancre-3" 941 -510 basechar 0
 AnchorPoint: "Ancre-2" 941 1515 basechar 0
 AnchorPoint: "Ancre-1" 450 -300 basechar 0
-AnchorPoint: "Ancre-0" 498 1414 basechar 0
+AnchorPoint: "Ancre-0" 480 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2462,7 +2462,7 @@ AnchorPoint: "Ancre-5" 998 1414 basechar 0
 AnchorPoint: "Ancre-3" 998 -510 basechar 0
 AnchorPoint: "Ancre-2" 998 1515 basechar 0
 AnchorPoint: "Ancre-1" 499 0 basechar 0
-AnchorPoint: "Ancre-0" 665 1414 basechar 0
+AnchorPoint: "Ancre-0" 454 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2487,7 +2487,7 @@ Encoding: 358 358 37
 Width: 998
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-0" 499 1414 basechar 0
+AnchorPoint: "Ancre-0" 454 1414 basechar 0
 AnchorPoint: "Ancre-1" 499 0 basechar 0
 AnchorPoint: "Ancre-2" 998 1515 basechar 0
 AnchorPoint: "Ancre-3" 998 -510 basechar 0
@@ -2527,7 +2527,7 @@ AnchorPoint: "Ancre-5" 1314 1414 basechar 0
 AnchorPoint: "Ancre-3" 1314 -510 basechar 0
 AnchorPoint: "Ancre-2" 1314 1515 basechar 0
 AnchorPoint: "Ancre-1" 657 0 basechar 0
-AnchorPoint: "Ancre-0" 768 1414 basechar 0
+AnchorPoint: "Ancre-0" 587 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2572,7 +2572,7 @@ AnchorPoint: "Ancre-5" 1314 1414 basechar 0
 AnchorPoint: "Ancre-3" 1314 -510 basechar 0
 AnchorPoint: "Ancre-2" 1314 1515 basechar 0
 AnchorPoint: "Ancre-1" 657 -300 basechar 0
-AnchorPoint: "Ancre-0" 657 1810 basechar 0
+AnchorPoint: "Ancre-0" 587 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2632,7 +2632,7 @@ AnchorPoint: "Ancre-5" 1162 1414 basechar 0
 AnchorPoint: "Ancre-3" 1162 -510 basechar 0
 AnchorPoint: "Ancre-2" 1162 1515 basechar 0
 AnchorPoint: "Ancre-1" 581 10 basechar 0
-AnchorPoint: "Ancre-0" 720 1414 basechar 0
+AnchorPoint: "Ancre-0" 536 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2668,7 +2668,7 @@ AnchorPoint: "Ancre-5" 1822 1414 basechar 0
 AnchorPoint: "Ancre-3" 1822 -510 basechar 0
 AnchorPoint: "Ancre-2" 1822 1515 basechar 0
 AnchorPoint: "Ancre-1" 911 10 basechar 0
-AnchorPoint: "Ancre-0" 1058 1414 basechar 0
+AnchorPoint: "Ancre-0" 827 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2721,7 +2721,7 @@ AnchorPoint: "Ancre-5" 1063 1414 basechar 0
 AnchorPoint: "Ancre-3" 1063 -510 basechar 0
 AnchorPoint: "Ancre-2" 1063 1515 basechar 0
 AnchorPoint: "Ancre-1" 532 10 basechar 0
-AnchorPoint: "Ancre-0" 693 1414 basechar 0
+AnchorPoint: "Ancre-0" 499 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2764,7 +2764,7 @@ AnchorPoint: "Ancre-5" 998 1414 basechar 0
 AnchorPoint: "Ancre-3" 998 -510 basechar 0
 AnchorPoint: "Ancre-2" 998 1515 basechar 0
 AnchorPoint: "Ancre-1" 499 0 basechar 0
-AnchorPoint: "Ancre-0" 652 1414 basechar 0
+AnchorPoint: "Ancre-0" 446 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2802,7 +2802,7 @@ AnchorPoint: "Ancre-5" 959 1414 basechar 0
 AnchorPoint: "Ancre-3" 959 -510 basechar 0
 AnchorPoint: "Ancre-2" 959 1515 basechar 0
 AnchorPoint: "Ancre-1" 495 10 basechar 0
-AnchorPoint: "Ancre-0" 716 1414 basechar 0
+AnchorPoint: "Ancre-0" 497 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7650,37 +7650,37 @@ LayerCount: 2
 Fore
 SplineSet
 922 -280 m 1,0,1
- 854 -330 854 -330 770 -330 c 128,-1,3
- 686 -330 686 -330 646 -296 c 128,-1,5
- 606 -262 606 -262 606 -218 c 0,6,7
- 606 -88 606 -88 755 1 c 1,8,9
- 711 9 711 9 711 55 c 2,10,-1
- 711 63 l 1,11,-1
- 724 242 l 1,12,13
- 644 115 644 115 543 50.5 c 128,-1,14
- 442 -14 442 -14 323 -14 c 128,-1,15
- 204 -14 204 -14 142 83 c 0,16,17
- 95 155 95 155 95 269 c 0,18,19
- 95 313 95 313 100 356 c 2,20,-1
- 173 978 l 1,21,-1
- 348 978 l 1,22,-1
- 274 356 l 2,23,24
- 270 322 270 322 270 289 c 0,25,26
- 270 132 270 132 399 132 c 0,27,28
- 494 132 494 132 591 225.5 c 128,-1,29
- 688 319 688 319 743 473 c 1,30,-1
- 803 978 l 1,31,-1
- 978 978 l 1,32,-1
- 860 0 l 1,33,-1
- 750 -108 l 1,34,35
- 738 -132 738 -132 738 -161 c 0,36,37
- 738 -191 738 -191 757 -209 c 0,38,39
- 775 -228 775 -228 801 -228 c 0,40,41
- 826 -228 826 -228 840 -224 c 0,42,43
- 854 -221 854 -221 863 -216 c 0,44,45
- 872 -212 872 -212 878 -208 c 0,46,47
- 883 -205 883 -205 887 -205 c 0,48,49
- 901 -205 901 -205 904 -217 c 2,50,-1
+ 854 -330 854 -330 770 -330 c 128,-1,2
+ 686 -330 686 -330 646 -296 c 128,-1,3
+ 606 -262 606 -262 606 -218 c 0,4,5
+ 606 -88 606 -88 755 1 c 1,6,7
+ 711 9 711 9 711 55 c 2,8,-1
+ 711 63 l 1,9,-1
+ 724 242 l 1,10,11
+ 644 115 644 115 543 50.5 c 128,-1,12
+ 442 -14 442 -14 323 -14 c 128,-1,13
+ 204 -14 204 -14 142 83 c 0,14,15
+ 95 155 95 155 95 269 c 0,16,17
+ 95 313 95 313 100 356 c 2,18,-1
+ 173 978 l 1,19,-1
+ 348 978 l 1,20,-1
+ 274 356 l 2,21,22
+ 270 322 270 322 270 289 c 0,23,24
+ 270 132 270 132 399 132 c 0,25,26
+ 494 132 494 132 591 225.5 c 128,-1,27
+ 688 319 688 319 743 473 c 1,28,-1
+ 803 978 l 1,29,-1
+ 978 978 l 1,30,-1
+ 860 0 l 1,31,-1
+ 750 -108 l 1,32,33
+ 738 -132 738 -132 738 -161 c 0,34,35
+ 738 -191 738 -191 757 -209 c 0,36,37
+ 775 -228 775 -228 801 -228 c 0,38,39
+ 826 -228 826 -228 840 -224 c 0,40,41
+ 854 -221 854 -221 863 -216 c 0,42,43
+ 872 -212 872 -212 878 -208 c 0,44,45
+ 883 -205 883 -205 887 -205 c 0,46,47
+ 901 -205 901 -205 904 -217 c 2,48,-1
  922 -280 l 1,0,1
 EndSplineSet
 Validated: 1
@@ -41103,20 +41103,20 @@ SplineSet
  1227 36 1227 36 1168 12 c 132,-1,31
  1109 -12 1109 -12 1035 -12 c 4,32,33
  970 -12 970 -12 917 9 c 132,-1,34
- 864 30 864 30 829 72 c 132,-1,36
- 794 114 794 114 779 176 c 4,37,38
- 770 214 770 214 770 258 c 4,39,40
- 770 288 770 288 774 321 c 6,41,-1
- 791 456 l 5,42,-1
- 347 456 l 5,43,-1
- 292 0 l 5,44,-1
- 135 0 l 5,45,-1
- 255 978 l 5,46,-1
- 412 978 l 5,47,-1
- 364 589 l 5,48,-1
- 807 589 l 5,49,-1
- 855 978 l 5,50,-1
- 1011 978 l 5,51,-1
+ 864 30 864 30 829 72 c 132,-1,35
+ 794 114 794 114 779 176 c 4,36,37
+ 770 214 770 214 770 258 c 4,38,39
+ 770 288 770 288 774 321 c 6,40,-1
+ 791 456 l 5,41,-1
+ 347 456 l 5,42,-1
+ 292 0 l 5,43,-1
+ 135 0 l 5,44,-1
+ 255 978 l 5,45,-1
+ 412 978 l 5,46,-1
+ 364 589 l 5,47,-1
+ 807 589 l 5,48,-1
+ 855 978 l 5,49,-1
+ 1011 978 l 5,50,-1
  930 321 l 6,0,1
 EndSplineSet
 Validated: 1
@@ -44538,31 +44538,31 @@ SplineSet
  732 977 732 977 743 938 c 5,9,10
  894 916 894 916 968 789 c 4,11,12
  1024 694 1024 694 1024 556 c 4,13,14
- 1024 410 1024 410 982 306 c 132,-1,16
- 940 202 940 202 888 140 c 4,17,18
- 783 14 783 14 624 -9 c 5,19,20
- 577 -88 577 -88 500 -88 c 260,21,22
- 462 -88 462 -88 434 -66 c 132,-1,23
- 406 -44 406 -44 394 -8 c 5,24,25
- 243 14 243 14 169 140 c 4,26,27
+ 1024 410 1024 410 982 306 c 132,-1,15
+ 940 202 940 202 888 140 c 4,16,17
+ 783 14 783 14 624 -9 c 5,18,19
+ 577 -88 577 -88 500 -88 c 260,20,21
+ 462 -88 462 -88 434 -66 c 132,-1,22
+ 406 -44 406 -44 394 -8 c 5,23,24
+ 243 14 243 14 169 140 c 4,25,26
  113 236 113 236 113 378 c 132,-1,0
  113 520 113 520 155 623.5 c 132,-1,1
-725 798 m 5,28,29
- 680 716 680 716 599 716 c 4,30,31
- 560 716 560 716 531.5 738 c 132,-1,32
- 503 760 503 760 491 797 c 5,33,34
- 315 750 315 750 280 465 c 4,35,36
- 274 417 274 417 274 357.5 c 132,-1,37
- 274 298 274 298 294 242 c 4,38,39
- 326 156 326 156 408 133 c 5,40,41
- 428 172 428 172 462.5 196.5 c 132,-1,42
- 497 221 497 221 537.5 221 c 132,-1,43
- 578 221 578 221 606.5 196.5 c 132,-1,44
- 635 172 635 172 646 132 c 5,45,46
- 822 179 822 179 857 465 c 4,47,48
- 863 513 863 513 863 574 c 132,-1,49
- 863 635 863 635 842 689 c 4,50,51
- 810 774 810 774 725 798 c 5,28,29
+725 798 m 5,27,28
+ 680 716 680 716 599 716 c 4,29,30
+ 560 716 560 716 531.5 738 c 132,-1,31
+ 503 760 503 760 491 797 c 5,32,33
+ 315 750 315 750 280 465 c 4,34,35
+ 274 417 274 417 274 357.5 c 132,-1,36
+ 274 298 274 298 294 242 c 4,37,38
+ 326 156 326 156 408 133 c 5,39,40
+ 428 172 428 172 462.5 196.5 c 132,-1,41
+ 497 221 497 221 537.5 221 c 132,-1,42
+ 578 221 578 221 606.5 196.5 c 132,-1,43
+ 635 172 635 172 646 132 c 5,44,45
+ 822 179 822 179 857 465 c 4,46,47
+ 863 513 863 513 863 574 c 132,-1,48
+ 863 635 863 635 842 689 c 4,49,50
+ 810 774 810 774 725 798 c 5,27,28
 EndSplineSet
 Validated: 1
 EndChar
@@ -65807,7 +65807,7 @@ StartChar: uni0137
 Encoding: 311 311 1951
 Width: 931
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 AnchorPoint: "Ancre-0" 520 1492 basechar 0
 AnchorPoint: "Ancre-1" 520 -300 basechar 0
 AnchorPoint: "Ancre-2" 931 1515 basechar 0
@@ -65825,7 +65825,7 @@ StartChar: uni01E9
 Encoding: 489 489 1952
 Width: 931
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 AnchorPoint: "Ancre-0" 465 1864 basechar 0
 AnchorPoint: "Ancre-1" 520 70 basechar 0
 AnchorPoint: "Ancre-2" 931 1515 basechar 0
@@ -65844,7 +65844,7 @@ StartChar: uni1E31
 Encoding: 7729 7729 1953
 Width: 931
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 104 107 N 1 0 0 1 0 0 0
@@ -65857,7 +65857,7 @@ StartChar: uni1E33
 Encoding: 7731 7731 1954
 Width: 931
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 104 107 N 1 0 0 1 0 0 0
@@ -65870,7 +65870,7 @@ StartChar: uni1E35
 Encoding: 7733 7733 1955
 Width: 931
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2619 817 S 1 0 0 1 970 10 2
@@ -73051,7 +73051,7 @@ StartChar: uni045C
 Encoding: 1116 1116 2355
 Width: 825
 GlyphClass: 2
-Flags: HW
+Flags: W
 AnchorPoint: "Ancre-5" 959 1122 basechar 0
 AnchorPoint: "Ancre-0" 453 1492 basechar 0
 LayerCount: 2
@@ -76520,19 +76520,19 @@ SplineSet
  -360 1498 -360 1498 -331 1512.5 c 132,-1,5
  -302 1527 -302 1527 -264 1527 c 4,6,7
  -231 1527 -231 1527 -206.5 1514.5 c 132,-1,8
- -182 1502 -182 1502 -168 1480 c 132,-1,10
- -154 1458 -154 1458 -148 1427 c 4,11,12
- -145 1411 -145 1411 -145 1393 c 4,13,14
- -145 1377 -145 1377 -147 1360 c 6,15,-1
- -181 1081 l 5,16,-1
- -285 1081 l 5,17,-1
- -251 1360 l 6,18,19
- -250 1369 -250 1369 -250 1378 c 4,20,21
- -250 1402 -250 1402 -260 1418 c 4,22,23
- -274 1438 -274 1438 -307 1438 c 4,24,25
- -331 1438 -331 1438 -353 1427 c 132,-1,26
- -375 1416 -375 1416 -396 1396 c 5,27,-1
- -435 1081 l 5,28,-1
+ -182 1502 -182 1502 -168 1480 c 132,-1,9
+ -154 1458 -154 1458 -148 1427 c 4,10,11
+ -145 1411 -145 1411 -145 1393 c 4,12,13
+ -145 1377 -145 1377 -147 1360 c 6,14,-1
+ -181 1081 l 5,15,-1
+ -285 1081 l 5,16,-1
+ -251 1360 l 6,17,18
+ -250 1369 -250 1369 -250 1378 c 4,19,20
+ -250 1402 -250 1402 -260 1418 c 4,21,22
+ -274 1438 -274 1438 -307 1438 c 4,23,24
+ -331 1438 -331 1438 -353 1427 c 132,-1,25
+ -375 1416 -375 1416 -396 1396 c 5,26,-1
+ -435 1081 l 5,27,-1
  -540 1081 l 5,0,-1
 EndSplineSet
 Validated: 1
@@ -77124,12 +77124,12 @@ SplineSet
  -133 1236 -133 1236 -176.5 1195.5 c 128,-1,13
  -220 1155 -220 1155 -277 1131.5 c 128,-1,14
  -334 1108 -334 1108 -402 1108 c 0,15,16
- -448 1108 -448 1108 -484 1120 c 128,-1,18
- -520 1132 -520 1132 -542 1161 c 128,-1,20
- -564 1190 -564 1190 -572 1234 c 0,21,22
- -576 1257 -576 1257 -577 1285 c 0,23,24
- -577 1311 -577 1311 -573 1342 c 1,25,-1
- -458 1342 l 1,26,0
+ -448 1108 -448 1108 -484 1120 c 128,-1,17
+ -520 1132 -520 1132 -542 1161 c 128,-1,18
+ -564 1190 -564 1190 -572 1234 c 0,19,20
+ -576 1257 -576 1257 -577 1285 c 0,21,22
+ -577 1311 -577 1311 -573 1342 c 1,23,-1
+ -458 1342 l 1,24,0
  -462 1306 -462 1306 -456 1284 c 128,-1,1
 EndSplineSet
 Validated: 1
@@ -88312,28 +88312,28 @@ SplineSet
  -453 1087 l 6,11,12
  -444 1107 -444 1107 -425 1107 c 5,13,-1
  -392 1097 l 5,14,15
- -374 1097 -374 1097 -374 1107 c 132,-1,17
- -374 1117 -374 1117 -438 1125 c 5,18,-1
- -415 1178 l 5,19,20
- -476 1192 -476 1192 -501 1231 c 4,21,22
- -538 1288 -538 1288 -538 1363 c 4,23,24
- -538 1382 -538 1382 -536 1402 c 4,25,26
- -524 1502 -524 1502 -465 1565 c 4,27,28
- -404 1630 -404 1630 -309 1630 c 4,29,30
- -224 1630 -224 1630 -169 1558 c 5,31,-1
- -201 1518 l 6,32,33
- -215 1501 -215 1501 -228 1501 c 132,-1,34
- -241 1501 -241 1501 -249 1508 c 4,35,36
- -281 1536 -281 1536 -311 1536 c 4,37,38
- -413 1536 -413 1536 -430 1397 c 4,39,40
- -433 1376 -433 1376 -433 1358 c 4,41,42
- -433 1287 -433 1287 -391 1265 c 4,43,44
- -374 1256 -374 1256 -352.5 1256 c 132,-1,45
- -331 1256 -331 1256 -318 1262 c 4,46,47
- -294 1272 -294 1272 -279.5 1285 c 132,-1,48
- -265 1298 -265 1298 -250 1298 c 132,-1,49
- -235 1298 -235 1298 -227 1284 c 6,50,-1
- -202 1248 l 5,51,52
+ -374 1097 -374 1097 -374 1107 c 132,-1,16
+ -374 1117 -374 1117 -438 1125 c 5,17,-1
+ -415 1178 l 5,18,19
+ -476 1192 -476 1192 -501 1231 c 4,20,21
+ -538 1288 -538 1288 -538 1363 c 4,22,23
+ -538 1382 -538 1382 -536 1402 c 4,24,25
+ -524 1502 -524 1502 -465 1565 c 4,26,27
+ -404 1630 -404 1630 -309 1630 c 4,28,29
+ -224 1630 -224 1630 -169 1558 c 5,30,-1
+ -201 1518 l 6,31,32
+ -215 1501 -215 1501 -228 1501 c 132,-1,33
+ -241 1501 -241 1501 -249 1508 c 4,34,35
+ -281 1536 -281 1536 -311 1536 c 4,36,37
+ -413 1536 -413 1536 -430 1397 c 4,38,39
+ -433 1376 -433 1376 -433 1358 c 4,40,41
+ -433 1287 -433 1287 -391 1265 c 4,42,43
+ -374 1256 -374 1256 -352.5 1256 c 132,-1,44
+ -331 1256 -331 1256 -318 1262 c 4,45,46
+ -294 1272 -294 1272 -279.5 1285 c 132,-1,47
+ -265 1298 -265 1298 -250 1298 c 132,-1,48
+ -235 1298 -235 1298 -227 1284 c 6,49,-1
+ -202 1248 l 5,50,51
  -261 1182 -261 1182 -343 1171 c 5,0,1
 EndSplineSet
 Validated: 1
@@ -96007,13 +96007,12 @@ EndChar
 
 StartChar: uni0453.smcp
 Encoding: 1114756 -1 3095
-Width: 704
+Width: 615
 VWidth: 0
 LayerCount: 2
 Fore
-Refer: 2599 714 N 1 0 0 1 228 -8 2
+Refer: 2599 714 N 1 0 0 1 53 -8 2
 Refer: 3110 -1 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni0454.smcp
@@ -97059,17 +97058,17 @@ SplineSet
  198 872 198 872 275.5 918.5 c 132,-1,32
  353 965 353 965 440.5 965 c 132,-1,33
  528 965 528 965 596 928.5 c 132,-1,34
- 664 892 664 892 708 826 c 132,-1,36
- 752 760 752 760 770 668 c 4,37,38
- 779 621 779 621 779 568 c 4,39,40
- 779 563 779 563 779 558 c 4,41,42
- 779 552 779 552 779 545 c 4,43,44
- 779 507 779 507 774 466 c 4,45,46
- 760 356 760 356 721.5 263.5 c 132,-1,47
- 683 171 683 171 625 106 c 4,48,49
- 502 -33 502 -33 328 -33 c 4,50,51
- 141 -33 141 -33 59 147 c 5,52,-1
- 57 151 l 5,53,-1
+ 664 892 664 892 708 826 c 132,-1,35
+ 752 760 752 760 770 668 c 4,36,37
+ 779 621 779 621 779 568 c 4,38,39
+ 779 563 779 563 779 558 c 4,40,41
+ 779 552 779 552 779 545 c 4,42,43
+ 779 507 779 507 774 466 c 4,44,45
+ 760 356 760 356 721.5 263.5 c 132,-1,46
+ 683 171 683 171 625 106 c 4,47,48
+ 502 -33 502 -33 328 -33 c 4,49,50
+ 141 -33 141 -33 59 147 c 5,51,-1
+ 57 151 l 5,52,-1
  111 201 l 6,0,1
 EndSplineSet
 Validated: 1
@@ -97977,7 +97976,7 @@ EndChar
 
 StartChar: uni04E3.smcp
 Encoding: 1114820 -1 3159
-Width: 1069
+Width: 938
 VWidth: 0
 LayerCount: 2
 Fore
@@ -97998,7 +97997,7 @@ EndChar
 
 StartChar: uni04EF.smcp
 Encoding: 1114822 -1 3161
-Width: 815
+Width: 696
 VWidth: 0
 LayerCount: 2
 Fore

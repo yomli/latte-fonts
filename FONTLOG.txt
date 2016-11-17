@@ -11,9 +11,13 @@ Latte is a modification of Google's Carlito fonts. The stylistic alternate "g" i
 Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu/), changing the metrics to match Microsoft's Calibri.
 
 ## Source files
-- Latte-Regular.sfd (Regular weight)
+- Latte-Regular.sfd (Regular weight and style)
+- Latte-Italic.sfd (Italic style)
 
 ## ChangeLog
+
+14 November 2016 (Guillaume Litaudon) Latte v. 0.10.1
+- Italic. All of it.
 
 12 November 2016 (Guillaume Litaudon) Latte v. 0.9.1
 - General clean-up
