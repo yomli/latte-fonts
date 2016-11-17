@@ -32,9 +32,11 @@ See the [FONTLOG](FONTLOG.txt) for a much complete changelog.
 | 0.2        | New *g* |
 | 0.1        | Base    |
 
-## A word about hinting
+## A word about hinting and kerning
 
 There is no hinting on the OpenType fonts. The TrueType fonts, however, are autohinted using [ttfautohint](https://freetype.org/ttfautohint/).
+
+I kept the original kerning of Carlito, added some Fontforge's auto-kerning and manually tweaked it.
 
 ## About
 
