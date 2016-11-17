@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835834854
-ModificationTime: 1479389070
+ModificationTime: 1479389932
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -22058,7 +22058,7 @@ Encoding: 7618 7618 512
 Width: 5
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -532 0 mark 0
+AnchorPoint: "Ancre-1" -443 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -73320,7 +73320,7 @@ Encoding: 818 818 2371
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -498 0 mark 0
+AnchorPoint: "Ancre-1" -456 0 mark 0
 LayerCount: 2
 Fore
 Refer: 2399 773 N 1 0 0 1 -207 -1687 2
@@ -73332,7 +73332,7 @@ Encoding: 819 819 2372
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -498 0 mark 0
+AnchorPoint: "Ancre-1" -462 0 mark 0
 LayerCount: 2
 Fore
 Refer: 1327 749 N 1 0 0 1 -1292 -1671 2
@@ -73344,7 +73344,7 @@ Encoding: 839 839 2373
 Width: 8
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
+AnchorPoint: "Ancre-1" -448 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -73909,7 +73909,7 @@ Encoding: 840 840 2406
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -498 0 mark 0
+AnchorPoint: "Ancre-1" -441 0 mark 0
 LayerCount: 2
 Fore
 Refer: 2404 782 N 1 0 0 1 -157 -1608 2
@@ -74414,7 +74414,7 @@ Encoding: 815 815 2430
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
+AnchorPoint: "Ancre-1" -390 0 mark 0
 LayerCount: 2
 Fore
 Refer: 2428 785 N 1 0 0 1 -128 -1469 2
@@ -74556,7 +74556,7 @@ Encoding: 792 792 2436
 Width: 8
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
+AnchorPoint: "Ancre-1" -390 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -74578,7 +74578,7 @@ Encoding: 793 793 2437
 Width: 8
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
+AnchorPoint: "Ancre-1" -390 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -74632,7 +74632,7 @@ Encoding: 841 841 2440
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
+AnchorPoint: "Ancre-1" -390 0 mark 0
 LayerCount: 2
 Fore
 Refer: 2438 794 N 1 0 0 1 -220 -1625 2
@@ -74644,7 +74644,7 @@ Encoding: 797 797 2441
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -494 0 mark 0
+AnchorPoint: "Ancre-1" -394 0 mark 0
 LayerCount: 2
 Fore
 Refer: 842 724 N 1 0 0 1 -933 -790 2
@@ -74656,7 +74656,7 @@ Encoding: 798 798 2442
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -495 0 mark 0
+AnchorPoint: "Ancre-1" -395 0 mark 0
 LayerCount: 2
 Fore
 Refer: 843 725 N 1 0 0 1 -926 -775 2
@@ -74668,7 +74668,7 @@ Encoding: 799 799 2443
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
+AnchorPoint: "Ancre-1" -390 0 mark 0
 LayerCount: 2
 Fore
 Refer: 844 726 N 1 0 0 1 -930 -782 2
@@ -74680,7 +74680,7 @@ Encoding: 800 800 2444
 Width: 8
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -480 0 mark 0
+AnchorPoint: "Ancre-1" -380 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -74815,7 +74815,7 @@ Encoding: 810 810 2451
 Width: 12
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
+AnchorPoint: "Ancre-1" -390 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -74871,7 +74871,7 @@ Encoding: 811 811 2454
 Width: 12
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -496 0 mark 0
+AnchorPoint: "Ancre-1" -396 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -74919,7 +74919,7 @@ Encoding: 826 826 2455
 Width: 12
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
+AnchorPoint: "Ancre-1" -390 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -74941,7 +74941,7 @@ Encoding: 827 827 2456
 Width: 9
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -483 0 mark 0
+AnchorPoint: "Ancre-1" -383 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -74964,7 +74964,7 @@ Encoding: 828 828 2457
 Width: 12
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -496 0 mark 0
+AnchorPoint: "Ancre-1" -396 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -75217,7 +75217,7 @@ Encoding: 845 845 2465
 Width: 20
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -543 0 mark 0
+AnchorPoint: "Ancre-1" -420 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -75249,7 +75249,7 @@ Encoding: 846 846 2466
 Width: 6
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -516 0 mark 0
+AnchorPoint: "Ancre-1" -416 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -75448,7 +75448,7 @@ Encoding: 852 852 2473
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -490 0 mark 0
+AnchorPoint: "Ancre-1" -453 0 mark 0
 LayerCount: 2
 Fore
 Refer: 1330 753 N 1 0 0 1 -819 4 2
@@ -75540,7 +75540,7 @@ Encoding: 857 857 2479
 Width: 6
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -516 0 mark 0
+AnchorPoint: "Ancre-1" -416 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -75591,7 +75591,7 @@ Encoding: 858 858 2480
 Width: 11
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -529 0 mark 0
+AnchorPoint: "Ancre-1" -429 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -76714,7 +76714,7 @@ Encoding: 7626 7626 2512
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -549 0 mark 0
+AnchorPoint: "Ancre-1" -449 0 mark 0
 LayerCount: 2
 Fore
 Refer: 2510 876 N 1 0 0 1 -172 -1587 2
@@ -77733,7 +77733,7 @@ Encoding: 825 825 2559
 Width: 0
 GlyphClass: 4
 Flags: MW
-AnchorPoint: "Ancre-1" -249 0 mark 0
+AnchorPoint: "Ancre-1" -149 0 mark 0
 LayerCount: 2
 Fore
 Refer: 1403 722 N 1 0 0 1 -568 -789 2
@@ -79194,7 +79194,7 @@ Encoding: 790 790 2617
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-1" -490 0 mark 0
+AnchorPoint: "Ancre-1" -390 0 mark 0
 LayerCount: 2
 Fore
 Refer: 1424 715 N 1 0 0 1 -794 -1470 2
@@ -79242,7 +79242,7 @@ Encoding: 804 804 2621
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-1" -496 0 mark 0
+AnchorPoint: "Ancre-1" -396 0 mark 0
 LayerCount: 2
 Fore
 Refer: 2610 776 N 1 0 0 1 -436 -1428 2
@@ -79254,7 +79254,7 @@ Encoding: 806 806 2622
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-1" -490 0 mark 0
+AnchorPoint: "Ancre-1" -390 0 mark 0
 LayerCount: 2
 Fore
 Refer: 2431 787 N 1 0 0 1 -132 -1565 2
@@ -79266,7 +79266,7 @@ Encoding: 808 808 2623
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-1" -496 0 mark 0
+AnchorPoint: "Ancre-1" -596 0 mark 0
 LayerCount: 2
 Fore
 Refer: 196 731 N 1 0 0 1 -855 1 2
@@ -79470,7 +79470,7 @@ Encoding: 7677 7677 2638
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-1" -528 0 mark 0
+AnchorPoint: "Ancre-1" -428 0 mark 0
 LayerCount: 2
 Fore
 Refer: 1427 844 N 1 0 0 1 -159 -1598 2
@@ -87422,7 +87422,7 @@ Encoding: 6838 6838 2850
 Width: 24
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-1" -526 0 mark 0
+AnchorPoint: "Ancre-1" -426 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -87475,7 +87475,7 @@ Encoding: 6839 6839 2851
 Width: 8
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-1" -534 0 mark 0
+AnchorPoint: "Ancre-1" -434 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -87672,7 +87672,7 @@ Width: 0
 VWidth: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-1" -553 0 mark 0
+AnchorPoint: "Ancre-1" -453 0 mark 0
 LayerCount: 2
 Fore
 Refer: 2855 6843 N 1 0 0 1 -200 -1627 2
@@ -87837,7 +87837,7 @@ Encoding: 65067 65067 2866
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-1" -242 0 mark 0
+AnchorPoint: "Ancre-1" -342 0 mark 0
 LayerCount: 2
 Fore
 Refer: 2859 65060 N 1 0 0 1 -177 -1441 2
@@ -87849,7 +87849,7 @@ Encoding: 65068 65068 2867
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-1" -242 0 mark 0
+AnchorPoint: "Ancre-1" -342 0 mark 0
 LayerCount: 2
 Fore
 Refer: 2860 65061 N 1 0 0 1 -177 -1441 2
@@ -87861,7 +87861,7 @@ Encoding: 65069 65069 2868
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-1" -242 0 mark 0
+AnchorPoint: "Ancre-1" -342 0 mark 0
 LayerCount: 2
 Fore
 Refer: 2598 713 N 1 0 0 1 -834 -1446 2
@@ -88013,7 +88013,7 @@ Encoding: 7632 7632 2874
 Width: 14
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-1" -451 0 mark 0
+AnchorPoint: "Ancre-1" -551 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -89786,7 +89786,7 @@ Encoding: 8430 8430 2923
 Width: 14
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-1" -527 0 mark 0
+AnchorPoint: "Ancre-1" -427 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -89811,7 +89811,7 @@ Encoding: 8431 8431 2924
 Width: 14
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-1" -527 0 mark 0
+AnchorPoint: "Ancre-1" -427 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -89836,7 +89836,7 @@ Encoding: 8424 8424 2925
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Ancre-1" -555 0 mark 0
+AnchorPoint: "Ancre-1" -455 0 mark 0
 LayerCount: 2
 Fore
 Refer: 2911 8411 N 1 0 0 1 -161 -1309 2
