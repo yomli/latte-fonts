@@ -19,6 +19,8 @@ See the [FONTLOG](FONTLOG.txt) for a much complete changelog.
 
 | Version    | Changes     | 
 |:-----------|:------------|
+| 0.14       | Bold Italic |
+| 0.13       | Bold |
 | 0.12       | Some kerning |
 | 0.11       | Italic |
 | 0.10       | General clean-up, some additions in the General Punctuation block and in the Letterlike Symbols block |
