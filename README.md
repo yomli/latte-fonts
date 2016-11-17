@@ -19,6 +19,7 @@ See the [FONTLOG](FONTLOG.txt) for a much complete changelog.
 
 | Version    | Changes     | 
 |:-----------|:------------|
+| 0.12       | Some kerning |
 | 0.11       | Italic |
 | 0.10       | General clean-up, some additions in the General Punctuation block and in the Letterlike Symbols block |
 | 0.9        | Small caps, Bitcoin sign, Object Replacement Character, Replacement Character, Linux logo |
