@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -835834854
-ModificationTime: 1479376589
+ModificationTime: 1479389070
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -2837,7 +2837,7 @@ AnchorPoint: "Ancre-4" 840 522 basechar 0
 AnchorPoint: "Ancre-3" 961 -510 basechar 0
 AnchorPoint: "Ancre-2" 961 1466 basechar 0
 AnchorPoint: "Ancre-1" 369 0 basechar 0
-AnchorPoint: "Ancre-0" 767 1073 basechar 0
+AnchorPoint: "Ancre-0" 519 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2881,7 +2881,7 @@ AnchorPoint: "Ancre-4" 852 550 basechar 0
 AnchorPoint: "Ancre-3" 981 -510 basechar 0
 AnchorPoint: "Ancre-2" 981 1515 basechar 0
 AnchorPoint: "Ancre-1" 378 0 basechar 0
-AnchorPoint: "Ancre-0" 489 1122 basechar 0
+AnchorPoint: "Ancre-0" 519 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3005,7 +3005,7 @@ AnchorPoint: "Ancre-5" 1053 1492 basechar 0
 AnchorPoint: "Ancre-3" 1053 -510 basechar 0
 AnchorPoint: "Ancre-2" 1053 1515 basechar 0
 AnchorPoint: "Ancre-1" 534 0 basechar 0
-AnchorPoint: "Ancre-0" 597 1492 basechar 0
+AnchorPoint: "Ancre-0" 534 1492 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3049,7 +3049,7 @@ AnchorPoint: "Ancre-5" 843 1073 basechar 0
 AnchorPoint: "Ancre-3" 843 -510 basechar 0
 AnchorPoint: "Ancre-2" 843 1466 basechar 0
 AnchorPoint: "Ancre-1" 487 -3 basechar 0
-AnchorPoint: "Ancre-0" 631 1073 basechar 0
+AnchorPoint: "Ancre-0" 341 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3085,10 +3085,10 @@ EndChar
 
 StartChar: ccedilla
 Encoding: 231 231 50
-Width: 866
+Width: 852
 GlyphClass: 2
-Flags: MW
-AnchorPoint: "Ancre-0" 500 1122 basechar 0
+Flags: W
+AnchorPoint: "Ancre-0" 341 1122 basechar 0
 AnchorPoint: "Ancre-1" 500 -300 basechar 0
 AnchorPoint: "Ancre-2" 866 1515 basechar 0
 AnchorPoint: "Ancre-3" 866 -510 basechar 0
@@ -3096,60 +3096,51 @@ AnchorPoint: "Ancre-5" 866 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-381 -243 m 0,0,1
- 387 -243 387 -243 393.5 -246.5 c 128,-1,2
- 400 -250 400 -250 410 -254 c 128,-1,3
- 420 -258 420 -258 433.5 -261.5 c 128,-1,4
- 447 -265 447 -265 465 -265 c 0,5,6
- 501 -265 501 -265 520 -249 c 128,-1,7
- 539 -233 539 -233 539 -208 c 0,8,9
- 539 -171 539 -171 502 -156.5 c 128,-1,10
- 465 -142 465 -142 395 -132 c 1,11,-1
- 433 -11 l 1,12,13
- 355 -3 355 -3 288.5 34.5 c 128,-1,14
- 222 72 222 72 173 136 c 128,-1,15
- 124 200 124 200 96.5 289 c 128,-1,16
- 69 378 69 378 69 490 c 0,17,18
- 69 599 69 599 98 691.5 c 128,-1,19
- 127 784 127 784 182.5 851 c 128,-1,20
- 238 918 238 918 319.5 955.5 c 128,-1,21
- 401 993 401 993 507 993 c 0,22,23
- 607 993 607 993 682 959.5 c 128,-1,24
- 757 926 757 926 815 866 c 1,25,-1
- 769 802 l 2,26,27
- 761 791 761 791 753.5 785.5 c 128,-1,28
- 746 780 746 780 732 780 c 0,29,30
- 717 780 717 780 701 792 c 128,-1,31
- 685 804 685 804 661 818.5 c 128,-1,32
- 637 833 637 833 602.5 845 c 128,-1,33
- 568 857 568 857 518 857 c 0,34,35
- 452 857 452 857 401.5 831.5 c 128,-1,36
- 351 806 351 806 317.5 758.5 c 128,-1,37
- 284 711 284 711 266.5 643 c 128,-1,38
- 249 575 249 575 249 490 c 0,39,40
- 249 402 249 402 267.5 333.5 c 128,-1,41
- 286 265 286 265 320 218 c 128,-1,42
- 354 171 354 171 402 146.5 c 128,-1,43
- 450 122 450 122 510 122 c 0,44,45
- 568 122 568 122 605 137 c 128,-1,46
- 642 152 642 152 667 170 c 128,-1,47
- 692 188 692 188 708.5 203 c 128,-1,48
- 725 218 725 218 743 218 c 0,49,50
- 763 218 763 218 775 201 c 2,51,-1
- 826 137 l 1,52,53
- 772 69 772 69 696 33 c 128,-1,54
- 620 -3 620 -3 535 -11 c 1,55,-1
- 518 -72 l 1,56,57
- 603 -90 603 -90 640 -124 c 128,-1,58
- 677 -158 677 -158 677 -210 c 0,59,60
- 677 -241 677 -241 662.5 -266 c 128,-1,61
- 648 -291 648 -291 621 -308 c 128,-1,62
- 594 -325 594 -325 557 -334.5 c 128,-1,63
- 520 -344 520 -344 475 -344 c 0,64,65
- 438 -344 438 -344 404 -336 c 128,-1,66
- 370 -328 370 -328 341 -314 c 1,67,-1
- 358 -260 l 2,68,69
- 364 -243 364 -243 381 -243 c 0,0,1
+211 -270 m 4,0,1
+ 217 -270 217 -270 223.5 -273.5 c 132,-1,2
+ 230 -277 230 -277 239.5 -281 c 132,-1,3
+ 249 -285 249 -285 262 -288.5 c 132,-1,4
+ 275 -292 275 -292 295 -292 c 4,5,6
+ 332 -292 332 -292 353 -276 c 132,-1,7
+ 374 -260 374 -260 377 -235 c 4,8,9
+ 378 -230 378 -230 378 -226 c 4,10,11
+ 378 -195 378 -195 346 -183 c 4,12,13
+ 310 -169 310 -169 242 -159 c 5,14,-1
+ 310 -2 l 5,15,16
+ 285 6 285 6 261 16 c 4,17,18
+ 195 46 195 46 150 98 c 4,19,20
+ 58 206 58 206 58 388 c 4,21,22
+ 58 631 58 631 203 811.5 c 132,-1,23
+ 348 992 348 992 567 992 c 4,24,25
+ 746 992 746 992 850 857 c 5,26,-1
+ 795 791 l 6,27,28
+ 781 773 781 773 764 773 c 4,29,30
+ 748 773 748 773 734 785 c 4,31,32
+ 660 851 660 851 577 851 c 4,33,34
+ 427 851 427 851 330.5 717 c 132,-1,35
+ 234 583 234 583 234 390.5 c 132,-1,36
+ 234 198 234 198 356 142 c 4,37,38
+ 396 124 396 124 456 124 c 132,-1,39
+ 516 124 516 124 560.5 143 c 132,-1,40
+ 605 162 605 162 635.5 185 c 132,-1,41
+ 666 208 666 208 687.5 227 c 132,-1,42
+ 709 246 709 246 728.5 246 c 132,-1,43
+ 748 246 748 246 762 229 c 6,44,-1
+ 806 176 l 5,45,46
+ 664 21 664 21 520 -5 c 4,47,48
+ 470 -14 470 -14 399 -14 c 5,49,-1
+ 365 -99 l 5,50,51
+ 447 -117 447 -117 479 -151 c 4,52,53
+ 506 -180 506 -180 506 -221 c 4,54,55
+ 506 -229 506 -229 505 -237 c 4,56,57
+ 501 -268 501 -268 483.5 -293 c 132,-1,58
+ 466 -318 466 -318 438.5 -335 c 132,-1,59
+ 411 -352 411 -352 373.5 -361.5 c 132,-1,60
+ 336 -371 336 -371 293 -371 c 4,61,62
+ 257 -371 257 -371 224.5 -363 c 132,-1,63
+ 192 -355 192 -355 166 -341 c 5,64,-1
+ 188 -287 l 6,65,66
+ 196 -270 196 -270 211 -270 c 4,0,1
 EndSplineSet
 Validated: 1
 Substitution2: "sous-table 'smcp' Bas-de-casse vers petites capitales dans Latin lookup 0" ccedilla.smcp
@@ -3651,7 +3642,7 @@ AnchorPoint: "Ancre-4" 843 698 basechar 0
 AnchorPoint: "Ancre-3" 998 -510 basechar 0
 AnchorPoint: "Ancre-2" 998 1466 basechar 0
 AnchorPoint: "Ancre-1" 506 0 basechar 0
-AnchorPoint: "Ancre-0" 631 1073 basechar 0
+AnchorPoint: "Ancre-0" 437 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3698,7 +3689,7 @@ AnchorPoint: "Ancre-4" 824 700 basechar 0
 AnchorPoint: "Ancre-3" 1019 -510 basechar 0
 AnchorPoint: "Ancre-2" 1019 1515 basechar 0
 AnchorPoint: "Ancre-1" 485 -320 basechar 0
-AnchorPoint: "Ancre-0" 536 1122 basechar 0
+AnchorPoint: "Ancre-0" 437 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3760,7 +3751,7 @@ VStem: 58 669
 DStem2: 70 -240 242.603 -240 0.121869 0.992546<36.5618 1078.98 1229.2 1494.35>
 AnchorPoint: "Ancre-1" 344 -123 basechar 0
 AnchorPoint: "Ancre-3" 786 -510 basechar 0
-AnchorPoint: "Ancre-0" 586 1538 basechar 0
+AnchorPoint: "Ancre-0" 337 1538 basechar 0
 AnchorPoint: "Ancre-2" 786 1515 basechar 0
 AnchorPoint: "Ancre-5" 786 1538 basechar 0
 LayerCount: 2
@@ -5541,7 +5532,7 @@ Width: 1053
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Ancre-1" 397 -324 basechar 0
-AnchorPoint: "Ancre-0" 626 1122 basechar 0
+AnchorPoint: "Ancre-0" 396 1122 basechar 0
 AnchorPoint: "Ancre-2" 1053 1515 basechar 0
 AnchorPoint: "Ancre-3" 1053 -510 basechar 0
 AnchorPoint: "Ancre-5" 1053 1492 basechar 0
@@ -5771,7 +5762,7 @@ AnchorPoint: "Ancre-5" 564 1492 basechar 0
 AnchorPoint: "Ancre-2" 564 1515 basechar 0
 AnchorPoint: "Ancre-3" 564 -510 basechar 0
 AnchorPoint: "Ancre-1" 180 10 basechar 0
-AnchorPoint: "Ancre-0" 363 1515 basechar 0
+AnchorPoint: "Ancre-0" 164 1515 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5802,7 +5793,7 @@ Encoding: 303 303 99
 Width: 470
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-0" 238 1534 basechar 0
+AnchorPoint: "Ancre-0" 164 1534 basechar 0
 AnchorPoint: "Ancre-2" 470 1515 basechar 0
 AnchorPoint: "Ancre-3" 470 -510 basechar 0
 AnchorPoint: "Ancre-4" 235 550 basechar 0
@@ -5857,7 +5848,7 @@ AnchorPoint: "Ancre-4" 228 522 basechar 0
 AnchorPoint: "Ancre-3" 463 -510 basechar 0
 AnchorPoint: "Ancre-2" 463 1466 basechar 0
 AnchorPoint: "Ancre-1" 231 9 basechar 0
-AnchorPoint: "Ancre-0" 356 1073 basechar 0
+AnchorPoint: "Ancre-0" 146 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5937,7 +5928,7 @@ AnchorPoint: "Ancre-5" 587 1492 basechar 0
 AnchorPoint: "Ancre-2" 587 1515 basechar 0
 AnchorPoint: "Ancre-3" 587 -510 basechar 0
 AnchorPoint: "Ancre-1" 225 -307 basechar 0
-AnchorPoint: "Ancre-0" 402 1515 basechar 0
+AnchorPoint: "Ancre-0" 150 1515 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5975,7 +5966,7 @@ Encoding: 567 567 103
 Width: 430
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Ancre-0" 376 1073 basechar 0
+AnchorPoint: "Ancre-0" 160 1073 basechar 0
 AnchorPoint: "Ancre-1" 176 -356 basechar 0
 AnchorPoint: "Ancre-2" 484 1466 basechar 0
 AnchorPoint: "Ancre-3" 484 -510 basechar 0
@@ -6015,7 +6006,7 @@ AnchorPoint: "Ancre-5" 931 1538 basechar 0
 AnchorPoint: "Ancre-2" 931 1515 basechar 0
 AnchorPoint: "Ancre-3" 931 -510 basechar 0
 AnchorPoint: "Ancre-1" 375 10 basechar 0
-AnchorPoint: "Ancre-0" 578 1492 basechar 0
+AnchorPoint: "Ancre-0" 468 1492 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6094,7 +6085,7 @@ AnchorPoint: "Ancre-5" 511 1553 basechar 0
 AnchorPoint: "Ancre-3" 511 -510 basechar 0
 AnchorPoint: "Ancre-2" 511 1515 basechar 0
 AnchorPoint: "Ancre-1" 276 10 basechar 0
-AnchorPoint: "Ancre-0" 431 1553 basechar 0
+AnchorPoint: "Ancre-0" 236 1553 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6123,7 +6114,7 @@ Encoding: 318 318 107
 Width: 540
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-0" 372 1553 basechar 0
+AnchorPoint: "Ancre-0" 166 1553 basechar 0
 AnchorPoint: "Ancre-5" 539 1553 basechar 0
 AnchorPoint: "Ancre-3" 539 -510 basechar 0
 AnchorPoint: "Ancre-2" 539 1515 basechar 0
@@ -6150,7 +6141,7 @@ AnchorPoint: "Ancre-5" 1620 1492 basechar 0
 AnchorPoint: "Ancre-2" 1620 1515 basechar 0
 AnchorPoint: "Ancre-3" 1620 -510 basechar 0
 AnchorPoint: "Ancre-1" 728 10 basechar 0
-AnchorPoint: "Ancre-0" 956 1073 basechar 0
+AnchorPoint: "Ancre-0" 756 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6196,7 +6187,7 @@ Width: 1053
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Ancre-1" 467 10 basechar 0
-AnchorPoint: "Ancre-0" 658 1073 basechar 0
+AnchorPoint: "Ancre-0" 471 1122 basechar 0
 AnchorPoint: "Ancre-2" 1053 1515 basechar 0
 AnchorPoint: "Ancre-3" 1053 -510 basechar 0
 AnchorPoint: "Ancre-5" 1053 1492 basechar 0
@@ -6239,7 +6230,7 @@ AnchorPoint: "Ancre-5" 1055 1073 basechar 0
 AnchorPoint: "Ancre-3" 1055 -510 basechar 0
 AnchorPoint: "Ancre-2" 1055 1466 basechar 0
 AnchorPoint: "Ancre-1" 561 -0 basechar 0
-AnchorPoint: "Ancre-0" 523 1073 basechar 0
+AnchorPoint: "Ancre-0" 438 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6291,7 +6282,7 @@ Width: 1051
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Ancre-1" 439 10 basechar 0
-AnchorPoint: "Ancre-0" 638 1073 basechar 0
+AnchorPoint: "Ancre-0" 446 1122 basechar 0
 AnchorPoint: "Ancre-2" 1053 1515 basechar 0
 AnchorPoint: "Ancre-3" 1053 -510 basechar 0
 AnchorPoint: "Ancre-5" 1053 1492 basechar 0
@@ -6337,7 +6328,7 @@ AnchorPoint: "Ancre-4" 918 550 basechar 0
 AnchorPoint: "Ancre-3" 1080 -510 basechar 0
 AnchorPoint: "Ancre-2" 1080 1515 basechar 0
 AnchorPoint: "Ancre-1" 540 0 basechar 0
-AnchorPoint: "Ancre-0" 540 1122 basechar 0
+AnchorPoint: "Ancre-0" 446 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6451,7 +6442,7 @@ Width: 1053
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Ancre-1" 91 -320 basechar 0
-AnchorPoint: "Ancre-0" 685 1073 basechar 0
+AnchorPoint: "Ancre-0" 500 1122 basechar 0
 AnchorPoint: "Ancre-2" 1053 1515 basechar 0
 AnchorPoint: "Ancre-3" 1053 -510 basechar 0
 AnchorPoint: "Ancre-5" 1053 1492 basechar 0
@@ -6539,7 +6530,7 @@ Width: 1053
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Ancre-1" 709 -314 basechar 0
-AnchorPoint: "Ancre-0" 668 1073 basechar 0
+AnchorPoint: "Ancre-0" 500 1122 basechar 0
 AnchorPoint: "Ancre-2" 1053 1515 basechar 0
 AnchorPoint: "Ancre-3" 1053 -510 basechar 0
 AnchorPoint: "Ancre-5" 1053 1492 basechar 0
@@ -6586,7 +6577,7 @@ AnchorPoint: "Ancre-5" 770 1492 basechar 0
 AnchorPoint: "Ancre-2" 770 1515 basechar 0
 AnchorPoint: "Ancre-3" 770 -510 basechar 0
 AnchorPoint: "Ancre-1" 135 10 basechar 0
-AnchorPoint: "Ancre-0" 487 1073 basechar 0
+AnchorPoint: "Ancre-0" 272 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6620,7 +6611,7 @@ AnchorPoint: "Ancre-5" 797 1492 basechar 0
 AnchorPoint: "Ancre-2" 797 1515 basechar 0
 AnchorPoint: "Ancre-3" 797 -510 basechar 0
 AnchorPoint: "Ancre-1" 283 10 basechar 0
-AnchorPoint: "Ancre-0" 520 1073 basechar 0
+AnchorPoint: "Ancre-0" 310 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6672,7 +6663,7 @@ AnchorPoint: "Ancre-5" 801 1122 basechar 0
 AnchorPoint: "Ancre-3" 801 -510 basechar 0
 AnchorPoint: "Ancre-2" 801 1515 basechar 0
 AnchorPoint: "Ancre-1" 382 -310 basechar 0
-AnchorPoint: "Ancre-0" 418 1492 basechar 0
+AnchorPoint: "Ancre-0" 310 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7019,7 +7010,7 @@ AnchorPoint: "Ancre-5" 688 1538 basechar 0
 AnchorPoint: "Ancre-2" 688 1515 basechar 0
 AnchorPoint: "Ancre-3" 688 -510 basechar 0
 AnchorPoint: "Ancre-1" 327 10 basechar 0
-AnchorPoint: "Ancre-0" 487 1492 basechar 0
+AnchorPoint: "Ancre-0" 259 1492 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7061,7 +7052,7 @@ Encoding: 357 357 125
 Width: 708
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-0" 434 1434 basechar 0
+AnchorPoint: "Ancre-0" 259 1492 basechar 0
 AnchorPoint: "Ancre-1" 441 0 basechar 0
 AnchorPoint: "Ancre-2" 709 1515 basechar 0
 AnchorPoint: "Ancre-3" 709 -510 basechar 0
@@ -7081,7 +7072,7 @@ Encoding: 359 359 126
 Width: 700
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Ancre-0" 299 1434 basechar 0
+AnchorPoint: "Ancre-0" 259 1492 basechar 0
 AnchorPoint: "Ancre-1" 421 0 basechar 0
 AnchorPoint: "Ancre-2" 683 1515 basechar 0
 AnchorPoint: "Ancre-3" 683 -510 basechar 0
@@ -7601,7 +7592,7 @@ Width: 1053
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Ancre-1" 282 10 basechar 0
-AnchorPoint: "Ancre-0" 573 1073 basechar 0
+AnchorPoint: "Ancre-0" 368 1122 basechar 0
 AnchorPoint: "Ancre-2" 1053 1515 basechar 0
 AnchorPoint: "Ancre-3" 1053 -510 basechar 0
 AnchorPoint: "Ancre-5" 1053 1492 basechar 0
@@ -7645,7 +7636,7 @@ AnchorPoint: "Ancre-4" 853 550 basechar 0
 AnchorPoint: "Ancre-3" 1076 -510 basechar 0
 AnchorPoint: "Ancre-2" 1076 1515 basechar 0
 AnchorPoint: "Ancre-1" 538 0 basechar 0
-AnchorPoint: "Ancre-0" 541 1492 basechar 0
+AnchorPoint: "Ancre-0" 368 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7698,7 +7689,7 @@ AnchorPoint: "Ancre-5" 975 1492 basechar 0
 AnchorPoint: "Ancre-2" 975 1515 basechar 0
 AnchorPoint: "Ancre-3" 975 -510 basechar 0
 AnchorPoint: "Ancre-1" 384 10 basechar 0
-AnchorPoint: "Ancre-0" 528 1073 basechar 0
+AnchorPoint: "Ancre-0" 341 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7730,7 +7721,7 @@ AnchorPoint: "Ancre-5" 1522 1492 basechar 0
 AnchorPoint: "Ancre-2" 1522 1515 basechar 0
 AnchorPoint: "Ancre-3" 1522 -510 basechar 0
 AnchorPoint: "Ancre-1" 644 10 basechar 0
-AnchorPoint: "Ancre-0" 822 1073 basechar 0
+AnchorPoint: "Ancre-0" 628 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7776,7 +7767,7 @@ AnchorPoint: "Ancre-5" 937 1492 basechar 0
 AnchorPoint: "Ancre-3" 937 -510 basechar 0
 AnchorPoint: "Ancre-2" 937 1515 basechar 0
 AnchorPoint: "Ancre-1" 346 10 basechar 0
-AnchorPoint: "Ancre-0" 523 1073 basechar 0
+AnchorPoint: "Ancre-0" 300 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7815,7 +7806,7 @@ AnchorPoint: "Ancre-5" 983 1492 basechar 0
 AnchorPoint: "Ancre-3" 983 -510 basechar 0
 AnchorPoint: "Ancre-2" 983 1515 basechar 0
 AnchorPoint: "Ancre-1" 524 10 basechar 0
-AnchorPoint: "Ancre-0" 513 1073 basechar 0
+AnchorPoint: "Ancre-0" 328 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7851,7 +7842,7 @@ AnchorPoint: "Ancre-5" 860 1492 basechar 0
 AnchorPoint: "Ancre-3" 860 -510 basechar 0
 AnchorPoint: "Ancre-2" 860 1515 basechar 0
 AnchorPoint: "Ancre-1" 253 10 basechar 0
-AnchorPoint: "Ancre-0" 569 1073 basechar 0
+AnchorPoint: "Ancre-0" 314 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9626,7 +9617,7 @@ Width: 788
 GlyphClass: 2
 Flags: MW
 AnchorPoint: "Ancre-5" 851 1414 basechar 0
-AnchorPoint: "Ancre-0" 470 1414 basechar 0
+AnchorPoint: "Ancre-0" 453 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10047,7 +10038,7 @@ Width: 1003
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Ancre-5" 1128 1073 basechar 0
-AnchorPoint: "Ancre-0" 531 1073 basechar 0
+AnchorPoint: "Ancre-0" 481 1122 basechar 0
 AnchorPoint: "Ancre-1" 479 -3 basechar 0
 LayerCount: 2
 Fore
@@ -10327,7 +10318,7 @@ Width: 812
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Ancre-5" 909 1073 basechar 0
-AnchorPoint: "Ancre-0" 512 1073 basechar 0
+AnchorPoint: "Ancre-0" 369 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10458,7 +10449,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Ancre-5" 1078 1073 basechar 0
 AnchorPoint: "Ancre-1" 281 -4 basechar 0
-AnchorPoint: "Ancre-0" 548 1073 basechar 0
+AnchorPoint: "Ancre-0" 396 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10609,7 +10600,7 @@ HStem: -11 131<328.633 447.649>
 VStem: 153 161<142.922 575.211>
 DStem2: 125.444 -11 282.725 -11 0.121869 0.992546<255.763 947.076>
 AnchorPoint: "Ancre-5" 550 1073 basechar 0
-AnchorPoint: "Ancre-0" 230 1073 basechar 0
+AnchorPoint: "Ancre-0" 157 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10934,7 +10925,7 @@ Width: 913
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Ancre-5" 1020 1073 basechar 0
-AnchorPoint: "Ancre-0" 526 1073 basechar 0
+AnchorPoint: "Ancre-0" 382 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11111,7 +11102,7 @@ Width: 974
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Ancre-5" 1087 1073 basechar 0
-AnchorPoint: "Ancre-0" 542 1073 basechar 0
+AnchorPoint: "Ancre-0" 423 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11325,7 +11316,7 @@ Width: 1270
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Ancre-5" 1421 1515 basechar 0
-AnchorPoint: "Ancre-0" 716 1515 basechar 0
+AnchorPoint: "Ancre-0" 626 1492 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11387,7 +11378,7 @@ Flags: W
 CounterMasks: 1 38
 AnchorPoint: "Ancre-5" 1397 1073 basechar 0
 AnchorPoint: "Ancre-1" 697 -10 basechar 0
-AnchorPoint: "Ancre-0" 697 1073 basechar 0
+AnchorPoint: "Ancre-0" 560 1122 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11704,7 +11695,7 @@ Encoding: 1046 1046 244
 Width: 1524
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "Ancre-0" 820 1414 basechar 0
+AnchorPoint: "Ancre-0" 772 1414 basechar 0
 AnchorPoint: "Ancre-5" 1640 1414 basechar 0
 LayerCount: 2
 Fore
@@ -63426,7 +63417,7 @@ StartChar: uni1E09
 Encoding: 7689 7689 1847
 Width: 866
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 50 231 N 1 0 0 1 0 0 3
@@ -65807,7 +65798,7 @@ StartChar: uni0137
 Encoding: 311 311 1951
 Width: 931
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 AnchorPoint: "Ancre-0" 520 1492 basechar 0
 AnchorPoint: "Ancre-1" 520 -300 basechar 0
 AnchorPoint: "Ancre-2" 931 1515 basechar 0
@@ -65825,7 +65816,7 @@ StartChar: uni01E9
 Encoding: 489 489 1952
 Width: 931
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 AnchorPoint: "Ancre-0" 465 1864 basechar 0
 AnchorPoint: "Ancre-1" 520 70 basechar 0
 AnchorPoint: "Ancre-2" 931 1515 basechar 0
@@ -65844,7 +65835,7 @@ StartChar: uni1E31
 Encoding: 7729 7729 1953
 Width: 931
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 104 107 N 1 0 0 1 0 0 0
@@ -65857,7 +65848,7 @@ StartChar: uni1E33
 Encoding: 7731 7731 1954
 Width: 931
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 104 107 N 1 0 0 1 0 0 0
@@ -65870,7 +65861,7 @@ StartChar: uni1E35
 Encoding: 7733 7733 1955
 Width: 931
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 2619 817 S 1 0 0 1 970 10 2
@@ -73051,7 +73042,7 @@ StartChar: uni045C
 Encoding: 1116 1116 2355
 Width: 825
 GlyphClass: 2
-Flags: W
+Flags: HW
 AnchorPoint: "Ancre-5" 959 1122 basechar 0
 AnchorPoint: "Ancre-0" 453 1492 basechar 0
 LayerCount: 2
@@ -96013,6 +96004,7 @@ LayerCount: 2
 Fore
 Refer: 2599 714 N 1 0 0 1 53 -8 2
 Refer: 3110 -1 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: uni0454.smcp
