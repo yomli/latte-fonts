@@ -16,6 +16,8 @@ Carlito is based on Lato fonts by Łukasz Dziedzic (http://www.lukaszdziedzic.eu
 
 ## ChangeLog
 
+17 November 2016 (Guillaume Litaudon) Latte v. 0.12.1
+
 17 November 2016 (Guillaume Litaudon) Latte v. 0.11.1
 - Some kerning
 
