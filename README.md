@@ -19,6 +19,7 @@ See the [FONTLOG](FONTLOG.txt) for a much complete changelog.
 
 | Version    | Changes     | 
 |:-----------|:------------|
+| 1.14       | First release |
 | 0.14       | Bold Italic |
 | 0.13       | Bold |
 | 0.12       | Some kerning |
