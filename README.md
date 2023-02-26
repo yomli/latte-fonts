@@ -1,3 +1,5 @@
+Project transfered to https://codeberg.org/yomli/latte-fonts
+
 # Latte
 
 Latte is a modification of Google's Carlito fonts. I just wanted a modern version with some single-story *g*, so I fired up FontForge and here we are.
